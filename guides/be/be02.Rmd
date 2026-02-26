@@ -2,455 +2,452 @@
 output: github_document
 ---
 
-## BE02: Water {-#be02}
+## BE02: Wasser {-#be02}
 
-<div class="subtitle">Water use is environmentally responsible and socially equitable
+<div class="subtitle">Die Wassernutzung ist umweltverträglich und sozial gerecht
 </div>
 
-### 1. Ambition {-#be02-ambition}
+### 1. Zielsetzung {-#be02-ambition}
 
-A Future-Fit Business protects freshwater resources by minimizing water consumption in its commercial and industrial activities, and by ensuring its discharges do not degrade the water quality of receiving watersheds.
+Ein zukunftsfähiges Unternehmen schützt die Süßwasserressourcen, indem es den Wasserverbrauch in seinen gewerblichen und industriellen Aktivitäten minimiert und sicherstellt, dass seine Abwässer die Wasserqualität der aufnehmenden Gewässer nicht beeinträchtigen.
 
-#### 1.1 What this goal means {-#be02-what-goal-means}
+#### 1.1 1.1 Was dieses Ziel bedeutet {-#be02-what-goal-means}
 
-Fresh water is crucial to people's health, for drinking, cooking and sanitation. Through excessive withdrawals of water, discharge of polluted wastewater, or by adversely affecting the characteristics of any withdrawn water before returning it to nature, a company may undermine the quantity, quality, and availability of water that flora, fauna and communities rely upon.
+Frisches Wasser ist für die Gesundheit der Menschen, zum Trinken, Kochen und für die Hygiene von entscheidender Bedeutung. Durch übermäßige Wasserentnahmen, die Einleitung verschmutzter Abwässer oder durch die Beeinträchtigung der Eigenschaften von entnommenem Wasser, bevor es in die Natur zurückgeführt wird, kann ein Unternehmen die Menge, Qualität und Verfügbarkeit von Wasser beeinträchtigen, auf das Flora, Fauna und Gemeinden angewiesen sind.
 
-The responsible use of water is a complex issue. Impacts must be addressed at a local [watershed](#def-watershed) level, because systems can be affected by the removal of water from an area, the introduction of additional water, timing differences between withdrawals and discharges, and changes in water quality and other water characteristics such as heat and pH levels.
+Der verantwortungsvolle Umgang mit Wasser ist ein komplexes Thema. Auswirkungen müssen vor Ort angegangen werden [Wasserscheide Wasserstand](#def-watershed), da Systeme durch die Entnahme von Wasser aus einem Gebiet, die Einführung von zusätzlichem Wasser, zeitliche Unterschiede zwischen Entnahmen und Abflüssen sowie Änderungen der Wasserqualität und anderer Wassereigenschaften wie Wärme und pH-Werte beeinträchtigt werden können.
 
-Companies must ensure that their use of water doesn't undermine the quantity and quality of water available for people and ecosystems that depend on the watersheds concerned.
+Unternehmen müssen sicherstellen, dass ihre Wassernutzung nicht die Menge und Qualität des Wassers beeinträchtigt, das den Menschen und Ökosystemen zur Verfügung steht, die von den betreffenden Wassereinzugsgebieten abhängig sind.
 
-To be Future-Fit a company must: (a) minimize – and in [water-stressed](#def-water-stress) regions eventually eliminate – its consumption of water for industrial and commercial purposes;[^1#be02-1] and (b) ensure that any discharges[^2#be02-2] do not degrade the quality of the receiving water bodies, the health of receiving soils, or in any other way cause harm to ecosystems or people.
+Um zukunftsfähig zu sein, muss ein Unternehmen: (a) seinen Wasserverbrauch für industrielle und gewerbliche Zwecke[^1#be02-1] minimieren – und in Regionen mit [Wasserknappheit](#def-water-stress) letztendlich ganz einstellen – und (b) sicherstellen, dass seine Abwässer die Qualität[^2#be02-2] der aufnehmenden Gewässer und die Gesundheit der aufnehmenden Böden nicht beeinträchtigen und auch sonst keine Schäden für Ökosysteme oder Menschen verursachen.
 
-#### 1.2 Why this goal is needed {-#be02-why-goal-needed}
+#### 1.2  1.2. Warum dieses Ziel erforderlich ist {-#be02-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Access to clean water is a fundamental human right,** yet an estimated 2.1 billion people worldwide lack access to safe, readily available drinking water at home. @Wor171
-- **Increasing demand, coupled with changing weather patterns, is placing many global water reserves under increasing strain**. By 2050, an estimated additional 1.8 billion people may be living in water-stressed areas – 53% more than the number of people currently living in such conditions. @Sch14
-- **This has implications for business.** The World Bank estimates that water scarcity could cost some regions up to 6% of their GDP. @Wor161
+- **Der Zugang zu sauberem Wasser ist ein grundlegendes Menschenrecht,** doch schätzungsweise 2,1 Milliarden Menschen weltweit haben zu Hause keinen Zugang zu sicherem und leicht verfügbarem Trinkwasser. @Wor171
+- **Der steigende Bedarf gepaart mit sich ändernden Wetterbedingungen setzt viele globale Wasserreserven zunehmend unter Druck**. Bis 2050 könnten schätzungsweise weitere 1,8 Milliarden Menschen in Gebieten mit Wasserknappheit leben – 53 % mehr als die Zahl der Menschen, die derzeit unter solchen Bedingungen leben. @Sch14
+- **Dies hat Folgen für die Wirtschaft.** Die Weltbank schätzt, dass die Wasserknappheit einige Regionen bis zu 6% ihres BIP kosten könnte. @Wor161
 
-#### 1.3 How this goal contributes to the SDGs {-#be02-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be02-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by reducing water consumption and ensuring discharged water does not degrade the water quality of receiving watersheds, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie den Wasserverbrauch reduzieren und sicherstellen, dass abgeleitetes Wasser die Wasserqualität der aufnehmenden Wassereinzugsgebiete nicht beeinträchtigt, und indem sie ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 6](assets/sdg/sdg-6.svg) | Support efforts to achieve universal access to safe and affordable drinking water and sanitation for all, efforts to improve water quality by reducing pollution, eliminating dumping and minimizing the release of hazardous chemicals and materials, and efforts to substantially increase water-use efficiency and reduce the number of people suffering from water scarcity by ensuring sustainable withdrawals and supply of freshwater. |
-| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the sustainable management and efficient use of natural resources, and efforts to achieve the environmentally sound management of wastes throughout their life cycle. |
-| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds. |
-| ![SDG 15](assets/sdg/sdg-15.svg) | Support efforts to ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems, and efforts to combat desertification and restore degraded land and soil. |
+| ![SDG 6](assets/sdg/sdg-6.svg) | Unterstützung von Bemühungen zur Verwirklichung des universellen Zugangs zu sicherem und erschwinglichem Trinkwasser und sanitären Einrichtungen für alle, von Bemühungen zur Verbesserung der Wasserqualität durch Verringerung der Verschmutzung, Beseitigung von Müllablagerungen und Minimierung der Freisetzung gefährlicher Chemikalien und Stoffe sowie von Bemühungen zur wesentlichen Steigerung der Wassernutzungseffizienz und zur Verringerung der Zahl der Menschen, die unter Wasserknappheit leiden, durch die Gewährleistung einer nachhaltigen Entnahme und Versorgung mit Süßwasser. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Unterstützung von Bemühungen zur Erreichung einer nachhaltigen Bewirtschaftung und effizienten Nutzung natürlicher Ressourcen sowie von Bemühungen zur Erreichung einer umweltgerechten Bewirtschaftung von Abfällen während ihres gesamten Lebenszyklus. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Unterstützung von Bemühungen zur Verhinderung und erheblichen Verringerung aller Arten von Meeresverschmutzung. |
+| ![SDG 15](assets/sdg/sdg-15.svg) | Unterstützung von Bemühungen zur Gewährleistung der Erhaltung, Wiederherstellung und nachhaltigen Nutzung terrestrischer und Binnengewässer-Ökosysteme sowie von Bemühungen zur Bekämpfung der Wüstenbildung und zur Wiederherstellung degradierter Böden und Flächen. |
 </div>
 
-#### 1.4 Related goals {-#be02-related-goals}
+#### 1.4 Verwandte Ziele {-#be02-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Procurement safeguards the pursuit of future-fitness:**](#be04) Under the _Water_ goal a company's progress is assessed on the characteristics of its water consumption and discharges. If some or all of the water used is purchased from suppliers, then the company should also consider the performance of those suppliers in other issue areas (as with all other procured goods and services), via the _Procurement_ goal.
-- [**Operational emissions do not harm people or the environment:**](#be05) The _Water use_ goal includes considerations for the discharge of wastewater into the environment after treatment. However, the _Operational emissions_ goal covers several related areas, namely: if liquid chemicals or operational by-products (other than water) are being discharged into the environment; if water contains substances of concern in concentrations that could make them harmful; if it is not known what is in a liquid solution that is being discharged; or when liquid substances are unintentionally discharged (including spills, leaks, and similar).
-- [**Operational waste is eliminated:**](#be07) The _Water use_ goal deals with water discharged directly to a watershed or body of water. Wastewater or other liquid wastes which are sent by the company to a third-party for treatment or disposal are covered by the _Operational waste_ goal.
-- [**Operations do not encroach on ecosystems or communities:**](#be08) This _Water use_ goal includes guidance on what must be done before wastewater can be safely discharged into nature, in order not to disrupt ecosystems or communities. It is also possible for a company's physical presence to disrupt water sources, without any withdrawal or discharge. Such factors are covered by the _Operations do not encroach_ goal.
+- [**Beschaffung sichert das Streben nach Zukunftsfähigkeit:**](#be04) Im Rahmen des _Wasserziels_ wird der Fortschritt eines Unternehmens anhand der Merkmale seines Wasserverbrauchs und seiner Wasserableitungen bewertet. Wenn das verwendete Wasser teilweise oder vollständig von Lieferanten bezogen wird, sollte das Unternehmen über das Beschaffungsziel auch die Leistung dieser Lieferanten in anderen Problembereichen berücksichtigen (wie bei allen anderen beschafften _Waren und Dienstleistungen_).
+- [**Betriebsemissionen schaden weder Menschen noch der Umwelt:**](#be05) Das Ziel für den _Wasserverbrauch_ umfasst Überlegungen zur Einleitung von Abwasser in die Umwelt nach der Behandlung. Das Ziel für betriebliche Emissionen deckt jedoch mehrere verwandte Bereiche ab, nämlich: wenn flüssige Chemikalien oder betriebliche Nebenprodukte (außer Wasser) in die Umwelt eingeleitet werden; wenn Wasser bedenkliche Stoffe in Konzentrationen enthält, die sie schädlich machen könnten; wenn nicht bekannt ist, was in einer flüssigen Lösung enthalten ist, die eingeleitet wird; oder wenn flüssige Stoffe unbeabsichtigt eingeleitet werden (einschließlich Verschüttungen, Leckagen und Ähnliches).
+- [**Betriebliche Abfälle werden eliminiert:**](#be07) Das Ziel für den Wasserverbrauch bezieht sich auf Wasser, das direkt in ein Wassereinzugsgebiet oder ein Gewässer abgeleitet wird. Abwasser oder andere flüssige Abfälle, die vom Unternehmen zur Behandlung oder Entsorgung an Dritte weitergeleitet werden, fallen unter das Ziel für betriebliche Abfälle.
+- [**Der Betrieb beeinträchtigt weder Ökosysteme noch Gemeinschaften:**](#be08) Dieses Ziel zum Wasserverbrauch enthält Leitlinien dazu, was getan werden muss, bevor Abwasser sicher in die Natur abgeleitet werden kann, um Ökosysteme oder Gemeinschaften nicht zu stören. Es ist auch möglich, dass die physische Präsenz eines Unternehmens Wasserquellen stört, ohne dass Wasser entnommen oder abgeleitet wird. Solche Faktoren werden durch das Ziel _Der Betrieb beeinträchtigt weder Ökosysteme noch Gemeinschaften_ abgedeckt.
 
-### 2. Action {-#be02-action}
+### 2. Aktion {-#be02-action}
 
-#### 2.1 Getting started {-#be02-getting-started}
+#### 2.1 Erste Schritte {-#be02-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Companies, as well as people, animals and plants, will always need water to function. The aspiration here is to eliminate water consumption due to commercial and industrial activities in [water-stressed](#def-water-stress) regions. However, this is _not_ intended to imply that companies should operate only in regions of water abundance, as that would discourage investment and economic opportunity in vulnerable regions. Instead, companies should see this challenge as a long-term ambition to continuously strive for, through a gradual process of reduction and improvement towards better [water stewardship](#def-water-stewardship).
+Unternehmen benötigen ebenso wie Menschen, Tiere und Pflanzen Wasser, um funktionieren zu können. Das Ziel besteht darin, den Wasserverbrauch durch gewerbliche und industrielle Aktivitäten in Regionen mit [Wasserknappheit zu eliminieren](#def-water-stress). Dies soll jedoch nicht bedeuten, dass Unternehmen nur in Regionen mit reichlich Wasser tätig sein sollten, da dies Investitionen und wirtschaftliche Chancen in gefährdeten Regionen behindern würde. Stattdessen sollten Unternehmen diese Herausforderung als langfristiges Ziel betrachten, das sie durch einen schrittweisen Prozess der Reduzierung und Verbesserung hin zu einem besseren verantwortungsvollen [Umgang mit Wasser](#def-water-stewardship) kontinuierlich anstreben sollten.
 
-A company's first step toward future-fitness should be to understand the water contexts of the regions in which it operates, in particular by identifying the degree of water availability, how much water the company consumes and where it comes from, what water discharges the company causes, and where they end up. The business can then start to pursue opportunities for improvement by increasing efficiency, adjusting operating procedures and incorporating technical innovations, as well as collaborating with others across the value web.
+Der erste Schritt eines Unternehmens zur Zukunftsfähigkeit sollte darin bestehen, die Wassersituation in den Regionen, in denen es tätig ist, zu verstehen. Dazu muss es insbesondere ermitteln, in welchem Umfang Wasser verfügbar ist, wie viel Wasser das Unternehmen verbraucht und woher es stammt, welche Abwässer das Unternehmen verursacht und wo diese gelangen. Das Unternehmen kann dann damit beginnen, Verbesserungsmöglichkeiten zu verfolgen, indem es die Effizienz steigert, Betriebsabläufe anpasst, technische Innovationen einführt und mit anderen Akteuren entlang der Wertschöpfungskette zusammenarbeitet.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company's consumption of water pose physical, regulatory or reputational risks? [^3#be02-3] {-}
+###### Stellt der Wasserverbrauch des Unternehmens physische, regulatorische oder Reputationsrisiken dar?[^3#be02-3] {-}
 
-- For each region the company operates in, what information is known about the availability and characteristics of the local watersheds? Are they known to be under water stress?
-- Does the company withdraw water directly from a surface water body or groundwater source? If it obtains water from a third-party supplier, where does that water originate?
-- Are there public policies or initiatives related to water use or consumption in those watersheds? Does the company take steps to ensure it adheres to all water-related laws and regulations in those regions?
-- Does the company have an understanding of the other users of water in the relevant watersheds, including individuals, organizations, and ecosystems? Are any of these other users related to the company (such as organizations performing services for the company, or producing inputs used in the company's products or business processes)? How do the needs of these users compare to the availability of water? Do either the availability or demand for water have significant seasonal fluctuations?
+- Welche Informationen sind für jede Region, in der das Unternehmen tätig ist, über die Verfügbarkeit und Eigenschaften der örtlichen Wassereinzugsgebiete bekannt? Ist bekannt, dass sie unter Wasserstress leiden?
+- Entnimmt das Unternehmen Wasser direkt einem Oberflächengewässer oder einer Grundwasserquelle? Wenn es Wasser von einem Drittanbieter bezieht, woher stammt dieses Wasser?
+- Gibt es öffentliche Richtlinien oder Initiativen im Zusammenhang mit der Wassernutzung oder dem Wasserverbrauch in diesen Wassereinzugsgebieten? Ergreift das Unternehmen Maßnahmen, um sicherzustellen, dass es alle wasserbezogenen Gesetze und Vorschriften in diesen Regionen einhält?
+- Verfügt das Unternehmen über Kenntnisse über die anderen Wassernutzer in den relevanten Wassereinzugsgebieten, darunter Einzelpersonen, Organisationen und Ökosysteme? Stehen einige dieser anderen Nutzer in Verbindung mit dem Unternehmen (z. B. Organisationen, die Dienstleistungen für das Unternehmen erbringen oder Vorleistungen für die Produkte oder Geschäftsprozesse des Unternehmens erbringen)? Inwiefern stehen die Bedürfnisse dieser Nutzer im Verhältnis zur Verfügbarkeit von Wasser? Unterliegen die Verfügbarkeit oder der Bedarf an Wasser erheblichen saisonalen Schwankungen?
+- Besteht in irgendeiner Region ein potenzielles Reputationsrisiko aufgrund unzureichender ökologischer [Wasserströme](#def-environmental-flows) oder eines unzureichenden Zugangs zu Wasserdienstleistungen für die lokale Bevölkerung? Besteht das Risiko einer Betriebsunterbrechung aufgrund eines mangelnden Zugangs zu Wasser? Wie werden sich die wasserbezogenen Risiken im Laufe der Zeit aufgrund von Bevölkerungs-, Klima- oder Wirtschaftstrends in dem Gebiet entwickeln?
 
-- Is there a potential for reputational risk in any regions from insufficient [environmental flows](#def-environmental-flows) or inadequate access to water services among local communities? Is there any risk of business interruption from lack of access to water? How are water related risks likely to evolve over time due to population, climate, or economic trends in the area?
+###### Stellen die Wassereinleitungen des Unternehmens physische, regulatorische oder Reputationsrisiken dar? {-}
 
-###### Do the company's water discharges pose physical, regulatory or reputational risks? {-}
+- Leitet das Unternehmen Wasser direkt in die Natur zurück? Wenn ja, analysiert das Unternehmen die Eigenschaften des Wassers vor der Einleitung, um sicherzustellen, dass es den Eigenschaften des aufnehmenden Gewässers genau entspricht? Welche Behandlungsverfahren werden angewendet?
+- Wenn Wassereinleitungen indirekt erfolgen (z. B. durch Dritte wie kommunale Kläranlagen, öffentliche Abwasserinfrastrukturen oder private Wasserdienstleister vor der Einleitung), wohin wird das eingeleitete Wasser letztendlich abgegeben? Welche Behandlungsstandards werden vorher angewendet? Wird bei dieser Behandlung der Zustand des aufnehmenden Gewässers oder Bodens berücksichtigt?
+- Produzieren irgendwelche Firmenanlagen außer Abwässern und Abwasser noch andere Arten von flüssigen Abfällen (z. B. giftige Abfälle, die bei Produktionsprozessen entstehen)? Wenn ja, wie wird mit dieser Art flüssiger Abfälle umgegangen? Besteht die Gefahr, dass es ohne ausreichende Behandlung freigesetzt wird?[^4#be02-4]
 
-- Does the company discharge water directly back into nature? If so, does the company analyze the characteristics of the water before discharging it, to ensure it closely matches the characteristics of the receiving water body? What treatment processes are applied?
-- Where water discharges are indirect (e.g. managed by third parties such as municipal wastewater treatment plants, public sewage infrastructure or private water service providers prior to discharge), where is the discharged water ultimately released? What treatment standards are applied beforehand? Does this treatment take into account the state of the receiving water body or soil?
+##### Wie man Prioritäten festlegt {-}
 
-- Do any company facilities produce other types of liquid waste besides effluents and wastewater (e.g. toxic waste generated by production processes)? If so, how is this type of liquid waste handled? Is there a risk that it ends up being released without sufficient treatment?[^4#be02-4]
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-##### How to prioritize {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-These questions should help you identify and prioritize actions for improvement.
+- Welche Einrichtungen befinden sich in wasserarmen Gebieten? Welche dieser Einrichtungen [entnimmt](#def-water-withdrawal) das meiste Wasser? Welche [verbrauchen](#def-water-consumption) das meiste Wasser?[^5#be02-5]
+- Besteht bei einer dieser Einrichtungen die Gefahr einer Unterbrechung aufgrund von Wassermangel?
+- Gibt es Möglichkeiten zur Zusammenarbeit mit lokalen Gruppen oder anderen Unternehmen, um gemeinsame Wasserprobleme anzugehen?
 
-###### What are the best opportunities for making progress? {-}
+###### Hat das Unternehmen bereits Ziele und Aktionspläne zur Reduzierung wasserbedingter Auswirkungen umgesetzt? {-}
 
-- Which facilities are located in water-stressed locations? Of those, which [withdraw](#def-water-withdrawal) the most water? Which [consume](#def-water-consumption) the most water?[^5#be02-5]
-- Are any of these facilities at risk of disruption caused by a lack of available water?
-- Do opportunities exist to collaborate with local groups or other companies to tackle shared water challenges?
+- Wenn ja, reichen die bestehenden Verpflichtungen aus, um Zukunftsfähigkeit zu erreichen? Wie sieht der voraussichtliche Zeitrahmen für diesen Übergang aus? Wenn die aktuellen Verpflichtungen oder Pläne nicht ausreichen, wie könnten sie angepasst oder ergänzt werden?
+- Wenn das Unternehmen keine Ziele für Wasserverbrauch und -ableitung festgelegt hat, wie könnten diese festgelegt werden? Wessen Genehmigung wäre erforderlich? Wer müsste einbezogen werden, um angemessene interne Kontrollen zu entwerfen und umzusetzen?
 
-###### Has the company already implemented targets and action plans to reduce water-related impacts? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- If so, are existing commitments sufficient to achieve future-fitness? What is the expected timeframe for this transition? If the current commitments or plans are not sufficient, how might they be adjusted or supplemented?
-- If the company has not set targets on water consumption and discharge, how might they be established? Whose authorization would be needed? Who would need to be involved to design and implement adequate internal controls?
+- Kann das Unternehmen über das zur Erreichung dieses Ziels erforderliche Maß hinaus etwas tun, um sicherzustellen, dass _Wasser verantwortungsbewusst gewonnen wird und für alle verfügbar ist_?[^6#be02-6] Jede solche Maßnahme kann den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im Leitfaden [**Positive Pursuit Guide**](#pp-water) (bejahende Bestrebung).
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _water is responsibly sourced and available to all_?[^6#be02-6] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-water).
+#### 2.2 Streben nach Zukunftsfähigkeit {-#be02-pursuing}
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+##### Einführung {-}
 
-#### 2.2 Pursuing future-fitness {-#be02-pursuing}
+Die Fitness des Unternehmens wird auf der Grundlage des Wasserverbrauchs und der Wasserabgabe im Berichtszeitraum bewertet. Dies umfasst den Verbrauch und die Einleitungen aus allen vom Unternehmen kontrollierten Gebäuden, mobilen Anlagen oder Dienstleistungsabteilungen, die Wasser verwenden. Es ist zu beachten, dass es in Fällen, in denen der Wasserverbrauch oder die Wassereinleitung außerhalb eines festen Standorts erfolgt, sinnvoll sein kann, diesen Aspekt des Betriebs gesondert zu bewerten (z. B. bei einem Fensterputzdienst könnten die Wasserentnahme und die Entsorgung des verbrauchten Wassers besser auf Abteilungsbasis bewertet werden).
 
-##### Introduction {-}
+###### Unterscheidung zwischen Wasserentnahme und Wasserverbrauch {-#be02-differentiating-water-withdrawal}
 
-Company fitness is assessed on the basis of water consumption and discharge during the reporting period. This includes consumption and discharges from any company-controlled building, mobile asset, or service department that uses water. Note that in cases where water consumption or discharge occurs away from a fixed site, it may be appropriate to evaluate this aspect of operations separately (e.g. for a window-washing service, water withdrawal and the disposal of consumed water might be better evaluated on a departmental basis).
-
-###### Differentiating water withdrawal from water consumption {-#be02-differentiating-water-withdrawal}
-
-Paraphrasing the full [definitions](#def) provided elsewhere, _withdrawn water_ is any water taken from a natural source – such as rivers, lakes or aquifers. Once water has been withdrawn, it might be returned to the same watershed, evaporate, or be moved to another watershed or to the ocean. _Consumed water_ is a subset of withdrawn water that _does not_ end up being returned to the watershed it was withdrawn from, in a benign form. In a business context, this includes: water that is incorporated into products, crops or waste; water that evaporates or is lost (e.g. through leakage) before being discharged; and water that is heavily polluted (e.g. sewage from flushed toilets).
+In Anlehnung an die vollständigen [Definitionen](#def) die anderswo zu finden sind, ist entnommenes Wasser jedes Wasser, das aus einer natürlichen Quelle – wie Flüssen, Seen oder Grundwasserleitern – entnommen wird. Nach der Entnahme kann das Wasser in dasselbe Wassereinzugsgebiet zurückgeführt werden, verdunsten oder in ein anderes Wassereinzugsgebiet oder ins Meer gelangen. Verbrauchtem Wasser ist ein Teil des entnommenen Wassers, das nicht in einer einwandfreien Form in das Wassereinzugsgebiet zurückgeführt wird, aus dem es entnommen wurde. Im geschäftlichen Kontext umfasst dies: Wasser, das in Produkten, Pflanzen oder Abfällen enthalten ist; Wasser, das verdunstet oder verloren geht (z. B. durch Leckagen), bevor es abgeleitet wird; und stark verschmutztes Wasser (z. B. Abwasser aus Toilettenspülungen).
 
 <div class="callout-note">
-**Measurement of consumption within the business**
+**Messung des Verbrauchs innerhalb des Unternehmens**
 
-When there is a lack of clarity between what quantity of water is being consumed and what quantity is being safely discharged, the onus is on the company to support any claim that the water is not being consumed. In other words, a company's withdrawn water is assumed to be consumed unless the company can provide evidence to the contrary.
+Wenn Unklarheit darüber besteht, welche Menge Wasser verbraucht wird und welche Menge sicher abgeleitet wird, liegt die Verantwortung beim Unternehmen, die Behauptung zu untermauern, dass das Wasser nicht verbraucht wird. Mit anderen Worten: Es wird davon ausgegangen, dass das von einem Unternehmen entnommene Wasser verbraucht wird, es sei denn, das Unternehmen kann das Gegenteil beweisen.
 
-This evidence may come from first-hand monitoring of direct discharges, or from an assertion by a third-party treatment plant on the standards they adhere to.
+Diese Beweise können aus der Überwachung direkter Einleitungen aus erster Hand stammen oder aus der Aussage einer externen Kläranlage zu den von ihnen eingehaltenen Standards.
 </div>
 
-###### Guidance on classifying commercial and industrial water consumption {-#be02-guidance-on-classifying-consumption}
+###### Leitfaden zur Klassifizierung des gewerblichen und industriellen Wasserverbrauchs {-#be02-guidance-on-classifying-consumption}
 
-The spirit of this goal is to have the least disruptive effect possible on water quantity, quality, and availability to local communities and ecosystems, with the ultimate aspiration to have zero measurable effect. In regions that are water-stressed, this translates into the Future-Fit requirement to _reach zero water consumption with respect to commercial and industrial processes._
+Der Grundgedanke dieses Ziels besteht darin, die Wassermenge, -qualität und -verfügbarkeit für lokale Gemeinschaften und Ökosysteme so wenig wie möglich zu beeinträchtigen, wobei das ultimative Ziel darin besteht, keine messbaren Auswirkungen zu verursachen. In Regionen mit Wasserknappheit bedeutet dies, _dass gemäß den Future-Fit-Anforderungen bei gewerblichen und industriellen Prozessen ein Wasserverbrauch von null erreicht werden muss_.
 
-####### Distinguishing 'commercial and industrial' consumption from other forms {-}
+####### Unterscheidung zwischen „kommerziellem und industriellem“ Konsum und anderen Formen {-}
 
-A company operating in a water-stressed region is _not_ expected to eliminate water consumed by its workers for drinking and sanitation. To do so would deny those employees access to a basic need (see the [**Methodology Guide**](#mg-figure-3-6) for additional details).[^7#be02-7] Instead, the focus is on _commercial and industrial_ consumption – meaning water that is consumed during manufacturing, transportation, and distribution of products, or the provision and delivery of services.
+Von einem Unternehmen, das in einer Region mit Wasserknappheit tätig ist, wird nicht erwartet, dass es den Wasserverbrauch seiner Mitarbeiter:innen für Trinkwasser und sanitäre Einrichtungen eliminiert. Dies würde diesen Mitarbeitern den Zugang zu einem Grundbedürfnis verwehren (weitere Einzelheiten finden Sie im [**Leitfaden zur Methodik**](#mg-figure-3-6)[^7#be02-7]. Stattdessen liegt der Schwerpunkt auf dem gewerblichen und industriellen Verbrauch – also dem Wasserverbrauch bei der Herstellung, dem Transport und dem Vertrieb von Produkten oder der Erbringung und Lieferung von Dienstleistungen.
 
-Where it is possible to measure personal consumption separately, companies are encouraged to do so. In many cases, a company's water inputs will be used for mixed purposes, and the exact volumes attributable to each use will not be precisely trackable. When this is the case, companies can estimate the per-person daily usage of their workers. These estimates can then be subtracted from the overall volume consumed at that site, with the remainder being designated as commercial and industrial consumption.
+Wenn es möglich ist, den persönlichen Verbrauch separat zu messen, werden Unternehmen dazu angehalten, dies zu tun. In vielen Fällen wird das Wasser eines Unternehmens für verschiedene Zwecke verwendet, und die genauen Mengen, die jedem Verwendungszweck zuzuordnen sind, lassen sich nicht genau nachverfolgen. In diesem Fall können Unternehmen den täglichen Verbrauch pro Person ihrer Mitarbeiter:innen schätzen. Diese Schätzungen können dann vom Gesamtverbrauch an diesem Standort abgezogen werden, wobei der Rest als gewerblicher und industrieller Verbrauch ausgewiesen wird.
 
 <div class="callout-note">
-**Deriving estimates for workers' personal water use**
+**Ableitung von Einschätzungen für den persönlichen Wasserverbrauch der Mitarbeiter:innen**
 
-There are many resources available online offering guidance on average daily water use by workers, which companies are encouraged to use. Due to variability in water use by industry, region, or culture, companies should derive usage estimates appropriate to their own circumstances. The assumptions used in these estimates must be documented, in order for data users to be able to usefully compare a company's performance to others.
+Es gibt viele Online-Ressourcen, die Leitlinien zum durchschnittlichen täglichen Wasserverbrauch von Arbeitnehmern bieten und deren Nutzung Unternehmen empfohlen wird. Aufgrund der unterschiedlichen Wassernutzung je nach Branche, Region oder Kultur sollten Unternehmen Verbrauchsprognosen erstellen, die ihren eigenen Gegebenheiten entsprechen. Die Annahmen, die diesen Prognosen zugrunde liegen, müssen dokumentiert werden, damit die Datennutzer die Leistung eines Unternehmens sinnvoll mit anderen vergleichen können.
 </div>
 
-###### Guidance on identifying the fitness of freshwater sources {-}
+###### Anleitung zur Ermittlung der Eignung von Süßwasserquellen {-}
 
-- Identify which local freshwater water source(s) the company uses. [^8#be02-8]
-- Identify or determine whether each source is water-stressed.
+- Identifizieren Sie, welche lokalen Süßwasserquellen das Unternehmen nutzt.[^8#be02-8]
+- Identifizieren oder bestimmen Sie, ob jede Quelle unter Wasserknappheit leidet.
 
 <div class="callout-note">
-**Indirect withdrawals (purchased from a third party)**
+**Indirekte Entnahmen (von einem Dritten bezogen)**
 
-For commercial and industrial water purchases, the company must gain an understanding of where the sourced water originates. This may involve directly asking the provider, along with performing desk research.
+Beim gewerblichen und industriellen Wassereinkauf muss das Unternehmen verstehen, woher das Quellwasser stammt. Dies kann eine direkte Befragung des Anbieters und die Durchführung einer Sekundärrecherche umfassen.
 
-Note that this goal does not apply to ancillary purchases of water for employee use, such as the purchase of drinking water (e.g. to replenish coolers in office spaces).
+Bitte beachten Sie, dass dieses Ziel nicht für den Kauf von Wasser für Mitarbeiter:innen gilt, wie z. B. den Kauf von Trinkwasser (z. B. zum Auffüllen von Wasserspendern in Büroräumen).
 </div>
 
-####### Assessing areas for water stress {-}
+####### Beurteilung von Gebieten auf Wasserstress {-}
 
-A company should identify a location as water-stressed if either of the following is true: @Shi13
+Ein Unternehmen sollte einen Standort als wasserbelastet einstufen, wenn eine der folgenden Bedingungen zutrifft: @Shi13
 
-- Baseline water stress, calculated as total water withdrawal[^9#be02-9]/ available renewable supply, is greater than 40%.
-- Annual renewable water supply per person is less than 17,000m<sup>3</sup>.
+- Grundwasserstress, berechnet als Gesamtwasserentnahme[^9#be02-9]/ verfügbare erneuerbare Versorgung, ist größer als 40%.
+- Die jährliche erneuerbare Wasserversorgung pro Person beträgt weniger als 17.000m<sup>3</sup>.
 
-Several tools are available to assess local water context.[^10#be02-10] Companies are free to use whichever tools are deemed to be most appropriate in each location, but must document which method they use, and why.
+Zur Beurteilung der lokalen Wassersituation stehen mehrere Tools zur Verfügung.[^10#be02-10] Unternehmen können frei entscheiden, welche Tools sie an den einzelnen Standorten als am besten geeignet erachten, müssen jedoch dokumentieren, welche Methode sie verwenden und warum.
 
 <div class="callout-note">
-**Water _stress_ versus water _scarcity_**
+**Wasserstress versus Wasserknappheit**
 
-Note that different corporate water assessment tools and stewardship initiatives may have slightly different definitions for water _stress_ and the related concept of water _scarcity_. Companies should seek to understand what definition is being used when choosing a tool, as there is no universally agreed consensus. [This document](https://ceowatermandate.org/terminology/detailed-definitions/) compiled by the CEO Water Mandate may help to clarify the differences in terminology used across various groups. @Ceo19
+Beachten Sie, dass verschiedene Tools zur Wasserbewertung und Initiativen zum verantwortungsvollen Umgang mit Wasser leicht unterschiedliche Definitionen für Wasserstress und das damit verbundene Konzept der Wasserknappheit haben können. Unternehmen sollten sich bei der Auswahl eines Tools darüber informieren, welche Definition verwendet wird, da es keinen allgemein anerkannten Konsens gibt. Dieses vom CEO Water Mandate zusammengestellte [Dokument](https://ceowatermandate.org/terminology/detailed-definitions/) kann dabei helfen, die Unterschiede in der Terminologie verschiedener Gruppen zu verdeutlichen. @Ceo19
 </div>
 
 <div class="callout-note">
-**A note on seasonal variability in water stress**
+**Ein Hinweis zur saisonalen Variabilität des Wasserstresses**
 
-There may be instances where a company operates in a region that is only water-stressed for part of the year. In such cases, companies should record water consumption on a monthly basis and determine which months correspond with a state of water stress.
+Es kann Fälle geben, in denen ein Unternehmen in einer Region tätig ist, in der nur während eines Teils des Jahres Wasserstress herrscht. In solchen Fällen sollten Unternehmen den Wasserverbrauch monatlich erfassen und ermitteln, welche Monate einem Zustand von Wasserstress entsprechen.
 </div>
 
-###### Guidance on identifying liquid discharges {-}
+###### Anleitung zur Identifizierung von Flüssigkeitsableitungen {-}
 
-When working to identify the sources of water discharge, companies should extend their assessment to consider each of the following:
+Bei der Ermittlung der Quellen der Wassereinleitung sollten Unternehmen ihre Bewertung erweitern und dabei jeden der folgenden Punkte berücksichtigen:
 
-- **Direct discharges:** The company discharges (treated or untreated) liquid waste directly into local waterways or soil.
-- **Indirect discharges:** Discharged liquid is managed by third parties (e.g. municipal wastewater treatment plants, local sewage infrastructure or private water service providers), where it is treated (or not) and then emitted back into nature (most often surrounding watersheds).
-- **Other forms of liquid waste:** These may include toxic or non-water-based liquids collected for treatment or containment, as well as wastewater which is reused or recycled, and thus never ends up emitted back into the environment.
+- **Direkte Einleitung:** Das Unternehmen leitet (behandelte oder unbehandelte) flüssige Abfälle direkt in örtliche Gewässer oder in den Boden ein.
+- **Indirekte Einleitungen:** Die eingeleitete Flüssigkeit wird von Dritten (z. B. kommunalen Kläranlagen, lokaler Abwasserinfrastruktur oder privaten Wasserdienstleistern) verwaltet, wo sie behandelt (oder auch nicht) und dann wieder in die Natur (meistens umliegende Wassereinzugsgebiete) eingeleitet wird.
+- **Andere Formen flüssiger Abfälle:** Dazu können giftige oder nicht wasserbasierte Flüssigkeiten gehören, die zur Behandlung oder Eindämmung gesammelt werden, sowie Abwasser, das wiederverwendet oder recycelt wird und somit nie wieder in die Umwelt gelangt.
 
-###### Guidance on identifying safe discharge characteristics {-#be02-guidance-on-safe-discharge}
+###### Leitfaden zur Ermittlung sicherer Ableitungseigenschaften {-#be02-guidance-on-safe-discharge}
 
-Differences between discharged water and the receiving water body could disrupt plants and animals in the water body itself, or disrupt communities and ecosystems that rely on that water body. To minimize such differences, companies must analyze and compare several characteristics in the water they are discharging and in the receiving water body.
+Unterschiede zwischen dem eingeleiteten Wasser und dem aufnehmenden Wasserkörper könnten Pflanzen und Tiere im Wasserkörper selbst beeinträchtigen oder Gemeinschaften und Ökosysteme stören, die auf diesen Wasserkörper angewiesen sind. Um solche Unterschiede zu minimieren, müssen Unternehmen mehrere Eigenschaften des von ihnen eingeleiteten Wassers und des aufnehmenden Gewässers analysieren und vergleichen.
 
-####### Determine the characteristics of the discharged water {-}
+####### Bestimmen Sie die Eigenschaften des abgeleiteten Wassers {-}
 
-- Identify the physical (e.g. dissolved solids, sediments, temperature), chemical (e.g. pH, nitrate, chloride, sulphate concentrations) and biological (e.g. bacterial, viral) characteristics of all water discharge.[^11#be02-11]
-- Identify the time delays between when water is withdrawn and when it is discharged, and whether these delays could adversely affect the quantities (and thus availability) of water in the relevant water body (or bodies).
+- Identifizieren Sie die physikalischen (z. B. gelöste Feststoffe, Sedimente, Temperatur), chemischen (z. B. pH-Wert, Nitrat-, Chlorid- und Sulfatkonzentrationen) und biologischen (z. B. bakterielle, virale) Eigenschaften aller Wasserableitungen.[^11#be02-11]
+- Ermitteln Sie die Zeitverzögerungen zwischen der Wasserentnahme und der Wasserableitung. Prüfen Sie, ob sich diese Verzögerungen nachteilig auf die Wassermengen (und damit die Verfügbarkeit) des betreffenden Wasserkörpers (oder der entsprechenden Wasserkörper) auswirken könnten.
 
-####### Ensure discharges meet benign water quality criteria {-}
+####### Stellen Sie sicher, dass die Abflüsse den Kriterien für eine einwandfreie Wasserqualität entsprechen {-}
 
-Companies should apply accepted general standards for what constitutes benign water quality to the treatment of their discharged water.
+Unternehmen sollten bei der Aufbereitung ihres eingeleiteten Wassers anerkannte allgemeine Standards für eine einwandfreie Wasserqualität anwenden.
 
-The U.S. EPA [Water Quality Criteria](https://www.epa.gov/wqc/national-recommended-water-quality-criteria) offers three category lists – aquatic life, human health, and organoleptic effects (e.g. taste and odour) – defining thresholds of acceptability to ensure that discharged wastewater does not negatively impact any of these areas. @Usewn
+Die US-EPA [Kriterien für die Wasserqualität](https://www.epa.gov/wqc/national-recommended-water-quality-criteria) bietet drei Kategorienlisten an – Wasserlebewesen, menschliche Gesundheit und organoleptische Auswirkungen (z. B. Geschmack und Geruch) – und definiert Akzeptanzschwellen, um sicherzustellen, dass eingeleitetes Abwasser keinen negativen Einfluss auf einen dieser Bereiche hat. @Usewn
 
-The EPA Water Quality Criteria offer a _minimum_ recommended standard for companies to reach.[^12#be02-12] However, given that water quality characteristics and concerns are highly location-dependent, companies are encouraged to work with local experts, public sector groups, NGOs or populations to understand the unique issues applicable to the specific watersheds they work in. In order to gain insight into these location-specific differences, companies are encouraged to take the following steps:
+Die EPA-Wasserqualitätskriterien bieten einen empfohlenen Mindeststandard, den die Unternehmen erreichen sollten.[^12#be02-12] Da die Merkmale und Probleme der Wasserqualität jedoch stark vom jeweiligen Standort abhängen, wird den Unternehmen empfohlen, mit lokalen Experten, öffentlichen Einrichtungen, Nichtregierungsorganisationen oder der Bevölkerung zusammenzuarbeiten, um die besonderen Probleme in den spezifischen Wassereinzugsgebieten, in denen sie arbeiten, zu verstehen. Um einen Einblick in diese standortspezifischen Unterschiede zu erhalten, sollten die Unternehmen die folgenden Schritte unternehmen:
 
-- Identify the water bodies that ultimately receive the discharged water. If the company does not handle water discharge directly, this will involve contacting the relevant wastewater treatment provider to ask for information on their discharge points.
-- Identify any legal or regulatory requirements for water quality in the applicable jurisdictions. Companies might also engage with local stakeholders such as local NGO or academic groups to identify relevant quality concerns, and related parameters.[^13#be02-13]
-- Obtain water quality data for the receiving water bodies, and identify parameters of concern for those bodies.[^14#be02-14]
-
-- Identify parameters of concern based on differences in characteristics between water discharges and those of the receiving water body data. For example, if a receiving water body has a significantly alkaline pH, emitting pH-neutral water may be a cause for concern, even though it is harmless in other contexts.
+- Ermitteln Sie die Gewässer, in die das eingeleitete Wasser letztendlich gelangt. Wenn das Unternehmen nicht direkt für die Abwassereinleitung sorgt, müssen Sie sich an den zuständigen Klärwerksbetreiber wenden, um Informationen über die Einleitungsstellen zu erhalten.
+- Ermitteln Sie alle gesetzlichen oder behördlichen Anforderungen an die Wasserqualität in den jeweiligen Ländern. Unternehmen können auch mit lokalen Interessenvertretern wie lokalen Nichtregierungsorganisationen oder akademischen Gruppen zusammenarbeiten, um relevante Qualitätsprobleme und entsprechende Parameter zu ermitteln.[^13#be02-13]
+- Erfassen Sie Daten zur Wasserqualität der aufnehmenden Gewässer und ermitteln Sie die für diese Gewässer relevanten Parameter.[^14#be02-14]
+- Identifizieren Sie relevante Parameter anhand der Unterschiede zwischen den Eigenschaften der abgeleiteten Abwässer und denen der Daten zum aufnehmenden Gewässer. Wenn beispielsweise ein aufnehmendes Gewässer einen deutlich alkalischen pH-Wert aufweist, kann die Einleitung von pH-neutralem Wasser Anlass zur Sorge geben, auch wenn es in anderen Zusammenhängen unbedenklich ist.
 
 <div class="callout-note">
-**Temperature of receiving water bodies**
+**Temperatur der aufnehmenden Gewässer**
 
-The U.S. EPA requirements referenced above include [guidance on temperature](https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF) for water discharges.[^15#be02-15] @Uni86 This guidance includes very specific results from research on the impact of temperature changes on individual aquatic species, absolute thresholds to the range of acceptable discharge temperatures, and situation-specific guidance on the impact of discharges on both point-in-time and weekly-average temperatures of the receiving body. The key point is to recognize that aquatic ecosystems are sensitive to changes in temperature, and so water should be discharged at (or close to) the same temperature as the receiving body.
+Die oben genannten Anforderungen der US-Umweltschutzbehörde EPA enthalten [Leitlinien zur Temperatur](https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF) von Wasserableitungen.[^15#be02-15] @Uni86 Diese Leitlinien umfassen sehr spezifische Ergebnisse aus Untersuchungen zu den Auswirkungen von Temperaturänderungen auf einzelne Wasserlebewesen, absolute Grenzwerte für den Bereich akzeptabler Ableitungstemperaturen und situationsspezifische Leitlinien zu den Auswirkungen von Ableitungen auf die Momentan- und Wochenmitteltemperaturen des aufnehmenden Gewässers. Der entscheidende Punkt ist, dass aquatische Ökosysteme empfindlich auf Temperaturänderungen reagieren und daher Wasser mit derselben Temperatur (oder einer ähnlichen Temperatur) wie das aufnehmende Gewässer abgeleitet werden sollte.
 
-As water is often used as a heat-sink in industrial processes, companies should also consider the potential impact on ecosystems when discharging _heat_ directly into water bodies, for example by running a pipe into a neighbouring water body in order to cool its contents without ever withdrawing or discharging water from it. In this regard, this goal overlaps slightly with the goal [**Operations do not encroach on ecosystems or communities**](#be08), and the same guidance should be applied in either case.
+Da Wasser in industriellen Prozessen häufig als Kühlmittel verwendet wird, sollten Unternehmen auch die potenziellen Auswirkungen auf Ökosysteme berücksichtigen, wenn sie Wärme direkt in Gewässer ableiten, beispielsweise indem sie eine Leitung in ein benachbartes Gewässer verlegen, um dessen Inhalt zu kühlen, ohne jemals Wasser daraus zu entnehmen oder abzuleiten. In dieser Hinsicht überschneidet sich dieses Ziel geringfügig mit dem Ziel [**Betriebe beeinträchtigen weder Ökosysteme noch Gemeinschaften**](#be08), und in beiden Fällen sollten die gleichen Leitlinien angewendet werden.
 </div>
 
-In the rare case that a company's research into its receiving water bodies indicates that it should _not_ follow the advice outlined in the EPA Water Quality Criteria referred to above, the company should document its reasoning with evidence for using a different approach.
+In dem seltenen Fall, dass die Untersuchungen eines Unternehmens zu seinen aufnehmenden Gewässern ergeben, dass es den Empfehlungen der oben genannten EPA-Wasserqualitätskriterien nicht folgen sollte, sollte das Unternehmen seine Argumentation mit Belegen für die Verwendung eines anderen Ansatzes dokumentieren.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-The following sections explain the fitness criteria for water consumption and discharge.
+In den folgenden Abschnitten werden die Fitnesskriterien für Wasserverbrauch und -ableitung erläutert.
 
-###### Fitness criteria: water consumption {-}
+###### Fitnesskriterien: Wasserverbrauch {-}
 
-To be Future-Fit, for any water-stressed source the company must eliminate its contribution to that stress which occurs as a result of its [commercial or industrial activities](#be02-guidance-on-classifying-consumption). This can be achieved in one of three ways:
+Um zukunftsfähig zu sein, muss das Unternehmen für jede wasserbelastete Quelle seinen Beitrag zu dieser Belastung, die durch seine gewerblichen oder [industriellen Aktivitäten entsteht, beseitigen](#be02-guidance-on-classifying-consumption). Dies kann auf drei Möglichkeiten erreicht werden:
 
-- Achieving absolute reductions in water consumption;
-- Changing the timing or source of water consumption to a non-water-stressed period or location; or
-- Offsetting commercial or industrial water consumption from that source with _appropriate, local_ offsetting projects.[^16#be02-16]
+- Erzielung einer absoluten Reduzierung des Wasserverbrauchs;
+- Verlegung des Zeitpunkts oder der Quelle des Wasserverbrauchs in einen Zeitraum oder an einen Ort ohne Wasserstress; oder
+- Ausgleich des gewerblichen oder industriellen Wasserverbrauchs aus dieser Quelle durch geeignete lokale Ausgleichsprojekte.[^16#be02-16]
 
-Note that if a company shifts the location or timing of its water consumption, it must examine whether the shift is likely to have an impact on the future state of a water source. For example, if a company operating in a seasonally water-stressed region decides to move all consumption to months of non-water stress in order to achieve future-fitness, it should determine whether this decision could have a negative impact on the future stability of the water source.
+Wenn ein Unternehmen den Ort oder den Zeitpunkt seines Wasserverbrauchs verlagert, muss es prüfen, ob diese Verlagerung Auswirkungen auf den künftigen Zustand einer Wasserquelle haben könnte. Wenn zum Beispiel ein Unternehmen, das in einer saisonal wasserarmen Region tätig ist, beschließt, den gesamten Verbrauch in Monate ohne Wasserstress zu verlegen, um Zukunftsfähigkeit zu erreichen, sollte es ermitteln, ob diese Entscheidung negative Auswirkungen auf die zukünftige Stabilität der Wasserquelle haben könnte.
 
-###### Fitness criteria: water discharge {-}
+###### Fitnesskriterien: Wasserabfluss {-}
 
-To be Future-Fit, the company must:
+Um zukunftsfähig zu sein, muss das Unternehmen:
 
-- Verify that all water discharged is verifiably treated and returned to [safe discharge characteristics](#be02-guidance-on-safe-discharge) before it is emitted back into nature. All water discharges must be included, whether the company classifies them as [water discharge](#def-water-discharge), [effluent](#def-effluent) or [wastewater](#def-wastewater), and whether the company discharges that water itself, or whether it is managed and later discharged by third parties.
+- Sicherstellen, dass das gesamte abgeleitete Wasser nachweislich behandelt wird und wieder die [Eigenschaften für eine sichere Ableitung](#be02-guidance-on-safe-discharge) aufweist, bevor es in die Natur zurückgeführt wird. Alle Wasserableitungen müssen berücksichtigt werden, unabhängig davon, ob das Unternehmen sie als [Wasserableitung](#def-water-discharge), [Abwasser](#def-effluent) oder [Abwässer](#def-wastewater), klassifiziert und ob das Unternehmen dieses Wasser selbst ableitet oder ob es von Dritten verwaltet und später abgeleitet wird.
 
-### 3. Assessment {-#be02-assessment}
+### 3. Bewertung {-#be02-assessment}
 
-#### 3.1 Progress indicators {-#be02-progress}
+#### 3.1 Fortschrittsindikatoren {-#be02-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementation Guide**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Beurteilung des Fortschritts {-}
 
-This goal has two progress indicators: one for water consumption and one for discharge.
+Dieses Ziel hat zwei Fortschrittsindikatoren: einen für den Wasserverbrauch und einen für den Ableitung.
 
-###### Water consumption due to commercial and industrial processes {-}
+###### Wasserverbrauch aufgrund gewerblicher und industrieller Prozesse {-}
 
-To calculate progress with respect to water consumption, the following steps are required:
+Um den Fortschritt hinsichtlich des Wasserverbrauchs zu berechnen, sind folgende Schritte erforderlich:
 
-- Identify each source of water that the company draws on, and assess it to determine if the related watershed suffers from water stress.
-- Determine the _total_ volume of water consumed by commercial and industrial processes during the reporting period.[^17#be02-17]
-- Determine the volume of commercial and industrial water consumption from sources that have been verified to _not_ suffer from water stress.
+- Identifizieren Sie jede Wasserquelle, die das Unternehmen nutzt, und bewerten Sie sie, um festzustellen, ob das zugehörige Wassereinzugsgebiet unter Wasserstress leidet.
+- Bestimmen Sie die Gesamtwassermenge, die im Berichtszeitraum von gewerblichen und industriellen Prozessen verbraucht wurde.[^17#be02-17]
+- Bestimmen Sie das Volumen des gewerblichen und industriellen Wasserverbrauchs aus Quellen, bei denen nachgewiesen wurde, dass sie nicht unter Wasserstress leiden.
 
-The company's progress is calculated as the percentage of commercial and industrial water consumption that was not withdrawn from water-stressed sources.
+Der Fortschritt des Unternehmens wird als Prozentsatz des gewerblichen und industriellen Wasserverbrauchs berechnet, der nicht aus wasserarmen Quellen entnommen wurde.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F=\frac{W_C}{W_{CT}}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$W_C$$ | Is the volume of commercial and industrial water consumption from sources that are _not_ suffering from water stress. |
-| $$W_{CT}$$ | Is the total volume of commercial and industrial water consumption during the reporting period. |
+| $$F$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$W_C$$ | Ist das Volumen des gewerblichen und industriellen Wasserverbrauchs aus Quellen, die nicht unter Wasserstress leiden. |
+| $$W_{CT}$$ | Ist das Gesamtvolumen des gewerblichen und industriellen Wasserverbrauchs während des Berichtszeitraums. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be02-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie unter [Hier](#be02-example).
 
-###### Water discharge {-}
+###### Wassereinleitung {-}
 
-To calculate progress with respect to water discharge, the following steps are required:
+Um den Fortschritt hinsichtlich der Wasserableitung zu berechnen, sind folgende Schritte erforderlich:
 
-- Identify all water discharges and assess them against the safe discharge characteristics.
-- Determine the total volume of discharged water during the reporting period.[^18#be02-18]
-- Determine the volume of water with safe characteristics which was discharged.
+- Identifizieren Sie alle Wassereinleitungen und bewerten Sie sie anhand der sicheren Einleitungseigenschaften.
+- Identifizieren Sie alle Wasserableitungen und bewerten Sie diese anhand der Eigenschaften für eine sichere Ableitung.[^18#be02-18]
+- Bestimmen Sie die eingeleitete Wassermenge mit sicheren Eigenschaften.
 
-Fitness is calculated as the percentage of discharged wastewater which lives up to the fitness criteria.
+Die Fitness wird als der Prozentsatz des eingeleiteten Abwassers berechnet, der den Fitnesskriterien entspricht.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F=\frac{W_D}{W_{DT}}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$W_D$$ | Is the volume of discharged water which satisfies the fitness criteria. |
-| $$W_{DT}$$ | Is the total volume of discharged water during the reporting period. |
+| $$F$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$W_D$$ | Ist die Menge an abgeleitetem Wasser, die die Fitnesskriterien erfüllt. |
+| $$W_{DT}$$ | Ist die Gesamtmenge des während des Berichtszeitraums abgeleiteten Wassers. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be02-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be02-example).
 
-#### 3.2 Context indicators {-#be02-context}
+#### 3.2 Kontextindikatoren{-#be02-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Rolle der Kontextindikatoren besteht darin, den Stakeholdern die zusätzlichen Informationen zu liefern, die sie benötigen, um das volle Ausmaß des Fortschritts eines Unternehmens zu interpretieren.
 
-####### Absolute water consumption and discharge {-}
+####### Absoluter Wasserverbrauch und absolute Wassereinleitung {-}
 
-To supplement the progress indicators a company should also report the following:
+Ergänzend zu den Fortschrittsindikatoren sollte ein Unternehmen auch Folgendes melden:
 
-- Total volume of water consumed by commercial and industrial processes during the reporting period in areas which _are not_ water-stressed.
-- Total volume of water consumed by commercial and industrial processes during the reporting period in water-stressed areas.
-- Total volume of water discharged in the reporting period.
-- Brief narrative explanation of any estimation methods used to determine workers' personal use of water.
+- Gesamtvolumen des Wasserverbrauchs für gewerbliche und industrielle Prozesse während des Berichtszeitraums in Gebieten ohne Wasserstress.
+- Gesamtvolumen des Wasserverbrauchs für gewerbliche und industrielle Prozesse während des Berichtszeitraums in Gebieten mit Wasserstress.
+- Gesamtmenge des im Berichtszeitraum eingeleiteten Wassers.
+- Kurze Erläuterung aller Berechnungsmethoden zur Bestimmung des persönlichen Wasserverbrauchs der Mitarbeiter:innen.
 
-The volumes of water withdrawal and discharge during the reporting period are required to establish company fitness, and as a result do not require additional data collection.
+Die Wasserentnahme- und -ableitungsmengen während des Berichtszeitraums sind für die Eignung des Unternehmens erforderlich und erfordern daher keine zusätzliche Datenerfassung.
 
-For an example of how context indicators can be reported, see [here](#be02-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be02-example).
 
-### 4. Assurance {-#be02-assurance}
+### 4. Prüfung und Sicherheit {-#be02-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be02-assurance-why}
+#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be02-assurance-why}
 
-Any company pursuing future-fitness will instill more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be02-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be02-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to ensure the company has identified all of the sources of water that it draws on. This information can help assurers to assess whether the company's approach runs the risk of failing to identify any water consumption in water-stressed areas, which could in turn cause the indicator calculation to be incorrect.
-- Document the equivalent steps used to ensure the company has identified all of the company's water discharge points. This information can help assurers to assess whether the company's approach runs the risk of failing to identify water discharges.
-- Document the methods used to determine whether water sources are in water-stressed areas and retain the working notes of these assessments. Assurers may evaluate the approach used to verify that the company has sufficiently addressed the risk of unknowingly drawing water from stressed regions.
-- Document the method used to calculate personal water use by employees. Details of the calculations – including any guidance from third-party sources referenced – should be retained for assurers who may use this information to ensure that the calculations are reasonable.
+- Dokumentieren Sie die Methoden, mit denen das Unternehmen sicherstellt, dass alle von ihm genutzten Wasserquellen erfasst wurden. Anhand dieser Informationen können Prüfer beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass der Wasserverbrauch in Gebieten mit Wasserstress nicht erfasst wird, was wiederum zu einer fehlerhaften Berechnung des Indikators führen könnte.
+- Dokumentieren Sie die entsprechenden Schritte, mit denen sichergestellt wird, dass das Unternehmen alle Wasserableitungsstellen des Unternehmens identifiziert hat. Diese Informationen können den Prüfern dabei helfen, zu beurteilen, ob der Ansatz des Unternehmens das Risiko birgt, dass Wasserableitungen nicht identifiziert werden.
+- Dokumentieren Sie die Methoden, mit denen festgestellt wird, ob Wasserquellen in wasserarmen Gebieten liegen, und bewahren Sie die Arbeitsunterlagen zu diesen Bewertungen auf. Die Prüfer können den verwendeten Ansatz bewerten, um zu überprüfen, ob das Unternehmen das Risiko der unwissentlichen Entnahme von Wasser aus gefährdeten Gebieten ausreichend berücksichtigt hat.
+- Dokumentieren Sie die Methode, die zur Berechnung des persönlichen Wasserverbrauchs der Mitarbeiter:innen verwendet wurde. Die Einzelheiten der Berechnungen - einschließlich etwaiger Anleitungen aus Drittquellen, auf die verwiesen wird - sollten für Prüfer aufbewahrt werden, die diese Informationen verwenden können, um sicherzustellen, dass die Berechnungen angemessen sind.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be02-additional}
+### 5. Zusätzliche Informationen {-#be02-additional}
 
-#### 5.1 Example {-#be02-example}
+#### 5.1 Beispiel {-#be02-example}
 
-###### Water consumption by commercial and industrial processes {-}
+###### Wasserverbrauch durch gewerbliche und industrielle Prozesse {-}
 
-ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The office consumes a total of 500,000 litres of water per annum, supplied by a utility provider that withdraws water from a river in a water-abundant area. The office has 50 employees, and using a regional NGO's guidance, the company estimates that they use 380,000 L over the course of the year. The office therefore uses 120,000 L for commercial and industrial processes.
+ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Büro verbraucht jährlich insgesamt 500.000 Liter Wasser, geliefert von einem Versorgungsunternehmen, das Wasser aus einem Fluss in einem wasserreichen Gebiet entnimmt. Das Büro beschäftigt 50 Mitarbeiter:innen und das Unternehmen schätzt, dass sie im Laufe des Jahres nach Angaben einer regionalen NGO 380.000 Liter verbrauchen. Das Büro nutzt somit 120.000 L für gewerbliche und industrielle Prozesse.
 
-ACME's bottling plant is located in a water-stressed region. It withdraws 5,000,000 L per year directly from a local source, and supplements its needs by indirectly sourcing 5,000,000 additional litres from a supplier in a water-abundant area. The plant has 200 employees, who are estimated to consume 1,600,000 L of water over the course of the year. The plant therefore calculates its consumption for commercial and industrial purposes to be 8,400,000 L, which is withdrawn 50% each (4,200,000 L) from stressed and non-stressed regions.
+Die Abfüllanlage von ACME liegt in einer wasserarmen Region. Es bezieht jährlich 5.000.000 Liter direkt aus einer lokalen Quelle und deckt seinen Bedarf durch indirekte Beschaffung von 5.000.000 zusätzlichen Litern von einem Lieferanten in einem wasserreichen Gebiet. Das Werk beschäftigt 200 Mitarbeiter:innen, die im Laufe des Jahres schätzungsweise 1.600.000 Liter Wasser verbrauchen. Den Verbrauch für gewerbliche und industrielle Zwecke rechnet das Werk daher mit 8.400.000 L, wobei jeweils 50% (4.200.000 L) aus belasteten und nicht belasteten Regionen entnommen werden.
 
-ACME also decides to locally offset 100,000 L of water through a rain-harvesting scheme at the bottling plant.
+ACME beschließt außerdem, 100.000 Liter Wasser durch eine Regenwasserauffanganlage in der Abfüllanlage zu kompensieren.
 
-The company calculates its progress as follows:
+Das Unternehmen berechnet seinen Fortschritt wie folgt:
 
 $$F=\frac{W_C}{W_{CT}}=\frac{120,000+4,200,000}{120,000+4,200,000+4,100,000}=\frac{4,320,000}{9,500,000}\approx51\%$$
 
-####### Context indicators {-}
+####### Kontextindikatoren {-}
 
-- Total volume of water consumed by commercial and industrial processes during the reporting period in areas which _are not_ water-stressed **: 4,320,000 L**
-- Total volume of water consumed by commercial and industrial processes during the reporting period in water-stressed areas: **4,100,000 L**
-- Employee water use: "ACME calculates employee water consumption as 380,000 L and 1,600,000 L per year at the office and bottling plant respectively, based on guidance provided by _The Example Foundation_, a local knowledge leader in water use and scarcity."
+- Gesamtwassermenge, die im Berichtszeitraum von gewerblichen und industriellen Prozessen in Gebieten verbraucht wurde, die nicht unter Wasserstress leiden **: 4.320.000 L**
+- Gesamtwassermenge, die im Berichtszeitraum von gewerblichen und industriellen Prozessen in Gebieten mit Wasserstress verbraucht wurde: **4,100,000 L**
+- Wasserverbrauch der Mitarbeiterinnen: „ACME berechnet den Wasserverbrauch der Mitarbeiterinnen auf der Grundlage der Richtlinien der Example Foundation, einem lokalen Experten für Wasserverbrauch und -knappheit, auf 380.000 Liter pro Jahr im Büro und 1.600.000 Liter pro Jahr in der Abfüllanlage.“
 
-###### Water discharge {-}
+###### Wassereinleitung {-}
 
-ACME Inc. works with the management company of the office it rents, and determines that it is responsible for the discharge of 10,000 L of water used in a heating system, all of which is treated by the municipal utility to an adequate standard.
+ACME Inc. arbeitet mit der Verwaltungsgesellschaft des von ihr gemieteten Büros zusammen und stellt fest, dass sie für die Ableitung von 10.000 Litern Wasser verantwortlich ist, das in einem Heizsystem verwendet wird, das vollständig vom Stadtwerk nach einem angemessenen Standard behandelt wird.
 
-At the bottling plant, most of the water used ends up in its bottled beverages (and therefore is in the 'consumed' volume, above), some is consumed by employees (also included above) and the remainder is used, treated and discharged. The amount discharged annually is 350,000 L. Of this discharged water, the majority (305,000 L) met the [safe discharge characteristics](#be02-guidance-on-safe-discharge), but 45,000 L were discharged at an unacceptable temperature range during a period where the cooling system used by the company was not functioning properly.
+In der Abfüllanlage landet der größte Teil des verwendeten Wassers in den abgefüllten Getränken (und ist daher in der oben „verbrauchten“ Menge enthalten), ein Teil wird von den Mitarbeitern verbraucht (ebenfalls oben aufgeführt) und der Rest wird verwendet, aufbereitet und entsorgt. Die jährlich eingeleitete Menge beträgt 350.000 L. Von diesem eingeleiteten Wasser entsprach der größte Teil (305.000 L) dem [sichere Entladeeigenschaften](#be02-guidance-on-safe-discharge), aber 45.000 l wurden bei einem unzulässigen Temperaturbereich abgelassen, während das vom Unternehmen verwendete Kühlsystem nicht ordnungsgemäß funktionierte.
 
-The company calculates its progress as:
+Das Unternehmen berechnet seinen Fortschritt wie folgt:
 
 $$F=\frac{W_D}{W_{DT}}=\frac{10,000+305,000}{10,000+350,000}=\frac{315,000}{360,000}=88\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total amount of water discharged: 360,000 L
+Gesamtmenge des eingeleiteten Wassers: 360.000 L
 
-#### 5.3 Useful links {-#be02-useful-links}
+#### 5.3 Nützliche Links {-#be02-useful-links}
 
 ##### Alliance for Water Stewardship {-#be02-aws}
 
-The [Alliance for Water Stewardship Standard](http://www.allianceforwaterstewardship.org/aws-standard-system.html#aws-standard) is a globally consistent framework that defines a set of water stewardship criteria, indicators and steps for continual improvement at the watershed level.
+Der [Alliance for Water Stewardship Standard](http://www.allianceforwaterstewardship.org/aws-standard-system.html#aws-standard) ist ein weltweit einheitliches Rahmenwerk, der eine Reihe von Kriterien, Indikatoren und Maßnahmen zur kontinuierlichen Verbesserung der verantwortungsvollen Wassernutzung auf der Ebene der Wassereinzugsgebiete definiert.
 
 ##### The Global Environmental Management Initiative {-}
 
-GEMI offers a free online [tool](http://gemi.org/localwatertool/) that outlines the steps to perform an assessment of water use on a per-facility basis.
+GEMI bietet ein kostenloses [Online-Tool](http://gemi.org/localwatertool/) an, das die Schritte zur Durchführung einer Bewertung des Wasserverbrauchs pro Anlage beschreibt. 
 
 ##### The Water Footprint Network {-}
 
-[The Water Footprint Network](http://waterfootprint.org/en/) has developed [The Global Water Footprint Standard](https://waterfootprint.org/en/water-footprint/global-water-footprint-standard/), an internationally accepted methodology for conducting a [Water Footprint Assessment](http://waterfootprint.org/en/water-footprint/water-footprint-assessment). @Hoe11
+[The Water Footprint Network](http://waterfootprint.org/en/) hat den [The Global Water Footprint Standard](https://waterfootprint.org/en/water-footprint/global-water-footprint-standard/), (der globale Wasser-Fußabdruck-Standard) entwickelt, eine international anerkannte Methodik zur Durchführung einer [Wasserfußabdruckbewertung](http://waterfootprint.org/en/water-footprint/water-footprint-assessment). @Hoe11
 
 ##### UN Global Compact's CEO Water Mandate {-#be02-ceo-water}
 
-The [CEO Water Mandate](https://ceowatermandate.org/) is an initiative of the UN Global Compact. It offers a range of tools and information, ranging from business cases to detailed guidance on water accounting to case studies of businesses that have successfully implemented a wide range of water management projects. The organization also offers guidance and online tools to help companies identify water-stressed and high-risk watersheds.
+Das [CEO Water Mandate](https://ceowatermandate.org/) ist eine Initiative des UN Global Compact. Es bietet eine Reihe von Tools und Informationen, die von Geschäftsfällen über detaillierte Leitlinien zur Wasserbuchhaltung bis hin zu Fallstudien von Unternehmen reichen, die erfolgreich eine Vielzahl von Wassermanagementprojekten umgesetzt haben. Die Organisation bietet auch Leitlinien und Online-Tools, die Unternehmen dabei helfen, wasserarme und risikoreiche Wassereinzugsgebiete zu identifizieren.
 
-The CEO Water Mandate has created an online space for organizations looking to partner with other organizations on water projects in different areas: the [**Water Action Hub**](https://wateractionhub.org/).
+Das CEO Water Mandate hat einen Online-Bereich für Organisationen geschaffen, die mit anderen Organisationen bei Wasserprojekten in verschiedenen Bereichen zusammenarbeiten möchten: den [**Wasser Action Hub**](https://wateractionhub.org/) das Wasseraktionszentrum.
 
 ##### WRI's AqueDuct {-}
 
-Water scarcity is one of the defining issues of the 21st century. In its Global Risks 2013 report, the World Economic Forum identified water supply crises as one of the most impactful and likely risks facing the planet. With the support of a diverse group of partners, the World Resources Institute built [Aqueduct](http://www.wri.org/our-work/project/aqueduct/) to help companies, investors, governments, and communities better understand where and how water risks are emerging around the world. The centrepiece of Aqueduct is the [Water Risk Atlas](http://www.wri.org/applications/maps/aqueduct-atlas/). It uses a robust, peer reviewed methodology and the best-available data to create high-resolution, customizable global maps of water risk.
+Wasserknappheit ist eines der bestimmenden Themen des 21. Jahrhunderts. In seinem Bericht „Global Risks 2013“ identifizierte das Weltwirtschaftsforum Wasserversorgungskrisen als eines der folgenschwersten und wahrscheinlichsten Risiken für unseren Planeten. Mit Unterstützung einer vielfältigen Gruppe von Partnern hat das World Resources Institute [Aqueduct](http://www.wri.org/our-work/project/aqueduct/) entwickelt, um Unternehmen, Investoren, Regierungen und Gemeinden dabei zu helfen, besser zu verstehen, wo und wie weltweit Wasserrisiken entstehen. Das Herzstück von Aqueduct ist der [Water Risk Atlas](http://www.wri.org/applications/maps/aqueduct-atlas/). Er nutzt eine robuste, von Fachkollegen geprüfte Methodik und die besten verfügbaren Daten, um hochauflösende, anpassbare globale Karten zu Wasserrisiken zu erstellen.
 
 ##### WWF's Water Risk Filter {-}
 
-Launched in 2012, the [Water Risk Filter](http://waterriskfilter.panda.org/) has developed into a leading and trusted tool to help companies across the world assess their water risk.
+Das 2012 ins Leben gerufene [Wasserrisikofilter](http://waterriskfilter.panda.org/) hat sich zu einem führenden und vertrauenswürdigen Tool entwickelt, das Unternehmen auf der ganzen Welt bei der Bewertung ihres Wasserrisikos unterstützt.
 
-Designed to be easy to use by non-water experts, this is the only tool to assess both basin and operational water risk and provide customized guidance on how to respond. Covering all industries and countries, it has been used to assess more than 200,000 sites by over 3,000 users.
+Es ist so konzipiert, dass es auch von Nicht-Wasserexperten einfach verwendet werden kann. Es ist das einzige Tool, mit dem sich Wasserrisiken in Einzugsgebieten und im Betrieb einschätzen lassen und individuelle Anleitungen zur Reaktion gegeben werden können. Branchen- und länderübergreifend wurden mehr als 200.000 Websites von über 3.000 Nutzern bewertet.
 
-#### 5.2 Frequently asked questions {-#be02-faq}
+#### 5.2 Häufig gestellte Fragen {-#be02-faq}
 
-##### Why are the fitness criteria focused on consumption in water-stressed areas? {-}
+##### Warum konzentrieren sich die Fitnesskriterien auf den Verbrauch in wasserarmen Gebieten? {-}
 
-The goal requires a company to eliminate water consumption in its commercial and industrial processes in any area that is currently water-stressed, in order to ensure a company does nothing to hinder progress towards a future where no ecosystems or communities are suffering from a lack of access to water. Where the balance between supply, demand, and accessibility is sufficient that an area is _not_ designated to be stressed, consumption of water (in a manner that does not encroach on aquatic ecosystems) is not seen as a problem in and of itself.
+Das Ziel erfordert, dass ein Unternehmen den Wasserverbrauch in seinen gewerblichen und industriellen Prozessen in allen Gebieten, die derzeit unter Wasserstress leiden, eliminiert, um sicherzustellen, dass ein Unternehmen nichts unternimmt, was den Fortschritt hin zu einer Zukunft behindert, in der keine Ökosysteme oder Gemeinschaften unter einem Mangel an Zugang zu Wasser leiden. Wenn das Gleichgewicht zwischen Angebot, Nachfrage und Zugänglichkeit so ausgeglichen ist, dass ein Gebiet nicht als wasserarm eingestuft wird, wird der Wasserverbrauch (in einer Weise, die aquatische Ökosysteme nicht beeinträchtigt) an sich nicht als Problem angesehen.
 
-This does not mean that companies should simply 'leave the taps on' if operating in areas of water abundance. Due to the complexity of water systems and the way that communities and ecosystems rely on them, companies are encouraged to practice [water stewardship](#def-water-stewardship) as a holistic approach to understanding and managing their organization's impact on and relationship with water use.
+Das bedeutet jedoch nicht, dass Unternehmen in Regionen mit reichlich vorhandenen Wasserressourcen einfach „den Wasserhahn offen lassen“ sollten. Aufgrund der Komplexität der Wassersysteme und der Abhängigkeit von ihnen seitens der Gemeinden und Ökosysteme werden Unternehmen dazu angehalten, [verantwortungsvollen Umgang mit Wasser](#def-water-stewardship) als ganzheitlichen Ansatz zu praktizieren, um die Auswirkungen ihrer Organisation auf die Wassernutzung und ihre damit verbundene Beziehung zu Wasser zu verstehen und zu steuern.
 
-##### When can water offsets be used to achieve future-fitness? {-#be02-what-is-offset}
+##### Wann können Wasserkompensationsmaßnahmen eingesetzt werden, um Zukunftsfähigkeit zu erreichen? {-#be02-what-is-offset}
 
-Offsetting should generally be considered a last resort, as it will always include a trade-off in time, place, or kind. At time of writing there is no widely agreed consensus on how to determine whether a particular offset project is good enough. For the purposes of this goal, a water offset project is only considered appropriate if it occurs within the same watershed _and_ the same month as the company's consumption.
+Kompensationsmaßnahmen sollten generell als letzter Ausweg betrachtet werden, da sie immer einen Kompromiss in Bezug auf Zeit, Ort oder Art beinhalten. Zum Zeitpunkt der Berichterstellung gibt es keinen allgemein anerkannten Konsens darüber, wie bestimmt werden kann, ob ein bestimmtes Ausgleichsprojekt gut genug ist. Für die Zwecke dieses Ziels wird ein Wasserkompensationsprojekt nur dann als geeignet angesehen, wenn es im gleichen Wassereinzugsgebiet und im gleichen Monat wie der Verbrauch des Unternehmens stattfindet.
 
-Examples of offsets which may be appropriate include reducing the consumption of others in the same watershed, or capturing water to replenish the same watershed. If a company uses water offsets, it must document the approach taken to verify their effectiveness.
+Beispiele für geeignete Kompensationsmaßnahmen sind die Verringerung des Verbrauchs anderer Unternehmen im gleichen Wassereinzugsgebiet oder das Auffangen von Wasser zur Wiederauffüllung des gleichen Wassereinzugsgebiets. Wenn ein Unternehmen Kompensationsmaßnahmen einsetzt, muss es die Vorgehensweise dokumentieren, um deren Wirksamkeit zu überprüfen.
 
-##### What is the difference between water discharge and liquid emissions? {-#be02-discharge-vs-liquid}
+##### Was ist der Unterschied zwischen Wassereinleitungen und Flüssigkeitsemissionen? {-#be02-discharge-vs-liquid}
 
-[**BE02: Water use is environmentally responsible and socially equitable**](#be02) focuses on water-based discharge (often referred to as wastewater) that can be safely returned to watersheds once sufficiently treated. Treatment may be undertaken by a company itself or by third-party wastewater treatment infrastructure. In contrast, [**BE05: Operational emissions do not harm people or the environment**](#be05) encompasses liquid substances which are themselves contaminants – whether that be of air, soil or water. Liquid emissions that might escape into the environment – either intentionally or accidentally – and cannot be returned to a state of water, must be eliminated. The difference between wastewater and liquid emissions is nuanced, but the aim is the same: impact neutralization. Ultimately, the most important thing is for companies to capture data and assess progress consistently year on year.
+[**BE02: Eine umweltverträgliche und sozial gerechte Wassernutzung**](#be02) konzentriert sich auf Abwässer (oft als Abwasser bezeichnet), die nach ausreichender Behandlung sicher in die Wassereinzugsgebiete zurückgeführt werden können. Die Behandlung kann durch das Unternehmen selbst oder durch eine externe Abwasserbehandlungseinrichtung erfolgen. Im Gegensatz dazu umfasst, [**BE05: Betriebliche Emissionen schaden weder Mensch noch Umwelt flüssige Substanzen,**](#be05) die selbst Schadstoffe sind - sei es in der Luft, im Boden oder im Wasser. Flüssige Emissionen, die - absichtlich oder unabsichtlich - in die Umwelt gelangen können und nicht in den Zustand von Wasser zurückgeführt werden können, müssen beseitigt werden. Der Unterschied zwischen Abwässern und flüssigen Emissionen ist nuanciert, aber das Ziel ist dasselbe: die Neutralisierung der Auswirkungen. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und die Fortschritte Jahr für Jahr konsequent zu bewerten.
 
-[^1#be02-1]: This does not mean that a company should 'leave the taps on' if located in an area of water abundance. A company should strive to be good stewards of water resources – see the _Definitions_ section for an explanation of '[water stewardship](#def-water-stewardship)'.
+[^1#be02-1]: Das bedeutet nicht, dass ein Unternehmen „die Wasserhähne aufgedreht lassen“ sollte, wenn es sich in einem Gebiet mit Wasserreichtum befindet. Ein Unternehmen sollte sich bemühen, verantwortungsvoll mit den Wasserressourcen umzugehen - siehe Abschnitt „Definitionen“ für eine Erläuterung des Begriffs '[water stewardship](#def-water-stewardship)'.
 
-[^2#be02-2]: Note that this encompasses all types of discharge that may be classified as either [water discharge](#def-water-discharge), [effluent](#def-effluent) or [wastewater](#def-wastewater).
+[^2#be02-2]: Zu beachten ist, dass dies alle Arten von Einleitungen umfasst, die entweder als [Wassereinleitungen](#def-water-discharge), [Abwasser](#def-effluent) oder [Abwässer](#def-wastewater) eingestuft werden können.
 
-[^3#be02-3]: These questions were informed by the guidance offered by the [CEO Water Mandate](#be02-ceo-water) and the [Alliance for Water Stewardship](#be02-aws) standard.
+[^3#be02-3]: Diese Fragen wurden durch die von der [CEO Water Mandate](#be02-ceo-water) und [Alliance for Water Stewardship](#be02-aws).
 
-[^4#be02-4]: Note that while (non-water) liquid emissions and liquid operational waste are covered by other goals, they should be considered in parallel because the way they are generated and treated may overlap. See the [Related goals](#be02-related-goals) section for additional information.
+[^4#be02-4]: Beachten Sie, dass (nicht wasserbezogene) flüssige Emissionen und flüssige Betriebsabfälle zwar von anderen Zielen abgedeckt werden, diese jedoch parallel betrachtet werden sollten, da sich die Art und Weise ihrer Entstehung und Behandlung überschneiden kann. Siehe die [Verwandte Ziele](#be02-related-goals) Abschnitt für zusätzliche Informationen.
 
-[^5#be02-5]: See the provided guidance on the [distinction between withdrawal and consumption](#be02-differentiating-water-withdrawal) of water.
+[^5#be02-5]: Siehe die [Hinweise zur Unterscheidung zwischen Wasserentnahme und Wasserverbrauch](#be02-differentiating-water-withdrawal).
 
-[^6#be02-6]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^6#be02-6]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^7#be02-7]: Note that such workers would need to consume water for their personal use even if not at work. Although personal water consumption is not included in the Progress Indicator calculation, companies are encouraged to increase the efficiency of such water use wherever possible.
+[^7#be02-7]: Beachten Sie, dass diese Mitarbeiter:innen auch außerhalb der Arbeit Wasser für den persönlichen Gebrauch verbrauchen müssten. Obwohl der persönliche Wasserverbrauch nicht in die Berechnung des Fortschrittsindikators einfließt, werden Unternehmen ermutigt, die Effizienz dieser Wassernutzung nach Möglichkeit zu steigern.
 
-[^8#be02-8]: In some regions water may be obtained primarily from groundwater such as aquifers; in others, it may come mainly from surface sources such as lakes or rivers.
+[^8#be02-8]: In einigen Regionen wird das Wasser hauptsächlich aus Grundwasser (z. B. Aquiferen) gewonnen, in anderen hauptsächlich aus Oberflächengewässern wie Seen oder Flüssen.︎
 
-[^9#be02-9]: Note that 'total water withdrawal volumes' does not only relate to the company's own withdrawal volumes, but rather the total amount of water that is being removed from the source.
+[^9#be02-9]: Beachten Sie, dass sich die „Gesamtwasserentnahmemengen“ nicht nur auf die eigenen Entnahmemengen des Unternehmens beziehen, sondern auf die gesamte Wassermenge, die der Quelle entnommen wird.︎
 
-[^10#be02-10]: See for example CEO Water Mandate's [Water Stewardship Toolbox](https://ceowatermandate.org/toolbox/).
+[^10#be02-10]: Siehe zum Beispiel das CEO Water Mandate's [Water Stewardship Toolbox](https://ceowatermandate.org/toolbox/).
 
-[^11#be02-11]: This echoes the language of the [Alliance for Water Stewardship](http://a4ws.org/wp-content/uploads/2017/04/AWS-Standard-Full-v-1.0-English.pdf), which requires that a company has _"appropriate and credibly measured data to represent the physical, chemical and biological status of the site's direct and outsourced water effluent by temporally relevant time unit."_ @All14
+[^11#be02-11]: Dies entspricht dem Wortlaut der [Alliance for Water Stewardship](http://a4ws.org/wp-content/uploads/2017/04/AWS-Standard-Full-v-1.0-English.pdf), die verlangt, dass ein Unternehmen über _geeignete und glaubwürdig gemessene Daten verfügt, um den physikalischen, chemischen und biologischen Zustand des direkten und ausgelagerten Wasserabflusses des Standorts nach zeitlich relevanten Zeiteinheiten darzustellen._ @All14
 
-[^12#be02-12]: Note that the guidance offered in these lists regarding concentrations of chemical substances in discharged water is consistent with that specified in the goal [**Products do not harm people or the environment**](#be17). The extra dimensions included here are temperature, pH, and the implications of otherwise benign aspects (timing of discharge, clarity of water, organic matter likely to impact oxygen levels) on biological systems.
+[^12#be02-12]: Beachten Sie, dass die in diesen Listen enthaltenen Hinweise zu den Konzentrationen chemischer Substanzen im eingeleiteten Wasser mit dem Ziel [**rodukte schaden weder Mensch noch Umwelt**](#be17) übereinstimmen. Die zusätzlichen Dimensionen, die hier enthalten sind, sind Temperatur, pH-Wert und die Auswirkungen von ansonsten unbedenklichen Aspekten (Zeitpunkt der Einleitung, Klarheit des Wassers, organische Stoffe, die sich auf den Sauerstoffgehalt auswirken können) auf biologische Systeme.︎
 
-[^13#be02-13]: This is a specific requirement of the [Alliance for Water Stewardship](http://a4ws.org/), which states: _"where identification of the main water quality parameters of concern is not specified in legal requirements or mandates, it is largely left to the discretion of the site, with local stakeholders being the arbiters. The importance of stakeholder engagement in this regard is critical. This approach ensures that local water quality issues can be taken into account, while providing some level of oversight."_ @All14
+[^13#be02-13]: Dies ist eine spezifische Anforderung der [Alliance for Water Stewardship](http://a4ws.org/), die besagt: _Wenn die Identifizierung der wichtigsten Wasserqualitätsparameter, die Anlass zur Sorge geben, nicht in gesetzlichen Anforderungen oder Vorschriften festgelegt ist, liegt dies weitgehend im Ermessen des Standorts, wobei lokale Interessengruppen die Entscheidung treffen. Die Einbindung der Interessengruppen ist in dieser Hinsicht von entscheidender Bedeutung. Dieser Ansatz stellt sicher, dass lokale Wasserqualitätsprobleme berücksichtigt werden können und gleichzeitig ein gewisses Maß an Kontrolle bietet._ @All14
 
-[^14#be02-14]: For example, in water bodies suffering from harmful algal blooms due to an excess of man-made nutrients, companies should ensure their discharge is treated to reduce levels of nitrogen or phosphorous. @All14
+[^14#be02-14]: Beispielsweise sollten Unternehmen in Gewässern, die aufgrund eines Überschusses an künstlichen Nährstoffen unter schädlichen Algenblüten leiden, sicherstellen, dass deren Abflüsse behandelt werden, um den Stickstoff- oder Phosphorgehalt zu reduzieren. @All14
 
-[^15#be02-15]: The temperature guidance is in a separate document (hyperlinked in text, above) which is referenced in the main body of EPA guidance.
+[^15#be02-15]: Die Temperaturleitlinien finden Sie in einem separaten Dokument (im Text oben verlinkt), auf das im Hauptteil der EPA-Leitlinien verwiesen wird.
 
-[^16#be02-16]: Offsetting should generally be considered a last resort as it will always include a tradeoff in time, place, or kind. To minimize the extent of tradeoffs, offsetting projects must occur within the same place and time as the original consumption. The approach used to verify the effectiveness of such offsets must be documented. For more information about offsetting projects, see this [_frequently asked question_](#be02-what-is-offset).
+[^16#be02-16]: Kompensationen sollten generell als letzter Ausweg betrachtet werden, da sie immer einen Kompromiss in Bezug auf Zeit, Ort oder Art darstellen. Um das Ausmaß der Ausgleiche zu minimieren, müssen die Kompensationsprojekte am selben Ort und zur selben Zeit wie der ursprüngliche Verbrauch stattfinden. Der Ansatz zur Überprüfung der Wirksamkeit solcher Kompensationen muss dokumentiert werden. Weitere Informationen zu Kompensationsprojekten finden Sie in [_dieser häufig gestellten Frage_](#be02-what-is-offset).
 
-[^17#be02-17]: This should also include water from sources that have not yet been assessed, and which therefore cannot be verified to live up to all fitness criteria.
+[^17#be02-17]: Dies sollte auch Wasser aus Quellen umfassen, die noch nicht bewertet wurden und bei denen daher nicht überprüft werden kann, ob sie alle Fitnesskriterien erfüllen.︎
 
-[^18#be02-18]: This should also include any discharges that have not yet been assessed, and which therefore cannot be verified to live up to all fitness criteria.
+[^18#be02-18]: Dies sollte auch alle Entlassungen umfassen, die noch nicht bewertet wurden und daher nicht überprüft werden können, ob sie alle Fitnesskriterien erfüllen.

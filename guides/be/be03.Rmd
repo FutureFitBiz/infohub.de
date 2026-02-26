@@ -2,369 +2,369 @@
 output: github_document
 ---
 
-## BE03: Natural Resources {-#be03}
+## BE03: Natürliche Ressourcen {-#be03}
 
-<div class="subtitle">Natural resources are managed to respect the welfare of ecosystems, people and animals
+<div class="subtitle">Natürliche Ressourcen werden so bewirtschaftet, dass das Wohlergehen von Ökosystemen, Menschen und Tieren respektiert wird
 </div>
 
-### 1. Ambition {-#be03-ambition}
+### 1. Zielsetzung {-#be03-ambition}
 
-A Future-Fit Business preserves the health of all natural resources it owns or manages, as well as that of all ecosystems and communities impacted by sourcing activities it conducts itself (e.g. farming, fishing, hunting, rearing animals, mining).
+Ein zukunftsfähiges Unternehmen schützt die Gesundheit aller natürlichen Ressourcen, die es besitzt oder bewirtschaftet, sowie die Gesundheit aller Ökosysteme und Gemeinschaften, die von seinen Beschaffungsaktivitäten (z. B. Landwirtschaft, Fischerei, Jagd, Tierhaltung, Bergbau) betroffen sind.
 
-#### 1.1 What this goal means {-#be03-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be03-what-goal-means}
 
-As demand for natural resources increases, so does the pressure placed on the ecosystems, people and animals that contribute to their delivery.
+Mit der steigenden Nachfrage nach natürlichen Ressourcen steigt auch der Druck auf die Ökosysteme, Menschen und Tiere, die zu ihrer Bereitstellung beitragen.
 
-The emphasis here is on causing no harm as a result of the company's ownership or management and extraction of natural resources. This includes but is not limited to:
+Der Schwerpunkt liegt hier darauf, dass durch den Besitz oder die Bewirtschaftung und Gewinnung natürlicher Ressourcen durch das Unternehmen kein Schaden entsteht. Dies umfasst unter anderem:
 
-- Harvesting renewable resources at rates that do not reduce nature's capacity to regenerate them.
-- Extracting non-renewable resources in ways that do not systematically damage surrounding ecosystems and communities.
-- Respecting the welfare of animals.
-- Avoiding conflict and human rights violations when mining valuable minerals.
+- Erneuerbare Ressourcen so zu bewirtschaften, dass die Regenerationsfähigkeit der Natur nicht beeinträchtigt wird.
+- Gewinnung nicht erneuerbarer Ressourcen auf eine Weise, die die umliegenden Ökosysteme und Gemeinschaften nicht systematisch schädigt.
+- Das Wohlergehen der Tiere respektieren.
+- Vermeidung von Konflikten und Menschenrechtsverletzungen beim Abbau wertvoller Mineralien.
 
-To be Future-Fit, a company must: (a) preserve the health of all natural resources it owns or manages; and (b) protect the health of any ecosystems and communities impacted by harvesting and extraction activities.
+Um zukunftsfähig zu sein, muss ein Unternehmen: (a) die Gesundheit aller natürlichen Ressourcen, die es besitzt oder bewirtschaftet, bewahren; und (b) die Gesundheit aller Ökosysteme und Gemeinschaften, die von den Ernte- und Gewinnungsaktivitäten betroffen sind, schützen.
 
-#### 1.2 Why this goal is needed {-#be03-why-goal-needed}
+#### 1.2 Warum dieses Ziel erforderlich ist {-#be03-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Natural resources are being depleted by society at an unsustainable rate.** Currently, humanity's annual use of renewable natural resources is 1.7 times that which can be regenerated over an entire year. In 2017, society had already used a year's worth of available renewable resources by the 2nd of August. @Gfn17
+- **Die natürlichen Ressourcen werden von der Gesellschaft in einem nicht nachhaltigen Tempo erschöpft.** Derzeit verbraucht die Menschheit jährlich 1,7 Mal mehr erneuerbare natürliche Ressourcen, als in einem ganzen Jahr regeneriert werden können. Im Jahr 2017 hatte die Gesellschaft bis zum 2. August bereits den Wert der verfügbaren erneuerbaren Ressourcen eines Jahres verbraucht. @Gfn17
 
-- **We're currently experiencing the worst incidence of species extinction since the loss of the dinosaurs 65 million years ago**. Extinction occurs at a natural background rate of about one to five species per year. Scientists estimate we're now losing species at 1,000 to 10,000 times the background rate, with dozens going extinct every day. @Cen17
+- **Wir erleben derzeit das größte Artensterben seit dem Aussterben der Dinosaurier vor 65 Millionen Jahren**. Das Aussterben erfolgt mit einer natürlichen Hintergrundrate von etwa einer bis fünf Arten pro Jahr. Wissenschaftler schätzen, dass die Zahl der aussterbenden Arten heute das 1.000- bis 10.000-fache der Hintergrundrate beträgt, wobei täglich Dutzende von Arten aussterben. @Cen17
 
-#### 1.3 How this goal contributes to the SDGs {-#be03-goal-to-sdgs}
+#### 1.3 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be03-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by respectfully managing natural resources, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie mit natürlichen Ressourcen respektvoll umgehen und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:Unternehmen können zu mehreren SDGs beitragen, indem sie mit natürlichen Ressourcen respektvoll umgehen und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 1](assets/sdg/sdg-1.svg) | Support efforts to ensure people have equal rights to economic and natural resources, and to reduce people's exposure and vulnerability to economic, social and environmental shocks. |
-| ![SDG 2](assets/sdg/sdg-2.svg) | Support efforts to increase the productivity of small-scale food producers through better access to natural and economic resources and knowledge. |
-| ![SDG 8](assets/sdg/sdg-8.svg) | Support efforts to increase global resource efficiency in production and decouple economic growth from environmental degradation. |
-| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the sustainable management and efficient use of natural resources. |
-| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to sustainably manage and protect marine and coastal eco-systems to avoid significant adverse impacts by strengthening their resilience, and to effectively regulate harvesting and end destructive fishing practices. |
-| ![SDG 15](assets/sdg/sdg-15.svg) | Support efforts to ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems, to halt deforestation and combat desertification, and to halt the loss of biodiversity and protect and prevent the extinction of threatened species. |
+| ![SDG 1](assets/sdg/sdg-1.svg) | Unterstützung von Bemühungen, um sicherzustellen, dass alle Menschen gleiche Rechte auf wirtschaftliche und natürliche Ressourcen haben, und um die Gefährdung und Anfälligkeit der Menschen gegenüber wirtschaftlichen, sozialen und ökologischen Schocks zu verringern. |
+| ![SDG 2](assets/sdg/sdg-2.svg) | Unterstützung von Bemühungen zur Steigerung der Produktivität kleiner Lebensmittelproduzenten durch einen besseren Zugang zu natürlichen und wirtschaftlichen Ressourcen und Wissen. |
+| ![SDG 8](assets/sdg/sdg-8.svg) | Unterstützung von Bemühungen zur Steigerung der globalen Ressourceneffizienz in der Produktion und zur Entkopplung des Wirtschaftswachstums von der Umweltzerstörung. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Unterstützung von Bemühungen zur Erreichung einer nachhaltigen Bewirtschaftung und effizienten Nutzung natürlicher Ressourcen. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Unterstützung von Bemühungen zur nachhaltigen Verwaltung und zum Schutz von Meeres- und Küstenökosystemen, um erhebliche negative Auswirkungen durch die Stärkung ihrer Widerstandsfähigkeit zu vermeiden und die Befischung wirksam zu regulieren und destruktive Fischereipraktiken zu beenden. |
+| ![SDG 15](assets/sdg/sdg-15.svg) | Unterstützung von Bemühungen zur Erhaltung, Wiederherstellung und nachhaltigen Nutzung des Süßwasserökosystems an Land und im Binnenland, zur Eindämmung der Entwaldung und Bekämpfung der Wüstenbildung sowie zur Eindämmung des Verlusts der biologischen Vielfalt und zum Schutz und zur Verhinderung des Aussterbens bedrohter Arten. |
 </div>
 
-#### 1.4 Related goals {-#be03-related-goals}
+#### 1.4 Verwandte Ziele {-#be03-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Natural resources_ goal only applies to companies that are directly involved in harvesting or extracting natural resources, either for sale or for use in their own operations. The way that suppliers manage natural resources is covered by the _Procurement_ goal.
-- [**Products do not harm people or the environment:**](#be17) The _Natural resources_ goal only applies to a company's operational activities. Any harm associated with natural resources which could be caused by the use of a company's products is covered by the goal _Products do not harm people or the environment_.
+- [**Beschaffung sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Ziel _Natürliche Ressourcen_ gilt nur für Unternehmen, die direkt an der Ernte oder Gewinnung natürlicher Ressourcen beteiligt sind, entweder zum Verkauf oder zur Verwendung in ihren eigenen Betrieben. Die Art und Weise, wie Lieferanten mit natürlichen Ressourcen umgehen, wird durch das Beschaffungsziel abgedeckt.
+- [**Produkte schaden weder Mensch noch Umwelt:**](#be17) Das Ziel _Natürliche Ressourcen_ gilt nur für die operativen Aktivitäten eines Unternehmens. Alle Schäden im Zusammenhang mit natürlichen Ressourcen, die durch die Verwendung der Produkte eines Unternehmens verursacht werden könnten, fallen unter das Ziel _Produkte schaden weder Mensch noch Umwelt_.
 
-### 2. Action {-#be03-action}
+### 2. Aktion {-#be03-action}
 
-#### 2.1 Getting started {-#be03-getting-started}
+#### 2.1 Erste Schritte {-#be03-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Economic incentives around natural resource production often encourage low-cost and fast-paced processes, and are at odds with ensuring their long-term availability. These challenges exist across many types of resource, but very different strategies are needed to overcome them: there is no universal solution appropriate to all types of natural resource.
+Wirtschaftliche Anreize rund um die Produktion natürlicher Ressourcen fördern oft kostengünstige und schnelle Prozesse und stehen im Widerspruch zur Sicherstellung ihrer langfristigen Verfügbarkeit. Diese Herausforderungen bestehen bei vielen Arten von Ressourcen, es sind jedoch sehr unterschiedliche Strategien erforderlich, um sie zu bewältigen: Es gibt keine universelle Lösung, die für alle Arten natürlicher Ressourcen geeignet ist.
 
-A company's first step toward future-fitness should be to examine its management practices across all locations, to acknowledge any concerns that have been raised (or that can be reasonably anticipated) relating to each type of natural resource(s) used, and to understand any unique or location-specific considerations for each site. This provides a baseline against which the business can start to pursue opportunities for improvement.
+Der erste Schritt eines Unternehmens zur Zukunftsfähigkeit sollte darin bestehen, seine Managementpraktiken an allen Standorten zu überprüfen, alle Bedenken anzuerkennen, die im Zusammenhang mit den einzelnen Arten der verwendeten natürlichen Ressourcen geäußert wurden (oder vernünftigerweise erwartet werden können), und diese zu verstehen alle einzigartigen oder standortspezifischen Überlegungen für jeden Standort. Dies stellt eine Grundlage dar, anhand derer das Unternehmen beginnen kann, Verbesserungsmöglichkeiten zu verfolgen.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Which natural resources is the company responsible for managing? {-}
+###### Für welche natürlichen Ressourcen ist das Unternehmen verantwortlich? {-}
 
-- What types of natural resources does the company own or manage? Where are these operations located?
-- What harvesting, mining, farming or other production methods are used? Are any third parties involved in the primary sourcing stage?
-- Are operating guidelines to protect local communities or ecosystems designed primarily to satisfy internal requirements, to comply with regional legislation, or to meet industry or NGO specified guidelines? Are any of the processes subject to screening or accreditation by an independent third party?
-- Does the company need permission to access natural resources (e.g. local authorities or communities)? If so, what is the typical process for obtaining such permissions?
+- Welche Arten von natürlichen Ressourcen besitzt oder verwaltet das Unternehmen? Wo befinden sich diese Betriebe?
+- Welche Ernte-, Bergbau-, Landwirtschafts- oder andere Produktionsmethoden werden angewendet? Sind Dritte an der Primärbeschaffungsphase beteiligt?
+- Sind Betriebsrichtlinien zum Schutz lokaler Gemeinschaften oder Ökosysteme in erster Linie darauf ausgelegt, interne Anforderungen zu erfüllen, regionale Gesetze einzuhalten oder von der Industrie oder NGO vorgegebene Richtlinien zu erfüllen? Unterliegt einer der Prozesse einer Prüfung oder Akkreditierung durch einen unabhängigen Dritten?
+- Benötigt das Unternehmen eine Genehmigung für den Zugriff auf natürliche Ressourcen (z. B. lokale Behörden oder Gemeinden)? Wenn ja, wie sieht der typische Prozess zur Erlangung solcher Berechtigungen aus?
 
-###### What economic concerns and production risks can be identified? {-}
+###### Welche wirtschaftlichen Bedenken und Produktionsrisiken lassen sich erkennen? {-}
 
-- Are natural resources that are harvested from the wild or mined abundant in nature or scarce? Is the sourcing or management of these resources associated with high risks and production costs?
-- Do current trends indicate the possibility of scarcity concerns in the future? If yes, what is driving these trends?
-- Have other organizations, research institutions or authorities raised concerns regarding the availability of the natural resources in question, or with the processes being used to obtain them?
+- Sind natürliche Ressourcen, die in der Wildnis geerntet oder abgebaut werden, in der Natur reichlich vorhanden oder knapp? Ist die Beschaffung oder Verwaltung dieser Ressourcen mit hohen Risiken und Produktionskosten verbunden?
+- Deuten aktuelle Trends auf die Möglichkeit künftiger Knappheitssorgen hin? Wenn ja, was treibt diese Trends an?
+- Haben andere Organisationen, Forschungseinrichtungen oder Behörden Bedenken hinsichtlich der Verfügbarkeit der betreffenden natürlichen Ressourcen oder der Verfahren zu ihrer Gewinnung geäußert?
 
-###### What local concerns and risks to production can the company identify? {-}
+###### Welche lokalen Bedenken und Risiken für die Produktion kann das Unternehmen identifizieren? {-}
 
-- Are any operations located in or near ecosystems, natural habitats, local communities or settlements which could be affected by the company's presence?
-- Does production involve animals? If so, do industry groups and other relevant organizations offer guidance on what is required to ensure humane treatment?
-- What kind of physical presence does the company's activity involve? Are any negative impacts caused by natural resource production reversible or permanent?
-- What types of operational by-products are created as a result of operations (gaseous, liquid and solid emissions, physical waste)? How is waste stored and disposed?
-- What key inputs does the company rely on to manage its natural resources (water, energy, chemicals, etc.)? Is the supply or use of these inputs a subject of concern?
-- What legal regulations is the company subject to? How does this vary by location?
-- Are local organizations actively highlighting issues associated with current management practices? If so, have these organizations been acknowledged or consulted by the company?
+- Befinden sich Betriebsstätten in oder in der Nähe von Ökosystemen, natürlichen Lebensräumen, lokalen Gemeinschaften oder Siedlungen, die durch die Präsenz des Unternehmens betroffen sein könnten?
+- Werden bei der Produktion Tiere einbezogen? Wenn ja, bieten Branchenverbände und andere relevante Organisationen Leitlinien für eine humane Behandlung bereit?
+- Welche Art von physischer Präsenz ist mit der Tätigkeit des Unternehmens verbunden? Sind negative Auswirkungen, die durch die Produktion natürlicher Ressourcen verursacht werden, reversibel oder dauerhaft?
+- Welche Arten von Betriebsnebenprodukten entstehen durch den Betrieb (gasförmige, flüssige und feste Emissionen, physische Abfälle)? Wie wird Abfall gelagert und entsorgt?
+- Auf welche wichtigen Inputs stützt sich das Unternehmen bei der Bewirtschaftung seiner natürlichen Ressourcen (Wasser, Energie, Chemikalien usw.)? Gibt es Bedenken hinsichtlich der Versorgung mit oder der Nutzung dieser Inputs?
+- Welchen gesetzlichen Regelungen unterliegt das Unternehmen? Wie unterschiedlich ist dies je nach Standort?
+- Weisen lokale Organisationen aktiv auf Probleme im Zusammenhang mit aktuellen Managementpraktiken hin? Wenn ja, wurden diese Organisationen vom Unternehmen anerkannt oder konsultiert?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### What are the best opportunities for making progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Which types of natural resources is the company most involved in sourcing? Which activities have the largest physical footprints? Which activities does the company have the greatest degree of operational control over?
-- How secure is the company's legal access to natural resources in each location?
-- Are there locations with a high potential for reputational risk due to current resource management practices?
-- How are population growth, climate change, economic development, and trends in regulation expected to exacerbate existing risks or introduce new ones?
-- In which areas can progress be made with the least investment of time and resources?
-- Do collaboration opportunities exist with local communities, organizations or other companies on how to tackle shared sourcing challenges?
+- Welche Arten natürlicher Ressourcen ist das Unternehmen am meisten an der Beschaffung beteiligt? Welche Aktivitäten haben den größten physischen Fußabdruck? Über welche Aktivitäten hat das Unternehmen die größte operative Kontrolle?
+- Wie sicher ist der legale Zugang des Unternehmens zu natürlichen Ressourcen an jedem Standort?
+- Gibt es Standorte mit einem hohen Potenzial für Reputationsrisiken aufgrund aktueller Ressourcenmanagementpraktiken?
+- Inwiefern werden Bevölkerungswachstum, Klimawandel, wirtschaftliche Entwicklung und Regulierungstrends voraussichtlich bestehende Risiken verschärfen oder neue Risiken mit sich bringen?
+- In welchen Bereichen können Fortschritte mit dem geringsten Zeit- und Ressourcenaufwand erzielt werden?
+- Gibt es Möglichkeiten zur Zusammenarbeit mit lokalen Gemeinschaften, Organisationen oder anderen Unternehmen zur Bewältigung gemeinsamer Beschaffungsherausforderungen?
 
-###### Has the company committed to targets and action plans to reduce or eliminate sourcing concerns? {-}
+###### Hat sich das Unternehmen zu Zielen und Aktionsplänen verpflichtet, um Beschaffungsprobleme zu reduzieren oder zu beseitigen? {-}
 
-- If so, are existing commitments sufficient to significantly reduce negative impacts? Are they enough to achieve future-fitness? If commitments are insufficient, how might they be embedded? Whose authorization would be needed, and who would need to be involved to design and implement adequate internal controls and incentives?
+- Wenn ja, reichen die bestehenden Verpflichtungen aus, um negative Auswirkungen deutlich zu reduzieren? Reichen sie aus, um zukunftsfähig zu sein? Wenn die Verpflichtungen nicht ausreichen, wie könnten sie verankert werden? Wessen Genehmigung wäre erforderlich und wer müsste einbezogen werden, um angemessene interne Kontrollen und Anreize zu entwerfen und umzusetzen?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _natural resources are managed to safeguard communities, animals and ecosystems_?[^1#be03-1] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-natural-resources).
+- Ist das Unternehmen in der Lage, über das zur Erreichung dieses Ziels erforderliche Maß hinaus irgendetwas zu tun, um sicherzustellen, dass die natürlichen Ressourcen so bewirtschaftet werden, dass Gemeinschaften, Tiere und Ökosysteme geschützt werden?[^1#be03-1] Eine solche Aktivität kann den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie in der [**Leitfaden zur positiven Verfolgung**](#pp-natural-resources).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be03-pursuing}
+#### 2.2 Streben nach Zukunftsfähigkeit {-#be03-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-Fitness must be assessed for each type of natural resource the company is involved in managing. Once the fitness of all natural resources has been assessed, it is then possible to calculate total company fitness. This step is described in detail in the _Assessment_ section, together with the additional steps needed to translate the fitness assessment into quantitative fitness indicators.
+Die Fitness muss für jede Art von natürlicher Ressource beurteilt werden, an deren Verwaltung das Unternehmen beteiligt ist. Nachdem die Fitness aller natürlichen Ressourcen bewertet wurde, kann die Gesamtfitness des Unternehmens berechnet werden. Dieser Schritt wird im Abschnitt „Bewertung“ ausführlich beschrieben, zusammen mit den zusätzlichen Schritten, die erforderlich sind, um die Fitnessbewertung in quantitative Fitnessindikatoren umzusetzen.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-There is no one-size-fits-all set of criteria that spans all natural resource types. The company must use available expertise to pinpoint areas of concern for each type.
+Es gibt keine einheitlichen Kriterien, die alle Arten natürlicher Ressourcen umfassen. Das Unternehmen muss das verfügbare Fachwissen nutzen, um Problembereiche für jeden Typ zu ermitteln.
 
-In doing this, the company must meet the following requirements:
+Dabei muss das Unternehmen folgende Voraussetzungen erfüllen:
 
-###### Requirements for owning or managing natural resources {-}
+###### Anforderungen an den Besitz oder die Verwaltung natürlicher Ressourcen {-}
 
-Harvesting or extraction of a natural resource is considered 0% fit if:
+Die Ernte oder Gewinnung einer natürlichen Ressource gilt als 0% geeignet, wenn:
 
-- It is derived from [endangered animals or plants](#def-endangered-species).
-- Its extraction or trade contributes (financially or otherwise) to regional conflict.
-- It is obtained in ways that interfere with [HCV ecosystems](#be03-hcv) or endangered species.
+- Es ist abgeleitet von [gefährdete Tiere oder Pflanzen](#def-endangered-species).
+- Sein Abbau oder Handel trägt (finanziell oder anderweitig) zu regionalen Konflikten bei.
+- Es wird auf eine Weise gewonnen, die Ökosysteme mit hohem Naturschutzwert oder gefährdete Arten beeinträchtigt [HCV ecosystems](#be03-hcv).
 
-Other natural resources are being owned or managed in a Future-Fit manner if the following requirements are fulfilled:
+Andere natürliche Ressourcen sind im Besitz oder werden auf nachhaltige Weise bewirtschaftet, wenn die folgenden Voraussetzungen erfüllt sind:
 
-####### For a renewable natural resource, it is required that: {-}
+####### Für eine erneuerbare natürliche Ressource ist Folgendes erforderlich: {-}
 
-- The rate of harvesting does not undermine natural recovery and regeneration rates.
-- The health (structure, productivity, function and diversity) of affected ecosystems is maintained.
-- Appropriate barriers are in place to protect aquatic ecosystems from production impacts, and in particular fertilizer run-off.
-- Controls to ensure that farming and rearing activities do not cause the introduction of invasive alien species into new ecosystems are assessed on a regular basis, and strengthened when necessary.
-- Destructive farming and harvesting techniques are eliminated (e.g. bottom-trawling fishing nets, monoculture crops, erosion, topsoil and sediment loss).
-- Sourcing is in line with requirements set by relevant, leading industry standards.[^2#be03-2]
+- Die Ernterate beeinträchtigt nicht die natürlichen Erholungs- und Regenerationsraten.
+- Die Gesundheit (Struktur, Produktivität, Funktion und Vielfalt) der betroffenen Ökosysteme bleibt erhalten.
+- Es sind geeignete Barrieren vorhanden, um die aquatischen Ökosysteme vor Auswirkungen durch die Produktion und insbesondere vor Düngemittelabfluss zu schützen.
+- Kontrollen, die sicherstellen, dass landwirtschaftliche und tierhaltende Tätigkeiten nicht zur Einschleppung invasiver gebietsfremder Arten in neue Ökosysteme führen, werden regelmäßig überprüft und bei Bedarf verstärkt.
+- Zerstörerische Anbau- und Erntetechniken werden eliminiert (z. B. Grundschleppnetze, Monokulturen, Erosion, Mutterboden- und Sedimentverlust).
+- Die Beschaffung erfolgt im Einklang mit den Anforderungen relevanter, führender Industriestandards.[^2#be03-2]
 
-####### In addition, for animals, resources derived from animals, or services provided by animals, it is required that: {-}
+####### Darüber hinaus ist für Tiere, von Tieren gewonnene Ressourcen oder von Tieren erbrachte Dienstleistungen Folgendes erforderlich: {-}
 
-- The physical and emotional welfare of reared animals is maintained, and the approach lives up to the internationally recognized [Five Freedoms](#be03-5-freedoms).[^3#be03-3]
-- The hunting of endangered animals is eliminated.
-- Sourcing is in line with requirements set by relevant, leading industry standards.[^4#be03-4]
+- Das körperliche und emotionale Wohlergehen der gehaltenen Tiere bleibt erhalten und der Ansatz wird den international anerkannten Standards gerecht [Fünf Freiheiten](#be03-5-freedoms).[^3#be03-3]
+- Die Jagd auf gefährdete Tiere wird unterbunden.
+- Die Beschaffung erfolgt im Einklang mit den Anforderungen relevanter, führender Industriestandards.[^4#be03-4]
 
 <div class="callout-note">
-**Additional criteria for companies who use animals for product testing**
+**Zusätzliche Kriterien für Unternehmen, die Tiere für Produkttests verwenden**
 
-A company that relies on animals to conduct clinical trials, can only consider that activity to be Future-Fit if the testing is required by law, and if it is done in pursuit of overcoming systemic social and environmental challenges (e.g. to develop new medicines). This excludes, for example, testing cosmetics. In addition, the company must have the following policies and procedures in place:
+Ein Unternehmen, das bei der Durchführung klinischer Studien auf Tiere angewiesen ist, kann diese Aktivität nur dann als zukunftsfähig betrachten, wenn die Tests gesetzlich vorgeschrieben sind und wenn sie zur Bewältigung systemischer sozialer und ökologischer Herausforderungen durchgeführt werden (z. B. zur Entwicklung neuer Medikamente). . Davon ausgenommen ist beispielsweise das Testen von Kosmetika. Darüber hinaus muss das Unternehmen über die folgenden Richtlinien und Verfahren verfügen:
 
-- A publicly stated commitment to continuously work to replace, reduce and refine animal testing, which is enforced within the company itself and for any outsourced testing;
+- Eine öffentlich erklärte Verpflichtung, kontinuierlich daran zu arbeiten, Tierversuche zu ersetzen, zu reduzieren und zu verfeinern, die im Unternehmen selbst und bei allen ausgelagerten Tests durchgesetzt wird;
 
-- Initiatives which evidences the commitment to replace, reduce and refine animal testing; and
+- Initiativen, die das Engagement belegen, Tierversuche zu ersetzen, zu reduzieren und zu verfeinern; Und
 
--  Controls that ensure policies and processes are effective.[^5#be03-5]
+-  Kontrollen, die sicherstellen, dass Richtlinien und Prozesse wirksam sind.[^5#be03-5]
 </div>
 
-####### For non-renewable, mined resources, it is required that: {-}
+####### Für nicht erneuerbare, geförderte Ressourcen ist Folgendes erforderlich: {-}
 
-- The sourcing of valuable minerals does not contribute to conflict and human rights violations, by explicitly addressing all issues relating to conflict-free mining.
-- The use of destructive extraction techniques is eliminated (e.g. open-cut mining).
-- The health (structure, productivity, function and diversity) of affected ecosystems is maintained.
-- Controls to protect ecosystems from production impacts (e.g. mercury run-off) are in place, are assessed on a regular basis to ensure their effectiveness, and are strengthened when necessary.
-- Sourcing is in line with requirements set by relevant, leading industry standards.[^6#be03-6]
+- Die Beschaffung wertvoller Mineralien trägt nicht zu Konflikten und Menschenrechtsverletzungen bei, indem alle Fragen im Zusammenhang mit einem konfliktfreien Bergbau explizit angesprochen werden.
+- Der Einsatz zerstörerischer Gewinnungstechniken wird ausgeschlossen (z. B. Tagebau).
+- Die Gesundheit (Struktur, Produktivität, Funktion und Vielfalt) der betroffenen Ökosysteme bleibt erhalten.
+- Es sind Kontrollen zum Schutz der Ökosysteme vor Produktionsauswirkungen (z. B. Quecksilberabfluss) vorhanden, die regelmäßig bewertet werden, um ihre Wirksamkeit sicherzustellen, und bei Bedarf verstärkt werden.
+- Die Beschaffung erfolgt im Einklang mit den Anforderungen relevanter, führender Industriestandards.[^6#be03-6]
 
-### 3. Assessment {-#be03-assessment}
+### 3. Bewertung {-#be03-assessment}
 
-#### 3.1 Progress indicators {-#be03-progress}
+#### 3.1 Fortschrittsindikatoren {-#be03-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden **](#ig-incomplete-data).
 
-This goal has one progress indicator. To calculate it, the following steps are required:
+Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Assess the fitness of each natural resource.
-- Calculate fitness across all natural resources.
+- Bewerten Sie die Fitness der einzelnen natürlichen Ressourcen.
+- Berechnen Sie die Fitness aller natürlichen Ressourcen.
 
-##### Assessing the fitness of each natural resource {-}
+##### Bewertung der Fitness jeder natürlichen Ressource {-}
 
-A natural resource is 100% fit if it is managed in accordance with the above criteria. Otherwise, the natural resource is considered 0% fit.
+Eine natürliche Ressource ist zu 100% fit, wenn sie nach den oben genannten Kriterien bewirtschaftet wird. Andernfalls gilt die natürliche Ressource als 0% geeignet.
 
-If all of the criteria are upheld for a fraction of a natural resource (e.g. because practices differ across two sites), a company can score that fraction as 100% fit. Conversely, if a natural resource has _not_ yet been assessed against the fitness criteria, it should be considered 0% fit.
+Wenn alle Kriterien für einen Teil einer natürlichen Ressource erfüllt sind (z. B. weil die Praktiken an zwei Standorten unterschiedlich sind), kann ein Unternehmen diesen Teil als 100% geeignet einstufen. Umgekehrt sollte eine natürliche Ressource, die noch nicht anhand der Eignungskriterien bewertet wurde, als zu 0% geeignet eingestuft werden.
 
-##### Calculating company progress {-}
+##### Berechnung des Unternehmensfortschritts {-}
 
-For each natural resource:
+Für jede natürliche Ressource:
 
-- Determine the value of each resource (see [_Note on valuing natural resources_](#be03-valuing-natural-resources), below).
-- Calculate the total value of natural resources owned or managed by the company which have been verified to be fit.
-- Calculate the total value of _all_ natural resources owned or managed by the company.
-- The company's progress is measured as the fraction of the total value of owned or managed natural resources that live up to the fitness criteria, expressed as a percentage.
+- Bestimmen Sie den Wert jeder Ressource (siehe [_Hinweis zur Wertschätzung_](#be03-valuing-natural-resources), natürlicher Ressourcen, unten).
+- Berechnen Sie den Gesamtwert der natürlichen Ressourcen, die sich im Besitz des Unternehmens befinden oder von ihm verwaltet werden und deren Eignung überprüft wurde.
+- Berechnen Sie den Gesamtwert _aller_ natürlichen Ressourcen, die sich im Besitz des Unternehmens befinden oder von ihm verwaltet werden.
+- Der Fortschritt des Unternehmens wird als Anteil des Gesamtwerts der eigenen oder verwalteten natürlichen Ressourcen gemessen, der den Fitnesskriterien entspricht, ausgedrückt als Prozentsatz.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F^{ALL}=\frac{V_F}{V_T}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F^{ALL}$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$V_F$$ | Is the total value of natural resources owned or managed by the company which have been verified as Future-Fit. |
-| $$V_T$$ | Is the total value of _all_ company-managed natural resources. |
+| $$F^{ALL}$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$V_F$$ | Ist der Gesamtwert der natürlichen Ressourcen, die sich im Besitz oder unter der Verwaltung des Unternehmens befinden und als zukunftsfähig verifiziert wurden. |
+| $$V_T$$ | Ist der Gesamtwert aller vom Unternehmen verwalteten natürlichen Ressourcen. |
 </div>
 
 ####### {-#be03-valuing-natural-resources}
 <div class="callout-note">
-**Note on valuing natural resources**
+**Hinweis zur Wertschätzung natürlicher Ressourcen**
 
-A dollar value should be attributed to each company-managed or owned natural resource, in order to integrate them into the company's overall fitness calculation.Where possible, the company should determine this dollar value by using the market price.
+Jeder vom Unternehmen verwalteten oder eigenen natürlichen Ressource sollte ein Dollarwert zugewiesen werden, um sie in die Gesamtfitnessberechnung des Unternehmens zu integrieren. Wenn möglich, sollte das Unternehmen diesen Dollarwert anhand des Marktpreises ermitteln.
 
-Methods for determining the market price include:
+Zu den Methoden zur Ermittlung des Marktpreises gehören:
 
-1) If the resource in question has been sold recently between arm's-length parties, use that price (adjusted for any relevant situational changes);
+1) Wenn die betreffende Ressource kürzlich zwischen unabhängigen Parteien verkauft wurde, verwenden Sie diesen Preis (angepasst an alle relevanten Situationsänderungen);
 
-2) If a similar and comparable resource has been sold recently between arm's-length parties, use that valuation as a basis for the price;
+2) Wenn eine ähnliche und vergleichbare Ressource kürzlich zwischen unabhängigen Parteien verkauft wurde, verwenden Sie diese Bewertung als Grundlage für den Preis.
 
-3) Project the lifetime value of the asset by using the average sales price of the good or service the resource is producing, less the costs of production / extraction;
+3) Projizieren Sie den Lebenszeitwert des Vermögenswerts anhand des durchschnittlichen Verkaufspreises der Ware oder Dienstleistung, die die Ressource produziert, abzüglich der Produktions-/Gewinnungskosten.
 
-4) Use the assessment of an independent expert.
+4) Nutzen Sie die Einschätzung einer/s unabhängigen Expertin/Experten.
 
-It should be stressed that the Future-Fit team is not in any way suggesting that the 'real value' of a natural resource can be reduced to a dollar amount. On the contrary, this step is required only to make it possible to calculate company-wide progress, by aggregating scores from a (potentially very diverse) range of natural resource types.
+Es sollte betont werden, dass das Future-Fit-Team in keiner Weise behauptet, der „reale Wert“ einer natürlichen Ressource könne auf einen Dollarbetrag reduziert werden. Im Gegenteil ist dieser Schritt nur erforderlich, um die unternehmensweite Berechnung des Fortschritts durch die Aggregation von Werten aus einem (möglicherweise sehr unterschiedlichen) Bereich natürlicher Ressourcentypen zu ermöglichen.
 </div>
 
-#### 3.2 Context indicators {-#be03-context}
+#### 3.2 Kontextindikatoren {-#be03-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Rolle der Kontextindikatoren besteht darin, den Stakeholdern die zusätzlichen Informationen zu liefern, die sie benötigen, um das volle Ausmaß des Fortschritts eines Unternehmens zu interpretieren.
 
-####### Description and scope of natural resources not yet verified to be Future-Fit {-}
+####### Beschreibung und Umfang der natürlichen Ressourcen, die noch nicht als zukunftsfähig bestätigt wurden {-}
 
-For each natural resource that is _not yet_ being managed to Future-Fit standards, and for any for which no assessment of future-fitness has yet been made, the company must provide a description of the nature of the resource, along with the extent of its management and production during the reporting period – expressed as a count of individual units, area of land, weight or other measure as appropriate.[^7#be03-7]
+Für jede natürliche Ressource, die noch nicht nach Future-Fit-Standards verwaltet wird, und für jede Ressource, für die noch keine Bewertung der Zukunftsfähigkeit vorgenommen wurde, muss das Unternehmen eine Beschreibung der Art der Ressource sowie des Umfangs ihrer Verwaltung und Produktion während des Berichtszeitraums vorlegen – ausgedrückt als Anzahl einzelner Einheiten, Fläche, Gewicht oder andere geeignete Maßeinheiten.[^7#be03-7]
 
-For an example of how context indicators can be reported, see [here](#be03-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be03-example).
 
-### 4. Assurance {-#be03-assurance}
+### 4. Prüfung und Sicherheit {-#be03-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be03-assurance-why}
+#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be03-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be03-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be03-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to ensure the company has included all relevant resources from each natural resource category in its assessment. This information can help assurers to assess whether the company's approach runs the risk of having missed any resources, leading to incorrect indicators being reported.
-- Document the methods used to assess the initial health of ecosystems surrounding the company's natural resources. Assurers may use this information to evaluate whether the assessment was appropriate, and to ensure that future assessments are performed on a consistent basis.
-- Ensure the company has assessed all animals owned or managed by the company, whether they participate directly in operations (e.g. police dogs), are used to produce consumable products (e.g. chickens raised for egg production), or fulfil other functions (e.g. animals used in the testing of medicinal products).
-- Document the method used to assess the value of any natural resources the company owns or manages, and retain the working notes of these assessments. Assurers may use this information to ensure that a consistent method has been used and to verify that the company has appropriately represented the value of its resources.
+- Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass das Unternehmen alle relevanten Ressourcen aus jeder Kategorie natürlicher Ressourcen in seine Bewertung einbezogen hat. Diese Informationen können den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass Ressourcen übersehen wurden, was zu falschen Indikatoren in der Berichterstattung führen könnte.
+- Dokumentieren Sie die Methoden, die zur Bewertung des ursprünglichen Gesundheitszustands der Ökosysteme rund um die natürlichen Ressourcen des Unternehmens verwendet wurden. Die Prüfer können diese Informationen nutzen, um zu beurteilen, ob die Bewertung angemessen war, und um sicherzustellen, dass zukünftige Bewertungen auf einer einheitlichen Grundlage durchgeführt werden.
+- Stellen Sie sicher, dass das Unternehmen alle Tiere bewertet hat, die sich in seinem Besitz befinden oder von ihm verwaltet werden, unabhängig davon, ob sie direkt am Betrieb beteiligt sind (z. B. Polizeihunde), zur Herstellung von Konsumgütern verwendet werden (z. B. Hühner, die zur Eierproduktion gezüchtet werden) oder andere Funktionen erfüllen (z. B. Tiere, die für die Prüfung von Arzneimitteln verwendet werden).
+- Dokumentieren Sie die Methode, die zur Bewertung des Wertes der natürlichen Ressourcen verwendet wird, die das Unternehmen besitzt oder verwaltet, und bewahren Sie die Arbeitsnotizen zu diesen Bewertungen auf. Die Prüfer können diese Informationen verwenden, um sicherzustellen, dass eine einheitliche Methode angewendet wurde, und um zu überprüfen, ob das Unternehmen den Wert seiner Ressourcen angemessen dargestellt hat.
 
-For a more general explanation of how to design and document internal controls, see the _Pursuing future-fitness in a systematic way_ section in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Systematische Zukunftsfähigkeit anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be03-additional}
+### 5. Zusätzliche Informationen {-#be03-additional}
 
-#### 5.1 Example {-#be03-example}
+#### 5.1 Beispiel {-#be03-example}
 
-ACME Inc. sells lemonade products which contain sugar, water and lemons.
+ACME Inc. verkauft Limonadenprodukte, die Zucker, Wasser und Zitronen enthalten.
 
-ACME owns the lemon and sugar cane farms that produce the inputs needed to make its lemonade. It has worked hard to ensure its lemon production lives up to Future-Fit criteria, but it has yet to assess its fitness for sugar cane production.[^8#be03-8]
+ACME besitzt die Zitronen- und Zuckerrohrplantagen, auf denen die für die Herstellung seiner Limonade benötigten Rohstoffe angebaut werden. Das Unternehmen hat große Anstrengungen unternommen, um sicherzustellen, dass seine Zitronenproduktion den Future-Fit-Kriterien entspricht, muss jedoch noch prüfen, ob dies auch für die Zuckerrohrproduktion gilt.[^8#be03-8]
 
-The company can identify the fitness of each owned or managed natural resource as:
+Das Unternehmen kann die Fitness jeder eigenen oder verwalteten natürlichen Ressource wie folgt ermiteln:
 
-$$f_{Lemon}=100\%$$
-$$f_{Sugar}=0\%$$
+$$f_{Zitrone}=100\%$$
+$$f_{Zucker}=0\%$$
 
-The company values the lemon farm at $750,000 using the price per acre of productive land used on the recent sale of a comparable-sized farm in the same region. There is no viable comparison for the sugar cane farm, so the company estimates a value based on regional inflation data and the price it paid for the farm three years previously. The estimated value is $600,000.
+Das Unternehmen bewertet die Zitronenplantage mit 750.000 US-Dollar, wobei es den Preis pro Hektar produktiver Fläche zugrunde legt, der kürzlich beim Verkauf einer vergleichbaren Plantage in derselben Region erzielt wurde. Da es für die Zuckerrohrplantage keinen brauchbaren Vergleich gibt, schätzt das Unternehmen den Wert auf der Grundlage regionaler Inflationsdaten und des Preises, den es vor drei Jahren für die Plantage bezahlt hat. Der geschätzte Wert beträgt 600.000 US-Dollar.
 
-The company can now calculate its progress as:
+Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
 $$F^{ALL}=\frac{V_F}{V_T}=\frac{750,000}{750,000+600,000}\approx56\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Description and scope of natural resources not yet verified to be Future-Fit:
+Beschreibung und Umfang der natürlichen Ressourcen, die noch nicht als zukunftsfähig bestätigt wurden:
 
-- Sugar cane farm, 15,000m<sup>2</sup>.
+- Zuckerrohrfarm, 15.000m<sup>2</sup>.
 
-#### 5.3 Useful links {-#be03-useful-links}
+#### 5.3 Nützliche Links {-#be03-useful-links}
 
-##### High Conservation Value Resource Network {-#be03-hcv}
+##### Netzwerk für Ressourcen mit hohem Naturschutzwert {-#be03-hcv}
 
-The HCV Resource Network defines High Conservation Value areas as follows: @Higwn
+Das Resource Network für Gebiete mit hohem Schutzwert (HCV Resource Network) definiert Gebiete mit hohem Schutzwert wie folgt: @Higwn
 
-_HCVs are biological, ecological, social or cultural values which are considered outstandingly significant or critically important, at the national, regional or global level._
+_Hohe Schutzwerte sind biologische, ökologische, soziale oder kulturelle Werte, die auf nationaler, regionaler oder globaler Ebene als außerordentlich bedeutend oder von entscheidender Wichtigkeit angesehen werden._
 
-The HCV Resource Network lists six categories of HCVs:
+Das HCV Resource Network listet sechs Kategorien von hohem Schutzwert auf:
 
-###### HCV 1 {-}
+###### Schutzwert 1 {-}
 
-- Concentrations of biological diversity including endemic species, and rare, threatened or [endangered species](#def-endangered-species), that are significant at global, regional or national levels.
+- Konzentrationen der biologischen Vielfalt, einschließlich endemischer Arten sowie seltener, bedrohter oder [gefährdete Arten](#def-endangered-species), die auf globaler, regionaler oder nationaler Ebene von Bedeutung sind.
 
-###### HCV 2 {-}
+###### Schutzwert 2 {-}
 
-- Intact forest landscapes and large landscape-level ecosystems and ecosystem mosaics that are significant at global, regional or national levels, and that contain viable populations of the great majority of the naturally occurring species in natural patterns of distribution and abundance.
+- Intakte Waldlandschaften und große Ökosysteme auf Landschaftsebene sowie Ökosystemmosaike, die auf globaler, regionaler oder nationaler Ebene von Bedeutung sind und lebensfähige Populationen der überwiegenden Mehrheit der natürlich vorkommenden Arten in natürlichen Verbreitungsmustern und Bestandsgrößen beherbergen.
 
-###### HCV 3 {-}
+###### Schutzwert 3 {-}
 
-- Rare, threatened, or endangered ecosystems, habitats or refugia.
+- Seltene, bedrohte oder gefährdete Ökosysteme, Lebensräume oder Refugien.
 
-###### HCV 4 {-}
+###### Schutzwert 4 {-}
 
-- Basic ecosystem services in critical situations, including protection of water catchments and control of erosion of vulnerable soils and slopes.
+- Grundlegende Ökosystemleistungen in kritischen Situationen, einschließlich Schutz von Wassereinzugsgebieten und Kontrolle der Erosion gefährdeter Böden und Hänge.
 
-###### HCV 5 {-}
+###### Schutzwert 5 {-}
 
-- Sites and resources fundamental for satisfying the basic necessities of local communities or indigenous peoples (for livelihoods, health, nutrition, water, etc.), identified through engagement with these communities or indigenous peoples.
+- Orte und Ressourcen, die für die Befriedigung der Grundbedürfnisse lokaler Gemeinschaften oder indigener Völker (für Lebensunterhalt, Gesundheit, Ernährung, Wasser usw.) von wesentlicher Bedeutung sind und durch die Zusammenarbeit mit diesen Gemeinschaften oder indigenen Völkern identifiziert werden.
 
-###### HCV 6 {-}
+###### Schutzwert 6 {-}
 
-- Sites, resources, habitats and landscapes of global or national cultural, archaeological or historical significance, and/or of critical cultural, ecological, economic or religious/ sacred importance for the traditional cultures of local communities or indigenous peoples, identified through engagement with these local communities or peoples.
+- Stätten, Ressourcen, Lebensräume und Landschaften von globaler oder nationaler kultureller, archäologischer oder historischer Bedeutung und/oder von entscheidender kultureller, ökologischer, wirtschaftlicher oder religiöser/heiliger Bedeutung für die traditionellen Kulturen lokaler Gemeinschaften oder indigener Völker, identifiziert durch die Auseinandersetzung mit diesen Einheimischen Gemeinschaften oder Völker.
 
-For further guidance see [Common Guidance for HCV Identification](https://hcvnetwork.org/library/common-guidance-for-the-identification-of-high-conservation-values/) @Hig131 and [Common Guidance for HCV Management and Monitoring](https://hcvnetwork.org/library/common-guidance-for-the-management-and-monitoring-of-hcv/) @Hig13, which are available freely online via the HCV Network.
+Weitere Hinweise finden [Sie in den gemeinsamen Leitlinien zur Schutzwert-dentifizierung](https://hcvnetwork.org/library/common-guidance-for-the-identification-of-high-conservation-values/) @Hig131 und [den gemeinsamen Leitlinien zum Schutzwert-Management und zur Schutzwert-Überwachung](https://hcvnetwork.org/library/common-guidance-for-the-management-and-monitoring-of-hcv/) @Hig13, die online über das HCV-Netzwerk frei verfügbar sind.
 
-##### The Five Freedoms {-#be03-5-freedoms}
+##### Die fünf Freiheiten {-#be03-5-freedoms}
 
-The [Farm Animal Welfare Committee (FAWC)](https://www.gov.uk/government/groups/farm-animal-welfare-committee-fawc), a UK government initiative, proposes that good animal welfare implies both physical fitness _and_ a sense of wellbeing for the animal. As guiding principles, FAWC formulated the following five freedoms: @Far09
+Der [Farm Animal Welfare Committee (FAWC)](https://www.gov.uk/government/groups/farm-animal-welfare-committee-fawc), eine Initiative der britischen Regierung, schlägt vor, dass gutes Wohlergehen der Tiere sowohl körperliche Fitness als auch ein Gefühl des Wohlbefindens für das Tier beinhaltet. Als Leitprinzipien hat der FAWC die folgenden fünf Freiheiten formuliert: @Far09
 
-- Animals must have freedom from thirst, hunger and malnutrition.
-- Animals must have freedom from discomfort.
-- Animals must have freedom from pain, injury and disease.
-- Animals must have freedom to express normal behaviour.
-- Animals must have freedom from fear and distress.
+- Tiere müssen frei von Durst, Hunger und Unterernährung sein.
+- Tiere müssen frei von Beschwerden sein.
+- Tiere müssen frei von Schmerzen, Verletzungen und Krankheiten sein.
+- Tiere müssen die Freiheit haben, normales Verhalten auszudrücken.
+- Tiere müssen frei von Angst und Stress sein.
 
-#### 5.2 Frequently asked questions {-#be03-faq}
+#### 5.2 Häufig gestellte Fragen {-#be03-faq}
 
-##### What about materials used as fuels to produce energy? {-}
+##### Was ist mit Materialien, die als Brennstoffe zur Energieerzeugung verwendet werden? {-}
 
-If the company itself or a supplier of an _outsourced core function_ uses a material directly as a fuel as a necessary part of its production (e.g. coal or biomass burned in blast furnaces), then this material is considered to be a _product input_ and should therefore be assessed with respect to the goal [**Procurement safeguards the pursuit of future-fitness**](#be04).[^9#be03-9]
+Wenn das Unternehmen selbst oder ein Lieferant einer ausgelagerten Kernfunktion ein Material direkt als Brennstoff als notwendigen Teil seiner Produktion verwendet (z.B. Kohle oder Biomasse, die in Hochöfen verbrannt wird), dann gilt dieses Material als Produktinput und sollte daher im Hinblick auf das Ziel [**Beschaffung sichert das Streben nach Zukunftsfähigkeit**](#be04)[^9#be03-9] bewertet werden. 
 
-##### What about water used in production? {-}
+##### Was ist mit dem in der Produktion verwendeten Wasser? {-}
 
-Impacts related to water use are captured by the goal [**Water use is environmentally responsible and socially equitable**](#be02), and therefore are not included here.
+Auswirkungen im Zusammenhang mit der Wassernutzung werden durch das Ziel [**Umweltverträgliche und sozial gerechte Wassernutzung**](#be02), erfasst und sind daher hier nicht enthalten.
 
-##### How does this guidance apply to animals used to test products that do not solve systemic challenges? {-}
+##### Wie lässt sich dieser Leitfaden auf Tiere anwenden, die zum Testen von Produkten verwendet werden, die keine systemischen Herausforderungen lösen? {-}
 
-In cases where products are not created in order to solve systemic challenges, some companies may still choose, or be required by law, to test their products on animals before they can be sold on national markets. In some circumstances, such products may have significant benefits for society, which should be acknowledged (for more information see the [**Positive Pursuit Guide**](#pp)). However, in cases where one or more of the [Five Freedoms](#be03-5-freedoms) are violated by the testing process, this should be acknowledged as a negative impact, and will factor in to the company's performance with respect to this goal.
+In Fällen, in denen Produkte nicht entwickelt werden, um systemische Probleme zu lösen, können sich einige Unternehmen dennoch dafür entscheiden oder gesetzlich verpflichtet sein, ihre Produkte an Tieren zu testen, bevor sie auf den nationalen Märkten verkauft werden können. Unter bestimmten Umständen können solche Produkte einen erheblichen Nutzen für die Gesellschaft haben, der anerkannt werden sollte (weitere Informationen finden Sie im [**Positive Pursuit Guide**](#pp)). In Fällen, in denen eine oder mehrere der [fünf Freiheiten](#be03-5-freedoms) durch den Testprozess verletzt werden, sollte dies als negative Auswirkung anerkannt werden und wird in die Leistung des Unternehmens in Bezug auf dieses Ziel einfließen. 
 
 
-[^1#be03-1]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^1#be03-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^2#be03-2]: As guidance, [ISEAL Alliance](http://www.isealalliance.org/our-work/defining-credibility/codes-of-good-practice/standard-setting-code) has created a Standard-Setting Code that any good sourcing standard should adhere to. Examples of ISEAL members include the [Marine Stewardship Council](https://www.msc.org/) (certified seafood), [The Ethical BioTrade Standard](http://ethicalbiotrade.org/), the [Forest Stewardship Council](http://www.fsc-uk.org/) and the [Rainforest Alliance](http://www.rainforest-alliance.org/certification-verification).
+[^2#be03-2]: Als Orientierungshilfe, [ISEAL Alliance](http://www.isealalliance.org/our-work/defining-credibility/codes-of-good-practice/standard-setting-code) hat einen Standardsetzungskodex erstellt, den jeder gute Beschaffungsstandard einhalten sollte. Beispiele für ISEAL-Mitglieder sind [Marine Stewardship Council](https://www.msc.org/) (zertifizierte Meeresfrüchte), [Der ethische BioTrade Standard](http://ethicalbiotrade.org/), die [Forest Stewardship Council](http://www.fsc-uk.org/) und die [Rainforest Alliance](http://www.rainforest-alliance.org/certification-verification).
 
-[^3#be03-3]: The [Five Freedoms](#be03-5-freedoms) offer a set of fundamental principles in animal welfare that have been adopted by organizations such as [The World Organisation for Animal Health (OIE)](http://www.oie.int/), [The British Veterinary Association (BVA)](http://www.bva.co.uk/News-campaigns-and-policy/Policy/Ethics-and-welfare/Animal-welfare/) and [The Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/whatwedo/endcruelty/changingthelaw/whatwechanged/animalwelfareact).
+[^3#be03-3]: Der [Fünf Freiheiten](#be03-5-freedoms) stellen eine Reihe von Grundprinzipien für den Tierschutz dar, die von [Organisationen wie der Weltorganisation für Tiergesundheit (OIE)](http://www.oie.int/), [Der British Veterinary Association (BVA)](http://www.bva.co.uk/News-campaigns-and-policy/Policy/Ethics-and-welfare/Animal-welfare/) und [Der Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/whatwedo/endcruelty/changingthelaw/whatwechanged/animalwelfareact) übernommen wurden.︎
 
-[^4#be03-4]: Examples include [RSPCA's welfare standards](https://science.rspca.org.uk/sciencegroup/farmanimals/standards) and [Soil Association's Organic Animals Standard.](http://www.soilassociation.org/Whatisorganic/Organicanimals)
+[^4#be03-4]: Beispiele hierfür sind [RSPCAs Wohlfahrtsstandards](https://science.rspca.org.uk/sciencegroup/farmanimals/standards) und [Bio-Tiere-Standard der Soil Association.](http://www.soilassociation.org/Whatisorganic/Organicanimals)
 
-[^5#be03-5]: For guidance on setting internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+[^5#be03-5]: Hinweise zum Einrichten interner Kontrollen finden Sie im Abschnitt „Zukunftsfitness systematisch anstreben“ im︎ [*Implementierungsleitfadene**](#ig-systematic).
 
-[^6#be03-6]: Examples of relevant standards include [The Responsible Jewellery Council](http://www.responsiblejewellery.com/), [Fairmined](http://www.fairmined.org/), the [Responsible Minerals Initiative](http://www.responsiblemineralsinitiative.org/), and [IRMA Standard for Responsible Mining](http://www.responsiblemining.net/irma-standard/).
+[^6#be03-6]: Beispiele für einschlägige Standards sind der [The Responsible Jewellery Council](http://www.responsiblejewellery.com/), [Fairmined](http://www.fairmined.org/), die [Responsible Minerals Initiative](http://www.responsiblemineralsinitiative.org/), und der [IRMA Standard for Responsible Mining](http://www.responsiblemining.net/irma-standard/).
 
-[^7#be03-7]: Companies are encouraged to follow industry norms in choosing the metric, in order to provide the most indicative and comparable information possible for users.
+[^7#be03-7]: Unternehmen werden ermutigt, sich bei der Auswahl der Metrik an Branchennormen zu halten, um den Benutzern möglichst aussagekräftige und vergleichbare Informationen bereitzustellen.
 
-[^8#be03-8]: Note that water is covered separately by the goal [**Water use is environmentally responsible and socially equitable**](#be02) and is therefore not included in this calculation.
+[^8#be03-8]: Beachten Sie, dass Wasser vom Ziel separat abgedeckt wird︎ [*Die Wassernutzung erfolgt umweltverträglich und sozial gerechte**](#be02)und wird daher in dieser Berechnung nicht berücksichtit.
 
-[^9#be03-9]: See the [**Methodology Guide**](#mg-mutually-accountable) for definitions of _outsourced core functions_ and _product inputs_.
+[^9#be03-9]: Siehe die [**Methodischer Leitfaden**](#mg-mutually-accountable) für Definitionen von ausgelagerten Kernfunktionen und Produkteingaben.
