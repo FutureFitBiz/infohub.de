@@ -1,0 +1,277 @@
+---
+output: github_document
+---
+
+## BE20: Business Ethics {-#be20}
+
+<div class="subtitle">Business is conducted ethically
+</div>
+
+### 1. Ambition {-#be20-ambition}
+
+A Future-Fit Business actively seeks to anticipate, avoid and address ethical breaches that may arise as a result of its activities.
+
+#### 1.1 What this goal means {-#be20-what-goal-means}
+
+All Future-Fit goals can, and should, be interpreted as matters of business ethics that apply to any company. This goal, in contrast, focuses on the proactive identification and pre-emptive prevention of any specific issues which could – due to the unique nature of a company's business – lead to ethical breaches.
+
+The kinds of ethical breach that might occur will vary widely across companies, depending on their size, structure, sector, business model, geographical presence, and so on. A Future-Fit company is not one that is immune to ethical concerns and challenges. Rather, it is one that puts in place effective internal control mechanisms[^1#be20-1] to reduce the likelihood of ethical breaches, to encourage people (employees and third parties) to raise the alarm when one does occur, and to respond effectively to them. Examples of potential issues include:
+
+- Anti-competitive practices (e.g. unfair supplier treatment, price fixing).
+- Dis-information (e.g. misrepresenting or failing to disclose information which could influence stakeholder decisions or wellbeing).
+- Abuse of trust (e.g. inappropriate use of personal data).
+- Wilful ignorance (e.g. neglecting to investigate supply chains in which human rights abuses are suspected).
+
+To be Future-Fit, a company must: (a) identify high-risk areas for ethical issues within the business, (b) adopt a public commitment to ethical conduct, and (c) establish internal controls to ensure it lives up to that commitment.
+
+#### 1.2 Why this goal is needed {-#be20-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Bribery remains a commonplace activity in certain parts of the world.** A global survey of 131,000 companies by the World Bank found that more than one in six had received at least one bribe payment request. In some countries, more than 50% of companies report being asked for payments or gifts in order to 'get things done'. @Wor17
+- **Cases of fraud can hurt both customers and companies themselves.** In 2016, occupational fraud caused $6.3bn of company losses worldwide, with an average loss of $2.7 million per case. @Ass16
+
+#### 1.3 How this goal contributes to the SDGs {-#be20-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may help to drive progress with respect to all SDGs by conducting business ethically. But the most direct link with respect to this goal is:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 16](assets/sdg/sdg-16.svg) | Support efforts to promote the rule of law at the national and international levels, effort to reduce corruption and bribery in all their forms, and efforts to develop effective, accountable and transparent institutions at all levels. |
+</div>
+
+#### 1.4 Related goals {-#be20-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Employee concerns are actively solicited, impartially judged and transparently addressed:**](#be14) The _Ethics_ goal's fitness criteria include requirements for a channel through which employees (and others) can raise concerns in confidence about ethical breaches, and for effective response mechanisms to address such concerns. While the intended outcomes for the _Employee concerns_ goal are different, this particular requirement is similar, so companies may well implement one approach to meet the needs of both goals.
+- **All other goals:** Cultivating ethical behaviour is critical to the effective and authentic pursuit of all other Future-Fit Break-Even Goals. For instance, if employees have the contractual option of declining to work overtime, but in practice they feel obligated to say yes and are disadvantaged when they don't, this should be identified as an ethical hotspot that must be addressed. Similarly, if a company has an anti-discrimination policy, but it is receiving frequent complaints of discriminatory behaviour, it should consider whether any ethical issues are undermining the effectiveness of that policy.
+
+### 2. Action {-#be20-action}
+
+#### 2.1 Getting started {-#be20-getting-started}
+
+##### Background information {-}
+
+Companies that overlook business ethics to maximize profits may gain a short-term advantage over their peers, but any such gains generally come at the cost of increased legal, financial and reputational risk, and are not conducive to long-term value creation. The pressure to find any form of competitive edge means that companies must remain constantly vigilant, to ensure that its people are encouraged and equipped to live up to the highest ethical standards.
+
+A company's first steps toward future-fitness should be to identify any types of ethical breaches it may be vulnerable to, and to scrutinize its current approach to avoiding and addressing such breaches. From there, the business can start to pursue opportunities for improvement.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### What ethical risks is the company susceptible to? {-}
+
+- Does the company's industry or the nature of its products and markets put it at risk of ethical breaches? Has the industry faced allegations of unethical business conduct in the past? Is the competitive landscape dominated by one or only a few giants?
+- Where does the company conduct its business, both in terms of production and sales? Does it have activities or is it dependent on critical suppliers in locations that are ranked as high on corruption indices, such as Transparency International's [Corruption Perceptions Index](https://www.transparency.org/research/cpi/overview)? To what extent does the company rely on government support or permission to operate? Is bribery a potential concern in each location?
+- Has the company faced public allegations of unethical business conduct in the past? Has the company ever been made aware of possible ethical breaches by employees or by third parties?
+- What degree of supervision is given to key departmental and employee functions? How does the company evaluate people's performance? Are salaries or bonuses tied to performance-based incentives?
+
+###### How does the company address ethical risks? {-}
+
+- Does the company have a clearly documented ethics policy? How are employees informed about its existence? Who is ultimately accountable for oversight of and adherence to this policy?
+- When were ethics policies or procedures last reviewed? What actions were taken based on that review's findings?
+- Has the company previously undertaken a risk assessment to identify potential vulnerabilities to ethical breaches?
+- What options are available to an employee who wants to report a concern about questionable or unethical behaviour? Have these options been used recently? Are employees protected from negative repercussions, in particular when reporting concerns about the behaviour of colleagues or management?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the best opportunities for making progress? {-}
+
+- Which departments are most at risk of ethical breaches? Do employees have access to sensitive or confidential information? Which functions have high degrees of independence? Where are compensation structures most heavily tied to specific measures of performance?
+- Which ethical risks have the biggest potential to negatively impact external stakeholders? And which have the biggest implications for the company's reputation?
+- Which potential improvements would be the easiest for the company to implement? If controls are already in place in some parts of the company could they be rolled out more broadly? Are there industry best practices that might be applied? Are there community groups, specialist organizations or NGOs that the company might partner with to tackle shared challenges?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^2#be20-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be20-pursuing}
+
+##### Introduction {-}
+
+To be Future-Fit a company must identify all risk areas and put in place effective internal control mechanisms to reduce the likelihood of ethical breaches, and to facilitate effective responses to issues if they do arise.
+
+###### Guidance on identifying high-risk areas for ethical breaches {-}
+
+In order to anticipate and avoid ethical breaches, the company should perform an assessment of its operations to identify any job functions or divisions that are at greater risk of ethical conflict.
+
+Threats to ethical behaviour include (but are not limited to):[^3#be20-3]
+
+- **Self-interest threat** : If employees can personally gain from the daily functions of their role, whether financially or otherwise, there is a risk that these motivations will cause them to act unethically by prioritizing their own personal gain over the wellbeing of customers, the company itself, or other stakeholders. Examples include employees with performance-based incentive structures[^4#be20-4] which – if not carefully structured – may risk motivating employees to pursue specific outcomes that are contrary to the long-term wellbeing of the company or its stakeholders.
+- **Self-review threat** : If employees are working in a role with limited or no opportunity for supervision, such as where people are left to review their own work, there is a risk that personal bias will prevent them from exercising a proper degree of caution, which could jeopardize the wellbeing of the company or its stakeholders.
+- **Familiarity threat** : If employees are in a position that enables or requires them to form personal relationships with individuals (or where a personal relationship already exists), there is a risk that those employees may put those personal relationships ahead of the interests of the company or its stakeholders. This applies to relationships with external parties such as customers or vendors, as well as other employees.
+- **Intimidation threat** : If employees are put a position where they perceive a threat to their personal wellbeing or physical safety they may feel forced to act in a way that disadvantages the company or its stakeholders, in order to protect themselves.
+
+###### Guidance on setting a corporate ethics policy {-}
+
+Setting an ethics policy serves multiple purposes within an organization:
+
+- It requires the company to consider and identify ethical issues, and define what ideal outcomes look like;
+- It requires management to document and approve the policy, ensuring clear accountability within the company;
+- It can reduce ambiguity for employees as to the company's position on potentially unclear or difficult topics; and,
+- It sets a standard for performance for the company and its employees to live up to, particularly when published externally.
+
+With these benefits in mind, a company policy should describe the company's vision for the ethical role it wants to play – in relation to its customers, suppliers, and the communities it operates in – at a high level, to act as directional guidance. In addition to outlining this broad ethical vision, companies should provide additional, specific guidance to employees in regard to known ethical hotspots.
+
+It is important for companies to strike a balance between keeping the policy simple and easy to communicate, while providing sufficient guidance for employees to know how to behave in any situation they are likely to encounter. Providing details on specific issues – such as spelling out what sales people should do if offered a bribe – will reduce the risk of misinterpretation or poor in-the-moment judgment. Companies should consider which aspects of their ethics policy are crucial for _all_ employees to know and understand, and which are more specific, and should devise communication approaches accordingly.
+
+##### Fitness criteria {-}
+
+To be Future-Fit a company must have in place mechanisms that enable it – and its employees – to avoid, identify, monitor and mitigate ethical breaches. To do so it must live up to the following requirements:[^5#be20-5]
+
+###### Undertake a hotspot assessment {-}
+
+- Identify potential ethical breaches that the company as a whole could be vulnerable to, contribute to, or potentially cause, given the nature of the business. Issues such as company size, sector, business model, and market locations should be considered.
+  - The company should also implement procedures to review this assessment at regular intervals, in order to incorporate changes to the competitive environment, compensation structures, technologies used in the business, and any updates to official positions on particular issues.
+- Identify which departments, employee roles and locations are most at risk of ethical breaches, including those with performance-based compensation structures.
+
+###### Adopt a corporate ethics policy {-}
+
+- Adopt and publish a corporate policy explicitly stating the company's commitment to ensure that its employees and other representatives act in an ethical manner.
+- Communicate the policy to all employees, and ensure that any employees in departments, roles and locations identified as being at greater risk during the hotspot assessment are fully informed about the particular risks relevant to them.
+
+###### Establish internal control processes to implement the policy throughout the business {-}
+
+- At corporate and departmental levels, establish procedures to address the potential ethical breaches identified by the hotspot assessment.
+- Inform, train and guide employees to anticipate and avoid potential ethical conflicts, and to effectively address issues that do arise.
+- Provide an accessible channel through which employees and others can raise concerns and report violations in confidence, and without fear of retribution, and establish effective response mechanisms to evaluate and address such concerns.[^6#be20-6]
+- At corporate and departmental levels, establish control processes to monitor and regularly review the performance of organizational policies designed to ensure ethical behaviours, in order to identify any shortfalls and to ensure continuous improvement.
+
+For additional guidance on evaluating or setting effective control structures that help to ensure a company lives up to the above criteria, see the [**Implementation Guide**](#ig-systematic).
+
+### 3. Assessment {-#be20-assessment}
+
+#### 3.1 Progress indicators {-#be20-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This calculation is done on the individual employee level, but assessment of employees can be done in groups (e.g. by location, job function, etc.), where employees are likely to encounter the same hotspot issues and are subject to the same ethics policies and controls.
+
+This goal has one progress indicator. To calculate it, the following steps are required:
+
+- Assess the fitness of each employee (or group thereof).
+- Calculate the company's progress across all employees.
+
+##### Assessing the fitness of ethics policies for each employee {-}
+
+Each employee (or group thereof) is considered **100% fit** if:
+
+- The company has performed a **hotspot assessment** as specified in the fitness criteria, which encompasses any factors (relating to role, location, incentives, etc.) that are specific to the employee(s) in question.
+- An **ethics policy** is in place in line with the fitness criteria, which applies to and has been communicated to the employee(s).
+- **Appropriate control processes** are in place to ensure that employee(s) are equipped to anticipate, avoid and spot ethical breaches, and raise concerns when they occur.
+
+If a hotspot assessment has not been performed, _or_ if ethics policies have not been designed and implemented, _or_ if appropriate controls are not in place, the company's ethics controls with regards to that employee (or group) is considered to be **0% fit**.
+
+##### Calculating company progress {-}
+
+- Determine the number of employees covered by appropriate internal controls that live up to _all_ stated criteria.
+- Determine the total number of company employees during the reporting period.[^7#be20-7]
+- The company's overall progress is calculated as a weighted average of the individual fitness scores of the company's ethics policies on a per-employee/group basis.
+
+This can be expressed mathematically as:
+
+$$F=\frac{E_G}{E_T}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$E_G$$ | Is the number of company employees covered by internal controls that live up to _all_ stated criteria. |
+| $$E_T$$ | Is the total number of employees in the company during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#BE20-example).
+
+#### 3.2 Context indicators {-#be20-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total number of employees {-}
+
+The total number of employees is equivalent to the value of _E<sub>T</sub>_ in the equation above, and so no additional data or effort is required to calculate it.
+
+For an example of how context indicators can be reported, see [here](#BE20-example).
+
+### 4. Assurance {-#be20-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be20-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be20-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to identify job functions or divisions within the company which are at risk of ethical conflict (the hotspot assessment). Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify ethical risks faced by employees.
+- Retain descriptions of the company's ethics policies, both at the organizational level and with regard to any additional support provided to individual employees or groups of employees to address ethical risks specific to their roles. This can help assurers to evaluate whether significant ethical risks are being sufficiently guarded against.
+- Document the mechanisms which facilitate employees' ability to report ethical concerns in the workplace, and retain any notes from discussions and evidence of actions taken based on employee submissions.[^8#be20-8] This can help demonstrate to assurers that the mechanisms are working as intended and that all concerns are responded to.
+- Document the methods used to periodically check that the controls are working as intended. Assurers may check this to determine whether the company is able to identify and address any problems within a reasonable timeframe.
+- Document the method used to determine the number of employees of the company during the reporting period, and how these employees are categorized into groups for the purposes of the evaluation. Assurers may use this information to verify the accuracy of the calculated indicator.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be20-additional}
+
+#### 5.1 Example {-#BE20-example}
+
+ACME Inc. sells lemonade products. Its internal operations consist of two sites: a bottling plant and an office space. The company has a total of 250 employees: 50 working in the office and 200 at the bottling plant. The company has a standard code of conduct in place, but it has not established clear commitments nor undertaken hotspot assessments. It therefore starts out as 0% fit.
+
+The company then decides to establish a clear commitment to conduct all business ethically, and undertakes a comprehensive assessment. It finds that each site is likely to face different types of ethical concerns, and decides to implement control processes relating to ethical risks first at the office location.
+
+The company can now calculate its progress as:
+
+$$F=\frac{E_G}{E_T}=\frac{50}{250}=20\%$$
+
+####### Context indicator {-}
+
+Total number of employees: 250.
+
+#### 5.2 Useful links {-#be20-links}
+
+##### The UN Guiding Principles on Business and Human Rights {-}
+
+The UN's Human Rights Council endorsed the [Guiding Principles](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) in 2011, which apply both to states and business enterprises.
+
+##### Transparency International {-}
+
+Transparency International provides guidance on addressing concerns regarding bribery and corruption in the report [Adequate Procedures – Guidance to the UK Bribery Act 2010](https://www.transparency.org.uk/bribery-act-and-adequate-procedures-guidance).
+
+##### The Worldwide Governance Indicators Project {-}
+
+[The Worldwide Governance Indicators Project](http://info.worldbank.org/governance/wgi/index.aspx#home) reports governance indicators for 215 economies, for six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence, Governance Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption.
+
+
+[^1#be20-1]: For more information on how to design effective internal controls see the [**Implementation Guide**](#ig-internal-controls).
+
+[^2#be20-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^3#be20-3]: These threats to ethical behaviour are identified in the [International Federation of Accountants](https://www.ifac.org/) Code of Ethics for Professional Accountants @Int06 but the descriptions here have been broadened to address more general business situations.
+
+[^4#be20-4]: Incentive-based compensation includes stock purchase plans or share-based compensation, commission payments, sales competitions, revenue sharing, and others.
+
+[^5#be20-5]: These requirements have been informed by such sources as [The UN Guiding Principles for Human Rights](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf), as well as issue-specific guidance such as Transparency International's [Adequate Procedures – Guidance to the UK Bribery Act 2010](https://www.transparency.org.uk/bribery-act-and-adequate-procedures-guidance).
+
+[^6#be20-6]: Note that this criterion may well be addressed (with respect to employees) by the company's response to the goal [**Employee concerns are actively solicited, impartially judged and transparently addressed**](#be14).
+
+[^7#be20-7]: See the [**Implementation Guide**](#ig-determining-employee) for details on how to determine this number.
+
+[^8#be20-8]: This can be the same mechanism available for the goal [**Employee concerns are actively solicited, impartially judged and transparently addressed**](#be14), and should draw on the guidance outlined in that Action Guide.

@@ -1,0 +1,472 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Jaldi&family=Playfair+Display:wght@500&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css?family=Jaldi%3A400%2C700&#038;ver=5.6.1');
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* Center */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Toolbar */
+.book-header {
+  background-color: #4BA4C0 !important;
+  height: 51px !important;
+}
+.book-header .btn {
+  color: #FFFFFF !important;
+}
+.book-header .btn:hover {
+  color: #DEF0F5 !important;
+}
+
+/* Navigation - Note that ID for title at top is set in _output.yml */
+li#FFBB {
+  padding-top: 4px;
+  padding-bottom: 2px;
+  padding-left: 12px;
+  background-color: #4BA4C0 !important;
+  margin-bottom: 8px;
+}
+li#FFBB a {
+  font-weight: bold;
+  color: #FFFFFF;
+  padding:0px;
+}
+li#FFBB + li {
+  display:none !important;
+}
+.book .book-summary ul.summary li {
+  font-family: 'Jaldi', sans-serif;
+  font-size: 16px;
+  line-height: 0.95em;
+}
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
+  font-weight: bold;
+  color: #4BA4C0;
+}
+li#FFCOP {
+  font-size: 12px;
+}
+/* PART separators */
+.book .book-summary ul.summary li.part>span {
+  color: #FF9E00;
+  font-size: 24px;
+  font-variant: all-petite-caps;
+  cursor: auto;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+/* Search */
+.book .book-summary .book-search {
+  background-color: #4BA4C0 !important;
+}
+.book .book-summary .book-search input, .book .book-summary .book-search input:focus, .book .book-summary .book-search input:hover {
+  background-color: #FFFFFF !important;
+}
+
+/* Main content */
+.book .book-body .page-wrapper .page-inner section.normal {
+  color: #707070;
+  margin-top: 10px;
+  line-height: 1.6em !important;
+}
+.book .book-body .page-wrapper .page-inner section.normal li {
+  margin-top: 10px;
+}
+.book .book-body .page-wrapper .page-inner section.normal a {
+  color: #4BA4C0;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Jaldi', sans-serif;
+  line-height: 1.2em !important;
+  margin-top: 0.6em !important;
+  margin-bottom: 0.5em !important;
+}
+h1 {
+  font-size: 4.0em !important;
+  color: #FF9E00 !important;
+  margin-top: 0.2em !important;
+}
+h2 {
+  font-size: 3.2em !important;
+  color: #4BA4C0 !important;
+}
+h3 {
+  font-size: 2.8em !important;
+  color: #FF9E00 !important;
+}
+h4 {
+  font-size: 2.4em !important;
+  color: #4BA4C0 !important;
+}
+h5 {
+  font-size: 2em !important;
+  color: #FF9E00 !important;
+}
+h6 {
+  font-size: 1.6em !important;
+  color: #4BA4C0 !important;
+}
+.level7 p.heading {
+  font-size: 1em !important;
+  font-weight: bold !important;
+  color: #FF9E00 !important;
+}
+
+h1.title {
+  font-size: 4.8em !important;
+  line-height: 1em !important;
+  color: #4BA4C0 !important;
+  Xmargin-top: 0.2em !important;
+  Xmargin-bottom: 0.4em !important;
+}
+.book .book-header h1 {
+  font-size: 2em !important;
+  margin: 0 !important;
+  padding-top: 10px !important;
+  color: #FFFFFF !important;
+}
+
+.font-family-1 {
+  font-family: 'Jaldi', sans-serif;
+}
+.font-family-0 {
+  font-family: 'Playfair Display', serif;
+}
+
+div.csl-entry {
+  margin-bottom: 1.2em;
+}
+
+.subtitle {
+  color: #A6A6A6;
+  font-size: 1.8em;
+  line-height: 1.4em;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Jaldi', sans-serif;
+}
+
+blockquote, blockquote a {
+  color: #348EA6 !important;
+  border-color: #348EA6 !important;
+}
+
+.introquote a
+{
+  color: #FFFFFF !important;
+}
+.introquote
+{
+  font-family: 'Jaldi', sans-serif;
+  display: block;
+  background-color: #4BA4C0;
+  color: #FFFFFF !important;
+  padding: 30px 50px 5px 50px;
+  margin: 1.5em 0;
+  font-size: 1.7em;
+  line-height: 1.2em !important;
+}
+
+.callout-note a
+{
+  color: #348EA6 !important;
+}
+.callout-note
+{
+  display: block;
+  background-color: #DEF0F5;
+  border-left: solid 4px #4BA4C0;
+  color: #348EA6 !important;
+  background-image: url(./assets/css-box-icon-note.png);
+  background-size: 32px;
+  background-position: 12px 18px;
+  background-repeat: no-repeat;
+  padding: 20px 30px 5px 60px;
+  margin: 1.5em 0;
+}
+
+.callout-warn a
+{
+  color: #D83F18 !important;
+}
+.callout-warn
+{
+  display: block;
+  background-color: #F7C7BB;
+  border-left: solid 4px #D83F18;
+  color: #D83F18 !important;
+  background-image: url(./assets/css-box-icon-warn.png);
+  background-size: 32px;
+  background-position: 12px 18px;
+  background-repeat: no-repeat;
+  padding: 20px 30px 5px 60px;
+  margin: 1.5em 0;
+}
+
+.callout-tip a
+{
+  color: #BF6D00 !important;
+}
+.callout-tip
+{
+  display: block;
+  background-color: #FFE9CC;
+  border-left: solid 4px #FF9E00;
+  color: #BF6D00 !important;
+  background-image: url(./assets/css-box-icon-tip.png);
+  background-size: 24px;
+  background-position: 15px 18px;
+  background-repeat: no-repeat;
+  padding: 20px 30px 5px 60px;
+  margin: 1.5em 0;
+}
+
+.callout-tick a
+{
+  color: #008239 !important;
+}
+.callout-tick
+{
+  display: block;
+  background-color: #D1F5E1;
+  color: #008239 !important;
+  border-left: solid 4px #00AE4C;
+  background-image: url(./assets/css-box-icon-tick.png);
+  background-size: 32px;
+  background-position: 12px 18px;
+  background-repeat: no-repeat;
+  padding: 20px 30px 5px 60px;
+  margin: 1.5em 0;
+}
+
+/* Set style for FF blue tables */
+div.table-blue
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-blue>table,
+div.table-blue>table tr,
+div.table-blue>table td,
+div.table-blue>table th
+{
+  border: 1px solid #FFFFFF !important;
+}
+div.table-blue>table th
+{
+  background-color: #58B2CB !important;
+  color: #FFFFFF !important;
+}
+div.table-blue>table tr.odd
+{
+  background-color: #DEF0F5 !important;
+  color: #235E6F !important;
+}
+div.table-blue>table tr.even
+{
+  background-color: #BCE0EA !important;
+  color: #235E6F !important;
+}
+
+/* Set column widths for various table types */
+div.table-sdg
+{
+  margin: 1.5em 0 1.5em 0;
+}
+div.table-sdg>table>tbody>tr>td>img
+{
+  margin-top: 7px;
+}
+div.table-sdg>table>colgroup>col:nth-child(1)
+{
+  width: 10%;
+}
+div.table-sdg>table>colgroup>col:nth-child(2)
+{
+  width: 90%;
+}
+div.table-10
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-10>table>colgroup>col:nth-child(1)
+{
+  width: 10%;
+}
+div.table-10>table>colgroup>col:nth-child(2)
+{
+  width: 90%;
+}
+div.table-20
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-20>table>colgroup>col:nth-child(1)
+{
+  width: 20%;
+}
+div.table-20>table>colgroup>col:nth-child(2)
+{
+  width: 80%;
+}
+div.table-30
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-30>table>colgroup>col:nth-child(1)
+{
+  width: 30%;
+}
+div.table-30>table>colgroup>col:nth-child(2)
+{
+  width: 70%;
+}
+div.table-85
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-85>table>colgroup>col:nth-child(1)
+{
+  width: 85%;
+}
+div.table-85>table>colgroup>col:nth-child(2)
+{
+  width: 15%;
+}
+div.table-3col
+{
+  margin: 1em 0 1.5em 0;
+}
+div.table-3col>table>colgroup>col:nth-child(1)
+{
+  width: 10%;
+}
+div.table-3col>table>colgroup>col:nth-child(2)
+{
+  width: 45%;
+}
+div.table-3col>table>colgroup>col:nth-child(3)
+{
+  width: 45%;
+}
+
+/* Set styling for figure captions */
+.ff-figure
+{
+  text-align: center !important;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* footnote counter to restart numbering for each chapter and subchapter
+  thanks @romles https://stackoverflow.com/questions/50616517/restart-endnote-numbering-after-each-gitbook-style-web-chapter-in-r-bookdown
+  thanks @ilyankou for update from footnote-ref to footnoteRef for bookdown 0.9, and .level1 to .page-inner for 0.15 */
+
+  /* don't show the wrong footnote calls */
+  .footnote-ref sup,
+  .footnoteRef sup {
+    display: none;
+  }
+
+  /* use a counter for footnote calls */
+  .page-inner {
+    counter-reset: fn-call;
+  }
+
+  .footnote-ref,
+  .footnoteRef {
+    counter-increment: fn-call;
+  }
+
+  /* generate new footnote calls */
+  .footnote-ref::after,
+  .footnoteRef::after {
+    content: counter(fn-call);
+    position: relative;
+    top: -.5em;
+    font-size: 85%;
+    line-height: 0;
+    vertical-align: baseline;
+  }
+
+  /* use a counter for footnotes numbering */
+  .footnotes ol {
+    list-style: none;
+    counter-reset: fn-number;
+  }
+
+  .footnotes li {
+    counter-increment: fn-number;
+  }
+
+  .footnotes p::before {
+    content: counter(fn-number) '. ';
+  }
+
+/* Section anchors - superseded by new anchor_sections: TRUE feature in _output.yml
+
+.book .book-body .page-wrapper .page-inner section.normal {
+  overflow: visible !important; // So anchor link doesnt get cut off
+}
+
+a.anchor {
+  margin-left: -30px;
+  padding-right: 3px;
+  display:inline-block;
+  width: 30px;
+  height: 34px;
+  background-image: url(assets/link.svg) !important;
+  background-repeat: no-repeat !important;
+  background-size: 16px 16px !important;
+  background-position: center center !important;
+  opacity: 0;
+}
+h2 a.anchor{
+  height: 30px;
+}
+h3 a.anchor{
+  height: 28px;
+}
+h4 a.anchor{
+  height: 24px;
+}
+h5 a.anchor{
+  height: 20px;
+}
+h6 a.anchor{
+  height: 18px;
+}
+
+.hasAnchor:hover a.anchor, a.anchor:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 1144px) { // Don't show anchor link on small screens
+  .hasAnchor:hover a.anchor {
+visibility: hidden;
+  }
+}
+
+*/

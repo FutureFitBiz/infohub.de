@@ -1,0 +1,307 @@
+---
+output: github_document
+---
+
+## BE09: Community Health {-#be09}
+
+<div class="subtitle">Community health is safeguarded
+</div>
+
+### 1. Ambition {-#be09-ambition}
+
+A Future-Fit Business actively seeks to anticipate, avoid and address the concerns of all local communities[^1#be09-1] whose wellbeing may be affected by its operational activities.
+
+#### 1.1 What this goal means {-#be09-what-goal-means}
+
+Every business depends on the goodwill, health and resilience of the communities in which it operates, and must ensure its presence does nothing to undermine their wellbeing.
+
+Future-Fit companies take all steps possible to ensure their presence does not negatively impact surrounding communities. The emphasis here is on putting in place appropriate mechanisms to pre-empt, identify, assess and manage community concerns, so that potentially serious issues and legitimate grievances do not go unaddressed.
+
+To be Future-Fit a company must: (a) seek to anticipate and avoid concerns from communities potentially affected by its activities; (b) impartially assess any concerns that do arise; and (c) ensure it effectively and transparently manages those concerns.
+
+#### 1.2 Why this goal is needed {-#be09-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **The implications for not identifying and managing community concerns can be significant for both the community and the company.** A chemical leak from a plant owned by DuPont was linked to a range of ailments in the surrounding community, including cancers, and resulting in a class action lawsuit brought by more than 3,500 people, and eventually settled for $671 million. @Ara171
+- **Disputes over land rights between communities and businesses can impact both parties.** A survey of 360 cases in which privately-financed projects met resistance from local populations found that half resulted in material financial impact on the company, through interruption to operations, damage to company assets, reputation, or fines. @Tmp16
+
+#### 1.3 How this goal contributes to the SDGs {-#be09-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by safeguarding the health of communities, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to enhance inclusive and sustainable urbanization, and efforts to protect and safeguard the world's cultural and natural heritage. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | Support efforts to ensure responsive, inclusive, participatory and representative decision-making at all levels. |
+</div>
+
+#### 1.4 Related goals {-#be09-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Operations do not encroach on ecosystems or communities:**](#be08) The _Operations do not encroach_ goal seeks to ensure that companies do not undermine the wellbeing of communities by encroaching on them. The _Community health_ goal complements this by ensuring that if any concerns _do_ arise, the company deals with them effectively.
+
+### 2. Action {-#be09-action}
+
+#### 2.1 Getting started {-#be09-getting-started}
+
+##### Background information {-}
+
+Companies need to be conscious of the impact their operations have on their physical surroundings. Buildings, transportation routes, and other aspects of the business might adversely and unexpectedly disrupt local communities and the ecosystems they depend upon. Companies should take active steps to pre-empt and avoid such disruption, but it is unlikely that all issues will be anticipated before they arise. For that reason, companies must ensure that people living in communities which may be impacted by their presence have ready access to and are aware of a concerns mechanism, which enables any issues to be raised and dealt with effectively.
+
+The nature of potential concerns from the community will likely change over time as the both the community and the company's operations grow and change. Because of this, companies should continuously seek to anticipate and avoid concerns, and to improve how it responds to them. The first steps should be to assess the physical extent of the impacts of its operations, and to establish lines of communication with the communities in those places impacted. It can then identify and pursue opportunities for improvement.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Which aspects of the company's operations have a physical impact on local communities or ecosystems? {-}
+
+- Does the company own or operate from fixed sites, such as offices or factories? Where are these located? What activities take place in each location? Do any business activities occur away from these company-controlled sites?
+- What is known about the areas in which the company has fixed sites? Which other companies or communities have a presence in those areas? What information is available on the current state of natural ecosystems in those areas?
+- When the company is planning a new building or location, what internal controls are involved in the decision process? Are social or environmental impacts considered? If so, how are those impacts weighed against other factors, like cost?
+
+###### How might the company's presence influence local communities? {-}
+
+- What key inputs does the company rely on to operate in each location (e.g. water, energy, raw materials)? Is the company's need for these inputs likely to be a cause for concern to local communities (e.g. if water is scarce in that region)?
+- What types of by-products or emissions result from operational activities (gaseous, liquid and solid emissions, physical waste)? Where do those substances end up?
+- Is any physical disruption – such as changes in land use – caused by operational activities? Is that disruption temporary and reversible, or permanent?
+- Does the company currently have mechanisms in place to engage community members – or groups representing them – and actively solicit their concerns in each location? If so, are those mechanisms tailored to local circumstances (e.g. adjusted for cultural differences, community access to different communication mediums)?
+- Is a named individual responsible for anticipating and following up on community concerns at each company location?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the best opportunities for making progress? {-}
+
+- Are local organizations actively challenging the company's activities at any of its locations? If so, has the company already started to engage with them?
+- In which locations would disputes with community members carry a high potential for reputational risk?
+- Do any company activities take place in or close to critical ecosystems, near vulnerable or isolated communities, or in relatively undeveloped areas?
+
+###### Which potential improvements would be the easiest to implement? {-}
+
+- Does the company have any locations that have already established dialogues with local communities? Could any proven models be replicated elsewhere in the company? Is there guidance available from industry groups, regulatory bodies, or community advocates on the best ways to communicate with local groups?
+- Do opportunities exist to collaborate with local groups and/or other companies on how to tackle regional challenges (e.g. water scarcity, pollution)?
+- Could improvements be made without significant investment in systems or staffing (e.g. through appointing named individuals, or introducing new incentives, to ensure concerns are addressed)? What approvals or internal changes would be required?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^2#be09-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be09-pursuing}
+
+##### Introduction {-}
+
+The company must identify all communities which may have legitimate concerns about its activities, and in particular those which are at risk of being significantly impacted.[^3#be09-3] For each community, the company must then ensure that suitable controls are in place to avoid potential issues, and to address concerns as they arise.
+
+###### Identifying communities which may be affected by company activities {-}
+
+The company should identify all communities which may be affected by:
+
+- Any activities undertaken at company-controlled sites;
+- The transport of materials and goods to, from and between its sites;
+- Any off-site company activities, including its use of remote assets.
+
+Note that _proximity_ of communities to company activities is not the only factor that should be considered. For example, if a company site consumes significant amounts of water from a local river, it could impact communities far downstream.
+
+###### Identifying at-risk communities {-}
+
+For every identified community, the company should seek to determine the potential for any of its activities to cause a negative impact. A good starting point would be to check whether sufficient attention is being given to other operational Break-Even Goals.
+
+For example, legitimate concerns may be raised if the company is: emitting hazardous substances; accumulating waste; generating excess noise or odours; over-utilizing water or limited local resources; or creating or removing jobs to such a degree that community-wide employment levels are affected.
+
+A community should be considered at risk of being impacted if:
+
+- It has been impacted by a similar activity[^4#be09-4] in the past;
+- It is being impacted now; or
+- It is likely to be impacted in the future unless sufficient measures are in place.
+
+##### Fitness criteria {-}
+
+To be Future-Fit, the company must identify the communities likely to be impacted by its operations, and take steps to anticipate, avoid and address any issues via an effective concerns mechanism. Drawing on third-party guidance[^5#be09-5], Figure 1 outlines the criteria that are deemed sufficient for future‑fitness. Note that additional requirements must be adhered to for at‑risk communities.
+
+<div class="ff-figure">
+Figure 1: **Fitness criteria** for community concerns mechanisms.
+</div>
+
+<div class="table-3col table-blue">
+| Category | For all identified communities | For at-risk communities |
+|:-:|:-|:-|
+| Ensure **legitimacy** | The concerns mechanism is designed not to exclude any manner of community concern. | Stakeholders from and/or representing the community are actively involved in the design of the concerns mechanism and are consulted on changes to existing mechanisms. |
+| Ensure **positive outcomes** | All concerns are resolved in a timely manner and without negatively impacting the health of the community, other people or the environment. | _No additional requirements._ |
+| Ensure **accessibility** | Information on the existence and use of the concerns mechanism is available and easily accessible. | Information on the existence and use of the concerns mechanism is actively communicated to communities.[^6#be09-6]<br/><br/>The company communicates using situationally-appropriate information channels. Any barriers that community members may face in accessing the concerns mechanism are overcome. |
+| Reduce **uncertainty** | At both corporate level and on a per-community basis, a team or individual is assigned responsibility for facilitating development and implementation of the concerns mechanism. | _No additional requirements._ |
+| Ensure **fairness** | In cases where the user of the concern mechanism may not be clear on their rights, or where there may be a conflict of interest for the company to manage concerns, those who raised the concern are provided with access to neutral and independent advice and expertise. | _No additional requirements._ |
+| Ensure **transparency** | Users of the concerns mechanism are fully informed throughout the process.<br/><br/>Any complaint – and the company’s response to it – is made available for public viewing, provided the complaint relates to the company activity or employees, and insofar as legal and confidentiality restrictions allow. | _No additional requirements._ |
+| Improve **continuously** | Anyone using the concerns mechanism is asked for feedback on how to improve it.<br/><br/>The performance of the concerns mechanism is monitored and regularly assessed.<br/><br/>When areas for improvement are identified, steps are taken to implement those improvements. | _No additional requirements._ |
+| Engage **actively** | _Not applicable._ | Community members or established groups that represent their interests are proactively consulted on issues of potential concern – and ahead of any change in company activity – that could impact community wellbeing. |
+</div>
+
+### 3. Assessment {-#be09-assessment}
+
+#### 3.1 Progress indicators {-#be09-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has one progress indicator. To calculate it the following steps are required:
+
+- Identify communities which may be affected by the company's activities, and determine whether each one is at risk of negative impacts.
+- Assess each community against the fitness criteria.
+- Calculate company-wide progress across all communities.
+
+##### Assessing fitness for community {-}
+
+The community concerns mechanism is scored using the eight fitness criteria categories (legitimacy, positive outcomes, accessibility, reducing uncertainty, fairness, transparency, engage actively, improve continuously), as follows:
+
+- **0% fit:** Any community that has not been assessed, or any community covered by a concerns mechanism that _does not_ live up to the two fitness criteria categories _Ensure legitimacy_ and _Ensure positive outcomes_.
+
+Communities covered by a concerns mechanism are scored as follows:
+
+- **30% fit** : _Ensure legitimacy_ and _Ensure positive outcomes_ criteria are satisfied.
+- **45% fit** : One additional criteria category is satisfied.
+- **60% fit** : Two additional criteria categories are satisfied.
+- **70% fit** : Three additional criteria categories are satisfied.
+- **80% fit** : Four additional criteria categories are satisfied.
+- **90% fit** : Five additional criteria categories are satisfied.
+- **100% fit** : All criteria categories are satisfied.
+
+##### Calculating company progress {-}
+
+Overall progress is calculated as follows:
+
+- Calculate progress as the weighted average fitness of the company's concerns mechanisms across all communities.
+
+This can be expressed mathematically as:
+
+$$F=\frac{0(C_{0\%})+0.3(C_{30\%})...+0.9(C_{90\%})+1(C_{100\%})}{C_T}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$C_{x\%}$$ | Is the number of communities for which the fitness score is x%, based on which of the eight fitness criteria categories are being met.[^7#be09-7] |
+| $$C_T$$ | Is the total number of communities identified during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be09-example).
+
+<div class="callout-note">
+**How big should each 'community' be? It depends…**
+
+Communities vary in terms of their size, their surroundings, their demographic composition, and their primary forms of income and commerce. However, there is currently no generally accepted and objective way to quantify such differences. For this reason, an even-weighting method is employed here, such that each community effectively contributes the same proportion to the assessment of the company's progress.
+
+Note that this may open up the potential for a company to try to 'game the system' by dividing up populations they have adequately addressed into several smaller communities. This would artificially inflate the total number of communities, and thus reduce the scoring contribution of any community for which concerns have _not_ been adequately addressed.
+
+To counter this, companies should segment their communities at the largest scale that makes sense, given the nature of the impacts they face. For some issues, this will be local (e.g. noise affecting nearby villages). For others it may be broader (e.g. water use affecting everyone in a watershed). For people not at risk, it may even be appropriate to assess progress at a national level (e.g. handling customer complaints for a chain of retail stores).
+
+Whichever approach the company uses to identify and segment its various communities, it must be (a) clearly documented, and (b) applied consistently across all regions and reporting periods. See the _Context indicators_ section below.
+</div>
+
+<div class="callout-note">
+**What should be done when no communities are identified**
+
+If a company is unable to identify any communities that are potentially affected by its activities, it should define one overarching community for every country in which it operates. This is to ensure that anyone who may wish to raise concerns about the company's activities, even if they are not obviously affected, has the means to do so.
+</div>
+
+#### 3.2 Context indicators {-#be09-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total number of potentially affected communities {-}
+
+To give an indication of the company's overall footprint in absolute terms, the total number of potentially affected communities should be reported.
+
+####### Number of at-risk communities {-}
+
+To give an indication of where the company has the potential to cause a negative impact, the number of at-risk communities should be reported.
+
+####### Methodology used to identify potentially affected communities {-}
+
+The company should provide a brief summary of the method used to identify and segment its communities, to explain how it derived the _Total number of potentially affected communities_ figure used to assess its overall progress.
+
+For an example of how context indicators can be reported, see [here](#be09-example).
+
+### 4. Assurance {-#be09-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be09-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be09-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to ensure the company has identified the communities which are likely to be impacted by the company's operations. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify any impacted communities.
+- Document the approach used by the company to ensure that concern mechanisms are appropriate for, and accessible by, the communities being served. Retain any notes or materials generated from the application of this process to create an evidence trail. Assurers may use this information to help verify that the company has appropriate controls in place to facilitate feedback from impacted communities.
+- Document the process used to identify issues of concern that require proactive communication from the company to the community, including parameters or conditions used to make the distinction. Retain any notes or materials generated from the analysis of these issues, and from the application of the communication process. This will allow assurers to verify that the process is appropriate.
+- Document the method and frequency through which the company assesses the performance of the concern mechanisms. When these assessments identify opportunities for potential improvement, retain any evidence of actions taken by the company to implement processes that address them. Assurers may use this information to verify that an appropriate control is in place and is used.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be09-additional}
+
+#### 5.1 Example {-#be09-example}
+
+ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space.
+
+The office is in a long-established commercial district. ACME identifies one potentially affected community, but due to the nature of the office's activities, does not classify it as at-risk. The company has a concerns mechanism in place that adheres to six of the fitness criteria categories, but community members are not given access to neutral and independent advice, and there is no team or individual within the office responsible for the concerns mechanism.
+
+The bottling plant is near a small village. One potentially affected community is identified, and because of the plant's operational activities – in particular the use of significant amounts of local water – it is classified as at-risk. The plant's control processes only satisfy the 'legitimacy', 'positive outcomes' and 'transparency' criteria categories.
+
+The company can now calculate its progress as:
+
+$$F=\frac{0(C_{0\%})+0.3(C_{30\%})...+1(C_{100\%})}{C_T}=\frac{0.8(1)+0.45(1)}{2}=63\%$$
+
+####### Context indicators {-}
+
+Total number of potentially affected communities: 2
+
+Number of at-risk communities: 1
+
+Methodology used to identify potentially affected communities: The company decided to count a single (neighbouring) community for each site, having verified that the only off-site activity (transporting goods) does not disrupt people elsewhere.
+
+#### 5.2 Useful links {-#be09-links}
+
+##### The UN Guiding Principles on Business and Human Rights {-#be09-Un-pbhr}
+
+The UN's Human Rights Council endorsed the [Guiding Principles](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) in 2011, which apply both to states and business enterprises.
+
+##### CSR Europe {-#be09-Csr-europe}
+
+CSR Europe is a leading European business network for corporate social responsibility. In 2013 it published the report [Assessing the effectiveness of company grievance mechanisms](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), which translated the UN's Guiding Principles into a recommended set of company actions.
+
+##### The Office of the Compliance Advisor/Ombudsman (CAO) {-#be09-Miga}
+
+CAO is the independent recourse mechanism for the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). It has released [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects.](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf)
+
+
+[^1#be09-1]: We use Global Reporting Initiative's definition of a (local) community: _Persons or groups of persons living and/or working in any areas that are economically, socially or environmentally impacted (positively or negatively) by an organization's operations._ @Gri16 See [**Key Terms & Definitions**](#def) for all key definitions.
+
+[^2#be09-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^3#be09-3]: Some company activities (e.g. running a retail store in a shopping centre) are far less likely to have a significant detrimental impact on the local community than others (e.g. manufacturing chemicals).
+
+[^4#be09-4]: Sometimes a company may not be the first organisation to undertake a specific activity in a particular place. For example, an extractives company may acquire and start operating an existing mine, and a food producer may purchase and farm an existing tract of arable land. Insofar as is possible, a company should consider any such historically similar activities when exploring whether a community was negatively impacted in the past.
+
+[^5#be09-5]: In particular the [UN Principles on Business and Human Rights](#be09-Un-pbhr), [CSR Europe](#be09-Csr-europe) and the [IFC/MIGA](#be09-Miga).
+
+[^6#be09-6]: The _Ensure accessibility_ category references 'active communication', which means that the company has taken specific actions to make communities aware of a concerns mechanism and how to use it. Active communication might include, but is not limited to, distributed printed materials, company websites, and physical notices at sites or on vehicles controlled by the company.
+
+[^7#be09-7]: For example, would be the number of communities for which a concerns mechanism is in place which meets five of the eight fitness criteria categories, including _Ensure legitimacy_ and _Ensure positive outcomes_.

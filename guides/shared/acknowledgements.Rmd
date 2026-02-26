@@ -1,0 +1,14 @@
+---
+output: github_document
+---
+
+## Acknowledgements {-}
+
+<div class="subtitle">Future-Fit Foundation is indebted to a wide range of individuals and organizations for their support, encouragement and critical feedback.
+</div>
+
+##### For their support and input on Release 2, 2.1 and 2.2 we would particularly like to acknowledge the following individuals... {-}
+
+In alphabetical order:
+
+Careen Abb, Carol Adams, Marjella Alma, Sue Almond, Helle Bank Jorgensen, Clara Barby, James Barsimantov, Matt Beck, Hans-Ulrich Beck, Seb Beloe, Ingun Berget, Stephanie Bertels, Shonil Bhagwat, Carl-Johan Björklund, Ida Bjursten, Richard Blume, Karin Bodin, Anna Borgeryd, Göran Broman, Alice Chapple, Amy Clarke, Paul Coverdale, Phil Cumming, Chris Davis, Ben Dixon, Rylan Dobson, Aldyen Donnelly, Bruce Duguid, Bob Eccles, John Elkington, Claire Fargeot, Amanda Feldman, Jane Firth, Luke Fletcher, Anne Gadegaard, Michael Gillenwater, Johan Gjærum, Richard Gomes, Filip Gregor, Amy Hall, Leslie Harroun, Louisa Harris, Graham Head, Gianna Heintges, Emily Holden, Ingrid Holmes, Bart Houlahan, Andy Howard, David Hughes, Adam Jackson, Michael Jantzi, Ola Jönsson, Daniel Joy, Gary Kendall, Leon Kamhi, Brett Knowles, Andrew Krause, Sam Lakha, Martin Lambert, Luna Lee, Ernst Ligteringen, Simon Locke, Charmian Love, Rachel Madeiros-Mhende, Huw Maggs, Martin Martinoff, Colin Melvin, Harald Melwisch, Merlina Missimer, Matthias Müller, Alistair Munro, David Newstead, Richard Northcote, Didrik Nygaard, Cora Olsen, Jessica Osikominu, Dan Osusky, Chad Park, Andrew Parry, Lucy Player, Kate Raworth, Samantha Rich, Renaud Richard, Karl-Henrik Robèrt, Andrew Rzepa, Helen Sahi, Rachel Sandby-Thomas, Louise Scholey, Mike Senior, KoAnn Skrzyniarz, Lorraine Smith, Susanne Stormer, Jeff Sutton, Patrick Thomas, Solitaire Townsend, Dawn Turner, Kate Upshon, Antony Upward, Ronel van der Merwe, Nadine Viel Lamare, Dimitar Vlahov, Danielle Walker Palmour, Faith Ward, Bob Willard, Maxine Wille, Alan Willis, Chris Wolf and Sam Woodward.

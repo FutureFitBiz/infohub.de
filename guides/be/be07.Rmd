@@ -1,0 +1,242 @@
+---
+output: github_document
+---
+
+## BE07: Operational Waste {-#be07}
+
+<div class="subtitle">Operational waste is eliminated
+</div>
+
+### 1. Ambition {-#be07-ambition}
+
+A Future-Fit Business seeks to eliminate operational waste completely, and ensures that all by-products are repurposed. Organic waste may be composted and returned to the soil, and materials that can be reused must be reclaimed.
+
+#### 1.1 What this goal means {-#be07-what-goal-means}
+
+The world's resources are finite. Many renewable resources are consumed faster than they can regenerate, and as society's most accessible finite resources are used up, extraction methods often become increasingly disruptive. Demand for virgin resources can be mitigated if materials are repurposed, rather than discarded. Repurposing also eliminates costs – financial, environmental and human – that waste disposal incurs.
+
+Waste is used here to mean all materials generated as by-products of production and other operational activities which the company manages to contain, and which require treatment, repurposing, or disposal. This includes both hazardous and non-hazardous manufacturing materials, as well as non-production waste (e.g. office paper, food, retired equipment).
+
+To be Future-Fit, a company must: (a) eliminate all avoidable waste generation; and (b) reuse, recycle or otherwise repurpose any remaining waste.
+
+#### 1.2 Why this goal is needed {-#be07-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **The amount of waste we create is huge, and it's growing**. Each year, nations generate 1.3 billion tons of waste. That's expected to soar to 4 billion tons by 2100. @Sim16
+
+- **Governments are increasingly reviewing their approach to waste management.** China, the largest global importer of many types of recyclable materials and waste, announced in 2017 that it will radically change its approach to waste imports within months, forcing other nations to find alternative means of disposal. @Col17
+
+#### 1.3 How this goal contributes to the SDGs {-#be07-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by eliminating operational waste, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to reduce the adverse per capita environmental impact of cities, paying special attention to air quality and waste management. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, to significantly reduce their release to air, water and soil, and to substantially reduce waste generation through prevention, reduction, recycling and reuse. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities. |
+</div>
+
+#### 1.4 Related goals {-#be07-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Water use is environmentally responsible and socially equitable:**](#be02) The _Operational waste_ goal applies to substances that accumulate as a result of operational activities, and remain contained afterwards, so they may be treated or disposed of. Wastewater that is discharged directly into the environment is covered by the _Water use_ goal.
+- [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Operational waste_ goal applies to the company's own operational activities. Concerns over the future-fitness of suppliers' operations are covered under the _Procurement_ goal.
+- [**Operational emissions do not harm people or the environment:**](#be05) The _Operational waste_ goal applies to substances that accumulate as a result of operational activities, and remain contained afterwards, so they may be treated or disposed of. Liquid, gaseous, or solid wastes which are accidentally or intentionally discharged directly into the environment are covered by the _Operational emissions_ goal.
+- [**Products can be repurposed:**](#be19) The _Operational waste_ goal encompasses non-product substances (e.g. trimmings, scrap, used solvents, etc.) which are generated as a result of operational activities. Concerns over products and supplementary materials such as packaging, which can end up accumulating in nature, are covered by the _Products can be repurposed_ goal.
+
+### 2. Action {-#be07-action}
+
+#### 2.1 Getting started {-#be07-getting-started}
+
+##### Background information {-}
+
+Recycling and waste treatment processes around the world are continuously improving, but even the most advanced systems aren't equipped to reclaim all types of waste. The systemic challenge is to break the link between economic production and the creation of waste. To accomplish this, operational processes (including but not limited to manufacturing) must often be designed or adapted with repurposing in mind, and mechanisms must be available to facilitate repurposing. No single company working alone can achieve this, and this goal should be seen as a long-term aspiration, to inspire stakeholders and guide collective innovation toward a better future.
+
+A company's first step toward becoming Future-Fit should be to identify the recycling infrastructure available in the areas where its operations are located, the types of waste it produces, and where that waste ends up. Once this is established, the business can begin pursuing opportunities for improvement, such as increasing efficiency, adapting operating processes, introducing new technologies, and collaborating with others in the value web.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Where is waste being generated by company activities? {-}
+
+- What are the company's physical inputs? Are raw materials used for manufacturing or processing products? Do supporting roles use physical inputs (e.g. lubricants or cleaning fluids in the maintenance of production machinery)? Where do such substances end up after use?
+- What physical waste is produced across the company's different operational activities?
+- Do any company activities produce [hazardous waste](#def-hazardous-waste)? If so, how are these types of waste treated and/or disposed of?
+- Can any waste end up escaping into nature, rather than being managed in a controlled way? Does the company have plans to address this?
+- Are there any potential knowledge gaps in the answers to the above questions? How might the company go about obtaining the missing information?
+
+###### How is waste being handled? {-}
+
+- How is each type of waste collected and treated, and does it vary by site? Does the company treat waste itself, or does it engage third parties?
+- How much of the waste being generated is it _technically_ possible to repurpose, even if this is not currently being done due to practical and/or cost constraints?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the greatest opportunities for making progress? {-}
+
+- Which company activities and sites generate the most waste? What types of waste are most likely to end up in landfill, or to escape into nature?
+- Which company sites are subject to the _least comprehensive_ regulatory requirements?
+- Which sites are located in areas that lack sophisticated waste handling infrastructure?
+- Which sites are located in or near communities or ecosystems whose health could be affected by improper waste management?
+
+###### Which options for improvement are the easiest to implement? {-}
+
+- What techniques might be used to reduce the generation of waste? Which of these would require the lowest investment in time and resources to implement?
+- Can compostable materials be treated on site?
+- Are there ways to optimise operational activities in ways that could reduce cost, either through using less material inputs, or by reusing waste materials as inputs?
+- Could other industries or organizations use the company's waste as inputs? Are there opportunities to partner in ways that benefit both parties?
+
+###### Has the company already started to actively reduce the amount of waste being produced? {-}
+
+- Has the company made public commitments – or at a minimum set internal targets – and implemented action plans whose aim is to reduce or eliminate operational waste? If so, are those targets taking the company toward future-fitness?
+- If the company hasn't yet set targets, whose authorization would be needed to do so, and who would need to be involved to design and implement adequate controls and incentives?
+- If current action plans are unlikely to move the company meaningfully toward future-fitness, how might they be augmented or adjusted?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _waste does not exist_?[^1#be07-1] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-waste).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be07-pursuing}
+
+##### Introduction {-}
+
+This goal encompasses all waste generated throughout a company's operations. A systematic approach should be taken to ensure the company identifies all sources of waste generation, including waste generated at fixed sites owned, controlled or leased by the company (e.g. offices, manufacturing plants, retail locations), waste produced by off-site assets or services (e.g. transportation fleets, construction work, consulting services), and waste from other functions that support these activities.[^2#be07-2]
+
+##### Fitness criteria {-}
+
+A company must eliminate all avoidable waste generation, and then repurpose all remaining forms of waste in ways that minimize quality loss (and thus prolong the life of the materials concerned).
+
+Specifically, a company should prioritize the following, in descending order of preference:
+
+- **Prevent**: waste generation is avoided wherever possible.
+- [**Refurbish,**](#def-refurbishment) [**remanufacture**](#def-remanufacture) **or** [**reuse**:](#def-reuse) the waste is cleaned, repaired or otherwise processed to be used again.
+- [**Recycle**](#def-recycle): the waste is turned into a new operational input that the company itself or a third party can use.
+- [**Recover energy**](#def-energy-recovery): the waste is a _biogenic substance_ (100% derived from animals/plants) and it is recovered as energy after the above options have been exhausted.
+
+Note that burning waste for energy is _not_ considered Future-Fit, unless the waste is 100% biogenic. This is because the resulting energy is not considered renewable. For more information see this [frequently asked question](#be07-faq).
+
+### 3. Assessment {-#be07-assessment}
+
+#### 3.1 Progress indicators {-#be07-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has one progress indicator. To calculate it the following steps are required:
+
+- Measure the weight of all waste generated during the reporting period.
+- Calculate progress in reducing waste relative to a reference year (see below).
+
+Progress is assessed as follows:
+
+- The company chooses a reference year for which complete waste generation data is available. The reference year is assigned a progress score of 0%.[^3#be07-3]
+  - If no historic data exists, the first year measured will be used as the reference year. Until an assessment of waste has been performed, the company should designate its progress on this goal as **0%**.
+- The company's progress in a given year is the amount by which the waste in the current reporting period is less than the waste from the reference year, expressed as a percentage.
+- This means that if the amount of waste generated by the company in the current year is greater than or equal to the reference year, its Future-Fit progress remains at 0%.
+
+This can be expressed mathematically as:
+
+$$
+F=
+\begin{cases}
+\frac{W_R-W_C}{W_R} \;\;for\;\; (W_R-W_C)\geq0\\
+\\
+\;\;\;0\% \;\;\;\;for\;\; (W_R-W_C)<0\\
+\end{cases}
+$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$W_R$$ | Is the waste generated in the reference year. |
+| $$W_C$$ | Is the waste generated in the current year. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be07-example).
+
+#### 3.2 Context indicators {-#be07-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total operational waste {-}
+
+The absolute amount of waste generated is equivalent to the value of _W<sub>C</sub>_in the equation above, and so no additional data or effort is required to calculate it.
+
+For an example of how context indicators can be reported, see [here](#be07-example).
+
+### 4. Assurance {-#be07-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be07-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be07-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to ensure the company has identified all of the waste produced at each location during the reporting period. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify any sources of waste.
+- Retain evidence of the parameters used by the company to classify business outputs as waste versus emissions. Assurers may use this information to understand and verify the approach used, and ensure it has been consistently applied.
+- Document the methods used to measure the amount of waste produced by the company at each location during the period. Assurers may use this information to understand and verify the inputs to the indicator calculations.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be07-additional}
+
+#### 5.1 Example {-#be07-example}
+
+ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The company started measuring its total waste generation for both sites in 2010, at which point it produced a total of 50,000 tons of waste annually – 5,000 tons at the office space and 45,000 tons at the bottling plant. Since then, the company has taken several steps to reduce this figure. It has optimized its bottling process, eliminating 10,000 tons of waste, and it has introduced a recycling program at both sites which encourages recycling amongst employees, eliminating a further 5,000 tons split equally between the two sites, leaving the total waste generated this year as 35,000 tons.
+
+The company can now calculate its progress as follows:
+
+$$F=\frac{W_R-W_C}{W_R}=\frac{50,000-35,000}{50,000}=30\%$$
+
+####### Context indicator {-}
+
+Total operational waste: 35,000 tons
+
+#### 5.3 Useful links {-#be07-useful-links}
+
+##### The Ellen MacArthur Foundation {-}
+
+[The Ellen MacArthur Foundation](http://www.ellenmacarthurfoundation.org/) works with business, government and academia to build a framework for a Circular Economy: an economy that is restorative and regenerative by design.
+
+##### Waste Atlas {-}
+
+The [Waste Atlas](http://www.atlas.d-waste.com/) is a crowdsourced free access map that visualizes municipal waste management data across the world.
+
+#### 5.2 Frequently asked questions {-#be07-faq}
+
+##### Why isn't all energy from waste considered to be renewable? {-}
+
+Residual waste often contains a mix of biogenic materials like food waste and scrap wood, as well as materials from fossil sources such as plastics. Energy recovered from such waste is only considered to be partially renewable.
+
+##### What is the difference between waste and emissions? {-#be07-waste-vs-emissions}
+
+[**BE07: Operational waste is eliminated**](#be07) focuses on solid, liquid and gaseous substances (also referred to as by-products) which can be _contained_ by the company and sent to a third-party for treatment, recycling, repurposing or disposal. In contrast, [**BE05: Operational emissions do not harm people or the environment**](#be05) encompasses solid, liquid and gaseous substances which _escape_ into the environment. The difference between waste and emissions is nuanced, but the aim is the same: elimination of substances that end up or build up in the environment. Ultimately, the most important thing is for companies to capture data and assess progress consistently year on year.
+
+[^1#be07-1]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^2#be07-2]: Some companies may be unsure whether to capture specific types of waste here, or via goal [**BE19: Products can be repurposed**](#be19) (e.g. a conference venue which hands out disposable badges to attendees). Where such uncertainties arise, see _Differentiating between operational and product impacts_ in the [**Implementation Guide**](#ig-differentiating-impacts).
+
+[^3#be07-3]: This step rewards companies that have a long history of gathering waste data. Once a reference year has been chosen, it should not be changed. For further details on setting reference points see the [**Implementation Guide**](#ig-set-reference-point).

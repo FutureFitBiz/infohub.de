@@ -1,0 +1,310 @@
+---
+output: github_document
+---
+
+## BE16: Product Concerns {-#be16}
+
+<div class="subtitle">Product concerns are actively solicited, impartially judged and transparently addressed
+</div>
+
+### 1. Ambition {-#be16-ambition}
+
+A Future-Fit Business gives a voice to its customers[^1#be16-1] by actively soliciting any concerns they have, impartially investigating them, and fairly and transparently acting to address legitimate grievances.
+
+#### 1.1 What this goal means {-#be16-what-goal-means}
+
+Other product goals address the ethical marketing of the company's goods and services, whether they have the potential to cause harm, and how to ensure that goods can be repurposed at the end of their useful life. By living up to all of these goals, a company can minimize the number of concerns its customers have. However, it is still important that customers are able to voice legitimate concerns – and to have those concerns fairly addressed – if they feel that a company has fallen short of meeting its obligations.
+
+These requirements cover both final products designed for end users, and interim goods which are incorporated or processed into final products by other companies.
+
+To be Future-Fit, a company must therefore put in place effective internal controls to actively solicit, impartially judge and transparently address customer concerns relating to the environmental and social impact of the goods or services it delivers.
+
+#### 1.2 Why this goal is needed {-#be16-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Despite the best intentions of manufacturers, products often have serious flaws**. According to the OECD, there are more than 17,000 products worldwide that are subject to a recall (at the time of publishing) for safety reasons. @Oec17
+- **Companies that are not transparent or honest about the way they make goods or deliver services can open themselves up to accusations of false claims or litigation.** In 2010, exaggerated claims about the health benefits of one of its products led to a global food company paying $45m in damages in a consumer-led class action suit. @Wei11
+
+#### 1.3 How this goal contributes to the SDGs {-#be16-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by safeguarding their customers' health, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles that are in harmony with nature. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | Support efforts to develop effective, accountable and transparent institutions, and efforts to ensure responsive, inclusive, participatory and representative decision-making at all levels. |
+</div>
+
+#### 1.4 Related goals {-#be16-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Community health is safeguarded:**](#be09) The _Product concerns_ goal is focused on giving a voice to the company's customers and others concerned with the environmental and social performance of its goods and services. The _Community health_ goal, in contrast, focuses on local communities impacted by the company's operations.
+- [**Products do not harm people or the environment:**](#be17) The _Products do not harm_ goal deals with harm to people or the environment caused by products during their use or (in the case of physical goods) at the end-of-life phase. The _Product concerns_ goal supplements this, by ensuring that customers are able to readily alert the company to unforeseen problems so that they are managed effectively.
+- [**Product communications are honest, ethical, and promote responsible use:**](#be15) The _Product concerns_ goal empowers people to raise issues about the company's goods and services, whereas the _Product communications_ goal – by ensuring that customers are proactively and adequately informed – seeks to minimize the likelihood of concerns arising in the first place.
+- [**Employee health is safeguarded:**](#be10) The _Product concerns_ goal encompasses concerns that may arise in cases where customers visit or otherwise interact with company-controlled sites and assets (e.g. retail stores, hotels, trains). In such cases, a company must identify and mitigate any risks to customers that may arise while they are in its care. This proactive requirement to safeguard customer health is covered as a special case (of ensuring safe workplaces) under the _Employee health_ goal.
+
+### 2. Action {-#be16-action}
+
+#### 2.1 Getting started {-#be16-getting-started}
+
+##### Background information {-}
+
+In order to anticipate, avoid and address potentially critical concerns relating to its goods and services, companies must ensure that all product users have access to a well-functioning mechanism that enables them to raise general concerns, and to call attention to any aspects of a product that are at odds with future-fitness.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Does the company sell directly to end consumers, to intermediary manufacturers, or a combination of the two? {-}
+
+- When selling physical goods to an intermediary that further refines, processes or augments them before final sale, is there any discussion regarding (potential) product issues and/or opportunities to improve the future-fitness of the final product?
+- Can the company confidently identify who its end users are, and where they are located?
+- Does the company currently receive feedback on its products from its direct customers and/or end users?
+- Do customers routinely visit company-controlled sites or otherwise interact with company-controlled assets (e.g. retail stores, hotels, trains)? Has the company taken steps to anticipate and address any health concerns that may arise? Does this include meeting the needs of specific customer groups (e.g. people with physical disabilities)?
+
+###### Does the company have formal mechanisms in place to collect and address user feedback? {-}
+
+- If only informal practices are in place, could personal judgement or inconsistency in timing and treatment of reactions impair the company's ability to respond to and benefit from user feedback?
+- What incentives do product users have to spend the time and effort required to voice their concerns to the company?
+
+###### Does the company actively and adequately consider the health of users of its products, across its entire business? {-}
+
+- Are risks relating to product use, misuse and disposal assessed proactively and on a regular basis?
+- If the company delivers services to – or otherwise interacts directly with – customers, are adequate controls in place to ensure that their feedback is solicited, recorded, and acted on?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### In which areas could the company have the biggest impact? {-}
+
+- Do any products have the potential to cause significant issues due to the nature of the goods or services, and how they are sold and used, or the characteristics of the customers being sold to (e.g. vulnerable groups)?
+
+###### In which areas could the company most easily make progress? {-}
+
+- Which products have the highest sales volumes, or the potential to influence the most people during use?
+- Could large groups of users be effectively reached using a single technique or tool?
+- Is the company able to scale up solutions that have been implemented in certain parts of its business, or to seek advice from external organizations, such as industry bodies?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^2#be16-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be16-pursuing}
+
+##### Introduction {-}
+
+The company must seek to anticipate and avoid customer concerns insofar as is possible, and encourage and equip customers to raise concerns when they do arise.
+
+###### Guidance on identifying user groups {-}
+
+In order to establish effective lines of communications, the company must first identify who the users of its products are. This will allow the company to anticipate and address any unique considerations necessary to ensure that the users are empowered to raise any concerns over the fitness of its products. A _user group_ can be defined here as a subset of product users whose needs require distinct consideration.
+
+Customers who visit company-controlled sites (e.g. retail stores, hotels) or otherwise interact with company-controlled assets (e.g. trains) should be identified as specific user groups, which may have additional needs depending on the nature of the interaction.
+
+For existing products, companies should tap in to sales information, market research, and customer feedback to understand who its users are, including their location, languages spoken, and their access to and preferences for different modes of communication (e.g. online, telephone, written, in-person).
+
+For new products, companies should draw on market research, such as sales projections by demographic and region, information on comparable products, and industry reports. This process will differ depending on whether product users are expected to be businesses or individuals, and what level of technical knowledge they might be expected to possess.
+
+##### Fitness criteria {-}
+
+A Future-Fit company puts in place control structures[^3#be16-3] to ensure that its customer concern mechanisms satisfy all of the following criteria.
+
+###### Major user groups of products are identified {-}
+
+- For each product type, the company identifies major user groups for which it requires unique concern mechanisms[^4#be16-4], and documents the reasoning behind these groupings.
+
+###### Concern mechanisms meet minimum requirements {-}
+
+Drawing on the guidance embodied in the [UN Principles on Business and Human Rights](#be16-un-pbhr), [CSR Europe](#be16-csr-europe), and the [CAO](#be16-cao), the following criteria are deemed sufficient for future‑fitness:
+
+####### Ensure legitimacy {-}
+
+- The concerns mechanism is designed to accommodate the reporting of all conceivable issues, irrespective of their category or type.
+
+####### Ensure positive outcomes {-}
+
+- Controls are in place to ensure that concerns are investigated in a timely manner.[^5#be16-5]
+  - Companies have a duty of care to their customers when the provision of goods and services involves customers visiting or otherwise interacting with company-controlled sites and assets (e.g. retailers, hoteliers, train operators), and in such cases, on-site concern mechanisms should afford customers the ability to alert staff immediately to any issues that could affect people's wellbeing (e.g. equipment failure, fires).[^6#be16-6]
+
+####### Ensure accessibility {-}
+
+- The company ensures that it has mechanisms in place, to enable each of the identified user groups to contact the company with their concerns.
+  - The company has assessed that the mechanisms are appropriate for the needs of the group(s) for which they are intended. This includes considerations such as the range of languages accommodated, and whether those mechanisms are sufficiently accessible (e.g. online, telephone, written correspondence, etc.).
+
+####### Reduce uncertainty {-}
+
+- At both corporate level and for a given product or user group, a team or individual is assigned responsibility for facilitating development and implementation of the concerns mechanism.
+
+####### Ensure fairness {-}
+
+- Concerns are investigated by individuals whose positions and incentives are not influenced by the investigation's outcomes.
+- Where necessary, the company has policies that would direct it to consult external experts when determining whether further action is needed when investigating product concerns.
+
+####### Ensure transparency {-}
+
+- Throughout an investigation, the user(s) who raised the concern are kept informed of the investigation's progress.
+  - When the company is made aware of a concern regarding the environmental or social characteristics of one of its products, it explains how it plans to investigate that concern to whichever users or groups raised it.
+  - If the concern is found to be valid, the company acknowledges this publicly – in a way that reaches all users potentially affected by the issue – describing what corrective action is being taken as a result. In so doing, the company must respect the privacy of the users or groups who alerted the company to the issue in the first place.
+  - Alternatively, if the investigation determines that no corrective action is needed, the company should provide evidence to that effect.
+
+####### Engage actively {-}
+
+- The company takes proactive steps to gather input on the performance of its concern mechanisms on a regular basis.[^7#be16-7]
+  - This proactive review should include soliciting feedback from the target user groups on their awareness of and ability to use the concern mechanisms.
+
+####### Improve continuously {-}
+
+- The company continuously documents the performance of the concern mechanisms.
+- When areas for improvement are identified, the company takes steps to implement those changes.
+
+### 3. Assessment {-#be16-assessment}
+
+#### 3.1 Progress indicators {-#be16-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has one progress indicator. To calculate it the following steps are required:
+
+- For each product, identify whether concern mechanisms that meet each of the fitness criteria are in place for the major user groups identified.
+- Identify the revenue generated from each product within the reporting period.
+- Calculate company-wide progress as the revenue-weighted fitness across all products.
+
+##### Assessing fitness for each product {-}
+
+Note that although fitness is measured on a per-product basis, assessments can be done on groups of products, provided that the same considerations apply in the evaluation of the criteria.
+
+The product concerns mechanism is scored using the eight fitness criteria categories (legitimacy, accessibility, reducing uncertainty, fairness, transparency, positive outcomes, engage actively, improve continuously), as follows:
+
+- **0% fit**: no formal concerns mechanism is in place for a product, _or_ no assessment of the mechanism against the criteria has been performed, _or_the concerns mechanism _does not_ live up to the two fitness criteria categories _Ensure legitimacy_ and _Ensure positive outcomes_.
+
+Products covered by a concerns mechanism are scored as follows:
+
+- **30% fit**: _Ensure legitimacy_ and _Ensure positive outcomes_ criteria are satisfied.
+- **45% fit**: One additional criteria category is satisfied.
+- **60% fit**: Two additional criteria categories are satisfied.
+- **70% fit**: Three additional criteria categories are satisfied.
+- **80% fit**: Four additional criteria categories are satisfied.
+- **90% fit**: Five additional criteria categories are satisfied.
+- **100% fit**: All criteria categories are satisfied.
+
+##### Calculating company progress {-}
+
+The company's overall progress can now be calculated as a revenue-weighted sum of the fitness of each product.
+
+This can be expressed mathematically as:
+
+$$F=\frac{0(R_{p0\%})+0.3(R_{p30\%})...+0.9(R_{p90\%})+1(R_{p100\%})}{R_T}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$R_{px\%}$$ | Is the sum of revenues from products (_p_) with a fitness score of x%, based on which of the eight fitness criteria categories are being met.[^8#be16-8] |
+| $$R_T$$ | Is the total revenue earned by the company during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be16-example).
+
+#### 3.2 Context indicators {-#be16-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total revenue {-}
+
+In addition to the progress indicator, companies must report the total revenue from sold or leased goods and services.
+
+The total revenue is equivalent to the summed values of _R<sub>T</sub>_ in the equation above, and so no additional data or effort is required to calculate them.
+
+For an example of how context indicators can be reported, see [here](#be16-example).
+
+### 4. Assurance {-#be16-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be16-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be16-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to identify distinct user groups of the company's products which require different considerations. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify all distinct user groups.
+- Describe the method used to ensure that submitted concerns are investigated and responded to by the company in a timeframe that is appropriate to the nature of the issue. This can help demonstrate to assurers that all concerns are responded to in a timely manner.
+- Document the method used to investigate reported concerns about the fitness of the company's products, including which parameters are used to determine whether additional actions are required or not. Having a sequence of written steps can help demonstrate to assurers that a consistent approach is being used.
+- Retain documentation from the indicator calculations, including the products or product groups being evaluated, the respective scores of those products, and the related revenues that were consolidated to determine the company's overall progress. Assurers may use this information to identify the sources of these data points and/or verify the accuracy of the calculations.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be16-additional}
+
+#### 5.1 Example {-#be16-example}
+
+ACME Inc. sells lemonade products. The company has two products – lemonade in a glass bottle and lemonade in a plastic bottle. It has historically operated only in Country A, but recently expanded with a new product into Country B. Since the two countries have different national languages, ACME determines that the needs of product users in both countries require distinct considerations for the development of concern mechanisms. The company has worked with a consumer protection body in Country A to develop control systems, including a way to effectively analyse and respond to product queries, and to establish clear lines of accountability within the organization. As a result, products sold in Country A have been assessed against each of the criteria categories, and verified to fulfil all of them. Those products are assessed as 100% fit.
+
+While the contact information on the packaging in both countries is in the respective local languages, ACME's website is only available in the language of Country A, meaning the online concern mechanism they provide isn't effective for product users in Country B. This means that the Accessibility criteria are not met for the new product sold in Country B. ACME also relies on a feature of its website to inform customers of the status of their queries, which means they also do not fulfil the Transparency criteria requirements. Products sold in Country B are therefore determined to be 80% fit.
+
+Sales of its products in Country A total $380,000 during the reporting period ($200,000 for glass bottle lemonade and $180,000 for plastic bottle lemonade), while sales in Country B total $350,000 ($100,000 for glass bottle lemonade and $250,000 for plastic bottle lemonade). ACME can calculate its progress on this goal as:
+
+$$F=\frac{0(R_{p0\%})+0.3(R_{p30\%})...+1(R_{p100\%})}{R_T}=\frac{0.8(350,000)+1(380,000)}{730,000}\approx90\%$$
+
+####### Context indicator {-}
+
+Total revenue from goods and services = $730,000
+
+#### 5.3 Useful links {-#be09-useful-links}
+
+##### The UN Guiding Principles on Business and Human Rights {-#be16-un-pbhr}
+
+The UN's Human Rights Council endorsed the [guiding principles](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) in 2011, which apply both to states and business enterprises.
+
+##### CSR Europe {-#be16-csr-europe}
+
+CSR Europe is a leading European business network for corporate social responsibility. In 2013 it published the report [Assessing the effectiveness of company grievance mechanisms](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), which translated the UN Guiding Principles into a recommended set of company actions.
+
+##### The Office of the Compliance Advisor / Ombudsman {-#be16-cao}
+
+CAO is the independent recourse mechanism for the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). It has released [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects.](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf)
+
+#### 5.2 Frequently asked questions {-#be16-faq}
+
+##### Is revenue-weighting always appropriate? {-}
+
+Some organizations – such as early-stage companies, some charities, divisions of companies operating as cost-centres, or companies working on pre-production development – may determine that using revenue as a weighting approach to assess progress might paint a misleading picture.
+
+Such cases are likely to be rare, because even companies that do not directly sell goods or services still need to meet their costs, and therefore receive some form of monetary capital or in-kind services and labour. These inputs are directed at operational work-streams, which in turn lead to meeting customer needs, so in many cases it is possible to connect indirect funding (as a proxy for revenue) to appropriate downstream user groups.
+
+When this is not possible, or if it is determined that this technique may mislead stakeholders, companies should consider using cost instead of revenue to determine the completeness of their assessment, and as a method for weighting their progress scores.
+
+
+[^1#be16-1]: The term 'customers' here includes direct customers, but is also meant to include any other product users, including end-users and intermediaries in the sales chain.
+
+[^2#be16-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^3#be16-3]: For information on evaluating and designing controls, see the [**Implementation Guide**](#ig-systematic).
+
+[^4#be16-4]: Throughout the _fitness criteria_ section, the term 'mechanisms' is used, but if a company is able to cover an entire user group adequately with a single solution or mechanism, there is no explicit requirement for multiple mechanisms to be in place in order to satisfy the criteria.
+
+[^5#be16-5]: While the phrase 'In a timely manner' leaves room for companies to determine the appropriate time period, the intent is that the timing of a response to a raised concern should not be intentionally or negligently delayed, and should be appropriate for the nature of the concern raised. A health concern that could be impacting customers on an ongoing basis should be considered immediately, whereas a concern about the most effective way to communicate product disposal information might not require as urgent a response.
+
+[^6#be16-6]: Companies must also seek to avoid problems relating to duty of care from arising in the first place – see the goal [**Employee health is safeguarded**](#be10).
+
+[^7#be16-7]: Concern mechanisms should be proactively checked on a time-based schedule (e.g. every month, quarter, or year). The frequency of reviews should reflect the nature of likely concerns, and should not be so long that the information gathered becomes irrelevant, or arrives too late to prevent harmful consequences. Due to the nature of concern mechanisms, a lack of feedback could itself be an indication that a mechanism is ineffective.
+
+[^8#be16-8]:For example, R<sub>p70%</sub> would be the total revenue from products with a concerns mechanism is in place which meets five of the eight fitness criteria categories, including _Ensure legitimacy_ and _Ensure positive outcomes_.

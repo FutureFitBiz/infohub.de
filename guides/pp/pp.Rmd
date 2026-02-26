@@ -1,0 +1,1773 @@
+---
+output: github_document
+---
+
+# Positive Pursuit Guide {-#pp}
+
+<div class="subtitle">Pursuing outcomes that contribute to a Future-Fit Society.
+</div>
+
+This guide explains what positive outcomes a business can pursue – above and beyond its pursuit of the [Break‐Even Goals](#be) – to speed up society’s transition to future-fitness.
+
+[1. Introduction](#pp-introduction)
+
+[2. The Positive Pursuits](#pp-positive-pursuits)
+
+[3. Products and Projects](#pp-products-and-projects)
+
+[4. Assessment](#pp-assessment)
+
+[5. Additional information](#pp-additional)
+
+[Appendix 1: Human Rights Articles](#pp-app-human-rights)
+
+
+
+## 1. Introduction {-#pp-introduction}
+
+_A Future-Fit Society protects the possibility that humans and other life will flourish on Earth forever, by being environmentally restorative, socially just and economically inclusive._
+
+If we are to realize this vision, every business must strive to reach the Future-Fit Break‑Even Goals, to ensure it is doing nothing to undermine society's progress toward future-fitness.[^1#pp-1] In today's economy, this might seem like an extremely ambitious destination to aim for, but it is a necessary one, because the only way to shift the system is if everyone plays their part.
+
+However, business has the power to do more than just cause no harm, and indeed many companies actively seek to be a force for good in the world by working to solve systemic challenges – even if they have not yet addressed all of their negative externalities.
+
+**Positive Pursuits** are designed to guide such efforts, by characterizing the full range of outcomes that actively speed up our collective progress toward future-fitness. [Figure 1](#pp-figure-1) offers a high-level description of the kinds of activity that are classified as Positive Pursuits, and how they complement the Break-Even Goals.
+
+<div class="ff-figure" id="pp-figure-1">
+Figure 1: The relationship between Break-Even Goals (bottom-left) and Positive Pursuits.
+
+![](assets/figures/ff-impact-2x2-biz.svg)
+</div>
+
+<div class="callout-note">
+**A note on "purpose"**
+
+Many companies today claim to be _purpose-driven_ or _purposeful_, but what does this really mean? Given the urgency and complexity of the challenges we face, it might be argued that a corporate purpose is only really _fit_ for purpose if it tightly couples a company's success with that of society. One should treat with scepticism any company claiming to be purpose-driven if it struggles to articulate how its core business model will drive progress toward an environmentally restorative, socially just and economically inclusive future.
+
+Positive Pursuits identify all of the ways in which a business _may_ contribute to a Future-Fit Society. They therefore provide the means for any company to refine its stated purpose, and to stress-test just how progressive it is. Furthermore, Positive Pursuits can be used by today's true leaders to explain exactly why their continued success is in society's best interest. Making this link explicit is becoming increasingly important, because more and more investors are seeking to steer their capital toward those companies with a credible plan to be part of the solution, rather than just a smaller part of the problem.
+</div>
+
+All outcomes described by the Positive Pursuits can be delivered in a variety of ways – for instance, through inclusive business models, innovative products tailored to underserved customers, or active investment in supply chain improvements. Specific examples are provided throughout this guide, and the [Products and Projects](#pp-products-and-projects) section offers additional guidance on the ways in which Positive Pursuits may be undertaken.
+
+### 1.1 How to use this guide {-#pp-how-to-use}
+
+The purpose of this guide is to help any company identify, pursue, assess and report on the types of activity which serve to speed up society's transition to future-fitness, _beyond_ what is required to eliminate its own negative impacts.
+
+In contrast to the Break-Even Goals, not all Positive Pursuits will be relevant to every company. Instead of pursuing them all, each company should explore where it can deliver the greatest gains, given its industry, business model, core competencies, and ability to influence others.
+
+If a company wishes to report publicly on its Positive Pursuits, it must do so in the context of its progress toward the Break-Even Goals. This is because until a company can verify that it is causing no harm across its entire business, any positive impacts it delivers are almost certainly coming at the cost of negative impacts elsewhere – however unintentional they might be. Hence any attempt to focus the narrative only on positive contributions risks exposing the company to accusations of greenwashing, and prevents stakeholders from accurately gauging how well the company is responding to social and environmental risks.
+
+### 1.2 What "Positive Pursuit" means {-}
+
+A Future-Fit Society is one that exhibits eight properties, which are listed in [Figure 2](#pp-figure-2).[^2#pp-2]
+
+<div class="ff-figure" id="pp-figure-2">
+Figure 2: The seven core properties of a Future-Fit Society, plus an eighth enabling property, which identifies the socioeconomic drivers required to pursue the others.
+
+![](assets/figures/ff-properties.svg)
+</div>
+
+Activities whose outcomes serve only to reduce a company's own negative impact are recognized as progress toward the Break-Even Goals (see [Figure 1](#pp-figure-1)). Positive Pursuits encompass any activity beyond this, whose outcome brings society closer to reaching one of the aforementioned properties.[^3#pp-3] As [Figure 1](#pp-figure-1) outlines, there are three broad ways in which a company can do this:
+
+- **Create positive impact itself**, by:
+  - Restoring the environment through its own operational activities; or
+  - Removing barriers to wellbeing for people beyond those the company is wholly accountable for.[^4#pp-4]
+- **Reduce the negative impact of others**, by:
+  - Enabling others to avoid degrading the environment; or
+  - Enabling others to remove barriers to wellbeing for people they are wholly accountable for.
+- **Amplify the positive impact of others**, by:
+  - Enabling others to restore the environment; or
+  - Enabling others to remove barriers to wellbeing for people beyond those they are wholly accountable for.
+
+The 24 Positive Pursuits (see [Figure 3](#pp-figure-3)) translate these types of activities into specific actionable categories. Each one identifies a type of positive outcome that may be delivered in a range of ways, in and beyond a company's [value web](#mg-value-web).
+
+Note that Positive Pursuits relate to a _subset_ of outcomes that might be considered 'good' on some level. Handing out free ice cream to customers might bring them joy, and providing tickets to sporting events for employees may support team bonding. However, such outcomes do not make society more environmentally restorative, socially just or economically inclusive, and so they fall outside the scope of systemic improvement considered here.
+
+##### Positive Pursuits and Break-Even Goals are not always mutually exclusive {-}
+
+Some activities may be classified as a Positive Pursuit _while also_ resulting in progress toward a Break-Even Goal. That is because companies are _mutually accountable_ for certain kinds of impact across their value web. See the box below for an example.
+
+<div class="callout-note">
+**Undertaking Positive Pursuits while striving to reach Break-Even**
+
+Consider a company that relies on a supplier of agricultural inputs operating in an arid region. Every purchase the company makes depends on the supplier using water, so the company is indirectly exacerbating local water stress, albeit unintentionally.
+
+The company could simply drop that supplier and switch to one in a non-water-stressed region. This would _avoid_ the problem – and thus improve the company's progress toward the _Procurement_ Break-Even Goal – but it would not _address_ it. The original supplier would still be contributing to water stress, through its service of other customers.
+
+An alternative course of action would be for the company to offer financial and/or technical support to enable the supplier to reduce its reliance on the local watershed, for example by providing rain water storage tanks and drip irrigation systems. This kind of active intervention addresses the underlying problem, because the company is helping another business to avoid environmental degradation. As a result, the company's activity would be recognized as a Positive Pursuit, and the knock-on effect would be an improvement in its progress toward the _Procurement_ Break-Even Goal.
+</div>
+
+##### The need to take a holistic perspective {-}
+
+Positive Pursuits should not be thought of as isolated activities conducted in a vacuum, but rather as systemic interventions involving coordinated action among multiple actors, where the company is just one of many participants.[^5#pp-5] These are generally complex endeavours, which demand holistic planning.
+
+Every potential course of action to undertake a Positive Pursuit should be subject to a holistic assessment of likely trade-offs in order to understand potential system-wide consequences, and to minimize the risk of unintended side effects. For more information, see this [frequently asked question](#pp-faq-1).
+
+In addition, a company should be careful to measure and manage _all_ types of outcomes that result from its Positive Pursuits, both positive _and_ negative. This will be further explained in the [Assessment](#pp-assessment) section.
+
+### 1.3 Introducing the Positive Pursuits {-}
+
+The 24 Positive Pursuits are listed in [Figure 3](#pp-figure-3).[^6#pp-6] These were formulated to help business leaders make credible and effective contributions to a Future-Fit Society, such that:
+
+- Each Positive Pursuit is expressed as one sentence, whose meaning can be grasped by business leaders, investors and other key stakeholders without lengthy explanation.
+- Each Positive Pursuit identifies a way either to reverse the effects of negative environmental or social impacts that occurred in the past, or to help others avoid having such negative impacts in the future.
+- Each Positive Pursuit relates to one type of outcome which can be delivered in or beyond the company's value web.
+
+Positive Pursuits do not prescribe specific actions.They are more like _categories_ used to capture similar outcomes that may accrue from a wide range of different actions.
+
+It is also worth noting that one activity may result in outcomes that span two or more Positive Pursuits. For instance, a company might provide solar lanterns to a rural community, which was previously using kerosene lamps and wasn't connected to an electric grid. This activity might lead to less need for kerosene, and a decrease in respiratory-related diseases caused by the emissions it produces. These outcomes would be captured under the Positive Pursuits [**Others depend less on non-renewable energy**](#pp01), [**More people have access to energy**](#pp02) and [**More people are healthy and safe from harm**](#pp16).
+
+<div class="ff-figure" id="pp-figure-3">
+Figure 3: The Future-Fit Positive Pursuits.
+
+![](assets/figures/pp-sdg.svg)
+</div>
+
+<div class="callout-note">
+**An example of the many ways in which a Positive Pursuit may be undertaken**
+
+Very different kinds of activity may contribute to the same Positive Pursuit. For example, a company might contribute to the Positive Pursuit [**Greenhouse gases are removed from the atmosphere**](#pp07) by:
+
+- Evolving its own production processes to achieve net CO<sub>2</sub> sequestration.
+- Selling a product which enables users to sequester CO<sub>2</sub>.
+- Purchasing a manufacturing input from a supplier whose production process results in net CO<sub>2</sub> sequestration.
+- Supporting an organization working to restore natural carbon sinks which facilitate CO<sub>2</sub> sequestration, such as the Amazon rainforest.
+</div>
+
+### 1.4 How Positive Pursuits relate to the SDGs {-}
+
+The Sustainable Development Goals (SDGs) are a call for action to promote prosperity while protecting the planet. But while the SDGs identify at a broad level what society needs to thrive, many companies are struggling to operationalize them and to articulate their contributions. Positive Pursuits can help to overcome this problem.
+
+Each Positive Pursuit represents a type of outcome which may support one or more SDGs (see [Figure 3](#pp-figure-3)), and which any business may seek to deliver. Hence they offer a lens through which a company can identify and communicate how it is contributing both to broad SDG themes – such as poverty alleviation, gender equality and climate resilience – as well as to specific SDG targets. For more information and an example, see the box below.
+
+<div class="callout-note">
+**An example of links between Positive Pursuits and the SDGs**
+
+Climate resilience – the "ability to anticipate, prepare for, and respond to hazardous events, trends or disturbances related to climate" @Cen20 – is a theme touched on multiple times across SDG 1, 2, 11 and 13. For instance, SDG target 13.1 is _Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries._ A company could contribute to this target in many ways, for example by:
+
+- Preventing the degradation of ecosystems which act as natural flood defences;
+- Increasing the capacity of farmers to grow drought-resistant crops;
+- Offering insurance to underserved people whose livelihood may be adversely impacted by increases in severe weather events; or
+- Mobilising investment into climate-resilient infrastructure.
+
+These activities are captured by different Positive Pursuits. That said, a company could contribute to those same Positive Pursuits in ways which might _not_ relate to climate resilience. Note that additional guidance for determining when and why there is a specific link between a Positive Pursuit and an SDG target is under development.
+</div>
+
+<!-- Section 2 -->
+
+## 2. The Positive Pursuits {-#pp-positive-pursuits}
+
+### 2.1 Energy {-#pp-energy}
+
+_In a Future-Fit Society, **energy** is renewable and available to all._
+
+With respect to energy, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others depend less on non-renewable energy; or
+- More people have access to energy.
+
+#### PP01: Others depend less on non-renewable energy {-#pp01}
+
+Most of the world's energy is currently derived from non-renewable resources.[^7#pp-7] As a result, a large proportion of the global population relies on energy that contributes to environmental degradation when it is obtained and/or used.
+
+People's reliance on non-renewable energy is reduced when:
+
+- More renewable energy is available to replace non-renewable alternatives.
+- Others are able to meet their needs using less energy.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might install and maintain a grid-connected wind farm in a region where electricity is generated predominantly by coal-fired power stations, and then sell this new electricity at standard market rates. A positive outcome would be an increase in the mix of renewable energy in the grid, translating into reduced demand for coal power.
+
+Alternatively, a company might develop a much less energy-intensive way of producing a widely-used chemical and license the approach to other major producers. A positive outcome would be a reduction in the annual energy consumption of those companies.
+
+#### PP02: More people have access to energy {-#pp02}
+
+A large proportion of the global population simply does not have sufficient access to energy to meet their daily needs.[^8#pp-8]
+
+More people are adequately served when:
+
+- Previously underserved people gain reliable and affordable access to both clean cooking facilities and electricity.[^9#pp-9]
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may provide community-level micro-grids to remote villages that are not served by national energy grids. A positive outcome would be increased access to renewable energy for the villagers.
+
+Alternatively, a company may provide funding to connect an underserved population directly to the national energy grid. A positive outcome would be increased access to energy for this group of people.
+
+<div class="callout-note">
+**Why is this Positive Pursuit not explicitly focused on _renewable_ energy?**
+
+In a Future-Fit Society, everyone will have access to reliable forms of _renewable_ energy. However, if energy is provided to people who previously had none, then a major barrier to their wellbeing is being removed, even if that energy is derived from non-renewable sources. This is an important outcome which should be recognized – while acknowledging that it is a less-than-perfect interim step toward _full_ access to _renewable_ energy.
+
+Note also that if a company were to generate more greenhouse gas emissions as a result of providing such access to energy, or were to cause its customers to do so, then those side-effects would be captured as a _negative_ contribution to the Break-Even Goals [**Operations emit no greenhouse gases**](#be06) and [**Products emit no greenhouse gases**](#be18), respectively.
+
+There are many ways to achieve a positive outcome, and even the most well-meaning activity may lead to negative outcomes elsewhere. Hence it is important to take a holistic approach when both planning and assessing the results of a company's Positive Pursuits. For more information, see this [frequently asked question](#pp-faq-1).
+</div>
+
+### 2.2 Water {-#pp-water}
+
+_In a Future-Fit Society, **water** is responsibly sourced and available to all._
+
+With respect to water, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others contribute less to water stress; or
+- More people have access to clean water.
+
+#### PP03: Others contribute less to water stress {-#pp03}
+
+It is forecast that by 2025, two thirds of the world's population will live under conditions of [water stress](#def-water-stress) – and growing demand will only serve to exacerbate this. @Unw19
+
+People's reliance on stressed [watersheds](#def-watershed) is reduced when:
+
+- More clean water is made available without exacerbating water stress; or
+- Others are able to meet their needs using less water.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might provide financial and technical support to install a rainwater harvesting system for an agricultural supplier operating in a water-stressed region, with the intention of reducing the supplier's burden on the local watershed while increasing supply security. A positive outcome would be a reduction in depletion rates of local aquifers, translating into greater water security for both the supplier and local communities.
+
+Alternatively, a company could build an innovative water treatment plant which turns contaminated wastewater into clean, potable water. A positive outcome would be an increase in the amount of clean water available without exacerbating water stress.
+
+#### PP04: More people have access to clean water {-#pp04}
+
+Many people today lack sufficient access to clean water to fulfil their basic needs such as drinking, cooking and sanitation.
+
+More people are adequately served when:
+
+- Previously underserved people gain access to clean and reliable freshwater.[^10#pp-10]
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might develop water purification tablets, which make non-potable water safe to drink and donate these tablets to communities in drought-stricken areas. A positive outcome would be an increase in access to potable water for local residents.
+
+Alternatively, a company might install a water pipeline which links a remote rural area to a water reservoir in a water-abundant area. A positive outcome would be increased access to clean and responsibly-sourced water for those who would otherwise be underserved.
+
+### 2.3 Natural resources {-#pp-natural-resources}
+
+_In a Future-Fit Society, **natural resources** are managed to safeguard communities, animals and ecosystems_
+
+All types of natural resource – be they mined, cultivated, or harvested from the wild – must be responsibly managed, in order to ensure their continued availability for future generations, and to prevent damage to supporting ecosystems and communities.
+
+Plant-based resources must be grown on suitable land, in soil the health of which is maintained, and without the use of harmful chemicals. Animals must be reared or hunted in ways that minimize suffering. Renewable resources must be harvested at rates which protect their ability to regenerate. Mined resources must be extracted in ways that leave no lasting negative impact on the area, in particular with respect to biodiversity and community wellbeing.
+
+With respect to natural resources, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others depend less on inadequately-managed natural resources.
+
+<div class="callout-note">
+**Why is there no Positive Pursuit focused on _access_ to natural resources?**
+
+Unlike energy and water, natural resources in their raw form are not a basic need, since a relatively small proportion of people require direct access to them. For this reason, there is not a Positive Pursuit category which refers specifically to natural resource _access_.
+
+However, it is important to keep in mind that all socioeconomic actors rely on goods and services which are _ultimately derived from_ natural resources. So if a company were to offer a new product which embeds only responsibly-managed natural resources – to displace market alternatives which embed inadequately-managed natural resources – this outcome would be covered by [**Others depend less on inadequately-managed natural resources**](#pp05) (in this case "Others" would be the customers of the improved product).
+
+Note also that access to natural resources by local communities – through control and/or ownership of land rights – would be captured under the separate Positive Pursuit [**More people have access to economic opportunity**](#pp18).
+</div>
+
+#### PP05: Others depend less on inadequately-managed natural resources {-#pp05}
+
+The majority of the world's natural resources are managed in ways that undermine people's wellbeing or disrupt the environment.[^11#pp-11] This means that goods and services offered all over the world are premised on inadequately-managed natural resources.
+
+People's reliance on inadequately-managed natural resources is reduced when:
+
+- More responsibly-managed natural resources are harvested, mined or extracted to increase the amount available to others;
+- A natural resource which was being managed in a disruptive way is transformed to be responsibly-managed;
+- Fewer goods and services are derived from endangered or threatened flora and fauna; or
+- Less natural resource is required to serve the same needs.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might license a production technique for growing high-grade synthetic diamonds which can compete on price and quality with natural diamonds. A positive outcome would be others avoiding ecosystem disruption caused by mining.
+
+Alternatively, a company might provide training to smallholder farmers on techniques which can replace monoculture and prevent topsoil erosion. A positive outcome would be the transformation of degenerative farming techniques into regenerative ones.
+
+### 2.4 Pollution {-#pp-environment-pollution}
+
+_In a Future-Fit Society, the environment is free from **pollution**._
+
+Many substances – if emitted as pollution into the air, water or soil – undermine the health of people or that of the natural systems we depend upon. This includes substances that degrade air quality, water quality, or soil health, substances which are likely to build up in nature[^12#pp-12], and substances which otherwise disrupt the health of people, organisms and ecosystems.
+
+With respect to emissions, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others generate fewer greenhouse gas emissions;
+- Greenhouse gases are removed from the environment;
+- Others generate fewer harmful emissions; or
+- Harmful emissions are removed from the environment.
+
+Note that greenhouse gas emissions are so significant (due to their impact on global warming) that they have their own Positive Pursuit categories.
+
+#### PP06: Others generate fewer greenhouse gas emissions {-#pp06}
+
+Human-caused greenhouse gas (GHG) emissions must be drastically reduced and eventually halted to avoid the most catastrophic effects of climate change. @Ipc18
+
+The GHG emissions of others are reduced when:
+
+- An activity is modified to deliver the same results with lower GHG emissions;[^13#pp-13]
+- An activity is substituted by another which leads to no GHG emissions; or
+- GHGs are intercepted before emission into the environment, and either used or stored in a way that prevents later emission.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.[^14#pp-14]
+
+For instance, a company might provide technical support to help a supplier install wind turbines at its sites, eliminating its need for electricity derived from fossil fuels. A positive outcome would be a reduction in the supplier's GHG emissions.
+
+Alternatively, a company might offer electric vehicles at a similar performance and price point to gasoline-powered alternatives, making them attractive to car rental companies. A positive outcome would be a reduction in the GHG emissions of the rental company, enabled by the electric vehicle company's actions.
+
+#### PP07: Greenhouse gases are removed from the atmosphere {-#pp07}
+
+GHGs are continuously removed from the atmosphere through natural processes of carbon sequestration and storage. In particular, photosynthesis in trees, plants and algae absorbs carbon dioxide (CO<sub>2</sub>) from the air and converts it into other carbon compounds. These end up in biomass (e.g. tree trunks, branches, and roots) and soils, which serve as natural carbon sinks.
+
+GHGs are removed from the atmosphere when:
+
+- Natural carbon sinks are planted, grown or otherwise created;
+- Existing natural carbon sinks are enhanced to absorb and store more carbon; or
+- GHGs are removed from the atmosphere by technological means, and either used or stored in a way that prevents future emission.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might develop scalable commercial products that capture and utilize atmospheric CO<sub>2</sub>. A positive outcome would be the removal of CO<sub>2</sub> from the atmosphere.
+
+Alternatively, a company could set up a scheme where, for every product sold, it pledges to plant a tree in an appropriate location. A positive outcome would be the active creation of a carbon sink, which is able to remove CO<sub>2</sub> from the atmosphere.
+
+#### PP08: Others generate fewer harmful emissions {-#pp08}
+
+Human actions have led to the release of a range of chemicals and particles. Many of these are known to be toxic to people and organisms, either immediately or in the long term.
+
+The harmful emissions of others are reduced when:
+
+- An activity is modified to deliver the same results with fewer harmful emissions;
+- An activity is substituted by another which leads to no harmful emissions; or
+- Harmful substances are intercepted before emission into the environment, and either used or stored in a way that prevents later emission.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might structure a contract to incentivize a supplier to replace an inefficient and highly polluting manufacturing process with a much cleaner alternative. A positive outcome would be to decrease the supplier's emissions of substances that degrade the local environment.
+
+Alternatively, a company might develop a non-toxic industrial chemical that serves as a direct substitute for a widely-used chemical that is known to erode soil health. A positive outcome would be a reduction in the use of the toxic chemical.
+
+#### PP09: Harmful emissions are removed from the environment {-#pp09}
+
+Some harmful substances may be physically removed from the environment (e.g. scarce metals). Others may not be easily removed, but their disruptive effects may be neutralized (e.g. using a benign chemical to disperse spilled oil and render it harmless).
+
+Harmful emissions are removed from the environment or neutralized when:
+
+- Substances which degrade air quality, water quality, or soil health are removed or neutralized; or
+- Substances which can otherwise disrupt the health of people, organisms and ecosystems are removed or neutralized.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may invent a way to utilize natural mosses to filter air and extract certain kinds of pollutants. A positive outcome would be an improvement in air quality.
+
+Alternatively, a company might offer technical support to help mining businesses clean up a tailings pond, the toxic contents of which have started to leach into nearby soils. A positive outcome would be to eliminate all trace of the contaminants concerned.
+
+### 2.5 Waste {-#pp-waste}
+
+_In a Future-Fit Society, **waste** does not exist._
+
+We must avoid waste wherever possible, and ensure any remaining waste is repurposed in ways that minimize quality loss, to prolong the life of the materials concerned.
+
+With respect to waste, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others generate less waste; or
+- Waste is reclaimed and repurposed.
+
+#### PP10: Others generate less waste {-#pp10}
+
+Today's _take-make-waste_ approach to material use results in vast amounts of waste, much of which ends up disrupting the environment.[^15#pp-15]
+
+Waste generated by others is reduced when:
+
+- An existing need is met in a new or modified way, resulting in fewer by-products; or
+- Materials that would otherwise have been discarded are reused, recycled or (if biogenic and with all other options exhausted) burned for energy.[^16#pp-16]
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might develop an online platform which enables manufacturing businesses to describe both the waste they generate and the physical inputs they use, and which brokers relationships between businesses whose inputs and outputs match, to close the loop on waste streams. A positive outcome would be an increase in the use of materials which would otherwise have been discarded.
+
+Alternatively, a company might offer consultancy services to consumer goods producers, to redesign their packaging so that their component materials (e.g. plastic and cardboard) can be easily separated by consumers and recycled after use. A positive outcome would be an increase in consumer recycling rates for the goods concerned.
+
+#### PP11: Waste is reclaimed and repurposed {-#pp11}
+
+In many cases, environmental degradation can be reduced or even reversed by 're-extracting' and reusing previously discarded materials that have been left to build up in nature, in place of virgin natural resources.
+
+This occurs when:
+
+- Previously generated waste is removed from the environment (e.g. landfills and oceans) and repurposed as a production input.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might establish and operate waste processing facilities capable of extracting the valuable metals from discarded consumer electronics. A positive outcome would be a reduction in demand for virgin metals, thus avoiding destructive mining practices.
+
+Alternatively, a company might develop a process to reuse the nylon from old fishing nets as yarn in carpet tiles – and might provide a financial incentive for fishermen to retrieve previously-discarded nets they encounter while at sea. A positive outcome would be a reduction in the number of fishing nets in the ocean which can interfere with aquatic life.
+
+### 2.6 Physical presence {-#pp-physical-presence}
+
+_In a Future-Fit Society, our **physical presence** protects the health of ecosystems and communities._
+
+We must ensure that high-value ecosystems are healthy, resilient and biodiverse, and we must preserve areas that are of high social and cultural value to communities.[^17#pp-17]
+
+With respect to physical presence, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Others cause less ecosystem degradation;
+- Ecosystems are restored;
+- Others cause less damage to areas of high social or cultural value; or
+- Areas of high social or cultural value are restored.
+
+#### PP12: Others cause less ecosystem degradation {-#pp12}
+
+Through our physical presence and ongoing activities, humans have long encroached on and disrupted the natural world. As a result, many terrestrial and aquatic [ecosystems](#def-ecosystem) are now on the brink of collapse. @Wwf19
+
+Ecosystem degradation caused by others is reduced when:
+
+- Ecosystems are protected from encroachment; or
+- Activities that lead to ecosystem degradation are avoided.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may offer new economic opportunities to indigenous communities living near rainforests, to eliminate their reliance on illegal logging practices. A positive outcome would be a reduction in rainforest loss.
+
+Alternatively, a company might provide technical expertise to artisanal gold miners to inform them of ways to mine gold without using mercury. A positive outcome would be a reduction in mercury contamination and a consequent avoidance of land degradation.
+
+#### PP13: Ecosystems are restored {-#pp13}
+
+Ecosystems which have been damaged by human presence do not have to remain degraded. Through certain activities, they can gradually be restored to their previous state, or a similar equivalent.
+
+Ecosystems are restored when: @Cro17
+
+- Ecosystems are actively restored (e.g. by replanting native trees, repairing natural flood defences, and re-introducing native species to speed up recovery); or
+- Ecosystems are allowed to regenerate naturally (e.g. by protecting degraded areas from further human interference).
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company that specializes in river and wetland restoration may undertake a wetland renewal project, replanting native vegetation to increase an area's resistance to flash floods. A positive outcome would be the return of indigenous wildfowl, and a reduction in the damage caused by storms to local communities.
+
+Alternatively, a company might run a consumer campaign to raise funds through the sale of its products, with each sale resulting in a donation toward protecting corridors of land between previously-separated areas of pristine forest. A positive outcome would be the restoration of natural habitats that have been disrupted by human activity.
+
+#### PP14: Others cause less damage to areas of high social or cultural value {-#pp14}
+
+A significant number of designated cultural World Heritage Sites are under threat. In many cases, these important examples of human creative genius, cultural traditions, outstanding architecture or settlements are being damaged by human activities.[^18#pp-18] @Une19
+
+Furthermore, growing demand for land has increased the practice of land grabbing: large-scale land acquisitions made by nations, investors and/or businesses, often in areas with weak governance structures that allow land to be secured quickly and cheaply. @Fue13 This is putting the health and livelihoods of some of the world's poorest communities at risk.[^19#pp-19]
+
+Others cause less damage to areas of social and cultural value when:
+
+- Areas or artefacts of social or cultural importance are protected; or
+- Land grabbing practices are avoided by establishing people's traditional or customary rights to use, manage and control land, fisheries and forests.[^20#pp-20]<sup>,</sup>[^21#pp-21]
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a group of companies may collaborate to identify best practices and create an industry standard for conducting due diligence before making significant land acquisitions. A positive outcome from the improved due diligence would be a reduction in involuntary displacements.
+
+Alternatively, a company could fund a taskforce of park rangers to monitor and protect a popular tourist site of cultural value situated in a forest. A positive outcome would be an increase in protection afforded to this area of high cultural value.
+
+#### PP15: Areas of high social or cultural value are restored {-#pp15}
+
+Cultural heritage has increasingly been seen as an instrument for peace and reconciliation. @Une13 Its restoration can help to rebuild communities and overcome a sense of loss in the wake of conflict. @Icc12 A legal precedent has also been established in recent years where land has been returned to those with traditional or customary rights.[^22#pp-22]
+
+Areas of high social or cultural value are restored when:
+
+- Areas or artefacts of social or cultural value are reconstructed or rebuilt; or
+- Land which has been acquired in a contentious way is returned to those with traditional or customary rights.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may partner with the UNESCO World Heritage Centre to undertake a restoration project of a site of cultural value in a post-conflict country. A positive outcome would be the reconstruction of an important piece of human culture.
+
+Alternatively, a company could provide legal advice to a group of indigenous people who are taking on the state government in a land rights battle. A positive outcome would be the indigenous group regaining their traditional rights to that portion of land.
+
+### 2.7 People {-#pp-people-capacity}
+
+_In a Future-Fit Society, people have the capacity and opportunity to lead fulfilling lives._
+
+Human wellbeing[^23#pp-23] depends both on our ability to meet a range of _basic needs_ which relate to survival and physical safety (food, shelter, etc.) and on our ability to pursue _higher needs_ such as a sense of belonging and self-esteem.[^24#pp-24] People have the capacity and opportunity to lead fulfilling lives when they have four things:
+
+1. The _physical capacity_ (i.e. physical health) required to meet basic needs, and to pursue higher needs.
+2. The _mental capacity_ (i.e. the competences and skills) required to meet basic needs and to pursue higher needs.
+3. The _opportunity_ to meet basic needs, through economic inclusion and social justice.
+4. The _opportunity_ to pursue higher needs, through individual expression and the ability to cultivate a sense of belonging.
+
+With respect to wellbeing, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- More people are _healthy and safe_ from harm;
+- People's _capabilities_ are strengthened;
+- More people have access to _economic opportunity_;
+- _Individual freedoms_ are upheld for more people; or
+- _Social cohesion_ is strengthened.
+
+Each of these five outcomes are classified as a separate Positive Pursuit, and together they cover all Fundamental Human Rights set out by the UN. @Uni48 (To see how the Fundamental Human Rights map on to the Positive Pursuits, see [Appendix 1](#pp-app-human-rights)).
+
+Note that the emphasis here is on interventions directed at people who are subject to a barrier (economic, political, social or physical) that is restricting their capacity or opportunity to lead a fulfilling life (see [Figure 4](#pp-figure-4)).
+
+<div class="ff-figure" id="pp-figure-4">
+Figure 4: Barriers to wellbeing.
+</div>
+<div class="table-10 table-blue">
+| Barriers | Examples |
+|:-:|:-|
+| Social | Social stigma, arising from characteristics such as sexual orientation, gender, ethnicity and religion |
+| Physical | Physical impediments, such as physical or mental health conditions or geographical barriers |
+| Political | Political restrictions, such as those arising from violent conflicts or dysfunctional governments |
+| Economic | Economic impediments, such as a lack of suitable jobs or less opportunity due to limited education |
+</div>
+
+Note that it is important to understand what it means to overcome a barrier to wellbeing. Distributing affordable medicine in an underserved community would provide a treatment option that didn't previously exist; selling the same medicine in a well-served community at a similar price to readily-available alternatives would not have the same effect. One way to assess the significance of an outcome is to ask the stakeholders experiencing it. For more information on how to assess outcomes, see the [Assessment](#pp-assessment) section.
+
+<div class="callout-note">
+**Wellbeing and the Future-Fit Break-Even Goals**
+
+Note that a business is only Future-Fit when it _in no way undermines_ the wellbeing of its employees, the communities affected by its own physical presence, and the users of its goods and services. These obligations, for which _every_ company is wholly accountable, are embodied in several of the Future-Fit Break-Even Goals.[^25#pp-25]
+
+Actions which result only in progress towarda Break-Even Goal – for example, ensuring that the company's own workers receive a living wage and are subject to fair employment terms – do _not_ constitute a Positive Pursuit.
+</div>
+
+#### PP16: More people are healthy and safe from harm {-#pp16}
+
+People must be healthy and safe from harm to ensure that they have the physical capacity to meet their basic needs and pursue higher needs.
+
+This means that, as a society, we must continuously strive to ensure:
+
+- The prevention of premature deaths and illnesses;
+- The prevention of exploitation and abuse;
+- The prevention of mental health issues;
+- Access to nutritious food, and an end to malnutrition;
+- Access to clean water and sanitation;
+- Access to adequate housing;
+- Access to healthcare; and
+- The prevention of slavery and forced labour.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might offer access to insulin for Type 2 diabetes sufferers in the world's least-developed nations, at a price that the average citizen can afford. A positive outcome would be a reduction in chronic complications arising from the disease, translating into a greater ability for diabetes sufferers to lead productive lives.
+
+Alternatively, a company might donate to a foundation that distributes bed nets in malaria-prone areas. A positive outcome would be a reduction in malaria infection rates in those areas and an increase in lives saved.
+
+#### PP17: People's capabilities are strengthened {-#pp17}
+
+People should have access to the relevant knowledge, technology and services that will allow them to respond to day-to-day challenges and opportunities to the best of their ability. This will ensure that people have the capacity to meet their basic needs and pursue higher needs.
+
+This means that, as a society, we must continuously strive to ensure:
+
+- Access to education and vocational training (e.g. schooling for young girls, business skill workshops);
+- Access to information needed to make more informed decisions (e.g. reproductive choices, business decisions);
+- Access to information and communication technologies (e.g. access to smart phones and computers with Internet connectivity);
+- Access to productivity-enhancing technologies (e.g. farming implements, manufacturing equipment);
+- Access to social security, insurance and finance (as a means to build resilience and insulate against shocks)[^26#pp-26]; and
+- Access to transport networks (increasing mobility to bring more capacity-building opportunities within reach).
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may provide affordable transport services to children in rural villages, to give them access to previously-unreachable schools. A positive outcome would be an increase in childhood literacy and numeracy rates in the areas served.
+
+Alternatively, a company might offer financial services in underserved areas that enable people to put aside savings or to afford insurance coverage, thereby increasing their financial resilience. A positive outcome would be increased long-term financial security.
+
+#### PP18: More people have access to economic opportunity {-#pp18}
+
+People must have access to economic opportunities in order to meet their basic needs and pursue higher needs. This means that, as a society, we must continuously strive to ensure:
+
+- Access to livelihood opportunities which live up to the definition of Decent Work[^27#pp-27], including: @Ilodw
+  - _Fair income:_ The opportunity to make at least a living wage and have a stable income throughout the year;
+  - _Rights at work:_ The right to fair working hours leaving adequate time for rest and leisure;
+  - _Social dialogue:_ The right for workers to form trade unions and engage in collective bargaining;
+  - _Social protection:_ The right to benefits and worker protections that ensure individuals and families can meet their basic needs, including paid maternity and paternity leave.
+- Access to markets and value chains for those previously unable to participate, such as remote small-scale producers.
+- The right for communities to benefit economically from local resources, including land.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might work in partnership with a city to employ ex‑convicts who struggle to find a job, to ease their transition back into society. A positive outcome would be an increase in ex-convicts securing an income, which in turn translates into lower recidivism rates.
+
+Alternatively, a company might set up a fair trade market for small-scale natural resource producers that otherwise would not have access to business. A positive outcome would be an increase in income opportunity for these small-scale enterprises.
+
+#### PP19: Individual freedoms are upheld for more people {-#pp19}
+
+For everyone to have the opportunity to pursue higher needs, people's individual freedoms must be respected, so that everyone can express themselves and participate in social, political and economic life without fear of discrimination.
+
+This means that as a society we must continuously strive to ensure:
+
+- Freedom of thought, conscience and religion;
+- Freedom of opinion and expression;
+- Freedom from discrimination;
+- Freedom of assembly;
+- The right to bodily integrity[^28#pp-28]; and
+- The right to privacy.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company may support a human rights NGO to fight for the release of prisoners of conscience. A positive outcome would be greater tolerance of freedom of thought.
+
+Alternatively, a company may choose to form a political pressure group for the purpose of lobbying a government to implement legislation that forbids workplace discrimination. A positive outcome would be fewer cases of discrimination due to dissuasion by legal consequences.
+
+#### PP20: Social cohesion is strengthened {-#pp20}
+
+For everyone to have the opportunity to pursue higher needs, people must be able to form, participate in and rely on social groups. Such social cohesion is crucial to building trust and respect among individuals, communities and institutions:
+
+_[A socially cohesive society] works towards the wellbeing of all its members, minimizing disparities and avoiding marginalization, by building networks of relationships, trust and identity between different groups; fighting discrimination, exclusion and excessive inequalities; and enabling upward social mobility._ @Oec11
+
+Social cohesion depends on strong bonds _within_ communities and strong bridges _between_ communities. The emphasis of this Positive Pursuit is therefore not about safeguarding individual wellbeing, but about fostering common ground and closing opportunity gaps between individuals.
+
+<div class="callout-note">
+**How social cohesion relates to other Positive Pursuits**
+
+All Positive Pursuits relating to wellbeing (PP16-PP20) may be mutually reinforcing. For example, social cohesion in a community might be strengthened as a knock-on effect of ensuring that [**More people have access to economic opportunity**](#pp18) in that community.
+
+However, whereas the other four wellbeing Positive Pursuits focus on influencing individuals or groups, **Social cohesion is strengthened** focuses explicitly on efforts to minimize disparities or improve relations _between_ individuals or groups.
+</div>
+
+###### What creates social cohesion? {-}
+
+Strong bonds within communities typically depend on: @For01 @Ber12
+
+- _Supporting networks and reciprocity:_ Individuals co-operate to support one another in formal and informal groups, leading to an expectation that help will be available to all when needed.
+- _Shared norms and values:_ People share or respect each other's beliefs and viewpoints.
+- _Safety:_ People feel safe in their community and free to make use of public spaces.
+- _Empowerment:_ People feel they have a voice which is listened to and that they can take action to initiate changes.
+- _Capacity to participate:_ There is a high degree of social interaction within families and communities.
+
+Strong bridges between communities typically depend on:
+
+- _Mutual respect:_ Respect and trust between different social groups are fostered at all levels (e.g. within education, between communities, within institutions).
+- _Equal opportunities:_ People with different backgrounds have similar life opportunities (e.g. access to education, healthcare, income, etc.).
+
+###### Barriers to social cohesion {-}
+
+Barriers to social cohesion exist at many levels, in and between groups. [Figure 5](#pp-figure-5) provides a list of possible barriers. @Ber12 @Can01 Social cohesion is strengthened when these social divides, economic divides and/or physical barriers are reduced or overcome.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company could support a project which enables wheelchair users to gain easier access to shared public spaces. A positive outcome would be increased participation in activities at those venues by this previously-restricted group.
+
+Alternatively, a company may introduce a product that replaces competitive products or business practices that have been shown to exacerbate social divides, such as the practice of mainstream social media sites filtering individual content according to political preferences. A positive outcome would be a decrease in prejudices among service users.
+
+<div class="ff-figure" id="pp-figure-5">
+Figure 5: Possible barriers to social cohesion.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Barriers to social cohesion</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; rowspan="5">Social divides</td>
+    <td>Language or cultural barriers to participation in social activities</td>
+  </tr>
+  <tr class="odd">
+    <td>Prejudices, discriminatory behaviours and biases leading to voluntary or involuntary exclusion of certain individuals or groups</td>
+  </tr>
+  <tr class="even">
+    <td>Lack of productive activities to engage in</td>
+  </tr>
+  <tr class="odd">
+    <td>Fear for personal safety</td>
+  </tr>
+  <tr class="even">
+    <td>Low levels of trust in institutions, resulting in apathy and reduced civic participation</td>
+  </tr>  
+  <tr class="odd">
+    <td style="text-align:center"; rowspan="3">Economic divides</td>
+    <td>Inability to afford to participate in social activities</td>
+  </tr>
+  <tr class="even">
+    <td>Lack of access to relevant education or training</td>
+  </tr>
+  <tr class="odd">
+    <td>Lack of access to economic opportunities such as decent paying jobs</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center"; rowspan="2">Physical barriers</td>
+    <td>Lack of appropriate spaces to engage in group activities</td>
+  </tr>
+  <tr class="odd">
+    <td>Inaccessibility of shared spaces due to physical disability or lack of transport options</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+### 2.8 Drivers {-#pp-social-norms}
+
+_In a Future-Fit Society, social norms, global governance and economic growth drive the pursuit of future-fitness._
+
+The seven previous sections identify how a company can contribute _directly_ to the core properties of a Future-Fit Society ([Figure 2](#pp-figure-2)). This section focuses on how a company can contribute _indirectly_ to such outcomes by fostering the enabling conditions required to deliver them.
+
+Social norms, global governance and how we pursue economic growth are what drive the behaviours of all socioeconomic actors – and today they are not aligned with the pursuit of future-fitness. As a result, society remains on the same breakdown trajectories that have led to the existential problems we are now facing.[^29#pp-29]
+
+Entrenched incentives that favour existing infrastructures and practices make it difficult to change direction at a systemic level, but that is what must happen. Examples of breakthrough technologies and business models can be found everywhere, but until society starts to truly value and actively favour such endeavours, it may prove impossible to replicate their success at sufficient speed and scale.
+
+To transform society we must reorient social norms, reshape global governance, and reinvent how we recognize and reward economic growth, so that they become drivers – rather than inhibitors – of future-fitness. Three factors play a part in catalyzing such a shift (see [Figure 6](#pp-figure-6)). @Gee12
+
+<div class="ff-figure" id="pp-figure-6">
+Figure 6: Catalyzing systemic shifts.
+</div>
+<div class="table-30 table-blue">
+|  | Factors that play a part in catalyzing systemic shifts in society |
+|:-:|:-|
+| Radical innovations | New ways (physical, virtual, social etc.) to meet existing needs, which overcome systemic limitations of established approaches |
+| Social, institutional and market structures | Re-alignments of existing technologies, regulations, incentives, user patterns, and infrastructure to support transitions |
+| Supporting paradigms | Shifts in mindsets and values that underpin cultural, political and economic systems |
+</div>
+
+With respect to fostering the conditions that will drive progress, a company may contribute to a Future-Fit Society by acting to ensure that:
+
+- Infrastructure is strengthened in pursuit of future-fitness;
+- Governance is strengthened in pursuit of future-fitness;
+- Market mechanisms are strengthened in pursuit of future-fitness; or
+- Social norms increasingly support the pursuit of future-fitness.
+
+<div class="callout-note">
+**Fostering the enabling conditions for society to thrive**
+
+These four Positive Pursuits differ from all previous ones in the sense that they are focused on system change, because they _enable or enhance society's capacity to pursue future-fitness_.
+For example, consider a company which creates a vaccine to tackle an infectious disease and sells the medicine privately to pharmaceutical businesses. The company is ensuring that [**More people are healthy and safe from harm**](#pp16),but the positive outcome is limited to those who purchase the vaccine. However, if the company were to make the design of the vaccine open source – removing a [**technological barrier**](#pp23) so that others could reproduce it – society as a whole would benefit. In this scenario the company would be delivering the same kind of positive outcome as before, but at a systemic level.
+</div>
+
+#### PP21: Infrastructure is strengthened in pursuit of future-fitness {-#pp21}
+
+Most human activities depend on various kinds of infrastructure, which together serve as an essential foundation for achieving an efficient, inclusive and resilient society.
+
+It can be useful to think of infrastructure[^30#pp-30] as falling into two broad categories: @The16
+
+- **Infrastructure that has been completely built by humans** to support the servicing of societal needs, whether physical or digital. Examples include roads, buildings, utility networks, etc.
+- **Infrastructure that is natural or naturalized, targeted or managed by humans** to provide a range of ecosystem services. This is essentially a way to utilize or enhance nature's ability to deliver social or environmental benefits. Examples include relying on coastal mangroves to protect against flooding, or planting grasses on rooftops to reduce energy consumption and storm water runoff.
+
+Infrastructural gaps and shortcomings are one of the primary reasons why millions of people today lack access to basic services such as energy, clean water, sanitation, connectivity and mobility. Existing infrastructure is often highly inefficient and may even impede progress toward future-fitness.[^31#pp-31] The infrastructure investment choices society makes over the coming years will effectively lock-in our transition pathway.
+
+There is no one-size-fits-all way to improve infrastructure, but the questions in [Figure 7](#pp-figure-7) can be used to consider the pros and cons of a potential project in a holistic way. @Ser
+
+###### Ways to strengthen infrastructure in pursuit of future-fitness {-}
+
+To strengthen infrastructure in pursuit of future-fitness, a company can take steps to:
+
+- Close infrastructure gaps to provide access to basic services for underserved people;
+- Upgrade existing infrastructure to improve efficiency;
+- Alter existing infrastructure to reduce its negative operational impacts; or
+- Create or upgrade infrastructure to enhance community or environmental resiliency.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might establish an affordable and reliable transport network which connects isolated villages in a developing country to other transport hubs in more widely-served areas. A positive outcome would be greater access to transportation for an underserved group.
+
+Alternatively, a company may fund a project which aims to create breakwaters from oyster beds and reefs to protect coastal cities from storm surges. A positive outcome of this would be a reduction in flood damage.
+
+<div class="ff-figure" id="pp-figure-7">
+Figure 7: Holistic considerations when undertaking an infrastructure project.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Undertaking a holistic assessment of an infrastructure project</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=20%; rowspan="7">Social considerations</td>
+    <td width=80%>Will it safeguard or even enhance people’s livelihoods?</td>
+  </tr>
+  <tr class="odd">
+    <td>Will it have the support of local communities?</td>
+  </tr>
+  <tr class="even">
+    <td>Can it be implemented safely?</td>
+  </tr>
+  <tr class="odd">
+    <td>Will benefits be equitably shared (e.g. does it improve accessibility)?</td>
+  </tr>
+  <tr class="even">
+    <td>Will it safeguard or even enhance community cohesion and inclusion?</td>
+  </tr>  
+  <tr class="odd">
+    <td>Can it contribute to local capacity building (e.g. technical knowledge transfer)?</td>
+  </tr>
+  <tr class="even">
+    <td>Will it safeguard or increase community resilience (e.g. against power outages or floods)?</td>
+  </tr>  
+  <tr class="odd">
+    <td style="text-align:center"; rowspan="4">Environmental considerations</td>
+    <td>Will it safeguard or even restore the natural environment?</td>
+  </tr>
+  <tr class="even">
+    <td>Will it reduce pollution?</td>
+  </tr>
+  <tr class="odd">
+    <td>Will it support the efficient use of resources?</td>
+  </tr>
+  <tr class="even">
+    <td>Will it safeguard or increase the resilience of ecosystems (e.g. to climate risks)?</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+#### PP22: Governance is strengthened in pursuit of future-fitness {-#pp22}
+
+The concept of governance can be considered at many levels: international, national, local and corporate. It relates to the way decisions are _made_ and how those decisions are _implemented_ – through regulation, policies, processes and so on.
+
+This Positive Pursuit focuses on how a company might influence governance structures _beyond_ its own organisation – such as those within governments or public institutions – to support the systemic pursuit of future-fitness.[^32#pp-32] @Une
+
+Trust in governance is associated with low levels of corruption, democratic stability and relative economic equality @Pic10, but there is no shortcut to trust. Institutions can only accrue trust over time if they are transparent in their decisions, consistently do what they say they will, and continuously strive to act in the best interests of those they serve. The relationship between trust and good governance is circular: each fosters the other. @Bli06
+
+There are many ways in which a company can foster good governance (see [Figure 8](#pp-figure-8)).
+
+In a Future-Fit Society, governance in every context should live up to the following five attributes: @Ohc
+
+- **Accountable**: Institutions take full ownership and responsibility for the results of their actions, and strive to manage these outcomes through effective oversight at all levels.
+- **Participatory**: Everyone the institution serves has a voice in decision-making, either directly or via legitimate intermediaries that represent their interests.
+- **Responsive**: Institutional decisions, programs and processes adapt to effectively address society's changing needs.
+- **Responsible**: Institutions uphold human rights, protect the health of the environment and foster the pursuit of future-fitness.
+- **Transparent**: Information necessary for decision-makers to adhere to the above attributes is readily available and accessible.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might create a mobile phone app to enable citizens in water-stressed regions to alert local authorities to instances of abandoned or unsatisfactory government-regulated water points, so that problems could be flagged and dealt with. A positive outcome would be an increase in the accountability and responsiveness of the local government with respect to water management.
+
+Alternatively, a company could lobby a national government to implement stricter toxic emission standards for new vehicles. A positive outcome would be a gradual decrease in harmful emissions leading to a lasting improvement in air quality, as a result of more responsible governance.
+
+<div class="ff-figure" id="pp-figure-8">
+Figure 8: Ways to strengthen governance.
+</div>
+<div class="table-20 table-blue">
+|  | Ways to strengthen governance in pursuit of future-fitness |
+|:-:|:-|
+| Increase inclusion | Facilitate wider participation in decision-making for those that have been excluded due to barriers such as distance, disability or gender |
+| Improve communication channels | Create or improve channels of communication (both digital and in-person) between institutions and the people they serve |
+| Advocate for change | Campaign for institutions to change their behaviour to more closely align with the attributes of good governance |
+</div>
+
+#### PP23: Market mechanisms are strengthened in pursuit of future-fitness {-#pp23}
+
+Every company can take steps to improve its own future-fitness, but some barriers exist at a market level which are exceedingly difficult to overcome by any one business alone. Such barriers may hinder the efforts of even the most committed company, but any action to remove one could potentially enable the company – as well as its peers and other market actors – to make much-needed progress.
+
+###### Market barriers that prevent progress {-}
+
+Market barriers exist in many forms and include those outlined in [Figure 9](#pp-figure-9).
+
+<div class="ff-figure" id="pp-figure-9">
+Figure 9: Market barriers that prevent progress.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="3">Market barriers that prevent progress to future-fitness</th>
+  </tr>
+</thead>
+  <tr class="even">
+    <td style="text-align:center"; width=20%>Type of market barrier</td>
+    <td style="text-align:center"; width=30%>Overcoming barrier enables market actors to...</td>
+    <td style="text-align:center"; width=50%>Example</td>
+</tr>
+  <tr class="odd">
+    <td style="text-align:center"; rowspan="2"><b>Technological barriers:</b> Insufficient availability of or access to technology</td>
+    <td>Bring to market Future-Fit solutions that are able to compete with unfit alternatives on price, functionality and quality.</td>
+    <td>For commercial airlines to eliminate their greenhouse gas (GHG) emissions they must switch from fossil fuels to another power source, such as electricity. The energy density of batteries (the amount of power stored in a battery of a particular size/weight) is not currently sufficient to power commercial aircraft. A technological breakthrough here could transform the industry, and lead to a radical reduction in associated GHG emissions.</td>
+  </tr>
+  <tr class="odd">
+    <td>Scale up the adoption of Future-Fit solutions.</td>
+    <td>An online platform which allows people to share research and information about renewable energy technologies could be created, thereby facilitating access to renewable energy research for market actors within developing countries.</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center"; rowspan="3"><b>Knowledge barriers:</b> Insufficient access to or accuracy of information</td>
+    <td>Make informed decisions on how to reduce their own negative impacts.</td>
+    <td>A company may not have the ability to assess
+whether or not it is operating in water-stressed regions.</td>
+  </tr>
+  <tr class="even">
+    <td>Correctly identify the positive and negative impacts of other market actors, such as suppliers and publicly traded companies.</td>
+    <td>Without standardized certifications, a company would find it hard to determine whether or not a raw material was sourced responsibly.</td>
+  </tr>
+  <tr class="even">
+    <td>Effectively signal their own positive or negative impacts to other market actors, such as consumers and investors.</td>
+    <td>Lack of standardization in corporate social and environmental disclosure makes it difficult for leading companies to communicate their superior performance effectively.</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center"; rowspan="2"><b>Incentive barriers:</b> Insufficient or counterproductive incentives</td>
+    <td>Seek to create Future-Fit solutions or solve big societal challenges.</td>
+    <td>Even though antibiotic resistance is likely to create a health crisis in the future, there is currently no pressing incentive for pharmaceutical companies to invest in the research and development of new antibiotics.</td>
+  </tr>
+  <tr class="odd">
+    <td>Choose Future-Fit solutions over alternatives.</td>
+    <td>The existence of extensive fossil fuel subsidies, which artificially reduce their cost to users, disincentivizes markets from moving to renewable energy.</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+###### Ways to strengthen market mechanisms in pursuit of future-fitness {-}
+
+There are four types of market mechanisms which can combine to overcome these barriers: @Iie13
+
+- **Economic**: Aligning economic incentives to reward Future-Fit behaviours (e.g. conditional financing, thematic investment funds, subsidies).
+- **Regulatory**: Using legal requirements to enforce Future-Fit behaviours or to ban behaviours that impede progress (e.g. legislation).
+- **Cooperative**: Using voluntary agreements to encourage partners (other organizations, governments or individuals) to exhibit Future-Fit behaviours (e.g. industry standards, pre-competitive partnerships).
+- **Informational**: Equipping individuals and organizations with the information necessary to pursue Future-Fit behaviours (e.g. product certification schemes, reporting mechanisms, information technologies).
+
+This Positive Pursuit encompasses any action which achieves such an outcome.
+
+For instance, a company might collaborate with industry peers to co-create a certification scheme which enables all companies to distinguish between a responsibly-sourced raw material and its alternatives. This would be an informational market mechanism. A positive outcome would be an increase in the amount of raw material sold which has been responsibly sourced, and the associated benefits to communities and ecosystems that this brings.
+
+Alternatively, a company may collaborate with governing bodies to scale up an innovative payment-by-result mechanism designed to tackle the issues of high reoffending rates within the prison system by incentivizing the successful rehabilitation of convicts. A positive outcome would be a reduction in reoffending rates.
+
+#### PP24: Social norms increasingly support the pursuit of future-fitness {-#pp24}
+
+Social norms are the formal and informal rules that govern behaviour in groups and societies. @Sta18 They are what groups of people believe to be normal, fair or appropriate, and they operate at different levels: individuals, communities, industries, nationally, and internationally.
+
+A Future-Fit Society encourages diversity of thought and culture, as well as individual expression. In such a society, everyone is free to define and pursue a life of personal fulfilment as part of the broader community, because social norms are fully aligned in support of this pursuit.
+
+In order to transition to a Future-Fit Society, many of today's entrenched social norms need to be challenged.
+
+<div class="callout-note">
+**Examples of entrenched social norms that slow progress to future-fitness**
+
+At the global level, our economy is still largely predicated on the idea that the (only) purpose of business is to maximize (short-term) profits.
+
+At the cultural level, the practice of forced marriage is still widespread and remains a social norm in some parts of the world.
+
+In certain industries the expectation is for people to consistently prioritize work over their personal lives and sleep, to the detriment of their wellbeing.
+
+And across all levels, from individuals to global society, we tend to live our lives as beneficiaries, rather than stewards, of the ecosystem services nature provides us.
+</div>
+
+There are many entities, operating across all levels of society, that combine to establish and perpetuate social norms (see [Figure 10](#pp-figure-10)).[^33#pp-33]
+
+It can sometimes appear that social norms are fixed and impervious to change, but in reality they are continuously shifting. Social norms evolve through the interplay of a wide range of complex phenomena, which can be broadly grouped as follows:
+
+- _Social pressures_ such as demographic shifts, increasing globalization, and extreme events such as wars, financial crises, and revolutions.
+- _Environmental pressures_ such as resource scarcity, soil erosion, and more extreme weather events caused by global warming.
+- _Technological pressures_ such as the potential for increased automation due to breakthroughs in artificial intelligence and robotics.
+
+<div class="ff-figure" id="pp-figure-10">
+Figure 10: Social norms are established and perpetuated in many ways.
+</div>
+<div class="table-20 table-blue">
+|  | Entities which serve to establish and perpetuate social norms |
+|:-:|:-|
+| Supranational organizations | Entities such as the UN, World Bank and the European Union which form agreements, such as the Declaration of Human Rights, and define regulatory standards, such as mandatory health and safety protocols for companies |
+| Government institutions | At the national, state and local level, government institutions hold the power to create policy and regulations, such as the level of social benefits or the legalization of certain products and services |
+| Multinational corporations | Large businesses that operate across countries are some of the most influential actors in the 21st century, shaping both employee behaviours and influencing consumers, communities, other businesses and societal institutions |
+| Cultural institutions | These range from long-held cultural traditions, to religious institutions, to language, and often have long-entrenched roots which manifest in current day behaviours, such as the rejection of contraception, or what is considered to be socially acceptable speech |
+| Media | Vast swathes of media, from news to films, and music to advertising, influence people’s day-to-day lives, expectations, decisions and opinions. Examples include news stories that fuel public prejudices, and social media driving new fashion trends |
+| Community interaction and individual behaviour | The way people act and interact with others everyday serves to reinforce existing patterns of accepted behaviour, such as people’s proclivity to recycle household waste or greet someone in the street |
+</div>
+
+###### Ways to influence social norms to support the pursuit of future-fitness {-}
+
+A company may seek to positively influence social norms in a variety of ways:
+
+- **Advocacy**: Influencing decision makers to change their policies, practices and attitudes through activities such as lobbying, campaigning and boycotting.
+- **Leadership**: Leading by example to defy existing social norms, thereby making alternative ideas and actions more visible and accepted.
+- **Innovation**: Introducing new technologies, business models or other targeted initiatives which make it easier for people to adopt new norms.
+
+This Positive Pursuit encompasses any action which achieves such an outcome.[^34#pp-34]
+
+For instance, a company could campaign for minority rights in a country where the law actively discriminates against certain groups. A positive outcome would be a shift in public demand for anti-discrimination laws in that nation.
+
+Alternatively, a company may develop a mobile phone application that enables users to report anonymously when and where they paid a bribe, allowing regulators to identify and focus their attention on corruption hotspots. A positive outcome would be a reduction in reported incidences of bribery.
+
+<div class="callout-note">
+**Encouraging behaviour change in individuals to shift social norms**
+
+When thinking about ways to shift a social norm, it can be useful to keep in mind the following:
+
+**Convenience**: Is the desired change in behaviour costly to the individual, financially or timewise? People are less likely to adopt patterns of behaviour that are less convenient than the status quo.
+
+**Peer comparison**: Are those around the individual also changing their behaviour? The perception that others in a social group are behaving in a certain way can influence an individual's likelihood of doing so.
+
+**Visibility**: Is the change in behaviour a visible one? People are more likely to change their behaviour if they know their actions can be seen by others. If an action is restricted to the private sphere, it can be harder to change.
+</div>
+
+
+<!-- Section 3 -->
+
+
+## 3. Products and Projects {-#pp-products-and-projects}
+
+<div class="subtitle">How to undertake a Positive Pursuit
+</div>
+
+This section describes the two main ways in which a company can undertake Positive Pursuits and outlines important considerations for each.
+
+Broadly, positive outcomes can be delivered in one of two ways:
+
+- **Products** : The revenue-generating goods and services offered by the company.
+- **Projects** : Non-revenue generating activities. These range from single targeted interventions through to ongoing programs of work, either led or supported by the company.
+
+### 3.1 Products {-}
+
+The use of the term _product_ here refers to the revenue-generating goods and services offered by a company, along with any physical item delivered to the customer in support of that good or service (e.g. packaging, operating instructions, leased equipment). In the majority of cases, products are the primary mechanism through which a company accrues value and are therefore integral to its business model and its success.
+
+A product may deliver a positive outcome as a result of the following:
+
+- Product composition: the way it is created;
+- Product use/post-use: what it does and (for goods) how it is processed afterwards;
+- Product access: who uses it and how they benefit.
+
+Each is now described.
+
+##### Product composition {-}
+
+The choice of inputs used to create a product provides companies with an opportunity to deliver a positive outcome, because some innovative materials have the potential to reverse the effects of past negative environmental impacts.[^35#pp-35]
+
+For example, a company might capture CO2 from the air, which it then uses as an input for the ink within the printer cartridges it produces. Such an activity would help to ensure that [**Greenhouse gases are removed from the atmosphere**.](#pp07)
+
+Alternatively, a company might collect ocean plastic and recycle it as an input for its own goods. Such an activity would help to ensure that [**Waste is reclaimed and repurposed**](#pp11).
+
+##### Product use/post-use {-}
+
+A company's products can create a positive outcome by enabling users to reduce or reverse negative impacts.
+
+###### Reducing impacts {-}
+
+In terms of _reducing_ negative impacts, a company's products can enable users to:
+
+- _Partially reduce_ one of their own negative impacts, by displacing a more resource intensive or impactful equivalent (e.g. a very fuel-efficient jet engine); or
+- _Completely eliminate_ one of their own negative impacts (e.g. a technology to power commercial aircraft with renewable energy, to avoid the use of fossil fuels entirely).
+
+In both cases, it is not the _provision_ of the product itself that delivers a positive outcome, but whether it _replaces_ a worse alternative. For this reason, a product can be said to reduce negative impacts if, _in comparison to all other market alternatives_:
+
+- It uses less (or no) fossil fuels, water from water-stressed sources, or inadequately-managed natural resources;
+- It causes less (or no) waste, pollution or damage to ecosystems; or
+- It causes less (or no) harm to people.
+
+For example, a company might create a highly-efficient internal combustion engine which causes fewer GHGs over its use and post-use phase than all other alternatives on the market. If a car manufacturer were to use this engine in place of a more GHG-intensive engine, it _may_ be possible to claim that [**Others generate fewer greenhouse gas emissions**](#pp06).
+
+Note, however, that identifying _all other market alternatives_ – and thus the true benefit of any one product – is extremely difficult_._ This makes it hard to assess with confidence – or credibility – the positive outcome that a product delivers. Consider, for example, a highly efficient gasoline-powered SUV: if a customer were to buy such a vehicle to replace a more efficient hybrid car, the net change in GHG emissions would actually be worse.
+
+The case is stronger for products that _completely eliminate_ a negative impact, such as electric vehicles, lab-grown meat, and (depending on the use case) compostable plastics. Even so, quantifying the positive outcomes accruing from types of product that may seem to be inarguably 'good' remains a challenge. Take the case of an electric vehicle: what if a customer could have met their transport needs by walking, bicycling or using more energy-efficient public transit?
+
+There are no easy answers – and even the most well-meaning business may be accused of greenwashing if its claims are not supported by credible evidence. For more guidance on comparing products to market alternatives see this [frequently asked question](#pp-faq-4).
+
+<div class="callout-note">
+**Trade-offs**
+
+When thinking about products that reduce or eliminate negative impacts, a company should bear in mind the issue of trade-offs. A reduction of one negative impact may well result in another negative impact being increased.
+
+For example, a company may create a battery which stores energy much more effectively than any other market alternative. However, the creation of this battery may be much more water intensive, and its manufacture may rely on conflict metals.
+
+Such instances demonstrate why companies must consider whether the trade-offs required to deliver a product are truly worth the positive outcome it delivers.
+
+Trade-offs are often inevitable and – provided that the company transparently discloses how its products deliver positive outcomes in the context of those trade-offs – it is reasonable to expect stakeholders to make informed choices about them.
+
+For more considerations around trade-offs, see this [frequently asked question](#pp-faq-1).
+</div>
+
+###### Reversing impacts {-}
+
+The case is clearer for products which _reverse_, rather than _reduce_, negative environmental impacts. These include products whose use or post-use processing mean that [**Greenhouse gases are removed from the atmosphere**](#pp07), [**Harmful emissions are removed from the environment**](#pp09), [**Waste is reclaimed and repurposed**](#pp11) or [**Ecosystems are restored.**](#pp13)
+
+For example, a company might develop a water purification mechanism, which can be used by customers to remove contaminants in degraded waterways. A positive outcome would be an increase in water quality, ensuring [**Ecosystems are restored**](#pp13).
+
+##### Product access {-}
+
+Products can deliver positive outcomes by increasing the availability and/or affordability of goods and services that meet basic needs (such as clean water, energy and food), or by otherwise improving the user's capacity and opportunity to lead a fulfilling life.
+
+For example, a company may roll out an innovative technology that matches patients with remote doctors for digital consultations via widely-available mobile phones, in order to facilitate access to healthcare. Such an activity would help to ensure that [**More people are healthy and safe from harm**.](#pp16)
+
+### 3.2 Projects {-}
+
+The use of the term _project_ here encompasses non-revenue generating activities. These range from single targeted interventions through to ongoing programs of work, either led or supported by the company. This might include, for example, the one-off delivery of a subsidized medicine to an underserved community, and a multiyear commitment to provide subsidized medicines across a whole country.
+
+A company may undertake projects which are solely reliant on its own actions (e.g. utilizing a production technique which sequesters atmospheric CO<sub>2</sub>), or it may initiate or support projects that depend on the actions of third parties (e.g. supporting a supplier to reduce its release of harmful emissions).
+
+In this latter case, a company can _enable_ a positive outcome through one or a combination of the following:
+
+- Financial support: Providing investment, donations, favourable terms or other means of monetary support.
+- Technical support: Providing time, expertise or training to build capacity.
+- Advocacy support: Using influence to raise awareness or challenge the status quo.
+
+Note that the focus here is on actions which can be said to contribute, at least in some part, to achieving a positive outcome.
+
+##### Projects within a company's value web {-}
+
+A company can initiate projects which aim to achieve positive outcomes within its own operations, or within its broader [value web](#mg-value-web). Such projects are often a good way for companies to ensure sustained long-term value generation, because any positive outcomes delivered will support the success of the business and/or its stakeholders. This kind of project can be achieved by:
+
+- Reorienting company operations to cause positive outcomes; or
+- Interacting with value web participants to enable positive outcomes.
+
+For example, a company might redesign its operations to use polluted water to cool its manufacturing machinery, and then purify that water post-use, so that it can be returned to local waterways at a higher quality than before. Such an activity would help to ensure [**Ecosystems are restored**](#pp13) – and it would be integral to the way the company functions.
+
+Alternatively, to insulate itself against the effects of a future carbon tax, a company might enable one of its strategically important, carbon-intensive suppliers to make absolute GHG emission reductions. Such an activity would help to ensure that [**Others generate fewer greenhouse gas emissions**](#pp06), but it might also protect the company from higher supplier prices in the future.
+
+##### Projects beyond a company's value web {-}
+
+The potential to deliver sustained benefits is often greatest if a company can pursue positive outcomes that align with and support the success of its core business. However, this might not always be the case. In some instances, it may be more beneficial for a company to focus only on reaching the Break-Even Goals, while supporting other organizations to pursue positive outcomes elsewhere and in a completely different way.
+
+The most obvious case in point is philanthropy. A large number of organizations, many of which are donation-funded NGOs, are working to tackle some of the world's most pressing problems.[^36#pp-36] A company may choose to use its resources to support and strengthen the positive outcomes of such third-party organizations.
+
+For example, a company which distributes and sells books within a developing country could collaborate with a local NGO to teach women without access to formal education how to read and write, thereby contributing to the Positive Pursuit [**People's capabilities are strengthened**](#pp17). A positive outcome would be an increase in the literacy rates among those women.
+
+
+<!-- Section 4 -->
+
+
+## 4. Assessment {-#pp-assessment}
+
+This section describes the key concepts and considerations that can help a company to measure (and thus credibly articulate) the results of its Positive Pursuits.
+
+As described previously, a company can undertake Positive Pursuits in many ways, but activities can typically be thought of in terms of projects or products. The guidance in this section is relevant for both, but for simplicity the term _projects_ will be used.
+
+### 4.1 Creating or contributing to positive impact {-}
+
+The path towards positive impact often starts with _intentionality_, whereby a company has a clear purpose to achieve certain outcomes, and is able to state exactly how it will do so. But sometimes a company's activities may lead to positive outcomes by chance.
+
+In either case, if a company wishes to understand and explain the extent of the results it achieves, it should be able to articulate _why_ it believes there is a link between action and outcome. This articulation is sometimes referred to as a _theory of change_ (see box below).
+
+<div class="callout-note">
+**Theory of change**
+
+A theory of change is a description of how and why a specific outcome is expected to happen in a particular context. @Cen19 This description can include links between the issue(s) tackled, the inputs used (invested capital, time etc.), the activities performed, the outputs produced and the benefits that accrue (and to whom) as a result.
+
+For a company to credibly articulate why it is creating or contributing to an outcome, it should have a good understanding of its theory of change.
+</div>
+
+When possible, progress should be tracked from the moment a project starts. In doing so, it is important to distinguish between several levels of assessment, in increasing order of significance: _**input**, **output**, **outcome**_ and _**impact**_ (see [Figure 11](#pp-figure-11)).
+
+Inputs and outputs are the most straightforward, because this kind of information is often captured by traditional financial reporting or resource management systems. Outputs are typically not the ultimate goal of the project itself, but rather are the mechanism through which outcomes are realized.
+
+The next level involves assessing realized outcomes: measurable changes that occur for target stakeholders. Realized outcomes can be positive or negative, and intended or unintended. In comparison to outputs, assessing outcomes typically requires gathering and analyzing data which the company may not routinely track. Quantifying outcomes is always preferable, but sometimes a project's outcomes may take years to materialize, or their measurement may be impractical. In such cases a company might choose to focus its assessment and reporting on outputs only.
+
+A company may assume that without its project, things would continue to stay the same as before it started. In reality the world is constantly changing. Factors such as weather events, economic and cultural trends, availability of technology, and demographic shifts can all lead to significant changes in outcomes that are not due to the company's intervention. To the degree that resources and practicality allow, a company should therefore seek to assess its _contribution_ to any realized outcome, in order to facilitate a true understanding of the impact of its actions.
+
+The next section describes how to assess and report on Positive Pursuits at each level.
+
+<div class="ff-figure" id="pp-figure-11">
+Figure 11: Levels of assessment for Positive Pursuits.
+
+![](assets/figures/pp-assessment.svg)
+</div>
+
+### 4.2 Assessing and reporting on Positive Pursuits {-}
+
+There are a potentially infinite number of ways in which a company can undertake a Positive Pursuit. For example, ensuring [**More people are healthy and safe from harm**](#pp16) by reducing the impact of diabetes among the world's poorest people might be tackled by educating people on healthy eating choices, providing access to affordable insulin, or training healthcare professionals to spot and treat the disease before symptoms escalate.
+
+This diversity of approach means it can be challenging to assess and report on any two projects in a consistent and comparable way. But striving to do so is important, both to inform future project decisions, and to present results to investors and others in a meaningful way. The need for a common way to describe impact led to the formation of the [Impact Management Project](https://impactmanagementproject.com/) (IMP), which the following guidance draws on (see callout box below).
+
+##### Ways to characterize and assess a project's results {-}
+
+A company should choose which of the four levels of assessment (or a combination thereof) to focus on for any given project, depending on its characteristics and progress.
+
+With any project, the ultimate aim should be to assess results in terms of its impacts, but if this is either not possible or practical, a company should state the reason(s) for its chosen assessment approach.
+
+<div class="callout-note">
+**Introducing the Impact Management Project (IMP)**
+
+Between 2016 and 2018, the IMP brought together over 2,000 practitioners from across geographies and disciplines, to arrive at a consensus on how to talk about, manage and measure impact – bridging the perspectives of business, non-profits, investment, social science, grant-making, evaluation, policy, standards bodies and accounting. This diverse group arrived at a shared definition of "impact", and agreed on the types of data one would expect to find in any good impact framework or report.[^37#pp-37] @Imp19
+</div>
+
+[Figure 12](#pp-figure-12) identifies five key concepts – stakeholder, scale, depth, duration and significance – which together characterize the extent of a project's results, whether intended or realized. These five concepts underpin the metrics and narrative used for each assessment level.
+
+<div class="ff-figure" id="pp-figure-12">
+Figure 12: Key concepts for assessment: stakeholder, scale, depth, duration and significance.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="4">Key concepts for assessing Positive Pursuits</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=10%>Concepts</td>
+    <td style="text-align:center"; width=30%>Description</td>
+    <td style="text-align:center"; width=30%>Categorization</td>
+    <td style="text-align:center"; width=30%>Measurement</td>
+</tr>
+  <tr class="odd">
+    <td style="text-align:center"><b>Stakeholder</b></td>
+    <td style="text-align:center">The people experiencing the outcome or, if relevant, the environment affected by the change</td>
+    <td style="text-align:center">N/A</td>
+    <td style="text-align:center">N/A</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center"><b>Scale</b></td>
+    <td style="text-align:center">The number of people experiencing the outcome or, if relevant, the area of environment affected by the change</td>
+    <td style="text-align:center">N/A</td>
+    <td style="text-align:center">Determine number of individuals, communities or area of land affected</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center"><b>Depth</b></td>
+    <td style="text-align:center">The degree of social or environmental change experienced by the stakeholder (e.g. increase in literacy rates)</td>
+    <td style="text-align:center">N/A</td>
+    <td style="text-align:center">Determine difference between level of outcome currently experienced and baseline (conditions before the project began)</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center"><b>Duration</b></td>
+    <td style="text-align:center">Time period for which the stakeholder experiences the outcome (e.g. number of months)</td>
+    <td><ul><li>Temporary one-time benefit</li><li>Benefit for a fixed time</li><li>Permanent or indefinite benefit</li></ul></td>
+    <td rowspan="2">Duration and significance can be measured by:<br/><br/><ul><li>Surveying affected stakeholders</li><li>Using evidence-based research (e.g. impact evaluations)</li><li>Market research (e.g. NGO data)</li></ul></td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center"><b>Significance</b></td>
+    <td style="text-align:center">Importance of the outcome from the perspective of the affected stakeholder</td>
+    <td><ul><li>Meeting minor need</li><li>Meeting significant need</li><li>Meeting major need</li></ul></td>
+  </tr>  
+  </tbody>
+</table>
+</div>
+
+##### Assessing and reporting on project inputs {-}
+
+If a project is in its early stages, the inputs that a company has provided to support or develop it may be the only thing that can be tracked. In such cases, progress should be assessed and reported as outlined in [Figure 13](#pp-figure-13).
+
+<div class="ff-figure" id="pp-figure-13">
+Figure 13: How to assess project inputs.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Project Inputs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=25%>Progress indicators</td>
+    <td style="text-align:center"; width=75%>Context data</td>
+</tr>
+  <tr class="odd">
+    <td rowspan="8"><b>Input:</b> The amount of financial or other types of resource provided for the project</td>
+    <td><b>Positive Pursuit:</b> The type(s) of outcome the project intends to deliver</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Project summary:</b> A short description of the project, explaining how it is expected to contribute to the Positive Pursuit. This should include:<br/><ul><li>The targeted stakeholder (e.g. individual or environment)</li><li>Stakeholder characteristics: Socio-demographic and behavioral characteristics of the stakeholder (e.g. age, gender, beliefs) or, for the environment, physical characteristics (e.g. type of ecosystem)</li><li>Geography: Where outcome(s) is expected to occur</li></ul></td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> scale:</b> The number of people or area of environment likely to be affected by the project</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> depth:</b> The intended degree of social or environmental change the stakeholder may experience</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> duration category:</b> temporary, fixed period or permanent</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> significance category:</b> meeting minor need, significant need or major need</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Possible</i> trade-offs:</b> Negative outcomes that might result from the project</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Evidence:</b> Quantitative and/or qualitative evidence, together with details of the measurement methods used for:<br/><ul><li>Intended scale</li><li>Intended depth</li><li>Intended duration category</li><li>Intended significance category</li></ul>Note that evidence should be provided for all identified outcomes, both positive and negative</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+##### Assessing and reporting on project outputs {-}
+
+Once a project is up and running, a company should be able to track interim results – regarding its outputs – as they start to accumulate. Progress should be assessed and reported as outlined in [Figure 14](#pp-figure-14).
+
+<div class="ff-figure" id="pp-figure-14">
+Figure 14: How to assess project outputs.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Project Outputs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=25%>Progress indicators</td>
+    <td style="text-align:center"; width=75%>Context data</td>
+</tr>
+  <tr class="odd">
+    <td rowspan="8"><b>Output:</b> The number or scale of objects, conditions or services that are formed from the input</td>
+    <td><b>Positive Pursuit:</b> The type(s) of outcome the project intends to deliver</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Project summary:</b> A short description of the project, explaining how it is expected to contribute to the Positive Pursuit. This should include:<br/><ul><li>The targeted stakeholder (e.g. individual or environment)</li><li>Stakeholder characteristics: Socio-demographic and behavioral characteristics of the stakeholder (e.g. age, gender, beliefs) or, for the environment, physical characteristics (e.g. type of ecosystem)</li><li>Geography: Where outcome(s) is expected to occur</li></ul></td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> scale:</b> The number of people or area of environment likely to be affected by the project</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> depth:</b> The intended degree of social or environmental change the stakeholder may experience</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> duration category:</b> temporary, fixed period or permanent</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Intended</i> significance category:</b> meeting minor need, significant need or major need</td>
+  </tr>
+  <tr class="odd">
+    <td><b><i>Possible</i> trade-offs:</b> Negative outcomes that might result from the project</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Evidence:</b> Quantitative and/or qualitative evidence, together with details of the measurement methods used for:<br/><ul><li>Intended scale</li><li>Intended depth</li><li>Intended duration category</li><li>Intended significance category</li></ul>Note that evidence should be provided for all identified outcomes, both positive and negative</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+##### Assessing and reporting on project outcomes {-}
+
+At a high level, a project's outcomes may be described in terms of the Positive Pursuit(s) to which they relate – but specific detail should be provided where possible. For example, the outcome of a project which ensures that [**More people are healthy and safe from harm**](#pp16) may be quantified in terms of an increase in quality-adjusted-life-years (QALYs).
+
+Progress should be assessed and reported as outlined in [Figure 15](#pp-figure-15). For more guidance on how to calculate **depth** and **duration** see this [frequently asked question](#pp-faq-6). Where a suitable outcome indicator can't be identified, an _output_ indicator might be used as a proxy.[^38#pp-38]
+
+<div class="ff-figure" id="pp-figure-15">
+Figure 15: How to assess project outcomes.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Project Outcomes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=40%>Progress indicators</td>
+    <td style="text-align:center"; width=60%>Context data</td>
+</tr>
+  <tr class="odd">
+    <td><b>Scale:</b><br/>The number of people or area of environment affected by the project</td>
+    <td><b>Positive Pursuit:</b> The type(s) of outcome the project intends to deliver</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Depth:</b><br/>The degree of social or environmental change the stakeholder experienced</td>
+    <td rowspan="3"><b>Project summary:</b> A short description of the project, explaining how it is expected to contribute to the Positive Pursuit. This should include:<br/><ul><li>The targeted stakeholder (e.g. individual or environment)</li><li>Stakeholder characteristics: Socio-demographic and behavioral characteristics of the stakeholder (e.g. age, gender, beliefs) or, for the environment, physical characteristics (e.g. type of ecosystem)</li><li>Geography: Where outcome(s) is expected to occur</li></ul></td>
+  </tr>
+  <tr class="odd">
+    <td><b>Duration:</b><br/>The length of time for which the stakeholder experienced the outcome</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Duration category:</b><br/>One-off, fixed period or permanent</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Significance:</b><br/>The confirmed importance of the outcome to the stakeholder</td>
+    <td rowspan="3"><b>Evidence:</b> Quantitative and/or qualitative evidence, together with details of the measurement methods used for:<br/><ul><li>Intended scale</li><li>Intended depth</li><li>Intended duration category</li><li>Intended significance category</li></ul>Note that evidence should be provided for all identified outcomes, both positive and negative</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Significance category:</b><br/>Meeting minor, significant or major need</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Trade-offs:</b> The depth, duration and significance of any negative outcomes resulting from the project</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+##### Assessing and reporting on project impacts {-}
+
+Establishing the extent to which an outcome is attributable to a specific project can be difficult. The most reliable way to do so is to establish a 'counterfactual' – that is, what would have happened in the absence of the company's intervention. The IMP provides more useful guidance on this topic: see this [frequently asked question](#pp-faq-7) for details.
+
+Once a suitable counterfactual is established, progress should be assessed and reported as outlined in [Figure 16](#pp-figure-16). For more information on how to calculate a company's contribution to depth and duration, see this [frequently asked question](#pp-faq-8).
+
+<div class="ff-figure" id="pp-figure-16">
+Figure 16: How to assess project impacts.
+</div>
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; colspan="2">Project Impacts</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="even">
+    <td style="text-align:center"; width=40%>Progress indicators</td>
+    <td style="text-align:center"; width=60%>Context data</td>
+</tr>
+  <tr class="odd">
+    <td><b>Scale:</b><br/>The number of people or area of environment affected by the project</td>
+    <td><b>Positive Pursuit:</b> The type(s) of outcome the project intends to deliver</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Depth contribution:</b><br/>The degree of social or environmental change the stakeholder experienced which is directly attributable to the project</td>
+    <td rowspan="3"><b>Project summary:</b> A short description of the project, explaining how it is expected to contribute to the Positive Pursuit. This should include:<br/><ul><li>The targeted stakeholder (e.g. individual or environment)</li><li>Stakeholder characteristics: Socio-demographic and behavioral characteristics of the stakeholder (e.g. age, gender, beliefs) or, for the environment, physical characteristics (e.g. type of ecosystem)</li><li>Geography: Where outcome(s) is expected to occur</li></ul></td>
+  </tr>
+  <tr class="odd">
+    <td><b>Duration contribution:</b><br/>The length of time for which the stakeholder experienced the outcome which is directly attributable to the project</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Duration category:</b><br/>One-off, fixed period or permanent</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Significance:</b><br/>The confirmed importance of the outcome to the stakeholder</td>
+    <td rowspan="3"><b>Evidence:</b> Quantitative and/or qualitative evidence, together with details of the measurement methods used for:<br/><ul><li>Intended scale</li><li>Intended depth</li><li>Intended duration category</li><li>Intended significance category</li></ul>Note that evidence should be provided for all identified outcomes, both positive and negative</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Significance category:</b><br/>Meeting minor, significant or major need</td>
+  </tr>
+  <tr class="odd">
+    <td><b>Trade-offs:</b> The depth, duration and significance of any negative outcomes resulting from the project</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+Assessing its Positive Pursuits enables a company to evaluate the effectiveness of its activities and to communicate its achievements to key stakeholders. For more information on how to report the results of Positive Pursuits see [How to use this guide](#pp-how-to-use).
+
+### 4.3 Example {-}
+
+ACME Inc. manufactures and sells all-natural lemonade products. It grows some of the ingredients it uses itself, and sources others from smallholder farmers in the vicinity of its production plant. Both ACME and the smallholder farmers depend on a nearby water source, which has been suffering from water stress over an extended period of time.
+
+A report by an NGO operating in the country has identified the region as economically vulnerable to climate change, being heavily reliant on agriculture and suffering from water scarcity. Over the next decade, the NGO projects that the greatest local impact of climate change will be a 15% decrease in crop yields.
+
+###### Project {-}
+
+####### Theory of change {-}
+
+ACME decides to run free classes for local smallholder farmers to help them increase their yields and reduce their water use, by teaching best-practice farming techniques which the company itself already employs. ACME describes the intended outcomes of this program as twofold: [**Others contribute less to water stress**](#pp03) and [**People's capabilities are strengthened**](#pp17).
+
+ACME's expectation is that the farmers' new knowledge will improve yields for years to come, while reducing their water dependence.
+
+The course is offered to farmers within a few dozen miles of ACME's facilities.
+
+####### Project description {-}
+
+Each course participant is helped to complete an enrolment survey, and ACME counts the completed forms to determine the number of participants in the program. Over the course of the training period, ACME monitors attendance by all farmers who have signed up, and once training is completed, they are verbally tested on what they have learned.
+
+ACME visits each farmer 6 months after the initial training, to determine how well they are putting into practice the techniques taught. The company also allocates resources to check in annually with the farmers for the next 3 years, to monitor whether the new techniques continue to be used, to provide refresher training, and to measure whether the expected increase in crop yields has occurred.
+
+###### Project assessment after 3 years {-}
+
+After three years, ACME assesses the impact of the project. While the farmers report that their water use has not _increased_, evidence for how much has been saved is anecdotal at best, given the lack of formal tracking over the period. ACME therefore cannot determine whether the project ensured that [**Others contribute less to water stress**](#pp03).
+
+Instead it focuses its assessment on how its efforts were able to ensure [**People's capabilities are strengthened**](#pp17).
+
+####### Scale {-}
+
+A total of 60 farmers signed up for and took the training. After 6 months, 40 out of the original 60 farmers were found to be actively applying what they learned.
+
+####### Depth {-}
+
+Over the course of the 3 years, the yields of all 40 farmers applying the new techniques improved by an average of 30% per year (compared to a control group of similar farmers who did not receive the training, operating in the same region).
+
+When enrolling for the course, farmers were surveyed about their existing farming practices, any training they had received in the past 5 years, and why they had chosen to enroll in the course. The results revealed that the farmers would not, without the company's intervention, be likely to learn how to apply the new farming techniques.
+
+ACME therefore concludes that the yield improvement is primarily attributable to their education program.
+
+####### Duration {-}
+
+ACME's expectation was that the farmers' new knowledge would improve yields for years to come, and this is what the evidence suggested: the increase in yield (compared to the control group) occurred the season following the education program, and remained consistent thereafter. ACME therefore concludes that the duration can be classified as permanent.
+
+####### Significance {-}
+
+To gauge the significance of the project, ACME initially conducted its own research. By assessing the cost of living in the area, and comparing that to the income earned from crop sales by a sample of local farmers, ACME found that the expected decrease in crop yield due to climate change would be likely to cause a number of farmers to struggle to cover the cost of their families' basic needs.
+
+As such, ACME characterized the significance of the project as _meeting a significant need_.
+
+ACME also followed up with ten of the farmers, asking them to what extent the project impacted their lives. The feedback was consistent: farmers felt confident in applying the new techniques and the increase in income following from the improved yields had strengthened their resilience to extreme weather events.
+
+###### Reporting its contributions {-}
+
+Once the assessment was complete, ACME was able to report the following:
+
+- **Positive Pursuit:** People's capabilities are strengthened.
+- **Project Summary:** Education program for smallholder farmers to raise crop yields, with a view to countering a projected decline in yields brought on by climate change. The company's contribution to inputs is 100% (covering all financial costs and donating employee time to run the training program and monitor results).
+- **Scale:** 40 participants completed the program.
+  - **Evidence:** Attendance records from the training sessions.
+- **Depth contribution:** 30% average annual increase in crop yield compared to control group.
+  - **Evidence:** Measurements of the trained group's crop yields, compared to a survey of average yields for non-trained farmers in the region.
+- **Duration contribution:** The project resulted in a permanent benefit to the farmers.
+  - **Duration category:** Permanent.
+  - **Evidence:** Measurably improved yields after three years, which are expected to continue indefinitely.
+- **Significance:** The program had a significant positive influence on farmer wellbeing.
+  - **Significance category:** Significant.
+  - **Evidence:** Farmer feedback plus an NGO statement on the economic vulnerability of farming communities in the area concerned.
+- **Trade-offs** : No negative outcomes were identified.
+
+When the results of the assessment are compiled, ACME is confident enough in the success of the project to engage the country's government and a national NGO which supports farmers nationwide. A new program is devised, whereby the company and government co-fund the education of the NGO's operatives, to equip them to deliver similar training programs to vulnerable farmers across the country.
+
+
+<!-- Section 5 -->
+
+
+## 5. Additional information {-#pp-additional}
+
+### 5.1 Frequently asked questions {-}
+
+##### 1. How can trade-offs be anticipated or avoided? {-#pp-faq-1}
+
+It is important to bear in mind that society is a complex system and – with so many influences at play – it would be naïve to assume that an action will be effective just because it is well-intended. To understand system-wide consequences, and minimize the risk of unintended side effects, every potential course of action to achieve a Positive Pursuit should be subject to a holistic assessment of likely trade-offs.
+
+Trade-offs can be defined as "compromise situations when a sacrifice is made in one area to obtain benefits in another." @Hah10
+
+For instance, a company may create a cheap, highly efficient, solar panel and distribute it to people that did not have prior access to energy. The fact that [**More people have access to energy**](#pp02) is undoubtedly a positive outcome. However, if the creation of the solar panel requires a large amount of minerals which are often sourced from areas of armed conflict, it may also negatively affect the Break-Even Goal [**Natural resources are managed to respect the welfare of ecosystems, people and animals**](#be03).
+
+###### Anticipating trade-offs {-}
+
+To undertake a holistic assessment of likely trade-offs, a company should first seek to identify all potential impacts, social and environmental, which could be associated with the activities of its project or product – positive or negative, and intentional or unintentional.
+
+To ensure that all possible avenues are explored, and to avoid bias, a company should solicit public input from civil society organizations and groups in the communities and sectors likely to be most affected by the project or product.
+
+The potential impacts should then be segmented into positive outcomes and negative trade-offs. Whilst doing this, it is useful to keep three types of potential trade-off in mind:
+
+- **Trade-offs in kind.** For example, new production technology that reduces toxic emissions, but which is far less energy efficient, in a region where renewable energy is not available.
+- **Trade-offs in place.** For example, introducing a water-intensive process in one region which suffers from water stress, and committing to reduce water use by an equivalent amount in a different region (which fails to address the problem, since water stress is a localized issue).
+- **Trade-offs in time.** For example, operating a mine in a highly biodiverse region, but committing to invest significantly to restore and improve the area when operations eventually cease. While the end result may be beneficial, significant (and potentially irreversible damage) may be done to the local ecosystem in the interim years.
+
+###### Classifying trade-offs {-}
+
+Trade-offs can then be classified in three ways: @Fer
+
+- **Acceptable**: The positive outcome(s) is worth the associated negative environmental or social outcome(s);
+- **Negotiable**: The positive outcome(s) is worth the associated negative environmental or social outcome(s) if a caveat is fulfilled; or
+- **Unacceptable**: The positive outcome(s) is not worth the associated negative environmental or social outcome(s).
+
+There is no single rule that companies can apply to determine whether a particular trade-off is acceptable or not. Judgements should be based on the best information that can be gathered at the time, research from credible bodies, and the views of key stakeholders.
+
+Unavoidable trade-offs that are deemed **acceptable** should be acknowledged, and plans should be put in place to measure, minimize and mitigate their negative effects.
+
+Alterations should be made to the proposed project or product so that **negotiable** trade-offs can be moved into the category of acceptable trade-offs, or be eliminated altogether.
+
+**Unacceptable** trade-offs should be avoided at all costs. A trade-off should be considered unacceptable if it introduces a clear threat to people's wellbeing or creates structural obstacles that impair (or even negate) progress towards future-fitness. One way to look at this is to consider the degree to which a trade-off would introduce a barrier to progress with respect to one or more of the Properties of a Future-Fit Society (see [Figure 2](#pp-figure-2)).[^39#pp-39]
+
+For example, providing access to renewable energy for an underserved community by building a hydro-electric dam, when downstream communities rely on that water source for food production and drinking, could result in a positive outcome for the first group but undermine access to water for the second.
+
+Once trade-offs have been identified and analyzed, it is much easier to mitigate, minimize and even take action to eliminate them. For more information on how to measure and manage both positive and negative outcomes, see the [Assessment](#pp-assessment) section.
+
+##### 2. What is a harmful substance? {-#pp-faq-2}
+
+A substance is considered to be harmful if one or more of the following is true:
+
+1. It has properties that make it dangerous to – or capable of having a harmful effect on – human health or the environment.
+2. The substance is designated as harmful by one of the following sources:
+a. Credible industry bodies relevant to the industry in question, which recommend the phasing out of the substance.[^40#pp-40]
+b. Lists of substances which are legally banned in one or more of the company's areas of operations.
+c. Credible peer-reviewed research, which strongly suggests evidence of harm.
+2. The substance is likely to build up in nature if emitted. Categories of substances known to be ofconcern for this reason include, but are not limited to:
+a. Human-made synthetics that are novel or foreign to nature @Ste (e.g. persistent organic pollutants (POPs) @Uni04 including endocrine disrupting chemicals (EDCs) @Env13, radioactive materials @Ste, and nanomaterials/micro-plastics @Ste).
+b. Metals and their compounds that are not naturally abundant in nature (e.g. compounds of heavy metals like mercury, lead, zinc and cadmium). @Aza96
+c. Stratospheric ozone-depleting chemical substances. @Ste
+d. Aerosols. @Ste
+3. The substance is likely to interact with other substances, as a result of its emission, in ways that cause 1, 2 or 3 to be true.
+
+##### 3. Why isn't all energy from waste considered renewable? {-#pp-faq-3}
+
+Residual waste often contains a mix of biogenic materials like food waste and scrap wood, as well as materials from fossil sources, such as plastics. Because of the latter, energy recovered from such waste is not considered to be renewable.
+
+##### 4. How should credible product comparisons be made? {-#pp-faq-4}
+
+The best way to make credible comparisons is to start by defining the _functional unit_ for a product. A functional unit is a quantified description of the performance requirements that a product must fulfil. @Con19 It enables a comparison of the overall performance of different products in terms of impacts per unit of delivered service.
+
+A functional unit should, as far as possible, relate to the functions of a product rather than to the physical product itself. In this way, it is ensured that both the elements of product performance and duration ("how much" and "how long") are addressed.
+
+For instance, the functional unit for a light bulb should be along the lines of "annual lighting of a work area of 10m<sup>2</sup> within 30 lux". Alternatively, the functional unit for an office chair should be minimum 7 years of computer workstation seating support".
+
+There are several steps to establishing a relevant functional unit. These are: @Wei17
+
+- **Identifying the market**: It is via purchases on the market that customers can express their requirements for a product. This will help to identify the obligatory properties of a product. To avoid overlap and, in turn, ensure that all products targeted for a segment are considered substitutable by relevant customers, three elements should be considered when defining a market for a specific product:
+  - Geography: natural geography (e.g. climate or landscapes) or regulatory geography (e.g. barriers to market entry or product standards)
+  - Time: customers require products to be available at specific points in time/at a certain speed (e.g. peak hours or seasons)
+  - Customer: Typical use situation (e.g. segmented by age, sex, income, education, culture, etc.)
+- **Identifying the obligatory product properties**: Obligatory properties are those which a product _must have_ in order to be considered a relevant alternative. These typically include functionality, technical quality and cost. All obligatory product properties should be described in quantitative terms. It is important to keep in mind that the same product property may be obligatory in one market and not in another market.
+- **Expressing the functional unit**: The functional unit is a quantity of the product as defined by its obligatory product properties required in a specific market segment.
+
+By specifying the functional unit as a "service delivered" (e.g. a transportation need) and not as a specific product or material solution (e.g. a compact car), wider comparison across a diverse range of products is possible.
+
+For example, instead of comparing one car with in internal combustion engine to another to see which is more fuel-efficient, a functional unit will allow comparison between a combustion car, a hybrid car, an electric car and even public transport.
+
+Once a functional unit is established, a company should then analyze its own product against all relevant alternatives across its use and post-use phases to see how their impacts compare.
+
+For example, a company might wish to claim that its washing machine is the most water efficient on the market and so means that [**Others contribute less to water stress**](#pp03). In order to do this, the company must establish all of the market alternatives which fulfil the same function and assess these and its own product across use and post-use phases.[^41#pp-41] Only after this assessment confirms that the company's washing machine is indeed the most water efficient can the company credibly attribute a positive outcome to its product.
+
+##### 5. How can philanthropic donations be more effective? {-#pp-faq-5}
+
+A large number of organizations are working to tackle some of the world's most pressing problems, but not all are equally effective. When a company is deciding on how to leverage its resources to support third-party organizations in a way that achieves the greatest good, it can be useful to consider the following:[^42#pp-42]
+
+- **Outcome depth and duration**: What is the scale of the _potential_ outcome? Does the benefit accrue at a moment in time, or is it permanent? How many people could potentially benefit? For more considerations like these see the [Assessment](#pp-assessment) Section.
+- **Outcome likelihood**: How strong is the evidence that a project or program will achieve the meaningful outcomes it is striving for? If the evidence base is weak, is the potential benefit high enough to warrant the investment anyway?
+- **Company contribution**: How important is the company's contribution to achieving the outcome? Is the issue of concern under-addressed? Is there a decreasing, linear or increasing relationship between marginal donations and good outcomes?
+
+After considering all of the above, companies can make informed decisions about the programs or projects they feel are likely to be most effective at translating donations into positive outcomes.
+
+##### 6. How can the depth and duration of an outcome be calculated? {-#pp-faq-6}
+
+###### How to calculate the depth of an outcome {-}
+
+There are four steps that must be undertaken to assess the depth of an outcome.
+
+1. Establish a unit of measurement for the outcome;
+2. Establish the baseline level of outcome;
+3. Establish the actual level of outcome; and
+4. Calculate the depth indicator as the difference between the baseline and actual level of outcome.
+
+####### Baseline level of outcome {-}
+
+The concept of baseline data is similar to that of market research – a company should establish what the situation is on the ground before attempting to create a positive outcome.
+
+The baseline level of outcome should be measured using the outcome metric. For example, if the outcome unit is the number of people who are literate, then the baseline should capture the same information.
+
+####### Actual level of outcome {-}
+
+The actual level of outcome is that which has occurred by the end of the intervention. It should be measured using the chosen outcome unit.
+
+####### Calculating the depth indicator {-}
+
+The depth of a positive outcome is derived by comparing the actual level of outcome to the baseline level of outcome. Depth is, essentially, the differential between the two. This can be calculated as a relative change, i.e. as a percentage,[^43#pp-43] or absolute change.[^44#pp-44]
+
+###### How to calculate the duration of an outcome {-}
+
+The duration of an outcome refers to the timescale over which benefits from an intervention apply.
+
+Three factors should be considered when assessing the duration of a positive outcome:
+
+- Outcomes have different durations. They can range from a one-time benefit (e.g. providing hungry people with a meal), through to a fixed period (e.g. meals provided for weeks or months, for example after a natural disaster), to a permanent or indefinite removal of a systemic obstacle to wellbeing (e.g. equipping people to produce their own food).
+- Outcomes may materialize immediately, or in the medium- and long-term.
+- Many outcomes go beyond the end of the intervention. This means that the affected stakeholder could still experience the outcome long after the intervention is over.
+
+The duration estimate should be, where possible, a more specific time period. Duration estimations may be expressed in days, weeks, months or years.
+
+Deriving a duration estimate can be done through several methods:
+
+- Survey the affected stakeholder on a recurring basis, from the start until the end of the intervention (or for even longer periods);
+- Evidence-based research; or
+- Market research.
+
+##### 7. How can counterfactuals be determined? {-#pp-faq-7}
+
+###### How to establish a depth counterfactual {-#pp-faq-7-depth}
+
+The Impact Management Project provides the following [guidance](https://impactmanagementproject.com/impact-management/what-is-impact/contribution/) on how to establish a depth counterfactual:
+
+_To calculate the counterfactual side of depth, enterprises can use a number of approaches that vary in rigor and costs. Randomized control trials and quasi-experimental methods typically require significant resources but produce higher-quality insights compared to market research and stakeholder feedback. This is not always the case, however, as well-deployed market research and stakeholder feedback (covering large sample sizes) can yield valuable insights for (1) understanding what else may be driving the outcome, (2) building a 'good enough' counterfactual scenario, and (3) conducting the depth analysis._
+
+_These methods can often be combined to gain complementary findings. The list below covers the main analytical tools:_
+
+- _**Stakeholder feedback**: Stakeholder feedback requires consulting the individuals (or communities) affected by the enterprise's activities to gain a nuanced understanding of the drivers behind the outcome (e.g. the enterprise's activities, external factors, government interventions, cultural practices). If deployed well — covering a large enough sample and different points of view — stakeholder feedback can be used to build a counterfactual. This method should be combined with market research and/or evidence-based research, as they are mutually reinforcing._
+- _**Market research**: By taking a thorough look at an intervention's context, market research can be used to build a 'good enough' counterfactual. This method requires a deep analysis of secondary resources (e.g. industry reports) to identify what else may be driving the outcome — from other organizations, to government interventions, to external factors (weather, economic conditions), to individuals' unobservable characteristics (self-motivation, cultural practices). Market research should be paired with stakeholder feedback and/or evidence-based research for complementary insights — and for strengthening the credibility of the counterfactual._
+- _**Evidence-based research**: Enterprises can source depth contribution estimates through evidence-based research (i.e. rigorous impact studies of enterprises' products, services, and other types of interventions conducted by third-party researchers). Often grounded in randomized control trials or quasi-experimental design – two methods that rigorously assess the counterfactual – evidence-based research produces outcome results that can be extrapolated to gain an understanding of an enterprise's contribution._
+
+_Before extrapolating results from a study, enterprises should first assess the quality of the estimate by considering the study's methodological rigor, population group, country-setting, and type of intervention. For example, if an Indian enterprise relied on an estimate from an impact study that took place in Argentina – a country with significantly different socio-economic characteristics – then the quality of this estimate is likely to be low, rendering it unusable. In using this method, enterprises should exercise caution and aim to pair it with stakeholder feedback and market research. Sources of evidence-based research include [J-Pal's evaluations](https://www.povertyactionlab.org/evaluations), [Innovations for Poverty Action's research](https://www.poverty-action.org/research) and [3ie's systematic reviews](http://www.3ieimpact.org/en/evidence/systematic-reviews/)._
+
+- _**Randomized control trials (RCTs)**: RCTs measure the difference in outcomes over time among two randomly assigned groups:_
+  - _A treatment arm (i.e. receives the intervention, such as a product)._
+  - _A control arm (i.e. one that did not receive the intervention or received a placebo or another type of intervention)._
+
+_The randomization ensures that the two groups are similar on observable (income, gender, health) and unobservable (self-motivation, energy) characteristics, creating a robust counterfactual. Although a popular method in international development, RCTs and quasi-experimental methods usually require significant resources._
+
+- _**Quasi-experimental methods**: Quasi-experimental methods (e.g. regression discontinuity design, difference-in-difference) cover a range of statistical techniques to build experimental groups. Once these groups are created, practitioners compare the difference in outcomes over time between individuals who received the intervention and those who did not (the counterfactual). In contrast to RCTs, quasi-experimental methods require many more assumptions to develop a credible counterfactual._
+
+###### How to establish a duration counterfactual {-#pp-faq-7-duration}
+
+The Impact Management Project provides the following [guidance](https://impactmanagementproject.com/impact-management/what-is-impact/contribution/) on how to establish a duration counterfactual:
+
+_Calculating the duration counterfactual can be as simple as using market and evidence-based research or as complex as relying on experimental or quasi-experimental methods. While more rigorous and accurate, conducting an RCT with a long time span is inaccessible (and likely un-actionable) for the majority of enterprises. As a starting point, we recommend that enterprises leverage existing research to estimate the duration of the outcome that the market or system would otherwise deliver._
+
+- _**Stakeholder feedback**: Stakeholder feedback gathers insights directly from the people who are experiencing the outcome. Stakeholder feedback could be a useful starting point for understanding the drivers behind the duration of an outcome. Enterprises can complement these findings with market or evidence-based research to further understand the estimated duration that the market or system would otherwise deliver (i.e. the counterfactual)._
+- _**Market research**: By taking a thorough look at an intervention's context, market research can be used to build a 'good enough' duration counterfactual. This method requires delving deep into what else may be driving the duration of the outcome, from other organizations, to government interventions, to external factors (weather or economic conditions), to individuals' unobservable characteristics (self-motivation, cultural practices). Market research should be paired with stakeholder feedback and/or evidence-based research for complementary insights – and strengthening the credibility of the duration counterfactual._
+- _**Evidence-based research**: Relying on evidence-based research (i.e. rigorous impact evaluations, usually RCTs or quasi-experimental studies, explained below) can provide relatively accurate duration contribution estimates. When using this method, enterprises should determine the study's methodological rigour, population group, country-setting, and type of intervention, in order to understand the quality of the estimate. For example, if an Indian enterprise used an estimate from a study that took place in Argentina (significantly different socio-economic characteristics), then the quality of this estimate would be considered low and likely unusable._
+- _**Randomized control trials (RCTs)**: RCTs measure the difference in outcomes over time among two randomly assigned groups: a treatment arm (i.e. receives the intervention such as a product) and a control arm (i.e. one that did not receive the intervention). Academic RCTs usually take place over two or more years and often go beyond the end of the intervention. By extending the evaluation period, RCTs capture reliable estimates of enterprises' contribution to the duration of an outcome._
+- _**Quasi-experimental methods**: Quasi-experimental methods (e.g. regression discontinuity analysis, difference-in-difference) cover a range of statistical techniques to build experimental groups. Once these groups are created, practitioners compare the difference in outcomes over time between individuals who received the intervention and those who did not (the counterfactual). Similar to RCTs, this method assesses data over two or more years (even after the intervention has ended), producing reliable data on the duration of an outcome._
+
+##### 8. How can depth and duration contributions be calculated? {-#pp-faq-8}
+
+###### How to calculate depth contribution {-}
+
+In order to calculate the depth contribution indicator, a company must have already calculated the depth indicator. It must also have a [depth counterfactual](#pp-faq-7-depth) – i.e. the degree of change that has occurred in a structurally similar context that has not experienced the intervention (project or product).
+
+The depth contribution is the difference between these two pieces of information.[^45#pp-45]
+
+###### How to calculate duration contribution {-}
+
+In order to calculate the duration contribution indicator, a company must have already calculated the duration indicator. It must also have a [duration counterfactual](#pp-faq-7-duration) – i.e. the outcome duration that has occurred in a structurally similar context that has not experienced the intervention (project or product).
+
+The duration contribution is the difference between these two pieces of information.[^46#pp-46]
+
+## Appendix 1: Human Rights Articles {-#pp-app-human-rights}
+
+<div class="ff-figure" id="pp-figure-a1-1">
+Figure A1.1: How the 30 Human Rights Articles relate to the Positive Pursuits.
+
+![](assets/figures/hr-mapping.svg)
+</div>
+
+[^1#pp-1]: There are 23 Future-Fit Break-Even Goals, which you can explore at [**futurefitbusiness.org**](http://futurefitbusiness.org/break-even-goals/).
+
+[^2#pp-2]: For more information on how these properties were derived, see the [**Methodology Guide**](#mg-requirement-for-society).
+
+[^3#pp-3]: For example, a company might act to remove greenhouse gases (GHGs) from the atmosphere, or to enable others to eliminate their own GHGs. Such activities would be classed as a Positive Pursuit. But if a company were to act only to reduce _its own_ operational GHGs, any improvement would count instead as progress toward the Break-Even Goal [**Operations emit no greenhouse gases**](#be06).
+
+[^4#pp-4]: A company is wholly accountable for ensuring it does not undermine the wellbeing of its workers, the communities affected by its physical presence, or the users of its goods and services. See the [**Methodology Guide**](#mg-mutually-accountable) for details on what a company is wholly and mutually accountable for, and why.
+
+[^5#pp-5]: Even an initiative that seems to fall completely within the company's control – such as developing an innovative new product line which promises to meet a basic need – may require new forms of marketing, new distribution channels, new sales incentives, new ownership/leasing models, and so on.
+
+[^6#pp-6]: For details of how these Positive Pursuits were derived, and the systems science underpinning that process, see the [**Methodology Guide**](#mg-figure-5-4).
+
+[^7#pp-7]: World Bank data suggests the figure to be about 80%. @Wor14
+
+[^8#pp-8]: 20% of the world's population has no access to electricity, and 2.7 billion people do not have clean and safe energy for cooking. @Iie19
+
+[^9#pp-9]: There is no single universally-agreed understanding of what access to energy means. The description used here draws on the International Energy Agency's methodology for defining energy access. @Iri19
+
+[^10#pp-10]: A commonly used definition of access to water is having a source of clean, reliable water within one kilometer of a person's dwelling. @Uni10
+
+[^11#pp-11]: For example, humanity's annual use of renewable natural resources is 1.7 times that which can be regenerated over an entire year. @Sus15
+
+[^12#pp-12]: Such substances include but are not limited to: human-made synthetics that are novel or foreign to nature (e.g. persistent organic pollutants, including endocrine disrupting chemicals, radioactive materials, and nanomaterials/micro-plastics); metals and their compounds that are not naturally abundant in nature (e.g. compounds of heavy metals like mercury, lead, zinc and cadmium); stratospheric ozone-depleting chemical substances; and aerosols. For more information see this [frequently asked question](#pp-faq-2).
+
+[^13#pp-13]: For more information on resource efficiency, see the [Products and Projects](#pp-products-and-projects) section.
+
+[^14#pp-14]: GHGs should be measured in CO<sub>2</sub> equivalent when [assessed](#pp-assessment). Global warming potentials (GWP) should be used to do this. The Greenhouse Gas Protocol defines a GWP as _"a factor describing the radiative forcing impact (degree of harm to the atmosphere) of one unit of a given GHG relative to one unit of CO<sub>2</sub>"_. @Gre17 Consistent with the Greenhouse Gas Protocol, companies must use the 100-year GWP values from the latest IPCC Assessment Report, available via the [IPCC website](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf).
+
+[^15#pp-15]: For example,72% of all plastic packaging is not recovered at all; 40% is dumped in landfill sites, and 32% leaks out of the collection system, either because it is not collected at all, or because it is collected but then illegally dumped or mismanaged. @Wor16
+
+[^16#pp-16]: Burning waste for energy is _not_ considered an acceptable way to repurpose waste, unless the waste is 100% biogenic. This is because the resulting energy is not considered renewable. For more information see this [frequently asked question](#pp-faq-3).
+
+[^17#pp-17]: Areas of high social and cultural values are sites which are important for satisfying the basic necessities of local communities and/or areas of global, national or local cultural, archaeological or historical significance. For more information see the definition of [High Conservation Value Areas.](#def-hcv)
+
+[^18#pp-18]: For example, mass tourism is threatening the preservation of cultural heritage sites like Machu Picchu, Peru and Venice, Italy.
+
+[^19#pp-19]: A 2014 study estimated that land grabbing practices had the potential to affect the incomes of 12 million people, with implications for both food security and livelihoods. @Dav14
+
+[^20#pp-20]: People who rely on customary or traditional land rights are particularly vulnerable to land grabbing because there is little or no official documentation of their rights, which could otherwise protect them from their land being taken by someone else. @Wri11
+
+[^21#pp-21]: Note that formalizing customary or traditional land rights is not necessarily the same as endowing rights to underserved populations. For more information on the latter, see the Positive Pursuit category [**More people have access to economic opportunity**](#pp18).
+
+[^22#pp-22]: For example, after a 37-year fight, title deeds to 55,000 hectares of Australian land were returned to their traditional aboriginal owners in 2016. @Dav16
+
+[^23#pp-23]: This understanding of wellbeing is aligned with _The Capability Approach_ pioneered by economist and philosopher Amartya Sen. The emphasis here is not on maximizing subjective wellbeing, but on ensuring people have both the capacity and the opportunity to achieve the kind of lives they deem to be valuable. @Sen19
+
+[^24#pp-24]: The distinction between basic needs and higher needs is informed by Maslow's Hierarchy of Needs. @Wik19
+
+[^25#pp-25]: The Break-Even Goals relating to wellbeing are: [**Community health is safeguarded**](#be09); [**Employee health is safeguarded**](#be10); [**Employees are paid at least a living wage**](#be11); [**Employees are subject to fair employment terms**](#be12); [**Employees are not subject to discrimination** ](#be13); [**Employee concerns are actively solicited, impartially judged and transparently addressed**](#be14); [**Product communications are honest, ethical and promote responsible use**](#be15); [**Product concerns are actively solicited, impartially judged and transparently addressed**](#be16); and [**Products do not harm people or the environment**](#be17).
+
+[^26#pp-26]: Personal resilience is: _"the process of negotiating, managing and adapting to significant sources of stress or trauma. Assets and resources within the individual, their life and environment facilitate this capacity for adaptation and 'bouncing back' in the face of adversity. Across life, the experience of resilience will vary"._ @Win10
+
+[^27#pp-27]: "Decent Work" is defined by the International Labour Organization as work that is _"productive, delivers a fair income with security and social protection, safeguards the basic rights, offers equality of opportunity and treatment, prospects for personal development and the chance for recognition and to have your voice heard"_. @Ilo19 Note that with respect to a company's own workers, all aspects of Decent Work are covered by the Employee [**Break-Even Goals**](https://futurefitbusiness.org/explore-the-benchmark/). However, this Positive Pursuit _could_ apply with respect to a company's own workers, if it were to provide employment opportunities specifically to groups with limited access.
+
+[^28#pp-28]: Right to bodily integrity is not explicitly asserted by the UN Fundamental Human Rights, but is stipulated by the EU Charter of Fundamental Rights @Fra01 It emphasizes a person's right to autonomy over their own body.
+
+[^29#pp-29]: For example, the average lifespan of a coal-fired power plant is 40 years @Set16 and current trends suggest the number in operation will not begin to shrink until 2022 – too late for effective climate change mitigation. @She
+
+[^30#pp-30]: This Positive Pursuit focuses on what is sometimes referred to as 'hard infrastructure': the physical entities and networks required to support a functioning modern society – such as roads, buildings and ICT infrastructure. So-called 'soft infrastructure' refers to institutions which deliver services – such as governmental, financial and education systems – which are improved through other Positive Pursuits. @Jim19
+
+[^31#pp-31]: For example, an estimated 60% of global carbon emissions are due to the construction, operation and maintenance of existing infrastructure. @The16
+
+[^32#pp-32]: Corporate governance is an important determinant for how companies act and respond to change. In fact, good governance structures are central to a company's capacity to bring social and environmental considerations into the core of how it does business. This is reflected by the fact that a wide range of governance criteria can be found embedded throughout the [**Break‑Even Goals**](https://futurefitbusiness.org/explore-the-benchmark/).
+
+[^33#pp-33]: This list is particularly informed by Duncan Green's book, [_How Change Happens_](http://how-change-happens.com/). @Gre16
+
+[^34#pp-34]: Changes in social norms can rarely, if ever, be traced back to a single cause, not least because multiple factors are usually at play. So, although companies can identify their intentions and the actions they take, it should be noted that it is extremely difficult for a company to articulate its contribution to any resulting outcome in any credible way.
+
+[^35#pp-35]: Positive Pursuits which have a restorative environmental impact and are relevant to product inputs are: [**Greenhouse gases are removed from the atmosphere**](#pp07); [**Harmful emissions are removed from the environment**](#pp09); [**Waste is reclaimed and repurposed**](#pp11) and [**Ecosystems are restored**](#pp13).
+
+[^36#pp-36]: Note that not all organizations are equally effective. To find out more on how a company can decide how to donate most effectively, see this [frequently asked question](#pp-faq-5).
+
+[^37#pp-37]: Future-Fit Foundation is a contributing author to the initiative and, wherever possible, will endeavour to align its guidance with that of the IMP as it continues to evolve.
+
+[^38#pp-38]: When a variable is impractical to measure (e.g. due to cost constraints), companies are encouraged to use a proxy variable instead. This is a variable assumed to be closely correlated with the immeasurable variable. For example, to gauge the effect of a crime reduction project, an organization might use _change in number of assault victims admitted to hospital rooms_ as a proxy for _percentage drop in violent crimes_.
+
+[^39#pp-39]: For additional thoughts on the ways that progress toward future-fitness can be undermined, see the description of the Framework for Strategic Sustainable Development in the [**Methodology Guide**](#mg-requirement-for-society).
+
+[^40#pp-40]: For example, the Zero Discharge of Hazardous Chemicals (ZDHC) initiative, the US EPA's listing of [six criteria pollutants](https://www.epa.gov/criteria-air-pollutants) and [187 air pollutants](https://www.epa.gov/haps/initial-list-hazardous-air-pollutants-modifications), or ChemSec's [SIN](http://sinlist.chemsec.org/) and [SINimilarity](http://sinimilarity.chemsec.org/) lists.
+
+[^41#pp-41]: Any impacts which occur as a result of a product's pre-"use phase" are covered by the [**Break-Even Goals**](http://futurefitbusiness.org/break-even-goals/#type-business-inputs+type_business-activities) relating to inputs and operations.
+
+[^42#pp-42]: The following questions have been informed by the work of [_The Life You Can Save_](https://www.thelifeyoucansave.org/), one of several organizations working to increase the effectiveness of philanthropic spend. @The19
+
+[^43#pp-43]: Mathematically: Relative change (%) = [(realized level of outcome / baseline level of outcome) – 1] * 100.
+
+[^44#pp-44]: Mathematically: Absolute change = outcome in period – baseline.
+
+[^45#pp-45]: Mathematically: Depth contribution = Depth – Depth counterfactual.
+
+[^46#pp-46]: Mathematically: Duration contribution = Duration – Duration counterfactual.

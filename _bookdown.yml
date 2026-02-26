@@ -1,0 +1,61 @@
+book_filename: "infohub"
+output_dir: "docs"
+language:
+  ui:
+#    chapter_name: "Chapter "
+delete_merged_file: true
+rmd_files: [
+
+# PREAMBLE - DON'T CHANGE
+
+  "index.Rmd",
+  "guides/shared/start.Rmd",
+  "guides/shared/acknowledgements.Rmd",
+
+# METHODOLOGY GUIDE
+
+  "guides/mg/mg.Rmd",
+
+# BREAK-EVEN GOAL ACTION GUIDES
+
+  "guides/be/be.Rmd",
+
+  "guides/be/be01.Rmd",
+  "guides/be/be02.Rmd",
+  "guides/be/be03.Rmd",
+  "guides/be/be04.Rmd",
+  "guides/be/be05.Rmd",
+  "guides/be/be06.Rmd",
+  "guides/be/be07.Rmd",
+  "guides/be/be08.Rmd",
+  "guides/be/be09.Rmd",
+  "guides/be/be10.Rmd",
+  "guides/be/be11.Rmd",
+  "guides/be/be12.Rmd",
+  "guides/be/be13.Rmd",
+  "guides/be/be14.Rmd",
+  "guides/be/be15.Rmd",
+  "guides/be/be16.Rmd",
+  "guides/be/be17.Rmd",
+  "guides/be/be18.Rmd",
+  "guides/be/be19.Rmd",
+  "guides/be/be20.Rmd",
+  "guides/be/be21.Rmd",
+  "guides/be/be22.Rmd",
+  "guides/be/be23.Rmd",
+
+# POSITIVE PURSUIT GUIDE
+
+  "guides/pp/pp.Rmd",
+
+# IMPLEMENTATION GUIDE
+
+  "guides/ig/ig.Rmd",
+
+# SHARED BITS
+
+  "guides/shared/defs.Rmd",
+
+# END
+  "tail.Rmd"
+]

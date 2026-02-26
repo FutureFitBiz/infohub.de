@@ -1,0 +1,456 @@
+---
+output: github_document
+---
+
+## BE02: Water {-#be02}
+
+<div class="subtitle">Water use is environmentally responsible and socially equitable
+</div>
+
+### 1. Ambition {-#be02-ambition}
+
+A Future-Fit Business protects freshwater resources by minimizing water consumption in its commercial and industrial activities, and by ensuring its discharges do not degrade the water quality of receiving watersheds.
+
+#### 1.1 What this goal means {-#be02-what-goal-means}
+
+Fresh water is crucial to people's health, for drinking, cooking and sanitation. Through excessive withdrawals of water, discharge of polluted wastewater, or by adversely affecting the characteristics of any withdrawn water before returning it to nature, a company may undermine the quantity, quality, and availability of water that flora, fauna and communities rely upon.
+
+The responsible use of water is a complex issue. Impacts must be addressed at a local [watershed](#def-watershed) level, because systems can be affected by the removal of water from an area, the introduction of additional water, timing differences between withdrawals and discharges, and changes in water quality and other water characteristics such as heat and pH levels.
+
+Companies must ensure that their use of water doesn't undermine the quantity and quality of water available for people and ecosystems that depend on the watersheds concerned.
+
+To be Future-Fit a company must: (a) minimize – and in [water-stressed](#def-water-stress) regions eventually eliminate – its consumption of water for industrial and commercial purposes;[^1#be02-1] and (b) ensure that any discharges[^2#be02-2] do not degrade the quality of the receiving water bodies, the health of receiving soils, or in any other way cause harm to ecosystems or people.
+
+#### 1.2 Why this goal is needed {-#be02-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Access to clean water is a fundamental human right,** yet an estimated 2.1 billion people worldwide lack access to safe, readily available drinking water at home. @Wor171
+- **Increasing demand, coupled with changing weather patterns, is placing many global water reserves under increasing strain**. By 2050, an estimated additional 1.8 billion people may be living in water-stressed areas – 53% more than the number of people currently living in such conditions. @Sch14
+- **This has implications for business.** The World Bank estimates that water scarcity could cost some regions up to 6% of their GDP. @Wor161
+
+#### 1.3 How this goal contributes to the SDGs {-#be02-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by reducing water consumption and ensuring discharged water does not degrade the water quality of receiving watersheds, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 6](assets/sdg/sdg-6.svg) | Support efforts to achieve universal access to safe and affordable drinking water and sanitation for all, efforts to improve water quality by reducing pollution, eliminating dumping and minimizing the release of hazardous chemicals and materials, and efforts to substantially increase water-use efficiency and reduce the number of people suffering from water scarcity by ensuring sustainable withdrawals and supply of freshwater. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the sustainable management and efficient use of natural resources, and efforts to achieve the environmentally sound management of wastes throughout their life cycle. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds. |
+| ![SDG 15](assets/sdg/sdg-15.svg) | Support efforts to ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems, and efforts to combat desertification and restore degraded land and soil. |
+</div>
+
+#### 1.4 Related goals {-#be02-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Procurement safeguards the pursuit of future-fitness:**](#be04) Under the _Water_ goal a company's progress is assessed on the characteristics of its water consumption and discharges. If some or all of the water used is purchased from suppliers, then the company should also consider the performance of those suppliers in other issue areas (as with all other procured goods and services), via the _Procurement_ goal.
+- [**Operational emissions do not harm people or the environment:**](#be05) The _Water use_ goal includes considerations for the discharge of wastewater into the environment after treatment. However, the _Operational emissions_ goal covers several related areas, namely: if liquid chemicals or operational by-products (other than water) are being discharged into the environment; if water contains substances of concern in concentrations that could make them harmful; if it is not known what is in a liquid solution that is being discharged; or when liquid substances are unintentionally discharged (including spills, leaks, and similar).
+- [**Operational waste is eliminated:**](#be07) The _Water use_ goal deals with water discharged directly to a watershed or body of water. Wastewater or other liquid wastes which are sent by the company to a third-party for treatment or disposal are covered by the _Operational waste_ goal.
+- [**Operations do not encroach on ecosystems or communities:**](#be08) This _Water use_ goal includes guidance on what must be done before wastewater can be safely discharged into nature, in order not to disrupt ecosystems or communities. It is also possible for a company's physical presence to disrupt water sources, without any withdrawal or discharge. Such factors are covered by the _Operations do not encroach_ goal.
+
+### 2. Action {-#be02-action}
+
+#### 2.1 Getting started {-#be02-getting-started}
+
+##### Background information {-}
+
+Companies, as well as people, animals and plants, will always need water to function. The aspiration here is to eliminate water consumption due to commercial and industrial activities in [water-stressed](#def-water-stress) regions. However, this is _not_ intended to imply that companies should operate only in regions of water abundance, as that would discourage investment and economic opportunity in vulnerable regions. Instead, companies should see this challenge as a long-term ambition to continuously strive for, through a gradual process of reduction and improvement towards better [water stewardship](#def-water-stewardship).
+
+A company's first step toward future-fitness should be to understand the water contexts of the regions in which it operates, in particular by identifying the degree of water availability, how much water the company consumes and where it comes from, what water discharges the company causes, and where they end up. The business can then start to pursue opportunities for improvement by increasing efficiency, adjusting operating procedures and incorporating technical innovations, as well as collaborating with others across the value web.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Does the company's consumption of water pose physical, regulatory or reputational risks? [^3#be02-3] {-}
+
+- For each region the company operates in, what information is known about the availability and characteristics of the local watersheds? Are they known to be under water stress?
+- Does the company withdraw water directly from a surface water body or groundwater source? If it obtains water from a third-party supplier, where does that water originate?
+- Are there public policies or initiatives related to water use or consumption in those watersheds? Does the company take steps to ensure it adheres to all water-related laws and regulations in those regions?
+- Does the company have an understanding of the other users of water in the relevant watersheds, including individuals, organizations, and ecosystems? Are any of these other users related to the company (such as organizations performing services for the company, or producing inputs used in the company's products or business processes)? How do the needs of these users compare to the availability of water? Do either the availability or demand for water have significant seasonal fluctuations?
+
+- Is there a potential for reputational risk in any regions from insufficient [environmental flows](#def-environmental-flows) or inadequate access to water services among local communities? Is there any risk of business interruption from lack of access to water? How are water related risks likely to evolve over time due to population, climate, or economic trends in the area?
+
+###### Do the company's water discharges pose physical, regulatory or reputational risks? {-}
+
+- Does the company discharge water directly back into nature? If so, does the company analyze the characteristics of the water before discharging it, to ensure it closely matches the characteristics of the receiving water body? What treatment processes are applied?
+- Where water discharges are indirect (e.g. managed by third parties such as municipal wastewater treatment plants, public sewage infrastructure or private water service providers prior to discharge), where is the discharged water ultimately released? What treatment standards are applied beforehand? Does this treatment take into account the state of the receiving water body or soil?
+
+- Do any company facilities produce other types of liquid waste besides effluents and wastewater (e.g. toxic waste generated by production processes)? If so, how is this type of liquid waste handled? Is there a risk that it ends up being released without sufficient treatment?[^4#be02-4]
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the best opportunities for making progress? {-}
+
+- Which facilities are located in water-stressed locations? Of those, which [withdraw](#def-water-withdrawal) the most water? Which [consume](#def-water-consumption) the most water?[^5#be02-5]
+- Are any of these facilities at risk of disruption caused by a lack of available water?
+- Do opportunities exist to collaborate with local groups or other companies to tackle shared water challenges?
+
+###### Has the company already implemented targets and action plans to reduce water-related impacts? {-}
+
+- If so, are existing commitments sufficient to achieve future-fitness? What is the expected timeframe for this transition? If the current commitments or plans are not sufficient, how might they be adjusted or supplemented?
+- If the company has not set targets on water consumption and discharge, how might they be established? Whose authorization would be needed? Who would need to be involved to design and implement adequate internal controls?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _water is responsibly sourced and available to all_?[^6#be02-6] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-water).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be02-pursuing}
+
+##### Introduction {-}
+
+Company fitness is assessed on the basis of water consumption and discharge during the reporting period. This includes consumption and discharges from any company-controlled building, mobile asset, or service department that uses water. Note that in cases where water consumption or discharge occurs away from a fixed site, it may be appropriate to evaluate this aspect of operations separately (e.g. for a window-washing service, water withdrawal and the disposal of consumed water might be better evaluated on a departmental basis).
+
+###### Differentiating water withdrawal from water consumption {-#be02-differentiating-water-withdrawal}
+
+Paraphrasing the full [definitions](#def) provided elsewhere, _withdrawn water_ is any water taken from a natural source – such as rivers, lakes or aquifers. Once water has been withdrawn, it might be returned to the same watershed, evaporate, or be moved to another watershed or to the ocean. _Consumed water_ is a subset of withdrawn water that _does not_ end up being returned to the watershed it was withdrawn from, in a benign form. In a business context, this includes: water that is incorporated into products, crops or waste; water that evaporates or is lost (e.g. through leakage) before being discharged; and water that is heavily polluted (e.g. sewage from flushed toilets).
+
+<div class="callout-note">
+**Measurement of consumption within the business**
+
+When there is a lack of clarity between what quantity of water is being consumed and what quantity is being safely discharged, the onus is on the company to support any claim that the water is not being consumed. In other words, a company's withdrawn water is assumed to be consumed unless the company can provide evidence to the contrary.
+
+This evidence may come from first-hand monitoring of direct discharges, or from an assertion by a third-party treatment plant on the standards they adhere to.
+</div>
+
+###### Guidance on classifying commercial and industrial water consumption {-#be02-guidance-on-classifying-consumption}
+
+The spirit of this goal is to have the least disruptive effect possible on water quantity, quality, and availability to local communities and ecosystems, with the ultimate aspiration to have zero measurable effect. In regions that are water-stressed, this translates into the Future-Fit requirement to _reach zero water consumption with respect to commercial and industrial processes._
+
+####### Distinguishing 'commercial and industrial' consumption from other forms {-}
+
+A company operating in a water-stressed region is _not_ expected to eliminate water consumed by its workers for drinking and sanitation. To do so would deny those employees access to a basic need (see the [**Methodology Guide**](#mg-figure-3-6) for additional details).[^7#be02-7] Instead, the focus is on _commercial and industrial_ consumption – meaning water that is consumed during manufacturing, transportation, and distribution of products, or the provision and delivery of services.
+
+Where it is possible to measure personal consumption separately, companies are encouraged to do so. In many cases, a company's water inputs will be used for mixed purposes, and the exact volumes attributable to each use will not be precisely trackable. When this is the case, companies can estimate the per-person daily usage of their workers. These estimates can then be subtracted from the overall volume consumed at that site, with the remainder being designated as commercial and industrial consumption.
+
+<div class="callout-note">
+**Deriving estimates for workers' personal water use**
+
+There are many resources available online offering guidance on average daily water use by workers, which companies are encouraged to use. Due to variability in water use by industry, region, or culture, companies should derive usage estimates appropriate to their own circumstances. The assumptions used in these estimates must be documented, in order for data users to be able to usefully compare a company's performance to others.
+</div>
+
+###### Guidance on identifying the fitness of freshwater sources {-}
+
+- Identify which local freshwater water source(s) the company uses. [^8#be02-8]
+- Identify or determine whether each source is water-stressed.
+
+<div class="callout-note">
+**Indirect withdrawals (purchased from a third party)**
+
+For commercial and industrial water purchases, the company must gain an understanding of where the sourced water originates. This may involve directly asking the provider, along with performing desk research.
+
+Note that this goal does not apply to ancillary purchases of water for employee use, such as the purchase of drinking water (e.g. to replenish coolers in office spaces).
+</div>
+
+####### Assessing areas for water stress {-}
+
+A company should identify a location as water-stressed if either of the following is true: @Shi13
+
+- Baseline water stress, calculated as total water withdrawal[^9#be02-9]/ available renewable supply, is greater than 40%.
+- Annual renewable water supply per person is less than 17,000m<sup>3</sup>.
+
+Several tools are available to assess local water context.[^10#be02-10] Companies are free to use whichever tools are deemed to be most appropriate in each location, but must document which method they use, and why.
+
+<div class="callout-note">
+**Water _stress_ versus water _scarcity_**
+
+Note that different corporate water assessment tools and stewardship initiatives may have slightly different definitions for water _stress_ and the related concept of water _scarcity_. Companies should seek to understand what definition is being used when choosing a tool, as there is no universally agreed consensus. [This document](https://ceowatermandate.org/terminology/detailed-definitions/) compiled by the CEO Water Mandate may help to clarify the differences in terminology used across various groups. @Ceo19
+</div>
+
+<div class="callout-note">
+**A note on seasonal variability in water stress**
+
+There may be instances where a company operates in a region that is only water-stressed for part of the year. In such cases, companies should record water consumption on a monthly basis and determine which months correspond with a state of water stress.
+</div>
+
+###### Guidance on identifying liquid discharges {-}
+
+When working to identify the sources of water discharge, companies should extend their assessment to consider each of the following:
+
+- **Direct discharges:** The company discharges (treated or untreated) liquid waste directly into local waterways or soil.
+- **Indirect discharges:** Discharged liquid is managed by third parties (e.g. municipal wastewater treatment plants, local sewage infrastructure or private water service providers), where it is treated (or not) and then emitted back into nature (most often surrounding watersheds).
+- **Other forms of liquid waste:** These may include toxic or non-water-based liquids collected for treatment or containment, as well as wastewater which is reused or recycled, and thus never ends up emitted back into the environment.
+
+###### Guidance on identifying safe discharge characteristics {-#be02-guidance-on-safe-discharge}
+
+Differences between discharged water and the receiving water body could disrupt plants and animals in the water body itself, or disrupt communities and ecosystems that rely on that water body. To minimize such differences, companies must analyze and compare several characteristics in the water they are discharging and in the receiving water body.
+
+####### Determine the characteristics of the discharged water {-}
+
+- Identify the physical (e.g. dissolved solids, sediments, temperature), chemical (e.g. pH, nitrate, chloride, sulphate concentrations) and biological (e.g. bacterial, viral) characteristics of all water discharge.[^11#be02-11]
+- Identify the time delays between when water is withdrawn and when it is discharged, and whether these delays could adversely affect the quantities (and thus availability) of water in the relevant water body (or bodies).
+
+####### Ensure discharges meet benign water quality criteria {-}
+
+Companies should apply accepted general standards for what constitutes benign water quality to the treatment of their discharged water.
+
+The U.S. EPA [Water Quality Criteria](https://www.epa.gov/wqc/national-recommended-water-quality-criteria) offers three category lists – aquatic life, human health, and organoleptic effects (e.g. taste and odour) – defining thresholds of acceptability to ensure that discharged wastewater does not negatively impact any of these areas. @Usewn
+
+The EPA Water Quality Criteria offer a _minimum_ recommended standard for companies to reach.[^12#be02-12] However, given that water quality characteristics and concerns are highly location-dependent, companies are encouraged to work with local experts, public sector groups, NGOs or populations to understand the unique issues applicable to the specific watersheds they work in. In order to gain insight into these location-specific differences, companies are encouraged to take the following steps:
+
+- Identify the water bodies that ultimately receive the discharged water. If the company does not handle water discharge directly, this will involve contacting the relevant wastewater treatment provider to ask for information on their discharge points.
+- Identify any legal or regulatory requirements for water quality in the applicable jurisdictions. Companies might also engage with local stakeholders such as local NGO or academic groups to identify relevant quality concerns, and related parameters.[^13#be02-13]
+- Obtain water quality data for the receiving water bodies, and identify parameters of concern for those bodies.[^14#be02-14]
+
+- Identify parameters of concern based on differences in characteristics between water discharges and those of the receiving water body data. For example, if a receiving water body has a significantly alkaline pH, emitting pH-neutral water may be a cause for concern, even though it is harmless in other contexts.
+
+<div class="callout-note">
+**Temperature of receiving water bodies**
+
+The U.S. EPA requirements referenced above include [guidance on temperature](https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF) for water discharges.[^15#be02-15] @Uni86 This guidance includes very specific results from research on the impact of temperature changes on individual aquatic species, absolute thresholds to the range of acceptable discharge temperatures, and situation-specific guidance on the impact of discharges on both point-in-time and weekly-average temperatures of the receiving body. The key point is to recognize that aquatic ecosystems are sensitive to changes in temperature, and so water should be discharged at (or close to) the same temperature as the receiving body.
+
+As water is often used as a heat-sink in industrial processes, companies should also consider the potential impact on ecosystems when discharging _heat_ directly into water bodies, for example by running a pipe into a neighbouring water body in order to cool its contents without ever withdrawing or discharging water from it. In this regard, this goal overlaps slightly with the goal [**Operations do not encroach on ecosystems or communities**](#be08), and the same guidance should be applied in either case.
+</div>
+
+In the rare case that a company's research into its receiving water bodies indicates that it should _not_ follow the advice outlined in the EPA Water Quality Criteria referred to above, the company should document its reasoning with evidence for using a different approach.
+
+##### Fitness criteria {-}
+
+The following sections explain the fitness criteria for water consumption and discharge.
+
+###### Fitness criteria: water consumption {-}
+
+To be Future-Fit, for any water-stressed source the company must eliminate its contribution to that stress which occurs as a result of its [commercial or industrial activities](#be02-guidance-on-classifying-consumption). This can be achieved in one of three ways:
+
+- Achieving absolute reductions in water consumption;
+- Changing the timing or source of water consumption to a non-water-stressed period or location; or
+- Offsetting commercial or industrial water consumption from that source with _appropriate, local_ offsetting projects.[^16#be02-16]
+
+Note that if a company shifts the location or timing of its water consumption, it must examine whether the shift is likely to have an impact on the future state of a water source. For example, if a company operating in a seasonally water-stressed region decides to move all consumption to months of non-water stress in order to achieve future-fitness, it should determine whether this decision could have a negative impact on the future stability of the water source.
+
+###### Fitness criteria: water discharge {-}
+
+To be Future-Fit, the company must:
+
+- Verify that all water discharged is verifiably treated and returned to [safe discharge characteristics](#be02-guidance-on-safe-discharge) before it is emitted back into nature. All water discharges must be included, whether the company classifies them as [water discharge](#def-water-discharge), [effluent](#def-effluent) or [wastewater](#def-wastewater), and whether the company discharges that water itself, or whether it is managed and later discharged by third parties.
+
+### 3. Assessment {-#be02-assessment}
+
+#### 3.1 Progress indicators {-#be02-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has two progress indicators: one for water consumption and one for discharge.
+
+###### Water consumption due to commercial and industrial processes {-}
+
+To calculate progress with respect to water consumption, the following steps are required:
+
+- Identify each source of water that the company draws on, and assess it to determine if the related watershed suffers from water stress.
+- Determine the _total_ volume of water consumed by commercial and industrial processes during the reporting period.[^17#be02-17]
+- Determine the volume of commercial and industrial water consumption from sources that have been verified to _not_ suffer from water stress.
+
+The company's progress is calculated as the percentage of commercial and industrial water consumption that was not withdrawn from water-stressed sources.
+
+This can be expressed mathematically as:
+
+$$F=\frac{W_C}{W_{CT}}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$W_C$$ | Is the volume of commercial and industrial water consumption from sources that are _not_ suffering from water stress. |
+| $$W_{CT}$$ | Is the total volume of commercial and industrial water consumption during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be02-example).
+
+###### Water discharge {-}
+
+To calculate progress with respect to water discharge, the following steps are required:
+
+- Identify all water discharges and assess them against the safe discharge characteristics.
+- Determine the total volume of discharged water during the reporting period.[^18#be02-18]
+- Determine the volume of water with safe characteristics which was discharged.
+
+Fitness is calculated as the percentage of discharged wastewater which lives up to the fitness criteria.
+
+This can be expressed mathematically as:
+
+$$F=\frac{W_D}{W_{DT}}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$W_D$$ | Is the volume of discharged water which satisfies the fitness criteria. |
+| $$W_{DT}$$ | Is the total volume of discharged water during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be02-example).
+
+#### 3.2 Context indicators {-#be02-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Absolute water consumption and discharge {-}
+
+To supplement the progress indicators a company should also report the following:
+
+- Total volume of water consumed by commercial and industrial processes during the reporting period in areas which _are not_ water-stressed.
+- Total volume of water consumed by commercial and industrial processes during the reporting period in water-stressed areas.
+- Total volume of water discharged in the reporting period.
+- Brief narrative explanation of any estimation methods used to determine workers' personal use of water.
+
+The volumes of water withdrawal and discharge during the reporting period are required to establish company fitness, and as a result do not require additional data collection.
+
+For an example of how context indicators can be reported, see [here](#be02-example).
+
+### 4. Assurance {-#be02-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be02-assurance-why}
+
+Any company pursuing future-fitness will instill more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be02-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to ensure the company has identified all of the sources of water that it draws on. This information can help assurers to assess whether the company's approach runs the risk of failing to identify any water consumption in water-stressed areas, which could in turn cause the indicator calculation to be incorrect.
+- Document the equivalent steps used to ensure the company has identified all of the company's water discharge points. This information can help assurers to assess whether the company's approach runs the risk of failing to identify water discharges.
+- Document the methods used to determine whether water sources are in water-stressed areas and retain the working notes of these assessments. Assurers may evaluate the approach used to verify that the company has sufficiently addressed the risk of unknowingly drawing water from stressed regions.
+- Document the method used to calculate personal water use by employees. Details of the calculations – including any guidance from third-party sources referenced – should be retained for assurers who may use this information to ensure that the calculations are reasonable.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be02-additional}
+
+#### 5.1 Example {-#be02-example}
+
+###### Water consumption by commercial and industrial processes {-}
+
+ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The office consumes a total of 500,000 litres of water per annum, supplied by a utility provider that withdraws water from a river in a water-abundant area. The office has 50 employees, and using a regional NGO's guidance, the company estimates that they use 380,000 L over the course of the year. The office therefore uses 120,000 L for commercial and industrial processes.
+
+ACME's bottling plant is located in a water-stressed region. It withdraws 5,000,000 L per year directly from a local source, and supplements its needs by indirectly sourcing 5,000,000 additional litres from a supplier in a water-abundant area. The plant has 200 employees, who are estimated to consume 1,600,000 L of water over the course of the year. The plant therefore calculates its consumption for commercial and industrial purposes to be 8,400,000 L, which is withdrawn 50% each (4,200,000 L) from stressed and non-stressed regions.
+
+ACME also decides to locally offset 100,000 L of water through a rain-harvesting scheme at the bottling plant.
+
+The company calculates its progress as follows:
+
+$$F=\frac{W_C}{W_{CT}}=\frac{120,000+4,200,000}{120,000+4,200,000+4,100,000}=\frac{4,320,000}{9,500,000}\approx51\%$$
+
+####### Context indicators {-}
+
+- Total volume of water consumed by commercial and industrial processes during the reporting period in areas which _are not_ water-stressed **: 4,320,000 L**
+- Total volume of water consumed by commercial and industrial processes during the reporting period in water-stressed areas: **4,100,000 L**
+- Employee water use: "ACME calculates employee water consumption as 380,000 L and 1,600,000 L per year at the office and bottling plant respectively, based on guidance provided by _The Example Foundation_, a local knowledge leader in water use and scarcity."
+
+###### Water discharge {-}
+
+ACME Inc. works with the management company of the office it rents, and determines that it is responsible for the discharge of 10,000 L of water used in a heating system, all of which is treated by the municipal utility to an adequate standard.
+
+At the bottling plant, most of the water used ends up in its bottled beverages (and therefore is in the 'consumed' volume, above), some is consumed by employees (also included above) and the remainder is used, treated and discharged. The amount discharged annually is 350,000 L. Of this discharged water, the majority (305,000 L) met the [safe discharge characteristics](#be02-guidance-on-safe-discharge), but 45,000 L were discharged at an unacceptable temperature range during a period where the cooling system used by the company was not functioning properly.
+
+The company calculates its progress as:
+
+$$F=\frac{W_D}{W_{DT}}=\frac{10,000+305,000}{10,000+350,000}=\frac{315,000}{360,000}=88\%$$
+
+####### Context indicator {-}
+
+Total amount of water discharged: 360,000 L
+
+#### 5.3 Useful links {-#be02-useful-links}
+
+##### Alliance for Water Stewardship {-#be02-aws}
+
+The [Alliance for Water Stewardship Standard](http://www.allianceforwaterstewardship.org/aws-standard-system.html#aws-standard) is a globally consistent framework that defines a set of water stewardship criteria, indicators and steps for continual improvement at the watershed level.
+
+##### The Global Environmental Management Initiative {-}
+
+GEMI offers a free online [tool](http://gemi.org/localwatertool/) that outlines the steps to perform an assessment of water use on a per-facility basis.
+
+##### The Water Footprint Network {-}
+
+[The Water Footprint Network](http://waterfootprint.org/en/) has developed [The Global Water Footprint Standard](https://waterfootprint.org/en/water-footprint/global-water-footprint-standard/), an internationally accepted methodology for conducting a [Water Footprint Assessment](http://waterfootprint.org/en/water-footprint/water-footprint-assessment). @Hoe11
+
+##### UN Global Compact's CEO Water Mandate {-#be02-ceo-water}
+
+The [CEO Water Mandate](https://ceowatermandate.org/) is an initiative of the UN Global Compact. It offers a range of tools and information, ranging from business cases to detailed guidance on water accounting to case studies of businesses that have successfully implemented a wide range of water management projects. The organization also offers guidance and online tools to help companies identify water-stressed and high-risk watersheds.
+
+The CEO Water Mandate has created an online space for organizations looking to partner with other organizations on water projects in different areas: the [**Water Action Hub**](https://wateractionhub.org/).
+
+##### WRI's AqueDuct {-}
+
+Water scarcity is one of the defining issues of the 21st century. In its Global Risks 2013 report, the World Economic Forum identified water supply crises as one of the most impactful and likely risks facing the planet. With the support of a diverse group of partners, the World Resources Institute built [Aqueduct](http://www.wri.org/our-work/project/aqueduct/) to help companies, investors, governments, and communities better understand where and how water risks are emerging around the world. The centrepiece of Aqueduct is the [Water Risk Atlas](http://www.wri.org/applications/maps/aqueduct-atlas/). It uses a robust, peer reviewed methodology and the best-available data to create high-resolution, customizable global maps of water risk.
+
+##### WWF's Water Risk Filter {-}
+
+Launched in 2012, the [Water Risk Filter](http://waterriskfilter.panda.org/) has developed into a leading and trusted tool to help companies across the world assess their water risk.
+
+Designed to be easy to use by non-water experts, this is the only tool to assess both basin and operational water risk and provide customized guidance on how to respond. Covering all industries and countries, it has been used to assess more than 200,000 sites by over 3,000 users.
+
+#### 5.2 Frequently asked questions {-#be02-faq}
+
+##### Why are the fitness criteria focused on consumption in water-stressed areas? {-}
+
+The goal requires a company to eliminate water consumption in its commercial and industrial processes in any area that is currently water-stressed, in order to ensure a company does nothing to hinder progress towards a future where no ecosystems or communities are suffering from a lack of access to water. Where the balance between supply, demand, and accessibility is sufficient that an area is _not_ designated to be stressed, consumption of water (in a manner that does not encroach on aquatic ecosystems) is not seen as a problem in and of itself.
+
+This does not mean that companies should simply 'leave the taps on' if operating in areas of water abundance. Due to the complexity of water systems and the way that communities and ecosystems rely on them, companies are encouraged to practice [water stewardship](#def-water-stewardship) as a holistic approach to understanding and managing their organization's impact on and relationship with water use.
+
+##### When can water offsets be used to achieve future-fitness? {-#be02-what-is-offset}
+
+Offsetting should generally be considered a last resort, as it will always include a trade-off in time, place, or kind. At time of writing there is no widely agreed consensus on how to determine whether a particular offset project is good enough. For the purposes of this goal, a water offset project is only considered appropriate if it occurs within the same watershed _and_ the same month as the company's consumption.
+
+Examples of offsets which may be appropriate include reducing the consumption of others in the same watershed, or capturing water to replenish the same watershed. If a company uses water offsets, it must document the approach taken to verify their effectiveness.
+
+##### What is the difference between water discharge and liquid emissions? {-#be02-discharge-vs-liquid}
+
+[**BE02: Water use is environmentally responsible and socially equitable**](#be02) focuses on water-based discharge (often referred to as wastewater) that can be safely returned to watersheds once sufficiently treated. Treatment may be undertaken by a company itself or by third-party wastewater treatment infrastructure. In contrast, [**BE05: Operational emissions do not harm people or the environment**](#be05) encompasses liquid substances which are themselves contaminants – whether that be of air, soil or water. Liquid emissions that might escape into the environment – either intentionally or accidentally – and cannot be returned to a state of water, must be eliminated. The difference between wastewater and liquid emissions is nuanced, but the aim is the same: impact neutralization. Ultimately, the most important thing is for companies to capture data and assess progress consistently year on year.
+
+[^1#be02-1]: This does not mean that a company should 'leave the taps on' if located in an area of water abundance. A company should strive to be good stewards of water resources – see the _Definitions_ section for an explanation of '[water stewardship](#def-water-stewardship)'.
+
+[^2#be02-2]: Note that this encompasses all types of discharge that may be classified as either [water discharge](#def-water-discharge), [effluent](#def-effluent) or [wastewater](#def-wastewater).
+
+[^3#be02-3]: These questions were informed by the guidance offered by the [CEO Water Mandate](#be02-ceo-water) and the [Alliance for Water Stewardship](#be02-aws) standard.
+
+[^4#be02-4]: Note that while (non-water) liquid emissions and liquid operational waste are covered by other goals, they should be considered in parallel because the way they are generated and treated may overlap. See the [Related goals](#be02-related-goals) section for additional information.
+
+[^5#be02-5]: See the provided guidance on the [distinction between withdrawal and consumption](#be02-differentiating-water-withdrawal) of water.
+
+[^6#be02-6]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^7#be02-7]: Note that such workers would need to consume water for their personal use even if not at work. Although personal water consumption is not included in the Progress Indicator calculation, companies are encouraged to increase the efficiency of such water use wherever possible.
+
+[^8#be02-8]: In some regions water may be obtained primarily from groundwater such as aquifers; in others, it may come mainly from surface sources such as lakes or rivers.
+
+[^9#be02-9]: Note that 'total water withdrawal volumes' does not only relate to the company's own withdrawal volumes, but rather the total amount of water that is being removed from the source.
+
+[^10#be02-10]: See for example CEO Water Mandate's [Water Stewardship Toolbox](https://ceowatermandate.org/toolbox/).
+
+[^11#be02-11]: This echoes the language of the [Alliance for Water Stewardship](http://a4ws.org/wp-content/uploads/2017/04/AWS-Standard-Full-v-1.0-English.pdf), which requires that a company has _"appropriate and credibly measured data to represent the physical, chemical and biological status of the site's direct and outsourced water effluent by temporally relevant time unit."_ @All14
+
+[^12#be02-12]: Note that the guidance offered in these lists regarding concentrations of chemical substances in discharged water is consistent with that specified in the goal [**Products do not harm people or the environment**](#be17). The extra dimensions included here are temperature, pH, and the implications of otherwise benign aspects (timing of discharge, clarity of water, organic matter likely to impact oxygen levels) on biological systems.
+
+[^13#be02-13]: This is a specific requirement of the [Alliance for Water Stewardship](http://a4ws.org/), which states: _"where identification of the main water quality parameters of concern is not specified in legal requirements or mandates, it is largely left to the discretion of the site, with local stakeholders being the arbiters. The importance of stakeholder engagement in this regard is critical. This approach ensures that local water quality issues can be taken into account, while providing some level of oversight."_ @All14
+
+[^14#be02-14]: For example, in water bodies suffering from harmful algal blooms due to an excess of man-made nutrients, companies should ensure their discharge is treated to reduce levels of nitrogen or phosphorous. @All14
+
+[^15#be02-15]: The temperature guidance is in a separate document (hyperlinked in text, above) which is referenced in the main body of EPA guidance.
+
+[^16#be02-16]: Offsetting should generally be considered a last resort as it will always include a tradeoff in time, place, or kind. To minimize the extent of tradeoffs, offsetting projects must occur within the same place and time as the original consumption. The approach used to verify the effectiveness of such offsets must be documented. For more information about offsetting projects, see this [_frequently asked question_](#be02-what-is-offset).
+
+[^17#be02-17]: This should also include water from sources that have not yet been assessed, and which therefore cannot be verified to live up to all fitness criteria.
+
+[^18#be02-18]: This should also include any discharges that have not yet been assessed, and which therefore cannot be verified to live up to all fitness criteria.

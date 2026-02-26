@@ -1,0 +1,63 @@
+---
+output: github_document
+---
+
+# Bits {-#bits}
+
+Text goes here. Another bit on master!
+
+Example HTML table...
+
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th>H1</th>
+    <th>H2</th>
+    <th>H3</th>
+    <th>H4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="odd">
+    <td>R1C1</td>
+    <td>R1C2</td>
+    <td>R1C3</td>
+    <td>R1C4</td>
+  </tr>
+  <tr class="even">
+    <td>R2C1</td>
+    <td colspan="3">R2C2-4</td>
+  </tr>
+  <tr class="odd">
+    <td>R3C1</td>
+    <td>R3C2</td>
+    <td>R3C3</td>
+    <td>R3C4</td>
+  </tr>
+  <tr class="even">
+    <td colspan="2">R4C1-2</td>
+    <td>R4C3</td>
+    <td>R4C4</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+<div class="callout-note">
+**A note!**
+
+Here's a callout box for notes.
+</div>
+
+<div class="callout-tip">
+**A tip!**
+
+Here's a callout box for tips.
+</div>
+
+<div class="callout-warn">
+**A warning!**
+
+Here's a callout box for warnings
+</div>

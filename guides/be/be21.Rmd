@@ -1,0 +1,339 @@
+---
+output: github_document
+---
+
+## BE21: Tax {-#be21}
+
+<div class="subtitle">The right tax is paid in the right place at the right time
+</div>
+
+### 1. Ambition {-#be21-ambition}
+
+A Future-Fit Business commits publicly to a responsible tax policy, and works continuously to ensure that it lives up to this policy, across all its areas of business.
+
+#### 1.1 What this goal means {-#be21-what-goal-means}
+
+Governments require tax revenue to fund critical services upon which society and business depends. Companies have an obligation to their shareholders to be diligent in their approach to tax payments. This goal recognizes the fact that through taxation any company must also contribute to the infrastructure it utilizes and relies upon for its success (e.g. transport networks, legal system, healthcare, education, public utilities) and even its existence, meaning that these outcomes are not at odds with each other.
+
+To be Future-Fit, a company must: (a) commit publicly to a responsible tax policy; (b) adopt a transparent approach to tax reporting; and (c) not deliberately seek ways to obey the letter but not the spirit of regional tax laws.
+
+#### 1.2 Why this goal is needed {-#be21-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Though legal, tax avoidance strategies allow companies to circumvent paying their fair share.** Losses due to tax avoidance cost an estimated $100-240 billion annually, representing 4-10% of global corporate income tax revenues. @Oec15
+- **Taxation is a key contributor to the public's distrust of business.** 38% of 7,600 people surveyed across the G20 countries were distrusting of business leaders about tax. @Oec151
+- **Both developed and developing countries are vulnerable to tax losses through profit shifting.** Revenues from multinational companies are particularly important to government budgets in developing countries – where they represent 10% of total government revenues – compared to 5% in developed countries. @Uni15
+
+#### 1.3 How this goal contributes to the SDGs {-#be21-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may help to drive progress with respect to all SDGs by paying the right tax in the right place at the right time. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 9](assets/sdg/sdg-9.svg) | Support government efforts to develop quality, reliable, sustainable and resilient infrastructure. |
+| ![SDG 10](assets/sdg/sdg-10.svg) | Support efforts to eliminate discriminatory laws, policies and practices and promote appropriate legislation, policies and action. |
+</div>
+
+#### 1.4 Related goals {-#be21-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Lobbying and corporate influence safeguard the pursuit of future-fitness:**](#be22) The _Right tax_ goal applies to the design and function of the internal controls a company applies to its tax preparation and payments. The _Lobbying_ goal has the potential for overlap, particularly in large or complex organizations that have ongoing touchpoints with tax authorities on taxation issues. Any participation in groups or payment towards organizations seeking to effect change in tax law fall under the _Lobbying_ goal, while the approach and execution of tax payments are covered by this goal.
+
+### 2. Action {-#be21-action}
+
+#### 2.1 Getting started {-#be21-getting-started}
+
+##### Background information {-}
+
+The challenge with defining the 'right tax' is that there are often multiple ways for companies to organize themselves and legally pay taxes, which can result in significantly different payable amounts. Companies must grapple with discerning which opportunities governments have _intentionally_ created to foster economic activity, and which are _unintentional_ oversights, if they are to identify how to pay their fair share.
+
+Some individuals and companies work to reduce their payable amounts through any route possible, and governments respond by working to close unintended gaps in legislation and coordinate across national boundaries to adapt to an increasingly global set of taxpayers. The constantly evolving landscape means that companies must embrace clear guiding principles and supporting controls to ensure that they are appropriately navigating ongoing changes in national and international tax laws.
+
+The long-term vision is to increase and simplify the exchange of information between tax authorities and companies, with a view to fostering trust between them and the general public, and to reduce the risk of unforeseen tax liabilities or negative press caused by misunderstandings or a lack of transparency.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Does the company have an explicit policy relating to how it pays taxes? {-}
+
+- Is the primary goal to minimize the amount paid? Or to ensure that the company is compliant? Has the goal been articulated, either internally or publicly?
+
+###### Are tax opportunities a driving motivation in the company's strategy? {-}
+
+- How do tax considerations factor into planning strategies for how the company structures contracts and organizes its operations? Does the company seek out opportunities to use tax conditions as a competitive advantage? Or do operational decisions influence tax outcomes?
+
+###### Is the company an individual firm or part of a corporate group? {-}
+
+- If it is part of a larger group, how does it interact with other group entities? What types of goods or services are exchanged with other group members? Are such transactions undertaken and priced at least in part to reduce the tax burden of the group as a whole?
+
+###### Does the company operate in multiple jurisdictions? {-}
+
+- If so, what functions are performed in the respective regions? What operational activities and sources of revenue exist in each? Are these reflected in the way the company structures it tax payments?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the biggest opportunities and risks to the company in how it pays tax? {-}
+
+- Does the company have transactions involving intangible assets or services that occur between group members or across borders (e.g. the licensing of intellectual property)? These are difficult tax topics which risk being challenged by tax authorities.
+- Does the company have part-time employees, consistently work with contractors, or rely on partners to represent them in foreign markets? Interpretations of who is an employee and who is not can impact the jurisdiction the company legally resides in, and whether employment taxes apply.[^1#be21-1]
+- Does the company have the in-house expertise to understand current tax legislation in the jurisdiction(s) it occupies? Is it aware of upcoming changes to tax laws and their implications?
+
+###### How difficult are the changes needed to adjust to those opportunities? {-}
+
+- For any risk areas identified, does the company have the agency to change the related contracts or conditions, or could it seek to do so at some future point?
+- In order to address risks or capitalize on opportunities, what types of changes must be made? Does the company need to address employment terms, shift the areas it operates in, or reallocate its capital budget? Who would be required to assess, enact and approve these changes? What would be required in terms of time and cost?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^2#be21-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be21-pursuing}
+
+##### Introduction {-}
+
+In theory, the actual tax paid by a company should closely resemble the statutory rates wherever it operates, but there are many reasons why the two might diverge, such as government incentives and permissible write-offs. It is therefore extremely difficult to assess whether the actual amount of tax paid in any given jurisdiction and year is 'right'. The approach taken here is to evaluate the company's _commitment_ to paying the right tax, as embodied in the concrete steps it takes to implement tax policies, and its ability to demonstrate that its actions align with those policies. This echoes the guidance of the [Fair Tax Mark](#be21-fair-tax-mark) and the [Base Erosion and Profit Shifting (BEPS)](#be21-beps) project.
+
+##### Fitness criteria {-}
+
+###### Criteria for tax policies and transparency {-}
+
+Every company should work towards the following criteria in order to increase trust inside and outside the company in its commitment towards – and success in – paying the right tax in the right place at the right time.
+
+####### Public commitment and adherence to tax policies {-}
+
+The company should publish a tax strategy, commit to sound policies, and ensure that they are followed:
+
+- The company should publish its official (board approved) tax strategy, either as part of its published financials or on an easily identifiable company website.
+
+The strategy and any associated policies should make reference to:
+
+- Committing to declare profits in the place and form of their economic substance.
+- Not using marketed or abusive tax avoidance schemes.
+- Not establishing a presence in tax jurisdictions that offer a zero or low rate of taxation for non-commercial reasons (i.e. for the primary purpose of minimizing tax payments).
+- Aligning with the OECD's [Base Erosion and Profit Shifting](#be21-beps) principles (only for multi-national companies).[^3#be21-3]
+- Applicability to both direct taxes (such as corporate income tax) as well as indirect taxes (including payroll taxes, taxes on distributions, sales or value-added taxes, trade tariffs, etc.).
+- A publicly-named board director who is designated as responsible for compliance with its tax policy.
+
+The company should monitor its compliance with its tax strategy, and:
+
+- The assessed compliance is discussed internally by company officers accountable for tax strategy and compliance (senior management, the board of directors, or associated board committees as appropriate).
+
+####### Enhance transparency {-}
+
+The company should work to add each of the following aspects to its tax reporting:
+
+- The company should make its full financial statements freely available to the public, regardless of its legal obligation to do so.
+- The company should make the nature of its business clear, either as part of its published financials or on an easily-identifiable company website.
+- The company should include its trading address (or confirm that it is the same address at which it is officially registered) either as part of its published financials or on an easily-identifiable company website.
+- The company should disclose who the ultimate beneficial owners[^4#be21-4] are of all shareholdings comprising 10% or more of the company, either as part of its published financials or on an easily-identifiable company website.[^5#be21-5]
+
+####### Clarity on taxes paid {-}
+
+The company should describe the amount of taxes paid within a given period relative to the 'headline' corporate tax rate in applicable jurisdictions:
+
+- The company should provide a numerical reconciliation of its current tax charge to the amount that would be expected given the applicable rate and company profits.
+  - The reconciliation should include any timing differences, including the use or creation of deferred taxes and any other amounts that make up the difference.[^6#be21-6]
+  - When applicable, the company should provide a note detailing deferred tax items giving precise descriptions for what they are, and stating clearly when such assets or liabilities are likely to have an impact on the company's tax bill (or a statement that this is not known because it is expected to be more than five years after the balance sheet date).
+- The company should provide a narrative explanation to give context for the differences between the expected and actual rate.
+
+####### Country-by-country reporting (for multi-national enterprises only) {-}
+
+For companies operating in multiple countries, additional information should be provided to give clarity on how economic activity relates to the amount of tax paid in each region.
+
+- The company should disclose a full list of active subsidiary companies, stating their name, general function, place of incorporation, and the country of tax residency (if different from the place of incorporation).
+- The company should disclose data on the gross asset value of each subsidiary, or provide the aggregated total investment for each country in which it operates.
+- The company should disclose data on each subsidiary's total revenues for the period, or provide the aggregated total revenues for each country in which it operates.
+- The company should disclose data on each subsidiary's net income or loss for the period, or provide the aggregated totals for each country in which it operates.
+- The company should disclose the tax charge for each subsidiary for each trading period (including current and deferred taxes), or present aggregated totals for each country in which it operates.
+- The company should disclose the average number of employees each subsidiary engages for each period, or an aggregated average for each country in which it operates (in either case, a note should be provided describing the method used to calculate this figure).
+
+### 3. Assessment {-#be21-assessment}
+
+#### 3.1 Progress indicators {-#be21-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has one progress indicator. To evaluate the company's progress on this indicator, complete the evaluation tables on the following pages. For each of the elements identified in the tables, companies must:
+
+- Respond to the questions posed;
+- Award the point totals indicated for each affirmative answer;
+- Calculate point subtotals for each section;
+- Calculate the percentage indicator for the goal by dividing the total points scored by the total points available across all applicable sections.
+
+Note that companies operating in multiple countries have additional indicator requirements that are _not_ applicable to companies which only have a taxable presence in a single country.
+
+####### Tax policy, implementation and compliance {-}
+
+<div class="table-85 table-blue">
+| **Criteria** | **Points** |
+|:-|:-:|
+| 1. Does the company have a tax policy published either on its web site or referred to in its financial statements? | /1 |
+| 2. Has the company appointed a named director to have responsibility for its tax policy? | /1 |
+| 3. Does the tax strategy statement refer to: | |
+| a) seeking to declare profits in the place and form of their economic substance? (or equivalent) | /1 |
+| b) not using marketed or abusive tax avoidance schemes? | /1 |
+| c) not using low or no-tax jurisdictions for the primary purpose of minimizing taxes? (_**MNEs only**_) | ( /1) |
+| 4. Does the company assess its effective compliance with this policy and is this referred to in its financial statements? | |
+| a) the company assesses its compliance with its stated tax policy, and the results are discussed internally | /1 |
+| b) external assurance on policy compliance is obtained from an independent third party | /1 |
+| c) the company discloses its assessment, including appropriate explanations on how the outcome was determined, and future steps needed to improve its performance | /1 |
+| **TAX POLICY AND COMPLIANCE SUBTOTAL** (single-country companies) | **/7** |
+| **TAX POLICY AND COMPLIANCE SUBTOTAL** (MNEs) | **/8** |
+</div>
+
+####### Transparency {-}
+
+<div class="table-85 table-blue">
+| **Criteria** | **Points** |
+|:-|:-:|
+| 5. Does the company publish full (i.e. non-abbreviated) financial statements even if not required to do so by law? | /1 |
+| 6. Is there clear evidence of what the company does either within its accounts or on an easily identifiable website that it runs? | /1 |
+| 7. Is a trading address listed – or a statement provided confirming that the trading address is the same as the address at which the company is officially registered – in the financial statements or on an easily identifiable website that the company runs? | /1 |
+| 8. Is it clear who the ultimate beneficial owners of all shareholdings of more than 10% in the company are either from disclosure in the financial statements or via a publicly available government registry? | /1 |
+| **TRANSPARENCY SUBTOTAL** | **/4** |
+</div>
+
+####### Tax rate and disclosure {-}
+
+<div class="table-85 table-blue">
+| **Criteria** | **Points** |
+|:-|:-:|
+| 9. a) Does the company provide a numerical tax reconciliation of its actual current tax charge to the amount determined by applying the headline corporate tax rate to the profits of the company in the reporting period? | /1 |
+| b) Does the company then reconcile its current tax charge with its total tax charge for the year by offering a reconciliation that explains the deferred tax provision for the year and other items that make up the difference? | /1 |
+| 10. Does the company provide a narrative explanation as to why its current tax charge differs from the amount determined by applying the headline corporate tax rate to the profits of the company in the reporting period? | /1 |
+| 11. Does the company provide a deferred tax note that: explains the balance of those assets or liabilities with significant precision so that the cause of at least 75% of the asset or liability is clearly described, and when they are likely to be used? | /1 |
+| **TAX RATE AND DISCLOSURE SUBTOTAL** | **/4** |
+</div>
+
+####### TOTAL {-}
+
+<div class="table-85 table-blue">
+| | |
+|:-|:-:|
+| **TOTAL for companies operating within one country** (single-country companies) | **/15** |
+| **TOTAL for multi-national enterprises** (MNEs) | **/16** |
+| **PERCENTAGE TOTAL** | ___**%** |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be21-example).
+
+#### 3.2 Context indicators {-#be21-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Country-by-country reporting (for multi-national enterprises only) {-}
+
+For companies which have a taxable presence in multiple countries, the following additional table should be completed, and their score reported.
+
+<div class="table-85 table-blue">
+| **Criteria** | **Points** |
+|:-|:-:|
+| 12. a) Does the company disclose a full list of subsidiary companies stating their name and place of incorporation? | /1 |
+| b) Is the country of tax residence of each subsidiary disclosed, if different from place of incorporation? | /1 |
+| 13. a) Does the company either disclose data on the net asset value or equity invested in each subsidiary, or as a consolidated total for each country in which it operates? | /1 |
+| b) Is the data on total revenues for the period provided for each of its subsidiaries, or as a consolidated total for each country in which it operates? | /1 |
+| c) Is data on either the net income or loss for the period provided for each of its subsidiaries or as a consolidated total for each country in which it operates? | /1 |
+| 14. Does the company either disclose the current tax charge made by each subsidiary for each trading period or as a consolidated total for each country in which it operates? | /1 |
+| 15. Does the company either disclose the average number of employees each subsidiary engages for each period together with a note on the basis of calculation used, or as a consolidated total for each country in which it operates? | /1 |
+| **COUNTRY-BY-COUNTRY REPORTING TOTAL** (single-country companies) | **/7** |
+| **PERCENTAGE TOTAL** (MNEs) | ___**%** |
+</div>
+
+For an example of how context indicators can be reported, see [here](#be21-example).
+
+### 4. Assurance {-#be21-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be21-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be21-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Provide a copy of the document where the company has published its tax policy. This can help assurers to verify that it has been made public, and that the policy is compliant with the fitness criteria.
+- Retain the working notes and any additional detail pertaining to the tax reconciliation performed by the company between the headline corporate tax rate and taxes paid in applicable jurisdictions. This can help assurers to verify that the presentation of information accurately represents the reasons for any differences in a manner that is understandable and useful.
+- For companies with a taxable presence in multiple countries, provide a copy of the document where the company has published a list of all subsidiary companies, including the name, place of incorporation, and tax residence of each subsidiary. This can help assurers to verify that these specific criteria from the context indicator are met, and can provide a useful basis for understanding the international footprint of the company's tax presence.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be21-additional}
+
+#### 5.1 Example {-#be21-example}
+
+ACME Inc. sells lemonade products in country A and country B. The company has scored itself according to the tables above, and totals 6/8 for 'Tax policy, implementation and compliance', 3/4 for 'Transparency', and 3/4 on 'Tax rate and disclosure'. Since the company is multi-national, ACME Inc.'s progress is described as 12/16, or approximately 75%.
+
+BETA Co. sells iced teas in country A. Having also completed the scoring table, BETA Co. scores 5/7 for 'Tax policy, implementation and compliance', 2/4 for 'Transparency', and 4/4 on 'Tax rate and disclosure'. Since the company only operates in one country, the BETA's progress is described as 11/15, or approximately 73%.
+
+**Context indicator**
+
+As a multinational, ACME also applies the context indicator, and scores 2/7 (approximately 29%) on the 'Country-by-country reporting' table.
+
+Country-by-country reporting &asymp;29%
+
+#### 5.2 Frequently asked questions {-#be21-faq}
+
+##### How does this relate to Base Erosion and Profit Shifting (BEPS) principles? {-#be21-beps-principles}
+
+Differences between tax laws of jurisdictions in which a company operates can lead to opportunities for the company to pay its taxes in multiple ways that adhere to the laws as written, but result in different totals. This occurs when companies are able to make income deductions in multiple jurisdictions for the same reason (double non-taxation), or to structure intra-group transactions giving rise to a deduction in one jurisdiction without an offsetting tax inclusion in the other. @Oec171
+
+Governments have a responsibility to address their legislation to prevent abuse, and participant countries in the OECD, the [UN Committee of Experts in International Cooperation in Tax Matters](http://www.un.org/esa/ffd/tax-committee/tc-ta-tax-cooperation.html) and others are actively working to address weaknesses. That process is likely to remain a continual work in progress as economies, countries, and corporate business models evolve over time. Companies can commit to doing their part in refraining from actively structuring their businesses and transactions for the primary purpose of gaining a tax advantage.
+
+For these reasons, companies operating in multiple tax jurisdictions must commit to the following principles from the [BEPS framework](http://www.oecd.org/ctp/beps/):
+
+- Limit use of tax jurisdictions that offer _a zero or low rate of taxation_, and those with minimal legal or transparency requirements, except where (and only to the degree that) there is a commercial reason to operate there, beyond the tax benefits.
+- Eliminate superficial use of _hybrid mismatches_[^7#be21-7] in cases where the arrangement does not reflect economic reality.
+- Avoid abusing _controlled foreign company (CFC)_ rules, including superficially shifting ownership of mobile assets or income streams between controlled companies for the primary purpose of gaining a tax advantage.
+- Do not manipulate debt levels or abuse tax treatment of interest deductions or other intra-group _financial payments_ by creating arrangements or terms of arrangements that would not be undertaken with an arm's-length third party.
+- Do not participate in _treaty abuse_ or '_treaty shopping'_ by attempting to benefit from tax treaties where the company is not a resident in the covered jurisdictions, or by attempting to avoid a treaty where it is a resident of a participating jurisdiction.[^8#be21-8]
+- Do not artificially avoid _permanent establishment (PE)_ status by creating circumstances to intentionally avoid the legal criteria resulting in PE classification[^9#be21-9], while still conferring the same benefits and risks of PE.
+- Align _transfer pricing rules_ with value creation, ensuring that the terms and valuation of transactions between controlled companies are in line with comparable transactions between independent third-parties, or when accurate comparisons are not possible, allocate value between group members based on services performed, assets provided, risk incurred, and costs covered by the entities involved.
+
+Note that the objective of these criteria is to limit cases in which tax advantages arise from classifications that don't represent the economic reality.
+
+#### 5.3 Useful links {-#be21-links}
+
+##### OECD BEPS Action Plan {-#be21-beps}
+
+The [BEPS Action Plan](http://www.oecd.org/ctp/beps.htm) was adopted by the OECD and G20 countries in 2013. Amongst other actions it recommends that countries require companies to conduct [country-by-country reporting](https://www.oecd.org/ctp/transfer-pricing/beps-action-13-country-by-country-reporting-implementation-package.pdf) and disclosure to the relevant tax authorities.
+
+##### The Fair Tax Mark {-#be21-fair-tax-mark}
+
+The [Fair Tax Mark](http://www.fairtaxmark.net/) is a UK non-profit that has created a Fair Tax benchmark, with a corresponding [set of criteria](http://www.fairtaxmark.net/criteria/) for UK-owned multinational companies, as well as companies trading solely in the UK.
+
+
+[^1#be21-1]: For additional guidance on how to classify employees see the [**Implementation Guide**](#ig-determining-employee).
+
+[^2#be21-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^3#be21-3]: Specific examples and descriptions of BEPS principles directly applicable to corporations are provided under [_Additional information_](#be21-beps-principles).
+
+[^4#be21-4]: Disclosure of ultimate beneficiaries is often associated with anti-money laundering and anti-terrorist financing objectives, but also has implications for the taxation of types of organization (partnerships, trusts) which are taxed at the beneficiary level, rather than as an entity directly.
+
+[^5#be21-5]: In cases where the company's ownership structure makes this goal impractical (e.g. a cooperative with ownership split between hundreds of members, or when shareholding does not equate to ownership), the company should offer a clear description of its ownership structure, and the reasons why the expected disclosure is not appropriate or possible.
+
+[^6#be21-6]: As much as possible, reconciling items in both parts of this process should be precisely described (e.g. using such phrases as 'The impact of capital allowance claims' or 'Reduced tax owing on capital gains arising', instead of less informative generic terms such as 'Other' or 'Losses').
+
+[^7#be21-7]: _Hybrid mismatches_ arise when a company operates in two tax jurisdictions which treat the same tax situation in different ways. Examples of hybrid mismatches include differences in classification of taxable entities, jurisdictions with different residency criteria, financial instruments taxed differently across jurisdictions, and transfers (contracts or transactions) with different tax rules. @Oec171
+
+[^8#be21-8]: Specific examples include setting up dividend transfer transactions to take advantage of lower withholding taxes, actions to avoid treaties allowing source taxation of fixed or immovable property, actions taken primarily to take advantage of tax exemptions based on residency, and superficial transfers or arrangements to gain tax advantage within a company or between related companies operating in two countries with a tax treaty. @Oec171
+
+[^9#be21-9]: Including situations where a company does business in a country through a technically independent entity, but where that entity habitually concludes contracts on behalf of the company without material modification from the company itself, or where the entity works exclusively (or almost exclusively) for the company, meaning in both cases that despite technical independence, they are in essence operating as part of the company. @Oec171

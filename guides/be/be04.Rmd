@@ -1,0 +1,487 @@
+---
+output: github_document
+---
+
+## BE04: Procurement {-#be04}
+
+<div class="subtitle">Procurement safeguards the pursuit of future-fitness
+</div>
+
+### 1. Ambition {-#be04-ambition}
+
+If any activity in a company's supply chains results in a negative impact, then the company is contributing to and potentially perpetuating that impact – and thus hindering progress toward a Future-Fit Society.
+
+A Future-Fit Business therefore seeks to reduce – and eventually eliminate – any negative environmental and social impact caused by the goods and services it depends upon, by continuously striving to anticipate, avoid and address issue-specific hotspots in its supply chains.
+
+#### 1.1 What this goal means {-#be04-what-goal-means}
+
+Every company relies to some extent upon goods and services procured from other organizations, which are collectively referred to as suppliers. Common examples include energy, water, computers, transport, machinery, furniture, accounting services, and materials required to make products.
+
+All companies are mutually accountable[^1#be04-1] for the environmental and social impacts caused by the production and delivery of the goods and services they depend upon. Only when a company has effectively avoided or addressed such negative impacts can it consider itself to be Future-Fit.
+
+This goal requires a company to implement policies and procedures that continuously seek to increase the future-fitness of its purchases, with a particular emphasis on anticipating, avoiding and addressing issue-specific supply chain hotspots.
+
+To be Future-Fit, a company must: (a) have policies and processes in place that enable it and its employees to anticipate where negative supply chain impacts are likely to occur; (b) avoid them where possible; and (c) take measurable steps to address concerns that arise.
+
+#### 1.2 Why this goal is needed {-#be04-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Procurement practices typically focus on identifying the most cost-effective and efficient means of acquiring goods and services, sometimes at the expense of environmental or safety concerns.** A Trucost study found that of the $2.15 trillion of environmental damage caused by the world's largest 3,000 companies annually, 49% came from impacts hidden within their supply chains. @Sal12
+- **The scarcity of some natural resources results in extraction practices that undermine future-fitness.** For example, a popular type of granite comes from only one district in India, where debt bondage, child labour and unsafe conditions for workers are prevalent issues. @Hod17
+
+#### 1.3 How this goal contributes to the SDGs {-#be04-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may help to drive progress with respect to all SDGs by striving to make their procurement activities Future-Fit, and actively encouraging their suppliers to do the same. The most direct links with respect to this goal, however, will depend on the unique characteristics of each company's supply chains.
+
+#### 1.4 Related goals {-#be04-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+While Future-Fit Break-Even Goals focus on what a company itself can control, their intent is to eliminate all negative externalities for which the company is wholly or mutually accountable, across its value web. Procurement is a critical part of this: while a company cannot fully control the activities of its suppliers, it can and must continuously work to improve the operational future-fitness of those suppliers, all the way down to the extraction and management of natural resource inputs.
+
+- [**Natural resources are managed to respect the welfare of ecosystems, people and animals:**](#be03) The _Natural resources_ goal applies to companies that are directly involved in harvesting or extracting natural resources, either for sale or for use in their own operations. The _Procurement_ goal applies when companies aren't involved with these processes directly, instead relying on suppliers for the natural resources they use.
+- [**Water use is environmentally responsible and socially equitable:**](#be02) Company reliance on water for operational use is covered by the _Water use_ goal. The ways in which water suppliers manage social and environmental impacts, and the ways in which other suppliers manage their water needs, are covered by the _Procurement_ goal.
+- [**Energy is from renewable sources:**](#be01) Company reliance on energy for operational use is covered by the _Energy_ goal. The ways in which energy suppliers manage social and environmental impacts, and the ways in which other suppliers manage their energy needs are covered by the _Procurement_ goal.
+
+### 2. Action {-#be04-action}
+
+#### 2.1 Getting started {-#be04-getting-started}
+
+##### Background information {-}
+
+As explained in the [**Methodology Guide**](#mg-mutually-accountable), every company is _mutually accountable_ for any impact beyond its own four walls, to the extent that the impact is a consequence of the company's existence.
+
+In terms of procurement, this means not relying on goods and services which themselves hinder society's progress toward future-fitness. The exact requirements vary depending on the type of purchase, as follows:
+
+- **Outsourced core functions:** When a company outsources any activity that it would otherwise have to undertake itself (e.g. customer support, manufacturing, logistics) it effectively also outsources all negative impacts associated with that activity. Companies are thus mutually accountable for addressing the negative operational impacts of those suppliers to whom they outsource core functions. All negative impacts caused by suppliers of outsourced core functions must eventually be eliminated.
+- **Product inputs:** No company can produce physical goods – or offer services whose delivery involves the _consumption_ of such goods – without relying on product inputs: raw materials, manufactured parts, finished goods, etc. Mutual accountability demands that companies work to eliminate all cradle-to-gate impacts caused by the provision of their product inputs.[^2#be04-2] All negative impacts associated with the creation and delivery of the company's product inputs must eventually be eliminated.
+- **Ancillary purchases:** This encompasses three types of purchase. First, services that a company uses from time to time (e.g. consultancy, taxis, flights and hotels for business travel). Second, general goods consumed in the course of day-to-day operations (e.g. office supplies, cleaning products). Third, purchased or leased capital assets that support day-to-day activities (e.g. buildings, IT equipment, machinery, furniture). A company can generally source such inputs on a like-for-like basis from a range of suppliers, but its influence over any one of them is likely to be negligible. In this case, mutual accountability extends to selecting the best option available.
+
+<div class="callout-note">
+**How to categorize energy and water inputs**
+
+For the purpose of this goal, energy and water inputs should be treated as ancillary purchases, unless there is good reason to think of them as product inputs. If this is the case, a company can choose to classify them as such.
+</div>
+
+Traceability of business inputs – and their resulting impacts – can be a significant challenge. Critical information might be buried upstream in the supply chain, or it may be that suppliers are simply reluctant to offer these details. As a result, improving supply chain future-fitness demands significant and ongoing effort from the company, and cooperation from its vendors.
+
+A company can begin this process by identifying the goods and services it relies on, examining the issues most likely to arise, and determining whether any of those negative impacts are indeed occurring. Once that is understood, the company can begin to improve its performance by working with suppliers to avoid or address those issues.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### If the company makes goods – or offers services which require physical goods to be consumed – what product inputs go into those goods? {-}
+
+- What kinds of product inputs are used to create and deliver the company's products? Do these inputs themselves consist of a complex blend of ingredients/materials?
+- Who supplies these inputs, and where do the suppliers get _their_ inputs from? Do suppliers sub-contract parts of their own manufacturing to third parties?
+- Where are the operations of the company's direct suppliers located? Where do they source their materials from? Are these regions known for any environmental or labour issues?
+- What raw materials go into making the product inputs? Does the company know where and how these resources are harvested, fished, hunted, reared or mined?
+- How are the company's products made? Does final production take place in-house, or is it outsourced to third parties? If it's outsourced, what regulations or standards are those vendors subject to?
+- Does the company know what social and/or environmental impacts might occur at the various stages of its product inputs' lifecycles? How do these change during raw material production, interim processing, or transport?
+- What are the steps required to become a supplier to the company? Do prospective suppliers need to fulfil any criteria regarding their social or environmental performance? Do vendors sign a code of conduct, provide proof of minimum performance, or accept occasional audits?
+
+###### Does the company outsource any core functions? {-}
+
+- Does the company outsource any operational activities that are critical to its business, and that it would otherwise have to undertake itself (e.g. manufacturing, customer call centres)? Who provides those functions, and where and how are they delivered?
+- What does the company gain from having these functions performed by external parties? What are the trade-offs in giving up control over these functions?
+- Does the company know what social and/or environmental impacts might occur as a result of the supplier delivering the function?
+
+###### Which ancillary goods and services does the company purchase to support its operations? {-}
+
+- Is the company aware of any social and/or environmental risks associated with the production and use of these goods and services?
+- Do suppliers of such goods and services need to fulfil any criteria regarding their social or environmental performance?
+- Does the company have policies in place to ensure that it uses certified sources for goods where possible (e.g. FSC-certified wood and paper)?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the best opportunities for making progress? {-}
+
+- What kinds of purchases does the company make the most often? What does it purchase in the largest quantities? What categories make up the biggest portions of its overall spend? Small changes to such purchases could significantly affect both the impacts caused, as well as the company's progress toward future-fitness.
+- How often does the company review or renew procurement contracts? Are any up for reappraisal in the near future? Contract renewals offer opportunities to incorporate more stringent social and/or environmental criteria into sourcing decisions.
+- Which goods and services purchased by the company are most likely to have negative social and/or environmental impacts? Are these impacts due to a lack of regulation in the region from which they are sourced, industry-specific challenges, or a lack of supply chain transparency and/or traceability? Which of these pose the biggest reputational risks to the company? Could any of these impacts cause other risks, such as to the continuity of supply of critical product inputs?
+- Have research institutions, industry bodies, government authorities or others raised concerns about specific social and/or environmental problems relating to the production or use of the types of goods that the company relies upon?
+
+###### Does the company have processes in place to anticipate, avoid and address supply chain hotspots? {-}
+
+- If so, are these likely to be sufficient to eliminate or significantly reduce any negative social or environmental impacts that result from the company's purchases over time?
+- If not, how might processes like these be embedded? Whose authorization would be needed? Which individuals or teams would need to be involved to design and implement these processes, and what incentives would be required to ensure their adoption?
+
+###### What are the best ways to make immediate progress? {-}
+
+- Are there existing selection criteria or questionnaires for new suppliers that the company could integrate social or environmental considerations into? Could those considerations be integrated into bid requests or proposals for contracts that are put out to tender?
+- Are there clear opportunities to switch certain purchases from uncertified to certified sources?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^3#be04-3] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be04-pursuing}
+
+##### Introduction {-}
+
+For a company's procurement processes to be Future-Fit, all purchases of product inputs, outsourced core functions, and ancillary purchases must be assessed to determine possible negative impacts. Furthermore, policies must be implemented to avoid those impacts where possible, and steps must be taken to address any that cannot be avoided.
+
+###### Guidance on performing hotspot assessments {-#be04-hotspot-assessment}
+
+To anticipate the negative impacts that its procured goods and services could be contributing to, a company must develop a thorough understanding of the size, nature and complexity of its supply chains. All product inputs, outsourced core functions and ancillary purchases should be subject to hotspot assessments, to identify any activity that may undermine progress toward the 8 Properties of a Future-Fit Society, namely:[^4#be04-4]
+
+- **Energy** is renewable and available to all;
+- **Water** is responsibly sourced and available to all;
+- **Natural resources** are managed to safeguard communities, animals and ecosystems;
+- The environment is free from **pollution;**
+- **Waste** does not exist;
+- Our **physical presence** protects the health of ecosystems and communities;
+- **People** have the capacity and opportunity to lead fulfilling lives; and
+- Social norms, global governance and economic growth **drive** the pursuit of future‑fitness.
+
+[Figure 1](#be04-figure-1) offers a list of common issues to consider in each area. Particular scrutiny should be given to types of impact whose likelihood is higher depending on geographical, industry-specific, and resource-specific risks. For example:
+
+- Is a highly water-intensive agricultural input sourced from a water-stressed region?
+- Is an outsourced 24-hour customer services function being run in a country with limited regulatory protection for employee rights?
+- Are resources like office paper and palm oil, which may contribute to deforestation, being purchased from uncertified sources?
+
+<div class="ff-figure" id="be04-figure-1">
+Figure 1: A list of common hotspot issues by area of impact.
+</div>
+
+<div class="table-20 table-blue">
+| Issue area | Common hotspots |
+|:---:|:---|
+| **Energy** | Energy-intensive processes which are likely to:<br/>- Rely on non-renewable energy<br/>- Prevent others from meeting energy needs |
+| **Water** | Water-intensive processes which are likely to:<br/>- Rely on water from water-stressed sources<br/>- Prevent others from meeting water needs |
+| **Natural resources** | Reliance on natural resources, whose sourcing contributes to the following:<br/>- Loss of biodiversity<br/>- Depletion of renewable resources<br/>- Armed conflicts<br/>- Poor treatment of animals<br/>- Physical degradation of the environment<br/>- Diversion of agricultural crops to energy feedstock |
+| **Pollution: GHGs** | GHG-intensive processes |
+| **Pollution: Other harmful emissions** | Harmful emissions into air, land and water, including:<br/>- Gaseous toxins and air pollutants (e.g. VOCs, NOx)<br/>- Ozone depleting substances<br/>- Substances that build up in nature<br/>- Scarce metals (e.g. Cadmium and lead)<br/>- Untreated or insufficiently treated wastewater<br/>- Harmful chemicals (e.g. fertilizer run-off, harmful pesticides) |
+| **Waste** | Processes which result in large amounts of waste generation |
+| **Physical presence** | Harmful uses of land, including:<br/>- Encroachment into areas of importance to local communities<br/>- Conversion of pristine ecosystems (e.g. conversion of primary forests and wetlands)<br/>- Lack of respect for community rights (e.g. land-grabbing practices) |
+| **People** | Poor labor practices, including:<br/>- Child Labor<br/>- Excessive overtime<br/>- Forced Labor<br/>- Hazardous working conditions<br/>- Irresponsible use of agency labor<br/>- Underpayment or non-payment of wages and benefits<br/>- Undisclosed subcontracting<br/>- Discriminatory practices<br/>- Lack of representation (e.g. the right to bargain collectively) |
+| **Drivers** | Operational activities which are driven by unethical business conduct (e.g. bribery practices) |
+</div>
+
+####### Assessments for outsourced core functions and ancillary purchases: {-}
+
+For any outsourced core function or ancillary purchase, the company should seek to:
+
+- Identify the activities contributing to its delivery;
+- Determine where and how those activities take place; and
+- Consider which negative impacts might be reasonably expected to occur as a result of those activities.
+
+####### Assessments for product inputs: {-}
+
+For each product input, the company should seek to:
+
+- Identify the raw materials required to create the product input;
+- Determine the key life-cycle stages the product input goes through, and the activities involved (i.e. where and how its raw materials are likely to be extracted, processed, combined, transported, etc.); and
+- Consider which negative impacts might be reasonably expected to occur across the product input's lifecycle as a result of those activities.
+
+<div class="callout-note">
+**Resources for hotspot assessments**
+
+Companies should use information available from government and industry bodies, as well as their own desk research. For product inputs, Life-Cycle Assessment (LCA) databases can prove useful. For social impacts, the [Social Hotspot Database](http://socialhotspot.org/) is a good starting point, as is [OpenLCA](http://www.openlca.org/) for environmental impacts.
+</div>
+
+###### Guidance on how to categorize hotspots {-}
+
+To prioritize action with respect to each hotspot, a company should look at both the _likelihood_ of a negative impact occurring, and the _severity_ of the consequences if it does occur. Any impact of medium to high severity should be considered a hotspot unless there is good reason to believe that the impact will not occur (see [Figure 2](#be04-figure-2)).
+
+Companies should also consider which impacts pose the greatest risk to their business, and which ones are easiest to address.
+
+<div class="ff-figure" id="be04-figure-2">
+Figure 2: Guidance on identifying hotspot intensity, by considering both likelihood and severity. Issues toward the top right of the matrix deserve the most attention.[^5#be04-5]
+
+![](assets/figures/hotspot.svg){width=100%}
+</div>
+
+###### Guidance on how to address hotspots {-}
+
+A company must ensure it is effective in taking meaningful action to avoid and address hotspots. This requires the adoption of a _No use, No excuse, Commitment to reduce_ approach, as follows:
+
+####### No use… {-}
+
+Companies must work to screen, avoid, or (where already in use) eliminate any purchases of goods or services that either directly, or due to unavoidable consequences, lead to outcomes that undermine society's progress toward future-fitness. Examples include:
+
+- Goods which directly cause or unavoidably result in physical degradation of the environment (e.g. bottom-trawling fishing nets)
+- Goods which directly cause or unavoidably result in pollution of the environment (e.g. plastic microbeads as an ingredient in shampoo).
+- Goods which directly cause or unavoidably result in harm to people (e.g. landmines, tobacco used for cigarettes).
+- Substances considered harmful according to one of the following sources:
+  - The freely available [SIN List](http://sinlist.chemsec.org/), created by The International Chemical Secretariat, which identifies a range of substances known to be of very high concern to human or environmental health.
+  - Credible industry bodies relevant to the substance in question, who recommend that it is phased out.
+- Minerals or other natural resources whose procurement (without sufficient oversight and traceability) could help to finance conflicts (e.g. metals obtained from the Democratic Republic of Congo).
+
+####### No excuse… {-}
+
+Companies must not rely on any purchase if more benign and functionally equivalent alternatives are available, or if alternatives are available that represent a step towards eliminating future impacts. This includes:
+
+- Purchasing virgin or non-certified commodities when recycled or certified options are available (e.g. recycled or FSC-certified timber or paper, RSPO-certified palm oil). For more information, see the note on [certifications as proxies](#be04-Certifications-as-proxies).
+- Placing large orders, procuring major assets, or signing long-term service contracts without factoring in the social and environmental consequences of choosing a specific supplier.
+
+####### Commitment to reduce… {-}
+
+When a hotspot is identified and direct substitution for a better alternative is not available, the company must commit to reducing impacts through other means. This may include:
+
+- Only purchasing from suppliers who have a clear commitment to reduce the identified impact, or whose impact is lower than all other potential suppliers.
+- Adjusting operations to reduce dependence on the good or service. For example:
+  - Updating logistics to favour lower-emission means of transportation, in an effort to reduce GHG emissions.
+  - Adjusting production techniques to reduce reliance on harmful substances.
+- Modifying products and/or business models to reduce dependence on the good or service. For example:
+  - Switching from an outright sales model to a product-as-service model, increasing the company's incentive to create more durable, repairable goods, thereby reducing the amount of raw materials needed in the long term.
+
+##### Fitness criteria {-}
+
+The company must ensure that all hotspots are identified and managed consistently and in a way that is aligned with the _No use, No excuse, Commitment to reduce_ approach described above.
+
+In addition, each product input, outsourced core function and ancillary purchase must be subject to screening processes and efforts to improve fitness outcomes, as described below.
+
+- The company must perform a [hotspot assessment](#be04-hotspot-assessment) applicable to the purchase or type of purchase,[^6#be04-6] which achieves the following:
+  - The identification of hotspots for each issue area (see [Figure 1](#be04-figure-1)).
+  - An assessment of hotspot intensity (see [Figure 2](#be04-figure-2)).
+  - An informed prioritization of which impacts to address first.
+- When a hotspot has been identified, it must be addressed through actions in line with the _No use, No excuse, Commitment to reduce_ approach.
+
+<div class="callout-note">
+**How often should hotspot assessments be performed?**
+
+Given sufficient time, a company should succeed in eliminating the most intense hotspots from its supply chains, but this is no cause for complacency. Supply chains and the businesses within them are dynamic, so new problems might appear periodically, and less‑problematic impacts must still be addressed. Because of this, hotspot assessments are an iterative and ongoing process.
+
+Practically, hotspot assessments should be reviewed and updated on an appropriate periodic basis, or if the provenance of specific purchased goods and services changes substantially. For example, a company purchasing an agricultural input from a range of suppliers all operating in a single, water-abundant region need not perform frequent water hotspot assessments for that input. However, if the company were to start sourcing that same input from a second region, a new water hotspot assessment would be required.
+</div>
+
+### 3. Assessment {-#be04-assessment}
+
+#### 3.1 Progress indicators {-#be04-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has _nine_ progress indicators, corresponding to the specific issue areas identified in [Figure 2](#be04-figure-2), namely: _Energy_, _Water_, _Natural resources_, _GHG emissions_, _Harmful emissions_, _Waste_, _Physical presence_, _People_, and _Drivers_. To calculate progress, the following steps are required:
+
+**For each of the nine issue areas:**
+
+- Assess the fitness of individual purchase decisions according to the guidance below.
+- Calculate company-wide progress regarding that issue area, across all procurement activities.
+
+##### Assessing the fitness of a purchase for a specific issue area {-}
+
+The assessment approach is conceptually the same for all types of spend, but there are differences – in particular in terms of the scope of the hotspot assessment required. The scoring methodology is described in [Figure 3](#be04-figure-3).
+
+<div class="ff-figure" id="be04-figure-3">
+Figure 3: How to assess fitness of purchase decisions for outsourced core functions, product inputs, and ancillary spend.
+</div>
+
+<div class="table-blue">
+<table>
+<thead>
+  <tr>
+    <th style="text-align:center"; rowspan="2">Fitness Score</th>
+    <th style="text-align:center"; colspan="3">Fitness Criteria</th>
+  </tr>
+   <tr>
+    <th style="text-align:center">Outsourced Core Functions</th>
+    <th style="text-align:center">Product Inputs</th>
+    <th style="text-align:center">Ancillary Spend</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="odd">
+    <td style="text-align:center">Hotspot Assessment Scope</td>
+    <td style="text-align:center">Assessment covers the operations of the supplier performing the function on the company’s behalf</td>
+    <td style="text-align:center">Cradle-to-gate assessment back to the extraction of raw materials used to create the product input</td>
+    <td style="text-align:center">Assessment focuses on the
+services, consumables and assets procured, rather than the companies producing them</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">0%</td>
+    <td colspan="3">No hotspot assessment has been performed<br/><i>or</i><br/>The purchase falls into the <i>No use</i> category of the<br/><i>No use, No excuse, Commitment to reduce approach</i></td>
+   </tr>
+  <tr class="odd">
+    <td style="text-align:center">25%</td>
+    <td colspan="3">An appropriate hotspot assessment has been undertaken<br/>The assessment identifies that <i>potential</i> hotspots <i>may</i> exist<br/>No further action has been taken<br/><i>Note: if analysis confirms there are <b>no potential hotspots</b>, check criteria to score 100% (below)</i></td>
+   </tr>
+  <tr class="even">
+    <td style="text-align:center">50%</td>
+    <td colspan="3">A detailed analysis of all potential hotspots has been undertaken<br/>The analysis confirms that <i>actual</i> hotspots <i>do</i> exist<br/>Steps are being taken to address identified hotspots<br/><i>Note: if analysis confirms there are <b>no actual hotspots</b>, check criteria to score 100% (below)</i></td>
+   </tr>
+  <tr class="odd">
+    <td style="text-align:center">75%</td>
+    <td colspan="3">All high-intensity hotspots have been addressed<br/>Company is taking appropriate steps towards addressing remaining hotspots, in line with the <i>No use, No excuse, Commitment to reduce</i> approach</td>
+   </tr>
+  <tr class="even">
+    <td style="text-align:center">100%</td>
+    <td style="text-align:center">All hotspots have been avoided or eliminated</td>
+    <td style="text-align:center">All hotpots from cradle to gate have been avoided or eliminated</td>
+    <td style="text-align:center">Company continuously seeks to procure options which causes fewest negative impacts</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+##### Calculating company progress for a specific issue area {-}
+
+The company's aggregate Future-Fit progress with respect to issue area "X" (for each issue area shown in [Figure 3](#be04-figure-3)) is the cost-weighted sum of the future-fitness scores of all product inputs, outsourced core functions and ancillary purchases.
+
+This can be expressed mathematically as:
+
+$$F^X=\frac{\sum_{d=1}^Df_d^X*C_d}{\sum_{d=1}^DC_d}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F^{X}$$ | Is the progress toward future-fitness for issue area X, expressed as a percentage. |
+| $$X$$ | Is the issue area: *Energy*, *Water*, *Natural resources*, *GHG emissions, Harmful emissions*, *Waste*, *Physical presence*, *People,* or *Drivers*. |
+| $$f_d^{X}$$ | Is the fitness of the screening and evaluation process applied to the purchase decision for good or service _d_. |
+| $$C_d$$ | Is the total cost (dollar amount spent) during the reporting period on good or service _d_. |
+| $$D$$ | Is the total number of financial assets in the company's portfolio. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be04-example).
+
+#### 3.2 Context indicators {-#be04-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Percentage of product inputs traceable to source {-}
+
+The percentage of product inputs, by spend, for which the company has identified all suppliers, from raw material extraction or harvesting to interim manufacturing and distribution.
+
+####### Challenging hotspots {-}
+
+A brief description of any high-intensity hotspots that have not been fully addressed within the reporting period, and for each:
+
+- A short description of the hotspot.
+- Actions taken to date to avoid or address hotspot.
+- If applicable, additional actions planned.
+
+For an example of how context indicators can be reported, see [here](#be04-example).
+
+### 4. Assurance {-#be04-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be04-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be04-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to ensure that all of the company's suppliers have been identified. This information can help assurers to assess whether the company's approach runs the risk of failing to identify any suppliers, which may result in the company unknowingly purchasing goods or services which contribute to significant negative social or environmental impacts, leading to incorrect data being reported.
+- Document the methods used for grouping vendors for hotspot assessments. Assurers may use this information to evaluate and verify whether key characteristics are consistent within groups.
+- Document the methods used to assess the company's supply chain for potential social and environmental hotspots, including the parameters used to distinguish whether an issue qualifies or not. For each supplier (or group of suppliers) that has been assessed, the company should retain the details of the assessment performed to create an evidence trail. Assurers may use this information to verify that the company has consistently identified issues requiring further investigation.
+- Where potential hotspots have been identified, document the methods used to confirm or disprove the presence of those issues in the company's suppliers. For each of these assessments, retain the details of the work performed in order to create an evidence trail for assurers, who may use this information to verify that the company has been consistent in determining which issues require action.
+- Where the company has taken active steps towards helping a supplier to eliminate a hotspot issue, retain any documentation of these actions. Assurers may use this information to verify that the company has correctly applied the method to calculate the Future-Fit indicators.
+- Describe the methods used to classify the company's vendors into one of the three categories described in this Action Guide (i.e. product inputs, outsourced core functions, ancillary purchases). Assurers may use this information to evaluate and verify whether key characteristics are consistent within categories.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be04-additional}
+
+#### 5.1 Example {-#be04-example}
+
+ACME Inc. sells lemonade products. The company buys sugar and lemons as product inputs (other ingredients including water are excluded from this example for simplicity), and outsources its distribution of products to a third party.
+
+ACME decides to do a thorough assessment to identify _water_ and _worker_ hotspots within its lemon and sugar supply chains.
+
+From an initial assessment, ACME learns that farm labourers in some of the countries from which it sources its sugar can be subject to human rights abuses. Further investigations confirm this as a high-intensity hotspot and as a next step ACME decides to work with a farming group to improve the situation for its sugar supplier. ACME assesses the lemon supplier and finds that there is a high intensity hotspot because workers are paid less than minimum wage. However, ACME takes no further action. As a result, it scores these inputs as follows:
+
+$$f^{People}_S=50\%$$
+$$f^{People}_L=25\%$$
+
+Research further confirms that all sugar is grown in water-abundant regions. Research into the company's lemon supply chain however indicates that water stress might be an issue, but no work has been done to check this. ACME scores these inputs as follows:
+
+$$f^{Water}_S=100\%$$
+$$f^{Water}_L=25\%$$
+
+ACME also decides to do an assessment of the distribution provider across all issue areas. The assessment indicates that it is performing well across all social and environmental issue areas. No potential hotspots are identified. ACME therefore scores this outsourced core function as follows:
+
+$$f^X_D=100\%$$
+
+Across all issue areas (where "X" is one of _Energy, Water, Natural resources, GHG emissions, Harmful emissions, Waste, Physical presence, People_ and _Drivers_).
+
+ACME spends $40,000 on sugar annually, $100,000 on lemons and pays the distribution provider $60,000.
+
+The company can now calculate its progress as follows:
+
+$$F^{People}=\frac{f^{People}_S*C_S+{f^{People}_L*C_L+f^{People}_D*C_D}}{C_S+C_L+C_D}$$
+$$=\frac{50\%*40,000+25\%*100,000+100\%*60,000}{200,000}\approx53\%$$
+<br/>
+$$F^{Water}=\frac{f^{Water}_S*C_S+{f^{Water}_L*C_L+f^{Water}_D*C_D}}{C_S+C_L+C_D}$$
+$$=\frac{100\%*40,000+25\%*100,000+100\%*60,000}{200,000}\approx63\%$$
+<br/>
+$$F^{Energy}=F^{N.resources}=F^{GHGs}=F^{Harmful-emissions}=F^{Waste}=F^{Presence}$$
+$$=F^{Drivers}=\frac{100\%*C_D}{C_S+C_L+C_D}=\frac{100\%*60,000}{200,000}\approx30\%$$
+<br/>
+
+####### Context indicators {-}
+
+**Percentage of product inputs traceable to source**
+
+Not calculated.
+
+**Challenging hotspots**
+
+Two high-intensity hotspots were identified:
+
+- Human rights abuses of sugar farm labourers.
+  - Steps taken: Engaged local organisation to support a group of strategically chosen suppliers to improve in several key areas.
+- Lemon farm workers paid under minimum wage
+  - Steps taken: No actions taken.
+
+#### 5.2 Frequently asked questions {-#be04-faq}
+
+##### Can certifications be used as proxies? {-#be04-certifications}
+
+Whenever possible, companies are encouraged to leverage work already performed to use in their assessment of future-fitness. In the case of suppliers, existing certification standards may significantly reduce the burden of analysis, although some caveats exist.
+
+Many current industry and issue-specific certification standards help companies identify whether the goods and services they purchase have been produced responsibly. In fact, the fitness criteria for a number of the Break-Even Goals draw on the guidance and research of such standards. As a result, there is often overlap between certain goal-specific fitness criteria and the performance levels that leading certification bodies are already demanding.
+
+Whenever part of a supply chain has been certified to a _sufficient_ standard, this fact may serve as a _proxy_ for performance verification – meaning that a company need 'look no further'. Specifically:
+
+_A supplier (or 'branch' of a supply chain) is considered Future-Fit with respect to a particular Break-Even Goal if:_
+
+1. _it has been certified by a recognized and independent standard; and_
+2. _that standard demands a level of performance **equivalent** to the goal's fitness criteria._
+
+Examples include:
+
+1. An [FSC](http://www.fsc-uk.org/en-uk)-certified supplier of timber is considered to live up to the goal [**_Natural resources are managed to respect the welfare of ecosystems, people and animals_**](#be03).
+2. A supplier accredited as a living wage employer by [The Living Wage Foundation](http://www.livingwage.org.uk/) is considered to live up to the goal [**_Employees are paid at least a living wage_**](#be11).
+
+<div class="callout-note">
+**Appropriateness of certifications**
+
+Many of today's certification standards – although pushing companies in the right direction – do not go far enough to guarantee Future-Fit levels of performance. Companies should seek to clarify whether all issues are adequately covered by any standards they use. Any company who undertakes such an analysis is encouraged to check and share its thinking with the Future-Fit team, so that over time we can build up a body of knowledge relating to certifications that all pursuers of future-fitness can benefit from.
+</div>
+
+#### 5.3 Useful links {-#be04-useful-links}
+
+##### United National Global Compact (UNGC) {-}
+
+In collaboration with [Business for Social Responsibility](https://www.bsr.org/), the UNGC has developed a guide to help signatories implement the UNGC's [Ten Principles](https://www.unglobalcompact.org/what-is-gc/mission/principles) throughout their supply chains. See [Supply Chain Sustainability – a Practical Guide for Continuous Improvement](https://www.unglobalcompact.org/library/205).
+
+[^1#be04-1]: See the [**Methodology Guide**](#mg-mutually-accountable) for more details on mutual accountability for procured goods and services.
+
+[^2#be04-2]: A _product input_ is any substance which is necessarily consumed in the creation of goods and the delivery of services. This includes: ingredients or components required to manufacture a physical good, which either end up embedded in it or are used up (e.g. a catalyst) during its production; and consumable substances which are required to provide a service (e.g. detergents and paints used by a commercial decorator).
+
+[^3#be04-3]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^4#be04-4]: See the [**Methodology Guide**](#mg-appendix-2)for details on how these 8 Properties of a Future-Fit Society were derived.
+
+[^5#be04-5]: This guidance is a generalized adaptation of the approach presented in the [GHG Protocol's Policy and Action Standard](https://ghgprotocol.org/sites/default/files/standards/Policy%20and%20Action%20Standard.pdf) @Gre14.
+
+[^6#be04-6]: "Type of purchase" is used here to emphasize that the focus is on the considerations relevant to different kinds of goods and services, rather than on scrutinizing every individual transaction. For instance, ordering FSC-certified office paper from like-for-like suppliers would be considered as one type of purchase.

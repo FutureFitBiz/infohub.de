@@ -1,0 +1,1720 @@
+---
+output: github_document
+---
+
+# (PART\*) The Benchmark {-}
+
+# Methodology Guide {-#mg}
+
+<div class="subtitle">What the Benchmark is, its scientific foundations, and how it was developed.
+</div>
+
+This guide presents the core components of the Future‐Fit Business Benchmark, together with details of the development process, and the scientific foundations upon which it was built.
+
+[1. Why Future-Fit?](#mg-why-future-fit)
+
+[2. Getting started](#mg-getting-started)
+
+[3. Where we are today: a systems view](#mg-systems-view)
+
+[4. Where we need to go: a Future-Fit Society](#mg-future-fit-society)
+
+[5. Actionable guidance for business](#mg-actionable-guidance)
+
+[6. Break-Even Goals](#mg-be)
+
+[7. Positive Pursuits](#mg-pp)
+
+[Appendix 1: Properties of a Future-Fit Society](#mg-appendix-1)
+
+[Appendix 2: Deriving the Break-Even Goals and Positive Pursuits](#mg-appendix-2)
+
+
+
+## 1. Why Future-Fit? {-#mg-why-future-fit}
+
+<div class="introquote">
+***If you want to build a ship, don't call people together to collect wood and don't assign them tasks and work, but teach them to long for the endless immensity of the sea.***
+<p style="margin-top:0.5em;text-align:right">Antoine de Saint-Exupery</p>
+</div>
+
+###### How can we ensure our common future is one we want? {-}
+
+Our ability to connect with each other and to manipulate the world around us has never been greater. How must we channel this potential to usher in a future that allows people and planet to thrive?
+
+###### The actions we take in the next few years are critical. So, what should steer those actions? Which of our possible futures would be _preferable_? {-}
+
+Imagine a future in which no company undermines the wellbeing of people or the planet, where business is considered universally as a force for good. Where the more profitable companies are, the more they are celebrated – not just by their shareholders, but by _everyone_ – because those companies clearly and credibly articulate how each dollar they earn creates value for society as a whole.
+
+In this future, we live in harmony with nature: today's _take-make-waste_ approach has been supplanted by a _borrow-use-return_ approach. &quot;Growth&quot; is synonymous not with higher GDP, but with increasing trust, greater equity, healthier lives, and richer ecosystems. In their pursuit of growth, all companies strive to ensure that every person contributing to their success is afforded the opportunity to learn, grow and lead fulfilling lives.
+
+In this future, society becomes ever more socially just, economically inclusive, and environmentally restorative, because all key actors are working collaboratively, consciously and continuously to the same end: the removal of barriers to our collective progress.
+
+###### This is a vision of a Future-Fit Society: one serviced by an economy of Future-Fit Businesses, each playing its part to create the conditions required for humanity to flourish within the carrying capacity of our finite planet. {-}
+
+This is no Utopia – people will sicken, crimes will occur, accidents will happen – but it is a compelling and plausible vision.
+
+###### The Future-Fit Business Benchmark is a free tool to help companies pursue this vision. {-}
+
+## 2. Getting started {-#mg-getting-started}
+
+<div class="introquote">
+***If we don't change direction soon, we'll end up where we're going.***
+<p style="margin-top:0.5em;text-align:right">Irwin Corey</p>
+</div>
+
+###### The transition to a Future-Fit Society will be long and arduous, but as with any journey we need only two things: a destination to aim for, and the means to track our progress along the way. {-}
+
+When it comes to guidance on social and environmental issues, a vast array of resources exists. Most focus on one issue (e.g. emissions, human rights) or tasks (e.g. reporting), or offer general advice which is not specifically tailored to business and which companies may struggle to translate into action (e.g. the UN Sustainable Development Goals).
+
+The Benchmark complements such resources, offering one thing companies have been lacking: a clear, science-based destination to aim for, and the means to guide and monitor progress toward it.
+
+At the core of the Benchmark are 23 **Break-Even Goals**, which together mark the line in the sand that all companies must strive to reach to ensure that they are in no way slowing down society's transition to future‑fitness. A set of complementary **indicators** equips any company to measure, manage and explain its progress toward each Break‑Even Goal.
+
+Many companies aspire to do more than cause no harm, by seeking to be a force for good in the world. The Benchmark supports such efforts, identifying **24 Positive Pursuits** which characterize all of the ways a business may act to speed up society's transition to future-fitness.
+
+###### Using this guide. {-}
+
+["Where we are today: a systems view"](#mg-systems-view) describes where society finds itself today and how we got here, and applies systems thinking to explore what has to change going forward.
+
+["Where we need to go: a Future-Fit Society"](#mg-future-fit-society) offers a shared destination to aim for, by identifying what a Future-Fit Society would actually look like.
+
+["Actionable guidance for business"](#mg-actionable-guidance) explains how these systems concepts can be translated into a practical business tool, to help individual companies play their part in our collective journey to future-fitness.
+
+The last two sections introduce the [Break‑Even Goals](#mg-be) and [Positive Pursuits](#mg-pp).
+
+<div class="callout-note">
+The Future-Fit Business Benchmark is a public good, free for anyone to use. We would be delighted to hear about your experiences with the tool as we continue to improve it. You can reach our team at [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.2%20Methodology%20Guide).
+</div>
+
+
+<!--- Section 3 --->
+
+
+## 3. Where we are today: a systems view {-#mg-systems-view}
+
+<div class="introquote">
+***Vision without systems thinking ends up painting lovely pictures of the future with no deep understanding of the forces that must be mastered to move from here to there.***
+<p style="margin-top:0.5em;text-align:right">Peter Senge</p>
+</div>
+
+### 3.1 Why systems thinking is critical {-#mg-why-systems-view}
+
+###### 250 years ago, there were less than a billion people on Earth. {-}
+
+Back then, Earth's resources – and its resilience in the face of our demand for them – must have seemed limitless.
+
+So it should come as no surprise that classical economics – which dates from that period – did not consider the fact that we live in a finite, resource-constrained world. That belief set the tone for the way we have done business for generations: producing, consuming and disposing of ever more stuff, without weighing the long-term consequences.
+
+###### Now there are 7.5 billion people on the planet, with 2 billion more set to join us by 2050. {-}
+
+Industrialization and rapid growth have taken their toll. Crop yields are suffering from ever-more extreme weather events, fuelled by climate change. Fresh water is scarce in many areas. Some natural resources that were once plentiful are now harder and costlier to obtain. Trust in institutions is falling while inequality is rising. Recognizing the extent of these crises ([Figure 3.1](#mg-figure-3-1)), world governments came together in 2015 to launch the UN Sustainable Development Goals (SDGs): a call to action for everyone from nation states to corporations ([Figure 3.2](#mg-figure-3-2)).
+
+###### Our economic system is broken. {-}
+
+Put simply, our economic system is failing to meet the needs of hundreds of millions of people around the world. Furthermore, the way we do business is degrading the planetary services upon which we as a species depend: clean air, fresh water, rich biodiversity, climate stability, access to materials, and so on.
+
+###### A _systemic_ response is needed. {-}
+
+The so-called _Triple Bottom Line_ @Elk of People, Planet and Profit has never been more relevant. But we need to take a fresh look at what this really means. The global challenges we face are hugely complex and interdependent. In short, they are _systemic_ – and to tackle them we must take a systems-based approach.
+
+<div class="ff-figure" id="mg-figure-3-1">
+Figure 3.1: This "Doughnut" represents the safe operating space for humanity: a social foundation of wellbeing that no one should fall below, and an ecological ceiling of planetary pressure that we should not go beyond. Source: Doughnut Economics. @Raw17
+
+![](assets/figures/doughnut.svg)
+</div>
+
+###### Business can thrive only if society and nature also thrive. {-}
+
+Business can only thrive in a strong society. Society, in turn, can only prosper if its needs are being met by a healthy natural environment. These relationships, best described as nested dependencies, are key to understanding how our global economy operates.
+
+We must embrace these systemic interdependencies if we are to identify exactly how – and _how much_ – we must change the way we do business. Only then will we be able to achieve the SDGs and set ourselves on a path to a Future‑Fit Society: one which is socially just, economically inclusive, and environmentally restorative.
+
+###### The task ahead is enormous. {-}
+
+Our economic system is intrinsically flawed and taking us in the wrong direction, fast. No amount of tinkering around the edges will fix that.
+
+We must instead equip and encourage all economic actors to pursue rapid and radical change in a coordinated way. And that demands a fundamental rethink of what it means to _create value_ in the 21st Century. So that's where we will start.
+
+<div class="ff-figure" id="mg-figure-3-2">
+Figure 3.2: The UN Sustainable Development Goals.
+</div>
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Sustainable Development Goal |
+|:-:|:-|
+| ![SDG 1](assets/sdg/sdg-1.svg) | **No Poverty**<br/>End poverty in all its forms everywhere. |
+| ![SDG 2](assets/sdg/sdg-2.svg) | **Zero Hunger**<br/>End hunger, achieve food security and improved nutrition, and promote sustainable agriculture. |
+| ![SDG 3](assets/sdg/sdg-3.svg) | **Good Health and Well-being**<br/>Ensure healthy lives and promote well-being for all at all ages. |
+| ![SDG 4](assets/sdg/sdg-4.svg) | **Quality Education**<br/>Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. |
+| ![SDG 5](assets/sdg/sdg-5.svg) | **Gender Equality**<br/>Achieve gender equality and empower all women and girls. |
+| ![SDG 6](assets/sdg/sdg-6.svg) | **Clean Water and Sanitation**<br/>Ensure availability and sustainable management of water and sanitation for all. |
+| ![SDG 7](assets/sdg/sdg-7.svg) | **Affordable and Clean Energy**<br/>Ensure access to affordable, reliable, sustainable and modern energy for all. |
+| ![SDG 8](assets/sdg/sdg-8.svg) | **Decent Work and Economic Growth**<br/>Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. |
+| ![SDG 9](assets/sdg/sdg-9.svg) | **Industry, Innovation and Infrastructure**<br/>Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation. |
+| ![SDG 10](assets/sdg/sdg-10.svg) | **Reduced Inequalities**<br/>Reduce inequality within and among countries. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | **Sustainable Cities and Communities**<br/>Make cities and human settlements inclusive, safe, resilient and sustainable. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | **Responsible Consumption and Production**<br/>Ensure sustainable consumption and production patterns. |
+| ![SDG 13](assets/sdg/sdg-13.svg) | **Climate Action**<br/>Take urgent action to combat climate change and its impacts. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | **Life Below Water**<br/>Conserve and sustainably use the oceans, seas and marine resources for sustainable development. |
+| ![SDG 15](assets/sdg/sdg-15.svg) | **Life On Land**<br/>Protect,  restore  and  promote  sustainable  use  of  terrestrial ecosystems,  sustainably  manage  forests,  combat  desertification, and  halt  and  reverse  land  degradation  and  halt  biodiversity  loss. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | **Peace, Justice and Strong Institutions**<br/>Promote  peaceful  and  inclusive  societies  for  sustainable development,  provide  access  to  justice  for  all  and  build  effective, accountable  and  inclusive  institutions  at  all  levels. |
+| ![SDG 17](assets/sdg/sdg-17.svg) | **Partnerships for the Goals**<br/>Strengthen the means of implementation and revitalize the global partnership for sustainable development. |
+</div>
+
+### 3.2 A systems view of value creation {-}
+
+###### We all know we need to act. {-}
+
+Left unchecked, today's global challenges put in jeopardy Earth's natural processes, our social fabric, and economic activity as a whole. This creates a huge moral imperative for collective action.
+
+A growing number of business leaders know they must rethink things. Investors, too, are starting to realize their portfolios are exposed to risks which they are ill-equipped to predict. So what's stopping the business world from mobilizing its considerable resources to deliver rapid and radical change?
+
+There is no single answer. CEOs and boards often feel compelled to focus on short-term gains, not long-term value. Many investors struggle to see beyond the next quarter's results. Governments have been slow to adapt incentives and regulations to respond to global challenges. And with so many serious issues competing for a company's attention it can be difficult to zero in on what really matters.
+
+All these factors are symptomatic of a bigger problem within our economic system: a myopic notion of what value creation means, which fails to recognize and reward the true game-changers.
+
+###### _Creating Shareholder Value_ was fundamentally flawed. {-}
+
+Not so long ago, _creating shareholder value_ – potentially at the expense of other stakeholders, including the environment – was considered the sole purpose of business. The more a company was able to privatize gains and socialize losses, the more successful it would become.
+
+In the 1970s, evidence started to mount for the fact that such behaviour is not sustainable on a finite planet with a rapidly growing population. @Mea72
+
+###### _Corporate Social Responsibility_ led only to incremental gains. {-}
+
+As awareness of this fact grew, the _Corporate Social Responsibility_ (CSR) and sustainability reporting agendas emerged, as a way to hold companies to account for any negative social or environmental impacts they caused.
+
+Unfortunately, while egregious practices have been tempered in some parts of the world – such as dumping toxic waste in rivers – little has fundamentally changed. At best, the dial has moved from 'business as usual' to '_change_ as usual'.
+
+Despite the efforts of organizations such as the Global Reporting Initiative @Glo17, no two companies explain their social and environmental commitments – and progress toward them – in the same concise, comparable way. Without the right yardstick with which to calibrate and compare performance, even the most conscious investor or consumer cannot spot which companies are doing most to take society in the right direction.
+
+The result is that even in sectors whose business models exacerbate global problems, most companies continue to do roughly what they always did, albeit while striving to be slightly 'less bad' year-on-year than their peers. But aiming to be less bad is just not good enough.
+
+###### _Creating Shared Value_ reframed 'doing good' as an opportunity. {-}
+
+A few years ago, the term _Creating Shared Value_ (CSV) was coined @Por11, to describe how companies can continue to focus primarily on financial performance, by identifying ways to make money wherever their core business and societal problems overlap.
+
+Whereas CSR was often perceived as just another cost of doing business, CSV casts 'doing the right thing' as an opportunity for growth. And so, of course, it _is_ an opportunity – if we know what 'doing the right thing' really means. Therein lies the challenge.
+
+Today's companies operate in a world of complex, interlinked systems – markets, communities, ecosystems, etc. – in which linear notions of cause and effect start to evaporate. Any action in one area can lead to undesirable consequences elsewhere. A company embracing a CSV approach might – in all good conscience – seek to solve one problem, only to create another. Are such trade-offs acceptable? Possibly, but how can we be sure if we don't know what they are?
+
+###### To understand the full extent of a company's impacts – good and bad – we must think in terms of _Creating System Value_. {-}
+
+No business decision is ever free of potential trade-offs. But a systems-based approach makes it possible to identify otherwise unforeseen issues. This allows negative trade-offs to be anticipated, avoided, or at the very least addressed.
+
+This kind of holistic decision-making must become the norm if we are to avoid – and eventually _reverse_ – damage to our natural systems and social fabric. This is what we mean by _Creating System Value_ ([Figure 3.3](#mg-figure-3-3)).
+
+The Future-Fit Business Benchmark was developed specifically to help companies put this concept into practice. The first step in this development was to examine the systems contexts shaping business today.
+
+<div class="ff-figure" id="mg-figure-3-3">
+Figure 3.3: Rethinking value creation through a systems lens.
+
+![](assets/figures/system-value.svg)
+</div>
+
+### 3.3 A systems view of the world {-}
+
+###### What is a system? {-}
+
+A _system_ can be defined as a set of interrelated and interdependent parts that operate collectively in pursuit of some common purpose. @Don09
+
+The purpose of a system may not always be obvious. What a system _actually_ does may not be what was originally intended, or what people _assume_ that it does. Hence, to avoid any confusion relating to the differences between actual and intended behaviour, systems scientists typically frame the purpose of a system simply as "what it does". @Sta02
+
+###### How do systems operate? {-}
+
+Every system operates within a broader _context_, because its existence both depends upon and can affect other systems around it.
+
+To fulfil its purpose, a system transforms one or more _inputs_ into _outputs_. To understand how this happens, we can think of a system in terms of four levels, each one influencing the next:[^1#mg-1]
+
+- **Drivers**: Forces on the system that arise from the broader context, which both influence what it can do and combine to shape its purpose.
+- **Structure**: The physical parts of the system and how they are organized so that they can perform the _processes_ needed to acquire inputs and transform them into outputs.
+- **Patterns of behaviour**: How the system acts over time. Such patterns are often _emergent_: they result from how the parts of the system interact, and so they can't be predicted by observing each part in isolation.
+- **Outcomes**: The changes – to both the system itself and others around it – which arise from its existence. This includes the effects (intended and otherwise) of consuming inputs and producing outputs.
+
+These four system levels are often visualized as successive layers of an iceberg, with Drivers at the bottom. That's because in real-world systems, often only the top level – Outcomes – is readily visible (see [Figure 3.4](#mg-figure-3-4)).
+
+We will return to this model later, to help us identify a comprehensive set of desirable and measurable outcomes that a Future‑Fit Society will deliver.
+
+<div class="ff-figure" id="mg-figure-3-4" style="max-width:300px; margin:0 auto;">
+Figure 3.4: The iceberg system model.
+
+![](assets/figures/iceberg.svg)
+</div>
+
+But first we must consider the world in terms of an interconnected network of systems.
+
+###### What are natural systems? {-}
+
+A _natural system_ is one that exists in nature, independent of any human involvement. @Ref19 At the highest level, the Earth comprises four interdependent natural systems: the atmosphere, the lithosphere, the hydrosphere and the biosphere. @Mat17
+
+The biosphere – which encompasses all living matter – can further be described in terms of a huge and diverse range of ecosystems. All living organisms are themselves systems. For simplicity, from this point on we often refer to this web of natural systems as _the environment_.
+
+###### What are social systems? {-}
+
+A _social system_ is a patterned network of interrelationships between individual people, groups, and institutions, which forms a coherent whole. @Mer19
+
+Society as a whole is a multi-layered network of interdependent social systems (see [Figure 3.5](#mg-figure-3-5)). In fact, when talking about large-scale aspects of society, we often use the term 'system' explicitly: legal system, transport system, global economic system, and so on.
+
+At a more granular level, social systems range from cities and households to universities and – of course – companies.
+
+What a social system does – and thus the outcomes it seeks to deliver – depends on its role in society. An effective government, for example, provides services to its citizens by maintaining critical infrastructure, such as education and healthcare. A company produces goods and services, the sale of which delivers financial returns to its owners, provides its workers with a source of income, and supports the further development of the business. One intended output of a school is educated individuals, each of whom is able to apply their learning to contribute to the activities of other social systems.
+
+###### Society can be Future-Fit only if every social system is Future-Fit. {-}
+
+Every social system depends upon and can affect many others – and each must play its part in society's transition to future-fitness. But what exactly does that mean? How must any one social system behave if we are to get on a shared trajectory toward a socially just, economically inclusive, and environmentally restorative future?
+
+To answer this, we need to examine the three key contexts within which all social systems operate: the environmental, the societal and the economic.
+
+<div class="ff-figure" id="mg-figure-3-5" style="max-width:600px; margin:0 auto;">
+Figure 3.5: Society is a multi-layed network of interdependent social systems, all of which are completely dependent on a healthy environment.
+
+![](assets/figures/social-systems.svg)
+</div>
+
+### 3.4 The environmental context {-}
+
+_Earth fulfils three critical ecosystem functions for society._
+
+###### First, Earth maintains critical life-support systems. {-}
+
+All life relies on natural processes that evolved over millions of years. Among other things, these processes regulate air and water quality and the climate, enable crops to grow, provide storm protection and maintain biodiversity.
+
+###### Second, Earth provides our raw materials and energy. {-}
+
+Apart from our "solar income" (energy from sunlight) all of our resources come from the Earth. Many natural resources, such as fish and trees, are renewed over time, thanks to the aforementioned life-support systems. But if we use too much, too quickly (e.g. deforestation, over-fishing), we undermine nature's capacity to regenerate them.
+
+Minerals extracted from the Earth's crust are finite resources. Once used, some are gone for good (e.g. fossil fuels). Others (e.g. metals) could in theory remain in use forever if we recover them after use.
+
+###### Third, Earth assimilates waste. {-}
+
+Waste is a characteristic unique to human systems: in nature, all matter (dead plants, animals) is absorbed and digested by other organisms.
+
+Two types of waste are causing big problems. The first type is human-made substances that don't exist naturally, so nature hasn't evolved ways to break them down harmlessly (e.g. plastics, CFCs). The second type comprises substances that do exist in nature, but which we emit in quantities or in ways that upset the natural equilibrium (e.g. carbon dioxide in the air, nitrogen compounds in the oceans).
+
+Both types of waste can affect the environment chemically or physically, for example by introducing toxins into food-chains, or by trapping heat in the atmosphere. In so doing, they disrupt the life-support systems we rely upon.
+
+###### Social systems in this context. {-}
+
+Today's social systems are profoundly affecting all three ecosystem functions.
+
+No social system can survive without energy, fresh water, and a wide range of goods derived from natural resources, all of which have to be mined, farmed or harvested from the wild. Such resources are obtained and transformed in a wide variety of ways, but almost all value chains follow a linear _take-make-waste_ approach. At every step, our methods of production and consumption typically result in unintended by-products, which are captured and treated as waste, or which escape into nature as pollution. Either way, the intrinsic value to society of the original natural resources is lost.
+
+All social systems also have a physical presence, from fields and buildings to a wide range of supporting physical infrastructure. And our growing need for space is putting ever-more pressure on the natural world, limiting its capacity to support our needs.
+
+<div class="callout-note">
+**Caution: Natural Capital**
+
+Planetary resources we benefit from are sometimes described as _natural capital_. This terminology can lead to the erroneous conclusion that we can replace nature's services with other types of capital (e.g. financial or manufactured). But many natural resources – clean air, fertile soil – are essential to life, and have no substitutes. That said, the term _natural capital_ can be useful, if by _capital_ we mean _an asset that is capable of generating wealth_. We must not deplete natural capital, but we _can_ live off its interest.
+</div>
+
+### 3.5 The societal context {-}
+
+_Inclusivity, resilience and trust are crucial to society's success._
+
+###### Everyone should have the capacity and opportunity to lead a fulfilling life.[^2#mg-2] {-}
+
+Given that billions of people are living in some form of poverty, it should be clear that our economy is not fit for purpose.
+
+Any social system's ability to thrive, right up to society as a whole, relies to a great extent on the wellbeing of the people that contribute to it. This does not mean that people must be happy all the time. Rather, it means that everyone should be able to meet their basic needs (e.g. food, shelter) and pursue higher needs (e.g. a sense of meaning, creativity).[^3#mg-3]
+
+Both aspects are essential. A focus on basic needs alone may enable people to survive, but not to thrive and grow. Equally, people can only pursue higher needs if their basic needs are met.
+
+To meet basic needs and pursue higher needs, people require three things:
+
+- The _physical capacity_ to do so (including physical/mental health);
+- The _mental capacity_ to do so (including relevant skills and competences);
+- The _opportunity_ to do so (via social justice, economic inclusion, and trusted relationships).
+
+Some basic needs are so crucial to people's wellbeing that access to them is considered a fundamental human right (see [Figure 3.6](#mg-figure-3-6)). @Raw17 @Uni48
+
+###### We are a social species. {-}
+
+Some higher needs – such as affection and participation – can only be met in conjunction with others. Society is characterized not just by its individual members, but by the ways we organize ourselves into social systems and how they interact with each other.
+
+<div class="ff-figure" id="mg-figure-3-6" style="max-width:500px; margin:0 auto;">
+Figure 3.6: "Basic needs" refer to what all individuals require.
+</div>
+<div class="table-blue">
+<table style="max-width:500px; margin:0 auto;">
+<thead>
+  <tr>
+    <th>People's basic needs<br/>_(Derived from the SDGs. Source: Doughnut Economics.)_</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="odd">
+    <td style="text-align:center">Sufficient (nutritious) **food**</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">Clean **water** and **sanitation**</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">**Energy** and cooking facilities</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">Decent **housing**</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">**Education**</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">**Healthcare**</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">**Networks of communication**</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">**Networks of social support**</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Sufficient **income** to meet the above needs</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+This is the social fabric upon which we all depend: society is only as strong as the relationships between its component parts. When our social fabric deteriorates, so does our ability to thrive.
+
+###### The quality and resilience of our social fabric is critical. {-}
+
+So how do we avoid degrading our social fabric? Leading science @Bro15 tells us that the health of society depends upon several factors. Diversity and learning are critical to resilience (the ability to adapt to new circumstances and to withstand crises), as is a capacity for self-organization. Shared meaning and values are also key. All of these factors are critical, but another one appears to underpin them all: trust.
+
+###### Trust serves as society's glue. {-}
+
+Trust is associated with low levels of corruption, democratic stability, and relative economic equality. Greater equality correlates with a reduction in many societal ills (e.g. suicide, drug abuse, obesity, violence). @Pic09
+
+Society is huge and complex. Trust is essential because everything works only by coordinating action and devolving responsibility. But there is no shortcut to trust: to gain it, one must first be perceived as trustworthy.
+
+###### Social systems in this context. {-}
+
+Trustworthiness accrues only over time, when people consistently do what they say they will and strive to act in the best interests of others. This means every social system must contribute fairly to shared infrastructure, must foster the wellbeing of its participants and other stakeholders, and must be open about the extent of its negative impacts – and its ambitions to improve them over time.
+
+### 3.6 The economic context {-#mg-economic-context}
+
+_What can a systems approach tell us about 'growth' and 'value'?_
+
+###### Can – and should – economic growth continue? {-}
+
+Ask politicians, investors or CEOs if growth is 'good' and their _yes_ will likely be as emphatic as the _no_ one might hear from concerned environmentalists.
+
+The reason for such polarization is not that one respondent cares about society while the other doesn't, but rather that they have different perspectives on what _growth_ actually means. To reconcile these perspectives, we need to look at growth through a system lens.
+
+###### There are four types of economic growth. {-}
+
+From a systems perspective, there are four types of economic growth: @Pau00
+
+- **Type 1 – Growth in biophysical throughput:** This is the amount of raw materials we take out of (and waste we put back into) the environment. On a finite world, indefinite growth of this type is not possible.
+- **Type 2 – Growth in production and consumption:** This is the amount of goods and services flowing through society, which is roughly what Gross Domestic Product (GDP) measures. This kind of growth isn't _intrinsically_ bad. For example, as the population grows, more food will have to be produced and consumed.
+- **Type 3 – Growth in economic welfare:** This represents people's capacity and opportunity to lead a fulfilling life – and in particular the degree to which their basic needs are met ([Figure 3.6](#mg-figure-3-6)). There is a strong relationship between this type of growth and type 2 – but it is not a simple one.
+- **Type 4 – Growth in natural resources:** This is concerned with the amount of biomass (fish, wood, etc.) which regenerates through natural processes such as photosynthesis, and the health of the ecosystem functions (fresh water, fertile soil, etc.) which enable that regeneration. This type of growth increases the raw materials available for our consumption, and enriches the natural systems we depend upon.
+
+Growth of types 3 and 4 is unequivocally 'good', since it can contribute directly to solving many of the global challenges mentioned earlier, from social inequality to food security. Given that we're placing far too great a demand on Earth's natural systems, type 1 growth is a problem (see [Figure 3.7](#mg-figure-3-7)).
+
+As for type 2, growth in production _may_ make things worse (e.g. by causing ecosystem destruction), and excess consumption can be just as problematic (e.g. when single-use products result in large volumes of unrecyclable waste).
+
+###### Our pursuit of growth is flawed. {-}
+
+Today the global economy focuses almost exclusively on type 2 growth, production and consumption, regardless of how (and how much) it is linked to the other three types. Why? Because money changes hands when goods and services are bought and sold _–_ and our economic system has evolved to treat _financial returns_ and _value creation_ as one and the same thing.
+
+<div class="ff-figure" id="mg-figure-3-7" style="max-width:500px; margin:0 auto;">
+Figure 3.7: From a systems perspective there are four types of economic growth.
+
+![](assets/figures/types-of-growth.svg)
+</div>
+
+To understand why, we can use the iceberg model introduced earlier (see [Figure 3.4](#mg-figure-3-4)). The pursuit of GDP is a key driver of our economy, because every major nation on Earth has sought to maximize this metric since just after the second world war. @For11 This has shaped the structures and patterns of behaviour that social systems exhibit today.
+
+One way this manifests is in how much effort central banks and governments expend in trying to 'grow the economy' by tweaking interest rates and other factors at their disposal, constantly trying to adjust borrowing and spending patterns in pursuit of never-ending growth. Another is when companies seek out the cheapest legally-acceptable route to getting something done. If that route results in generating waste, over-harvesting raw materials, using creative approaches to pay less tax, or outsourcing work to regions with less progressive labour standards, so be it.
+
+Such negative impacts occur not because the people making the decisions are blind to social and environmental concerns, but because the economic context within which they are operating is not adequately driving the right kinds of outcome.
+
+###### Social systems in this context. {-}
+
+Numerous companies, cities and others are leading by example to pursue Triple Bottom Line results, but their successes are often achieved despite the system rather than because of it. Initiatives that bring clear environmental or social gains are often fully embraced only if they bring clear financial gains, too. A system's drivers influence everything it does and how it does it. As long as our economic system pursues GDP (and thus type 2 growth) alone, restorative outcomes will remain the exception rather than the norm. Type 2 growth is desirable only if we can find ways to decouple it from type 1, and insofar as it contributes to growth of types 3 or 4 – by raising welfare or regenerating natural systems.
+
+This is what 'good growth' means, and we must reorient our economic system to recognize and reward it. There is no magic button we can press to enable this, but a new growth paradigm can emerge over time if social systems work in concert – to transform social norms, global governance, shared infrastructure, and market mechanisms – so that 'doing the right thing' becomes the path of least resistance – and greatest reward – for all economic actors.
+
+### 3.7 Rethinking our place in the world {-}
+
+_We must transform degenerative outcomes into regenerative ones._
+
+###### Every social system must play its part in the transition ahead. {-}
+
+We have seen that society is a vast and interconnected web of social systems. Today the activities of these social systems are contributing to a range of degenerative outcomes: ones that are systematically undermining the integrity of the natural world and the social fabric we rely on. If we are to get on a shared path to success, we must transform these degenerative outcomes into regenerative ones.
+
+Synthesizing what we have learned about the environmental, societal and economic contexts, [Figure 3.8](#mg-figure-3-8) offers a way to characterize every social system's activities, in terms of eight focus areas. Every impact a social system may have on the world – intentionally or unintentionally, positive or negative – will fall within one of these areas.
+
+In the next chapter we identify what an appropriate regenerative outcome looks like for each of these areas, to define the Properties of a Future-Fit Society.
+
+<div class="ff-figure" id="mg-figure-3-8" style="max-width:600px; margin:0 auto;">
+Figure 3.8: These eight focus areas encompass how any social system can affect the world around it.
+</div>
+<div class="table-blue">
+<table style="max-width:600px; margin:0 auto;">
+<thead>
+  <tr>
+    <th>Focus Area</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="odd">
+    <td style="text-align:center">Energy</td>
+    <td style="text-align:center"; rowspan="3">Every social system – no matter what its purpose – requires energy and water, and relies on natural resources, even if only indirectly via the use of goods derived from them.</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Water</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Natural resources</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">Physical presence</td>
+    <td style="text-align:center">Every social system has some form of physical presence (e.g. buildings, fields, roads).</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Pollution</td>
+    <td style="text-align:center"; rowspan="2">Every social system typically generates unintended by-products as a result of its activities. Some are managed as waste, while others escape as pollution.</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Waste</td>
+  </tr>
+  <tr class="even">
+    <td style="text-align:center">People</td>
+    <td style="text-align:center">Every social system relies on people: individuals and groups who participate in its activities and who are affected by its existence.</td>
+  </tr>
+  <tr class="odd">
+    <td style="text-align:center">Drivers</td>
+    <td style="text-align:center">Every social system’s structure, patterns of behavior, and outcomes are influenced by the contexts within which it operates.</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+<!-- Section 4 -->
+
+## 4. Where we need to go: a Future-Fit Society {-#mg-future-fit-society}
+
+<div class="introquote">
+***And all I ask is a tall ship and a star to steer her by.***
+<p style="margin-top:0.5em;text-align:right">John Masefield</p>
+</div>
+
+### 4.1 Starting with the end in mind {-}
+
+###### What must we all aim for? {-}
+
+In the previous chapter we looked at the world through a systems lens to understand where humanity finds itself today, how we got here, and what has to change. We also learned that society can be viewed as a multi-layered network of interdependent social systems.
+
+To overcome our global challenges ([Figure 3.6](#mg-figure-3-6)), all social systems must act in the best interests of society as a whole, and operate in symbiosis with Earth's natural systems. Only then will it be possible for our global economy to meet humanity's needs within planetary limits. To get there requires both individual and collective action. And to ensure such action is effective, we need a shared destination to aim for:
+
+_A **Future-Fit Society** protects the possibility that humans and other life will flourish on Earth forever, by being socially just, economically inclusive, and environmentally restorative._[^4#mg-4]
+
+So far so good, but to guide, recognize and reward the right kinds of behaviour we need something more actionable.
+
+What specific outcomes must we all strive to deliver, to protect the possibility of human flourishing? What must we do with respect to energy or water use? How must we manage natural resources? And how should people be treated? Only when we can answer these questions can we find ways to signal how – and how much – any one social system has to change, and to identify who the true leaders are.
+
+Fortunately, 25+ years of research has given us a solid foundation to build on.
+
+### 4.2 The requirement for society {-#mg-requirement-for-society}
+
+###### Eight _system conditions_ point us toward a flourishing future. {-}
+
+Humanity can only hope to flourish if we have a unifying and operational definition of what it means for society to "be sustainable", coupled with a systematic approach to planning and action in pursuit of this state.
+
+This realization prompted a group of scientists in the early 1990s to begin work on what has become known in academia as the Framework for Strategic Sustainable Development, or FSSD (see below). Over the past quarter of a century the FSSD has been continuously refined through a combination of scrutiny against empirical data, real-world testing, and academic peer-review. At its core are eight _system conditions_ that together identify how society must operate if we are to safeguard the social fabric and natural systems upon which our future depends. These system conditions are illustrated in [Figure 4.1](#mg-figure-4-1). They can be thought of as the 'rules of the game' to which we must all adhere. They indicate what patterns of behaviour are environmentally and socially acceptable, in the sense that they avoid causing degenerative outcomes.
+
+Some of the ways in which these rules apply are readily apparent. For example, relying on energy from fossil fuels is a problem _if_ the greenhouse gases caused by their combustion escape into the air. This outcome breaches the first system condition, because such emissions contribute to a systematic increase in nature of concentrations of substances extracted from the Earth's crust.
+
+<div class="callout-note">
+**The Framework for Strategic Sustainable Development (FSSD)**
+
+In 1989 Dr. Karl-Henrik Robèrt led the creation of the FSSD, and also founded [The Natural Step](http://www.thenaturalstep.org/), a non-profit whose mission is to promote and foster the use of the FSSD at a community, company, city and even country level.
+
+The FSSD comprises a five-level model, which – together with the use of [backcasting](https://en.wikipedia.org/wiki/Backcasting) – serves both to define the required end state for society and to facilitate planning and action toward it. The system conditions form the second of the five levels. In academic texts these system conditions are referred to as Sustainability Principles, but the former term is favoured by many in a business context. For an excellent academic overview of the FSSD see @Bro15.
+
+The Future-Fit team is indebted to Karl-Henrik and The Natural Step – in particular the Canadian and Swedish teams – without whose early support the Future-Fit Business Benchmark would not exist.
+</div>
+
+<div class="ff-figure" id="mg-figure-4-1">
+Figure 4.1: The eight system conditions identifying how society must operate.
+
+![](assets/figures/system-conditions.svg)
+</div>
+
+###### These system conditions serve as a guide for radical innovation. {-}
+
+The good news is that the eight system conditions offer clear guidance on what to aim for. Although they define what must _not_ happen, this should be seen as liberating rather than restrictive: as long as they are not breached, _anything_ is possible. Hence the system conditions foster radical innovation, by helping us steer toward a flourishing future without prescribing any specific course of action.
+
+###### We must prevent future system condition breaches… {-}
+
+Every social system today breaches one or more of these system conditions routinely. While individual breaches may have a relatively small impact – not measurable at a planetary or societal level – their cumulative effects make these breaches unsustainable. Hence these system conditions represent the environmental and social _break-even point_ for society as a whole.
+
+###### …but we must also reverse the effects of past breaches. {-}
+
+Unfortunately, we have been breaching the system conditions for so long, and in so many ways, that we now have to do more than just avoid new breaches: we must find ways to _reverse_ the effects of breaches that have already occurred.
+
+From an environmental standpoint, this means actively restoring the Earth's capacity to meet humanity's needs – for example by regenerating biodiverse habitats, and neutralizing the effects of past pollution.
+
+From a social perspective, we must overcome the structural obstacles to social justice and economic inclusion that still leave a large proportion of the world's population without the capacity or opportunity to lead fulfilling lives.
+
+### 4.3 Properties of a Future-Fit Society {-}
+
+###### The regenerative outcomes a Future-Fit Society would deliver. {-}
+
+In the previous chapter we synthesized everything we know about the environmental, societal and economic contexts, to identify eight focus areas that encompass how all social systems may affect people or the planet, for good or for ill.
+
+By looking at each focus area through the lens of the FSSD system conditions, we can identify a comprehensive, topic-specific set of regenerative outcomes which we must all strive to deliver.
+
+[Appendix 1](#mg-appendix-1) summarizes how this mapping was done. We can think of the results of this as the eight Properties of a Future-Fit Society (see [Figure 4.2](#mg-figure-4-2)), each of which is now described.
+
+<div class="ff-figure" id="mg-figure-4-2">
+Figure 4.2: The seven core properties of a Future-Fit Society, plus an eighth enabling property, which identifies the socioeconomic drivers required to pursue the others.
+
+![](assets/figures/ff-properties.svg)
+</div>
+
+#### 4.3.1 Energy is renewable and available to all {-}
+
+All human activities – growing and cooking food, heating and lighting buildings, moving goods and people from one place to another – require energy.
+
+Around 80% of the energy we consume today is from non-renewable resources, and in particular fossil fuels. When burned, these fossil fuels emit carbon dioxide, and this is one of the biggest contributors to climate change and ocean acidification.
+
+The way we obtain fossil fuels is also a problem. Techniques such as fracking and strip-mining cause enormous disruption to the environment.
+
+Not only that, a large proportion of the global population simply do not have sufficient access to energy to meet their daily needs. It is estimated that 20% of the world's population have no access to electricity, and 2.7 billion people do not have clean and safe energy for cooking.
+
+**_In a Future-Fit Society, all energy is from renewable sources – solar, wind, geothermal and so forth – which support clean growth and sustainable development. And sufficient energy is available to everyone, so that even the most remote communities can meet their daily needs._**
+
+#### 4.3.2 Water is responsibly sourced and available to all {-}
+
+Fresh water is crucial to people's health, for drinking, growing food, cooking and sanitation. But many people today do not have enough clean water to meet these basic needs.
+
+In fact, it is forecast that by 2025 two thirds of the world's population will live under conditions of water stress.
+
+The responsible use of water is a complex issue, and impacts must be addressed at a local level, because watersheds can be affected by the removal of water from an area, the introduction of additional water, timing differences between withdrawals and discharges, and changes in water quality and other water characteristics such as heat and pH levels.
+
+In many parts of the world, we're consuming too much fresh water, and wastewater we return to the environment is often polluted.
+
+So we're reducing both the quantity and the quality of water available to communities and the ecosystems we depend upon.
+
+**_In a Future-Fit Society, all water is responsibly sourced and available to all. We don't exacerbate water stress, and the quality of any water returned to nature is at least as high as when it was withdrawn. And sufficient clean water is available to everyone, so that even the most remote communities can meet their daily needs._**
+
+#### 4.3.3 Natural resources are managed to safeguard communities, animals and ecosystems {-}
+
+Society relies on a vast array of natural resources. This includes non-renewable resources, such as mined metals and minerals, and renewable resources such as crops and the soils that support them, animals, fish and forests.
+
+Today, most natural resources are being inadequately managed: animal suffering, land degradation, and the abuse of local communities are common. We're using renewable resources 1.7 times faster than they are being regenerated. What's more, as the Earth's most accessible
+ non-renewable resources are used up, extraction methods often become increasingly disruptive.
+
+So pretty much all of the goods we rely on – from food to phones – depend on natural resources whose production undermines people's wellbeing or degrades the environment.
+
+**_In a Future-Fit Society, natural resources are managed to safeguard communities, animals and ecosystems. Crops are grown on suitable land, and in ways that maintain soil health. Animals are reared or hunted in ways that minimize suffering. All renewable resources are managed to protect their future availability. And all non-renewable resources are extracted without degrading surrounding ecosystems and communities._**
+
+#### 4.3.4 The environment is free from pollution {-}
+
+Almost all economic activities today – sourcing raw materials, manufacturing and using goods, transporting things around the world – cause some degree of pollution.
+
+There is no longer any doubt that the systematically increasing concentration of greenhouse gases (GHGs) in the atmosphere is contributing to climate change, and other problems such as ocean acidification. All GHG emissions resulting from fossil fuel combustion and other human processes must be rapidly eliminated if we are to avoid the most catastrophic impacts of global warming.
+
+Many other kinds of pollution harm people's health and disrupt natural ecosystems. Examples include hazardous fertilizers and pesticides, toxic chemicals, and a wide range of synthetic substances which do not break down quickly and safely and so build up in nature.
+
+**_In a Future-Fit Society, the environment is free from pollution. The air is breathable and free from noxious substances, soils are healthy, and waters are clean. All harmful emissions are avoided, and society continuously strives to reverse the damage done by past pollutants, to restore environmental health._**
+
+#### 4.3.5 Waste does not exist {-}
+
+Almost all value chains today follow a linear _take-make-waste_ approach. At every step, our methods of production and consumption typically result in material by-products, which are discarded as waste. Many valuable materials are incinerated or dumped in ways that disrupt the environment.
+
+Demand for virgin resources can be mitigated if materials are repurposed, rather than discarded. Repurposing also eliminates the costs – financial, environmental and human – that waste disposal incurs.
+
+**_In a Future-Fit Society, waste does not exist. Today's take-make-waste approach to material use is supplanted by a borrow-use-return approach. All by-products of human activities – and goods that reach the end of their useful life – are transformed to serve other needs, in ways that maximize their re-use value._**
+
+#### 4.3.6 Our physical presence protects the health of ecosystems and communities {-}
+
+Growing demand for land – as well as activities such fishing and mining – encroach on nature and have led to the destruction of pristine ecosystems, damage to culturally significant sites, and the abuse of local people's rights.
+
+As a result, many ecosystems – from rainforests to coral reefs – are on the brink of collapse, and the resilience of many communities is under threat.
+
+**_In a Future-Fit Society, our physical presence protects the health of ecosystems and communities. Human activities do not encroach on the natural world, and society continuously strives to regenerate damaged ecosystems – and to restore community rights to land, resources and areas of cultural significance._**
+
+#### 4.3.7 People have the capacity and opportunity to lead fulfilling lives {-}
+
+Society's ability to thrive relies to a great extent on the wellbeing of the people that contribute to it.
+
+But today billions of people are living in some form of poverty, lacking access to basic services and economic opportunity. What's more, human rights abuses and discrimination are widespread.
+
+**_In a Future-Fit Society, people have the capacity and opportunity to lead fulfilling lives. This means everyone is able to meet their basic needs – for nutrition, education, healthcare, and so on – while also being free to pursue higher needs – such as a sense of meaning, belonging, and creativity._**
+
+#### 4.3.8 Social norms, global governance and economic growth drive the pursuit of future-fitness {-}
+
+The other seven properties of a Future-Fit Society describe the outcomes that such a society will deliver. In contrast, this property is about putting in place the conditions that will _enable_ those outcomes.
+
+Social norms, global governance and how we pursue economic growth are what drive the behaviours of all social systems. Today those drivers are misaligned, so we remain on the same breakdown trajectories that have led to the existential problems we are now facing.
+
+Examples of breakthrough technologies and business models can be found everywhere, but until society starts to truly value and actively favour such endeavours, it may prove impossible to replicate their success at sufficient speed and scale.
+
+**_In a Future-Fit Society, social norms, global governance and economic growth drive the pursuit of future-fitness. Rapid and radical progress becomes the rule rather than the exception, because society recognizes and rewards actions that move us in the right direction._**
+
+### 4.4 The role of every social system {-#mg-social-system-role}
+
+###### A Future-Fit Society lies within our grasp if we work together. {-}
+
+The Properties of a Future-Fit Society offer a shared destination to aim for. But how can any specific social system be sure it is helping – rather than hindering – our collective progress? To answer that question, we can start by considering the full range of impacts any social system may have across two independent dimensions, as shown in [Figure 4.3](#mg-figure-4-3).
+
+###### A social system's impacts may be either positive or negative. {-}
+
+Positive impacts are those which help to bring society into closer alignment with the aforementioned properties, and so move us toward future-fitness. Negative impacts are those which hold us back.
+
+###### A social system's impacts may be either direct or indirect. {-}
+
+All social systems rely on the activities of others – for example, to provide them with essential goods and services – and those activities might lead to a wide range of impacts, both good and bad.
+
+A social system cannot absolve itself of responsibility for such impacts _if_ its own success depends on the activities which cause them. We can class such impacts as _indirect_, in contrast to the _direct_ impacts which one's own activities cause.
+
+It is important to note that there are two degrees of accountability at play here: a social system can _control_ its own actions – and thus its direct impacts – but it can only _influence_ the actions of others.
+
+<div class="ff-figure" id="mg-figure-4-3">
+Figure 4.3: A social system's impacts may be considered across two dimensions: positive versus negative, and direct versus indirect.
+
+![](assets/figures/ff-impact-2x2-ss.svg)
+</div>
+
+###### The break-even point for extra‑financial performance. {-}
+
+As we learned in [_the economic context_](#mg-economic-context), our economic system has evolved to treat _financial returns_ and _value creation_ as one and the same thing. The transition to a Future‑Fit Society requires a more holistic approach: one in which all social systems strive to create _system_ value by positively impacting all three dimensions of the Triple Bottom Line.
+
+This begs the question: what is the _minimum_ any social system must do to remain viable? With respect to the financial bottom line, the answer has always been clear: every company, investor, city or other economic actor must at least be able to cover its ongoing costs. Any surplus (or 'profit' in business language) is welcomed, but the minimum requirement is to _break-even_.
+
+To guide the creation of system value effectively, we must clearly identify what it means to break‑even for the social and environmental dimensions of the Triple Bottom Line. This is about determining what any social system _must_ do – and what it _may_ do beyond that – to support our collective journey to future-fitness.
+
+###### What all social systems _must_ do. {-}
+
+Any social system must do everything in its power to eliminate negative impacts that occur as a result of its existence.
+
+This involves two things: modifying its own activities to align with the FSSD system conditions ([Figure 4.1](#mg-figure-4-1)); and avoiding any dependence on others who are not committed to doing the same.
+
+By doing this, every social system can ensure it does not _slow down_ society's progress. This is represented by the bottom-left quadrant of [Figure 4.3](#mg-figure-4-3).
+
+###### What any social system _may_ do. {-}
+
+In addition, a social system may actively seek to _speed up_ society's progress, by helping others to avoid causing a negative impact, by creating a positive impact itself, or by amplifying a positive impact created by others. Such actions are represented by the other three quadrants of [Figure 4.3](#mg-figure-4-3).
+
+###### Pursuing future-fitness in a holistic way. {-}
+
+Any social system can use this framing to explore its overall contribution, for good or ill, to realizing the Properties of a Future-Fit Society. For example, what can and should a city do, to ensure that _Energy is renewable and available to all_? And what can and should a household do, to ensure that _Waste does not exist_?
+
+If all social systems apply this approach, to work both individually and in concert in pursuit of future-fitness, the SDGs – and all that they stand for – will be well within our grasp (see [Figure 4.4](#mg-figure-4-4)).
+
+<div class="ff-figure" id="mg-figure-4-4">
+Figure 4.4: Reaching the SDGs is a step on the path to a Future-Fit Society.
+
+![](assets/figures/ff-properties-sdgs.svg)
+</div>
+
+
+<!-- Section 5 -->
+
+## 5. Actionable guidance for business {-#mg-actionable-guidance}
+
+<div class="introquote">
+***Objectives can be compared to a compass bearing by which a ship navigates… Without a compass bearing, a ship would neither find its port nor be able to estimate the time required to get there.***
+<p style="margin-top:0.5em;text-align:right">Peter Drucker</p>
+</div>
+
+### 5.1 Toward Future-Fit Business {-}
+
+###### What should business do? {-}
+
+Many types of business – movie studios, fashion houses and ice cream vendors, to take a few examples – do not try to solve society's biggest challenges. This doesn't make them 'bad' or incompatible with a Future-Fit Society: many might say life would be dull without great films, fine clothes, and the occasional treat.
+
+Other companies have business models which are more obviously aligned with meeting societal needs – such as food or pharmaceutical producers – but this doesn't mean they are inherently 'good'. Even if their products are beneficial, such companies may rely on many activities which exacerbate systemic problems.
+
+What matters from a system perspective is that _every_ company does nothing to _undermine_ society's transition:
+
+_A **Future-Fit Business** in no way undermines – and ideally increases – the possibility that humans and other life will flourish on Earth forever._
+
+###### Developing actionable guidance. {-}
+
+As discussed in the previous chapter, this is about reaching a set of environmental and social thresholds that constitute the _extra-financial break-even point_ for value creation, across the Triple Bottom Line. In this chapter we identify exactly what this looks like in a business context.
+
+Any tool must be both useful and usable, and the Future-Fit Business Benchmark is no exception. To translate the requirements for society into actionable guidance for companies, it was necessary to answer two questions:
+
+- **The requirement for business**: What do business leaders and investors need, if we are to equip them to rise to the challenge?
+- **The role and reach of business**: What can – and what must – each company do, within and beyond its value web, to play its part in reaching a Future-Fit Society?
+
+Each of these areas is now addressed.
+
+### 5.2 The requirement for business {-}
+
+In theory, any company could take the requirements for a Future-Fit Society introduced [above](#mg-requirement-for-society) and deduce how its business needs to change. In practice, only the most progressive companies are likely to invest the effort required to figure out how to do this. Furthermore, the chances are that left to their own devices, any two companies – even within the same industry – would frame their ambitions and assess their progress in completely different ways.
+
+This is not ideal: we have a common destination in mind – a Future-Fit Society – so why not track commitments and progress in the same way, too? In fact, there are four good reasons to do so:
+
+###### Peer pressure drives progress. {-}
+
+While every business should remain focused on the destination, companies will always seek to understand what their competitors are doing – and may be spurred into raising their own game as a result. If everyone looks at progress in a similar way, it's easier for a company to track how it is doing relative to its peers in pursuit of the right end goals.
+
+###### Investors want to identify who the true leaders are. {-}
+
+The lack of comparability around corporate environmental and social targets makes it difficult for even the most diligent investor to determine which companies are doing most to prepare for systemic risks and open up new opportunities for growth. A concise, comparable, aggregable set of metrics, which frame short-term actions in the context of meaningful long-term ambitions, would solve this problem.
+
+###### Collaboration requires a shared vision and goals. {-}
+
+Effective partnerships will be critical if any company – let alone society as a whole – is to become Future-Fit. A consistent set of goals can help all organizations across a value web figure out how to work together, to improve their mutual future-fitness.
+
+###### A holistic approach is needed to avoid unforeseen trade-offs. {-}
+
+As described in [_the role of every social system_](#mg-social-system-role), there are many ways in which a company can have a positive impact, and any such efforts should be encouraged. That said, no attempt to 'do good' can justify a lack of necessary progress elsewhere, because positive and negative impacts almost never cancel out.[^5#mg-5] A unified framing, which encompasses all possible positive and negative contributions to a Future‑Fit Society, can help to ensure that even the most focused company does not lose sight of the big picture.
+
+_Whatever positive impacts a company creates, it must become Future-Fit before it can claim with any confidence to be **creating system value**._
+
+###### Equipping business leaders and investors with what they need. {-}
+
+The above considerations informed the pivotal phase in the Benchmark's development: translating the concepts presented thus far into a set of Break‑Even Goals, Positive Pursuits, and complementary performance indicators (see [Figure 5.1](#mg-figure-5-1)).
+
+The next section describes the development methodology employed.
+
+<div class="ff-figure" id="mg-figure-5-1">
+Figure 5.1: The anatomy of the Future-Fit Business Benchmark.
+
+![](assets/figures/anatomy.svg)
+</div>
+
+### 5.3 The role and reach of business {-}
+
+###### What _every_ business _must_ do, and what _any_ business _may_ do. {-}
+
+The FSSD system conditions introduced [_above_](#mg-requirement-for-society) offer a solid, science-based foundation for identifying what _every_ company _must_ do, as well as what _any_ company _may_ do beyond that.
+
+A business will reach _extra-financial break-even_ – and so become Future-Fit – only when its existence in no way contributes to breaches in the system conditions, within and beyond its own four walls.
+
+In addition – and even before it becomes Future-Fit itself – a business may pursue positive outcomes that advance society's own progress to future-fitness, by acting to overcome past system condition breaches, or by helping others to avoid future breaches.
+
+###### The scope of business influence. {-#mg-value-web}
+
+To understand what it means for a business to _not contribute_ to breaches in the system conditions, we must be clear on the extent of a company's potential to affect others.
+
+Every business is just one actor in a complex and dynamic value web, influencing and influenced by a wide range of other social systems. We can segment the value web into four areas:
+
+- **Suppliers**: This encompasses everyone involved in producing the inputs that the company depends upon, and anyone affected by those activities – including workers and communities throughout the company's supply chains.
+- **Operations**: The activities of the company itself, including the communities and workers that support them.
+- **Products**: The revenue-generating goods and services offered by a company, and the individuals, companies, or other actors who benefit from or are affected by them.
+- **Society**: Other organizations, physical infrastructure, and shared societal institutions which the company can influence and/or be influenced by.
+
+This value web segmentation serves as the basis for determining two things. First, the extent to which a company should be held responsible for system condition breaches. Second, the degree to which a company may seek to have a positive impact – and be recognized for doing so – by reversing the effects of past breaches, or helping others to avoid future breaches.
+
+These two complementary aspects to pursuing future-fitness – responsibility for eliminating negative impact, and recognition for positive impact – are summarized in [Figure 5.2](#mg-figure-5-2), and are described in depth below.
+
+<div class="ff-figure" id="mg-figure-5-2">
+Figure 5.2: Mapping the Requirement for Society onto the Role and Reach of Business to identify what business can and must do with respect to the system conditions.
+
+![](assets/figures/map-role-and-reach.svg)
+</div>
+
+##### Business responsibility for negative impacts across the value web {-#mg-mutually-accountable}
+
+Few would take issue with the notion that a company is responsible and _wholly accountable_ for impacts within its direct control, such as those related to its day-to-day operations and the design of its products. However, from a systems perspective, a business is also _mutually accountable_ for certain impacts outside its direct control:
+
+_A company is **mutually accountable** for any impact beyond its own four walls, to the degree to which that impact is a consequence of the company's existence._
+
+To identify the break-even point every business must reach, this definition of mutual accountability must be applied across all four areas of the value web.
+
+###### Break-even in relation to suppliers. {-}
+
+No business can be Future-Fit if its success relies on using inputs which themselves cause system condition breaches. So mutual accountability here is about not _externalizing_ breaches back through the company's supply chains. The exact requirements vary, as follows:
+
+- **Outsourced core functions**: When a company outsources any activity that it would otherwise have to undertake itself (e.g. customer support, manufacturing, logistics) it also outsources all negative impacts associated with that activity. Hence a company is mutually accountable for avoiding or addressing all system condition breaches caused by the provision of its outsourced functions.
+
+- **Product inputs**: No company can produce physical goods – or offer services whose delivery involves the _consumption_ of such goods – without relying on raw materials, manufactured parts, etc. Hence mutual accountability demands that a company works to avoid or address all cradle-to-gate impacts caused by the provision of its [product inputs](#def-product-input).
+
+- **Ancillary goods and spend**: This encompasses three types of purchase. First, services that a company uses from time to time (e.g. consultancy, taxis, flights and hotels for business travel). Second, general goods consumed in the course of day-to-day operations (e.g. office supplies, cleaning products). Third, purchased or leased capital assets that support day-to-day activities (e.g. buildings, IT equipment, machinery, furniture). A company can generally source such inputs on a like-for-like basis from a range of suppliers, but its influence over any one of them is likely to be negligible. In this case, mutual accountability extends to selecting the best option available.
+
+Today's global supply chains can be highly complex and opaque. Traceability of business inputs – and their resulting impacts – is thus a significant challenge. However, ignorance is no defence, and a company is wholly accountable for doing all it can through its procurement practices to continuously anticipate, avoid and address supply chain hotspots, until the above requirements are met.
+
+###### Break-even in relation to operations. {-}
+
+A company is wholly accountable for eliminating negative environmental and social impacts caused by its own activities, and that extends to the actions of its workers. It is not possible to completely control the actions of individual employees, but a company must do all it can to anticipate and avoid problems, and to address any issues effectively when they do arise.
+
+###### Break-even in relation to products. {-}
+
+A company must do all it can to ensure that the goods and services it offers do not harm people or the environment, but it cannot be expected to exert complete control over its customers' actions. So a company is deemed to be mutually accountable for unavoidable or likely and foreseeable impacts resulting from the use and (in the case of physical goods) post-use processing of its products.
+
+For example, if a company sells a car powered by an internal combustion engine, then – because the driver has no choice in the matter – the company is mutually accountable for the greenhouse gases that the car emits during use. If a company sells an electric car, then the driver is free to use renewable sources of electricity to charge the battery. In this case the company is _not_ mutually accountable for any greenhouse gas emissions that occur (during electricity generation) if the customer uses a carbon-emitting source of electricity.
+
+###### Break-even in relation to society. {-}
+
+A company must behave ethically, and must in no way – through either action (such as lobbying against progressive legislation) or inaction (such as failing to pay sufficient taxes) undermine the integrity of the societal institutions and physical infrastructure we all rely on.
+
+A company is also mutually accountable for the impact of its financial assets. Every organization is constrained in its actions by its access to capital, and companies have the power to provide such access, in the form of investments or loans. Business must do all it can to ensure that it does not financially support any activity whose success depends on breaches to the system conditions (e.g. providing project finance to build coal-fired power stations).
+
+##### Business recognition for positive impacts across the value web {-}
+
+Recall that a company may pursue positive outcomes either by acting to overcome past breaches to the system conditions, or by helping others to avoid future breaches. Again, we look at all four areas of the value web in turn.
+
+###### Positive Pursuits in relation to suppliers. {-}
+
+As explained above, a company cannot be considered Future-Fit with respect to its suppliers until it has effectively avoided or addressed all negative impacts that occur within its supply chains.
+
+Attaining this level of performance – particularly for product inputs with complex, multi-layered supply chains – may take significant time and effort.
+
+However, there is a big difference between waiting for a supply chain to improve, and actively intervening to improve it. Hence any action a company takes _to enable_ a supplier to reach break‑even constitutes a Positive Pursuit.
+
+For example, a company sourcing an agricultural input from a water-stressed region may offer financial assistance and/or expertise to help suppliers install drip irrigation technology, thus radically reducing the input's water footprint.
+
+A company may also pursue positive outcomes by helping suppliers to reverse past environmental impacts (e.g. by restoring previously-felled forests), or increasing economic opportunity among underserved groups (e.g. by enabling access to commodities markets for smallholder farmers in remote areas).
+
+###### Positive Pursuits in relation to operations. {-}
+
+A company has complete control over its own operational activities, so gradual reduction of its own negative impacts toward break-even do _not_ count as a Positive Pursuit.
+
+However, a company may achieve positive outcomes through its own activities if it goes beyond break-even, and begins to reverse environmental impacts (e.g. by generating more renewable energy than it needs, and offering the surplus back to the grid), or if it increases social inclusion by actively seeking to employ people from underserved groups.
+
+###### Positive Pursuits in relation to products. {-}
+
+A company may achieve a positive outcome by enabling its customers to eliminate their own negative impacts (e.g. by vastly reducing their need for fossil fuels or fresh water) – or even to have a positive impact themselves.
+
+Note, however, that it is difficult to assess with any confidence – or credibility – the positive impact a product has, because the benefit accruing from its use depends on the other options available. Consider, for example, a highly efficient but gasoline-powered SUV. If a customer were to buy such a vehicle to replace a more efficient compact car, the net change in green-house gas emissions would be worse.
+
+The case may be stronger when it comes to products that _completely eliminate_ a negative impact – if the new SUV was powered only by electricity, for example. Even then, what if a customer could have met their transport needs using more energy-efficient public transit?
+
+There are no easy answers – and even the most well-meaning business may end up being accused of greenwashing if its claims of positive impact are overblown.
+
+There are, however, two ways to increase the chances that products really will have a measurable positive impact. The first is to offer goods or services whose use actually reverses past environmental impacts (e.g. technology to clean up polluted rivers). The second is to enable underserved groups to meet their basic needs (e.g. by providing clean energy or affordable healthcare to the rural poor), thus overcoming barriers to social inclusion and wellbeing.
+
+###### Positive Pursuits in relation to society. {-}
+
+As noted in [_the economic context_](#mg-economic-context), there is no magic button we can press to reorient our economic system in pursuit of future-fitness. But a new growth paradigm can emerge if we work together to transform social norms, global governance, shared infrastructure, and market mechanisms.
+
+Any company may actively contribute to this shift, through the application of its corporate and/or brand influence, its core competencies and technical know‑how, and how it chooses to invest its financial capital.
+
+### 5.4 Deriving the Break-Even Goals, Positive Pursuits, and Indicators {-}
+
+#### 5.4.1 Break-Even Goals {-}
+
+Break-Even Goals were formulated to give business leaders a clear destination to aim for, such that:
+
+- Each goal is expressed as a single sentence, whose meaning can be grasped by business leaders, investors and other key stakeholders without lengthy explanation.
+- Each goal represents the minimum level of performance to aim for in one part of the value web (e.g. products, operations) and relates to one issue (e.g. wages, waste).
+- All goals together identify the social and environmental break-even point that every company must reach.
+
+To derive these goals, it was first necessary to examine all of the ways in which a company could breach the system conditions – and thus slow down progress toward realizing the Properties of a Future-Fit Society ([Figure 4.2](#mg-figure-4-2)).
+
+The next step was to identify what behaviours would have to be in place to ensure that such breaches would _not_ occur. Finally, these behaviours were translated into a set of clear, concise Break-Even Goals. [Figure 5.3](#mg-figure-5-3) summarizes this process, and details of the mapping can be found in [Appendix 2](#mg-appendix-2). The goals themselves are presented in the next chapter.
+
+<div class="ff-figure" id="mg-figure-5-3">
+Figure 5.3: How the Future-Fit Break-Even Goals were derived.
+
+![](assets/figures/map-be.svg)
+</div>
+
+#### 5.4.2 Break-Even Indicators {-}
+
+Business leaders need to monitor performance and prioritize where action is most needed. Furthermore, investors and other stakeholders need to make meaningful comparisons across companies, to understand who is leading the pursuit of future-fitness. Hence we need a consistent way to assess progress toward each Break-Even Goal.
+
+###### Design criteria for indicators. {-}
+
+In developing the indicators, the following design criteria were employed:
+
+####### Calculable… {-}
+
+- All data required to compute an indicator's value should be within the company's power to obtain, even if some companies may not be capturing it already.
+- Each indicator should be calculable, even if a company does not know everything about its impacts(e.g. it may not know the source of a purchased material, or the emissions of a particular site). So indicators must accommodate knowledge gaps.
+- Each indicator should encourage a company to close its knowledge gaps, and so it should never penalize increased knowledge (e.g. finding out that a particular product has a negative impact should not improve the company's score, but neither should it be reduced).
+
+####### Comparable… {-}
+
+- Each indicator should measure performance consistently across any company, regardless of its size, sector or location.
+
+####### Complete… {-}
+
+- The indicators should cover the full scope of a company's responsibility, encompassing all relevant activities undertaken by or on behalf of the business, across the value web.
+
+####### Concise… {-}
+
+- Each indicator should capture performance in the context of whichever entity is most relevant to the goal (e.g. per product, or per employee). This ensures that the company is able to identify where action is most needed.
+- Each indicator should aggregate per‑entity metrics into one value (or as few as possible, if a single value would not be meaningful) which represents the company's overall progress. Furthermore, the performance of each entity should be weighted in accordance with its overall contribution to the business.
+- At both the micro (per-entity) and macro (company-wide) levels, it should be possible to express progress toward break-even as a percentage.
+
+####### Credible… {-}
+
+- Each indicator should build on leading science, and accurately capture the 'spirit' of the goal it seeks to measure progress toward.
+- Each indicator should draw on best-available third-party resources, such as independent industry standards, insofar as they exist and align with the required level of performance.
+
+###### Evolution of the Indicators {-}
+
+A first set of Break-Even Indicators was presented in Release 1. Like the Break‑Even Goals, these have been refined with early adopters.
+
+One major improvement is that each goal is now supported by both _progress_ and _context_ indicators. The intent is not to burden companies with even more things to measure, but rather to help them put their progress in context, to give a better sense for how well they are optimizing resources, and how far away they are from reaching break-even.
+
+Consider, for example, the goal _Water use is environmentally responsible and socially equitable_. There are two aspects to this, relating to both quantity and quality. First, a company must reduce and eventually eliminate its water consumption from water-stressed regions. Second, it must ensure that any discharges do not degrade the quality of the receiving water body or soil, and do not cause harm in any other way. To present the full picture, the goal is accompanied by four indicators: two progress indicators to capture fitness as a percentage for both consumption and discharge, and context indicators for each to record the total amount of water consumed and discharged respectively.
+
+Note that in keeping with the _Concise…_ design criterion, additional indicators are employed only if they help to inform better business decisions.
+
+For more information on the Break-Even Indicators, see the [**Action Guides**](#be).
+
+#### 5.4.3 Positive Pursuits {-}
+
+Positive Pursuits were formulated to help business leaders actively contribute to society's future-fitness, such that:
+
+- Each Positive Pursuit is expressed as a single sentence, whose meaning can be grasped by business leaders, investors and other key stakeholders without lengthy explanation.
+- Each Positive Pursuit identifies a way either to reverse the effects of negative environmental or social impacts that occurred in the past, or to help others avoid having such negative impacts in the future.
+- Each Positive Pursuit relates to one type of intended outcome which can be delivered acrossthe value web, and so encompasses a range of possible actions – from improving supplier performance, to offering beneficial products, to strengthening the abilities of markets and institutions to pursue future-fitness.
+
+To derive these Positive Pursuits, it was first necessary to examine how a company could act to overcome past breaches to the system conditions, or help others to avoid future breaches – and thus speed up progress toward realizing the Properties of a Future-Fit Society ([Figure 4.2](#mg-figure-4-2)).
+
+The next step was to group these behaviours into a clear and concise set of outcomes which a company may seek to deliver. [Figure 5.4](#mg-figure-5-4) summarizes this process, and details of the mapping can be found in [Appendix 2](#mg-appendix-2).
+
+<div class="ff-figure" id="mg-figure-5-4">
+Figure 5.4: How the Future-Fit Positive Pursuits were derived.
+
+![](assets/figures/map-pp.svg)
+</div>
+
+#### 5.4.4 Positive Indicators {-}
+
+There are a potentially infinite number of ways in which a company can undertake a Positive Pursuit. For example, ensuring **More people are healthy and safe from harm** by reducing the impact of diabetes among the world's poorest people might be tackled by educating people on healthy eating choices, providing access to affordable insulin, or training healthcare professionals to spot and treat the disease before symptoms escalate.
+
+This diversity of approach means it can be challenging to assess and report on any two projects in a consistent and comparable way. But striving to do so is important, both to inform future project decisions, and to present results to investors and others in a meaningful way.
+
+The need for a common way to describe impact led to the formation of the Impact Management Project (see box).
+
+Future-Fit Foundation is a contributing author to the IMP, and our approach to assessing positive outcomes draws significantly on their work. We are committed to refining our guidance in line with this cross-sector initiative, as it continues to evolve. For further details see the [**Positive Pursuit Guide**](#pp).
+
+<div class="callout-note">
+**Introducing the Impact Management Project (IMP)**
+
+Between 2016 and 2018, the IMP brought together over 2,000 practitioners from across geographies and disciplines, to arrive at a consensus on how to talk about, manage and measure impact – bridging the perspectives of business, non-profits, investment, social science, grant-making, evaluation, policy, standards bodies and accounting. This diverse group arrived at a shared definition of "impact", and agreed on the types of data one would expect to find in any good impact framework or report. @Imp19
+</div>
+
+
+<!-- Section 6 -->
+
+
+## 6. Break-Even Goals {-#mg-be}
+
+<div class="ff-figure" id="mg-figure-6-1">
+Figure 6.1: The Future-Fit Break-Even Goals.
+
+![](assets/figures/be-sdg.svg)
+</div>
+
+<div class="callout-note">
+The 23 Break-Even Goals presented here are grouped according to the eight Properties of a Future-Fit Society. For each goal a summary is given, together with a link to download the goal's **Action Guide** where detailed guidance on pursuing the goal can be found.
+</div>
+
+### 6.1 Energy {-}
+
+_In a Future-Fit Society, **energy** is renewable and available to all._
+
+#### BE01: Energy is from renewable sources {-#mg-be01}
+
+Oil, coal and gas are often obtained in environmentally destructive ways, and their use as fuels leads to greenhouse gas emissions. Furthermore, these resources are finite, and their value to society extends far beyond combustion.
+
+To be Future-Fit, a company must ensure that all the energy it consumes – as electricity, heat or fuel – is derived from renewable energy sources. These include solar, wind, wave and hydropower, geothermal resources, and biomass.
+
+See [**Action Guide**](#be01).
+
+### 6.2 Water {-}
+
+_In a Future-Fit Society, **water** is responsibly sourced and available to all._
+
+#### BE02: Water use is environmentally responsible and socially equitable {-#mg-be02}
+
+Through excessive withdrawals of water, discharge of polluted wastewater, or by adversely affecting the characteristics of any withdrawn water before returning it to nature, a company may undermine the quantity, quality, and availability of water at a local level.
+
+Companies must ensure that their use of water doesn't undermine the quantity and quality of water available for people and ecosystems that depend on the watersheds concerned.
+
+To be Future-Fit a company must:
+
+a) minimize – and in water-stressed regions eventually eliminate – its consumption of water for industrial and commercial purposes; and
+b) ensure that any discharges do not degrade the quality of the receiving water bodies, the health of receiving soils, or in any other way cause harm to ecosystems or people.
+
+See [**Action Guide**](#be02).
+
+### 6.3 Natural resources {-}
+
+_In a Future-Fit Society, **natural resources** are managed to safeguard communities, animals and ecosystems._
+
+#### BE03: Natural resources are managed to respect the welfare of ecosystems, people and animals {-#mg-be03}
+
+As demand for natural resources increases, so does the pressure placed on the ecosystems, people and animals that contribute to their delivery.
+
+The emphasis here is on causing no harm as a result of the company's ownership or management and extraction of natural resources. This includes but is not limited to:
+
+- Harvesting renewable resources at rates that do not reduce nature's capacity to regenerate them.
+- Extracting non-renewable resources in ways that do not systematically damage surrounding ecosystems and communities.
+- Respecting the welfare of animals.
+- Avoiding conflict and human rights violations when mining valuable minerals.
+
+To be Future-Fit, a company must:
+
+a) preserve the health of all natural resources it owns or manages; and
+b) protect the health of any ecosystems and communities impacted by harvesting and extraction activities.
+
+See [**Action Guide**](#be03).
+
+### 6.4 Pollution {-}
+
+_In a Future-Fit Society, the environment is free from **pollution**._
+
+#### BE05: Operational emissions do not harm people or the environment {-#mg-be05}
+
+Company operations can cause the release of a range of chemicals and particles. The emission of substances that are already abundant in nature, and of substances that nature can break down rapidly and without consequence, are not a concern.
+
+Some substances are known to be toxic to people and organisms. Other substances may not seem immediately harmful, but if nature cannot break them down rapidly they may – through gaseous, liquid or solid emissions – systematically build up in the environment to dangerous levels.
+
+Substances of greatest concern include those that are scarce in nature (e.g. trace metals such as cadmium), those that are persistent (e.g. CFCs), and those that are emitted in large volumes (e.g. NOx). All such potentially harmful substances must be kept in tight closed loops, or not used in the first place. The context of this goal may vary from local (e.g. soil, rivers) to global (e.g. air, oceans) depending on the substance and mode of emission.
+
+To be Future-Fit, a company must:
+
+a) eliminate harmful gaseous emissions (e.g. air pollutants, toxic fumes);
+b) eliminate harmful solid emissions (e.g. scarce metals, use of hazardous fertilizers); and
+c) eliminate harmful liquid emissions (e.g. spills, chemical fluids).
+
+See [**Action Guide**](#be05).
+
+#### BE06: Operations emit no greenhouse gases {-#mg-be06}
+
+Nature can safely absorb some human-made greenhouse gases (GHGs) every year, but the Future‑Fit imperative is for companies to eliminate all operational GHG emissions. That's because we are dangerously close to reaching atmospheric GHG levels that will be catastrophic for society, and any attempt to divide up the remaining carbon budget across companies is likely to be too complex, contentious and/or time-consuming to result in the scale and speed of reduction that is now needed.
+
+To be Future-Fit, a company must emit net zero GHGs as a result of its own operational activities and its energy consumption. Net GHG emissions here means total GHG emissions, less any emissions that are permanently sequestered or adequately offset.
+
+See [**Action Guide**](#be06).
+
+#### BE18: Products emit no greenhouse gases {-#mg-be18}
+
+As with the goal _Operations emit no greenhouse gases_, the imperative is for companies to eliminate all GHG emissions caused by their products.
+
+Products powered by electricity may indirectly cause GHG emissions if the electricity derives from fossil fuels, but the products are not themselves forcing that. The focus here is on products that emit GHGs as a direct consequence of their use.
+
+To be Future-Fit, a company must ensure that none of its products emit greenhouse gases.
+
+See [**Action Guide**](#be18).
+
+#### BE17: Products do not harm people or the environment {-#mg-be17}
+
+Although many goods and services _could_ be used in ways that harm people or the environment, the focus here is on three areas: those which are intended to cause harm; those whose use could reasonably be expected to result in harm; and those which instill or reinforce behaviours that undermine society's progress to future-fitness.
+
+A Future-Fit company ensures that any goods and services it provides, when used as intended, do not lead to environmental degradation, ecosystem disruption, or negative impacts on people's physical and mental wellbeing.
+
+With respect to physical goods, this goal encompasses sold and leased goods, as well as any other items provided to others in support of commercial activities, but which the company does not consider to be revenue-generating. It covers both final end-user products, and intermediate goods incorporated or processed into final products by other companies.
+
+To be Future-Fit, a company must ensure that the goods and services it provides to others are not likely to cause harm to people or the environment through their use and (in the case of physical goods) at their end of life.
+
+See [**Action Guide**](#be17).
+
+### 6.5 Waste {-}
+
+_In a Future-Fit Society, **waste** does not exist._
+
+#### BE07: Operational waste is eliminated {-#mg-be07}
+
+For the purposes of this goal, _waste_ means all materials generated as by‑products of production and other operational activities which the company manages to contain, and which require treatment, repurposing, or disposal.
+
+This includes both hazardous and non-hazardous manufacturing materials, as well as non-production waste such as office paper, food, and retired equipment.
+
+Organic waste may be composted and returned to the soil, but any materials that can be reused must be reclaimed.
+
+To be Future-Fit, a company must:
+
+a) eliminate all avoidable waste generation; and
+b) reuse, recycle or otherwise repurpose any remaining waste.
+
+See [**Action Guide**](#be07).
+
+#### BE19: Products can be repurposed {-#mg-be19}
+
+A Future-Fit company does all it can to ensure that the physical goods it provides to others can be responsibly repurposed at the end of their useful lives.
+
+This goal encompasses sold and leased goods, as well as any other items provided to others in support of commercial activities, but which the company does not consider to be revenue-generating. It covers both final end-user products, and intermediate goods incorporated or processed into final products by other companies.
+
+To be Future-Fit, a company must:
+
+a) ensure that whatever remains of the goods it supplies can be separated at the end of their useful life, to maximize their post-use recovery value; and
+b) ensure that its customers have ready access to recovery services capable of extracting such value.
+
+See [**Action Guide**](#be19).
+
+### 6.6 Physical presence {-}
+
+_In a Future-Fit Society, our **physical presence** protects the health of ecosystems and communities._
+
+#### BE08: Operations do not encroach on ecosystems or communities {-#mg-be08}
+
+Growing demand for land is putting pressure on ecosystems, communities and plant and animal species. Companies that do not adequately consider the impacts of their physical presence may cause irreversible degradation to natural processes and resources that they and others rely on, and may undermine the wellbeing of local communities.
+
+Negative impacts must be avoided by:
+
+- Respecting the land rights of communities (e.g. zero tolerance
+ of land grabbing).
+- Protecting aquatic ecosystems from degradation (e.g. avoiding coral reefs).
+- Protecting areas of high biodiversity value (e.g. no clearing of rainforest for farmland).
+- Not encroaching on areas of cultural importance (e.g. oil pipelines running through regions considered sacred by Indigenous Peoples).
+
+To be Future-Fit, a company must:
+
+a) protect such areas where it is already present; and
+b) take steps to avoid or mitigate negative outcomes when moving into new areas.
+
+See [**Action Guide**](#be08).
+
+### 6.7 People {-}
+
+_In a Future-Fit Society, people have the capacity and opportunity to lead fulfilling lives._
+
+#### BE09: Community health is safeguarded {-#mg-be09}
+
+Every business depends on the goodwill, health and resilience of the communities in which it operates, and must ensure its presence does nothing to undermine their wellbeing.
+
+Future-Fit companies take all steps possible to ensure their presence does not negatively impact surrounding communities. The emphasis here is on putting in place appropriate mechanisms to pre-empt, identify, assess and manage community concerns, so that potentially serious issues and legitimate grievances do not go unaddressed.
+
+To be Future-Fit a company must:
+
+a) seek to anticipate and avoid concerns from communities potentially affected by its activities;
+b) impartially assess any concerns that do arise; and
+c) ensure it effectively and transparently manages those concerns.
+
+See [**Action Guide**](#be09).
+
+#### BE10: Employee health is safeguarded {-#mg-be10}
+
+Companies that do not adequately address workplace health issues may cause serious long-term negative health problems for their employees.
+
+Note that &quot;health&quot; here extends beyond physical safety to mental and emotional wellness, and must encompass stress management and mitigation.
+
+When it comes to physical safety, companies should take steps to minimize and mitigate the effects of accidents, and strive continuously to reduce work-related injuries, illnesses, and fatalities to zero.
+
+To be Future-Fit a company must:
+
+a) ensure the safety of all workers;
+b) foster physical health (e.g. through proactive positions on exercise, nutrition and smoking); and
+c) foster mental wellbeing (e.g. zero tolerance of bullying and harassment).
+
+See [**Action Guide**](#be10).
+
+#### BE11: Employees are paid at least a living wage {-#mg-be11}
+
+A company should ensure all its employees and their families have the means to afford health coverage, to eat a nutritious diet and to be free of concerns about meeting basic needs.
+
+A living wage affords a decent standard of living for workers and their families. Living wage estimates vary by region and guidance is offered by government agencies, academics and/or NGOs. In many regions, the living wage is higher than the legal minimum wage or poverty-line wage. Living wage calculations should focus on employee compensation with respect to standard working hours: figures should exclude overtime pay as well as productivity bonuses and allowances, unless they are guaranteed.
+
+To be Future-Fit a company must pay all its employees at least a living wage.
+
+See [**Action Guide**](#be11).
+
+#### BE12: Employees are subject to fair employment terms {-#mg-be12}
+
+Employees who work reasonable hours, who feel secure in their employment, and who are afforded adequate time off are more likely to thrive physically, emotionally, and mentally – in and outside work.
+
+This means that employees must have the right of association (e.g. the right to join – or refrain from joining – a union), the right to reasonable working hours, the right to leisure (e.g. holiday entitlements and overtime pay) and the right to parental leave.
+
+To be Future-Fit a company must:
+
+a) ensure the company does not use child labour;
+b) ensure employees' freedom of association;
+c) structure contracts to include fair working hours; and
+d) accommodate appropriate periods of leave from work.
+
+See [**Action Guide**](#be12).
+
+#### BE13: Employees are not subject  to discrimination {-#mg-be13}
+
+Everyone is entitled to equitable treatment and equal opportunity, irrespective of personal characteristics such as age, gender, sexual orientation, ethnicity, country of origin, or disability.
+
+Discrimination in the workplace may take many forms, and discriminatory behaviour can be perpetuated – or at least go unnoticed and unchallenged – by established norms and practices within organizations.
+
+To be Future-Fit, a company must be proactive in investigating and monitoring key practices – such as recruitment, pay structures, hiring, performance assessment and promotions – to ensure that no discrimination occurs, however unintentional it may be.
+
+See [**Action Guide**](#be13).
+
+#### BE14: Employee concerns are actively solicited, impartially judged and transparently addressed {-#mg-be14}
+
+Companies depend on the commitment and motivation of their employees, so it is good business sense to engage them as much as possible. The intent of this goal is to set a minimum threshold of acceptable performance in this regard, which means ensuring that the company does nothing to undermine its employees' wellbeing.
+
+No company can be completely free of employee concerns, but it must take all steps possible to minimize concerns, and to deal effectively and appropriately with any concerns that arise.
+
+To be Future-Fit, a company must put in place appropriate mechanisms to identify and manage employee concerns, so that potentially serious issues and legitimate grievances do not go unaddressed.
+
+See [**Action Guide**](#be14).
+
+#### BE15: Product communications are honest, ethical, and promote responsible use {-#mg-be15}
+
+Some goods and services may cause harm to people or ecosystems, either because of the way they are designed, or because there is a chance that users could misuse them or dispose of them incorrectly. The company must make potential users aware of such risks, to empower them to make well-informed decisions regarding the purchase, use and (in the case of physical goods) post‑use processing of its products.
+
+In addition, a company must ensure it markets its products honestly and responsibly by avoiding all misleading claims regarding product benefits, and by only targeting appropriate customer groups (e.g. not marketing cigarettes or alcohol directly to children).
+
+These requirements cover both final products designed for end users, and interim goods which are incorporated or processed into final products by other companies.
+
+To be Future-Fit, a company must:
+
+a) ensure users are informed about any negative impacts of its products;
+b) ensure users are not subject to false or misleading claims about the benefits of its products; and
+c) ensure products are marketed only to those capable of making informed purchasing decisions.
+
+See [**Action Guide**](#be15).
+
+#### BE16: Product concerns are actively solicited, impartially judged and transparently addressed {-#mg-be16}
+
+Other product goals address the ethical marketing of the company's goods and services, whether they have the potential to cause harm, and how to ensure that goods can be repurposed at the end of their useful life. By living up to all of these goals, a company can minimize the number of concerns its customers have. However, it is still important that customers are able to voice legitimate concerns – and to have those concerns fairly addressed – if they feel that a company has fallen short of meeting its obligations.
+
+These requirements cover both final products designed for end users, and interim goods which are incorporated or processed into final products by other companies.
+
+To be Future-Fit, a company must therefore put in place effective policies and procedures to actively solicit, impartially judge and transparently address customer concerns relating to the environmental and social impact of the goods or services it delivers.
+
+See [**Action Guide**](#be16).
+
+### 6.8 Drivers {-}
+
+_In a Future-Fit Society, social norms, global governance and economic growth drive the pursuit of future-fitness._
+
+#### BE04: Procurement safeguards the pursuit of future-fitness {-#mg-be04}
+
+Every company relies to some extent upon goods and services procured from other organizations, which are collectively referred to as suppliers. Common examples include energy, water, computers, transport, machinery, furniture, accounting services, andmaterials required to make products.
+
+All companies are [mutually accountable](#mg-mutually-accountable) for the environmental and social impacts caused by the production and delivery of the goods and services they depend upon. Only when a company has effectively avoided or addressed such negative impacts can it consider itself to be Future-Fit.
+
+This goal requires a company to implement policies and procedures that continuously seek to increase the future-fitness of its purchases, with a particular emphasis on anticipating, avoiding and addressing issue-specific supply chain hotspots.
+
+To be Future-Fit, a company must:
+
+a) have policies and processes in place that enable it and its employees to anticipate where negative supply chain impacts are likely to occur;
+b) avoid them where possible; and
+c) take measurable steps to address concerns that arise.
+
+See [**Action Guide**](#be04).
+
+#### BE20: Business is conducted ethically {-#mg-be20}
+
+All Future-Fit Break-Even Goals can and should be interpreted as matters of business ethics that apply to any company. This goal, in contrast, focuses on the proactive identification and pre-emptive prevention of any specific issues which could – due to the unique nature of a company's business – lead to ethical breaches.
+
+The kinds of ethical breach that might occur will vary widely across companies, depending on their size, structure, sector, business model, geographical presence, and so on. A Future-Fit company is not one that is immune to ethical concerns and challenges. Rather, it is one that puts in place effective internal control mechanisms to reduce the likelihood of breaches, to encourage people (employees and third parties) to raise the alarm when one does occur, and to respond effectively to them. Examples of potential issues include:
+
+- Anti-competitive practices (e.g. unfair supplier treatment,
+ price fixing).
+- Dis-information (e.g. misrepresenting or failing to disclose information which could influence stakeholder decisions or wellbeing).
+- Abuse of trust (e.g. inappropriate use of personal data).
+- Wilful ignorance (e.g. neglecting to investigate supply chains in which human rights abuses are suspected).
+
+To be Future-Fit, a company must:
+
+a) identify high-risk areas for ethical issues within the business;
+b) adopt a public commitment to ethical conduct; and
+c) establish internal controls to ensure it lives up to that commitment.
+
+See [**Action Guide**](#be20).
+
+#### BE21: The right tax is paid in the right place at the right time {-#mg-be21}
+
+Governments require tax revenue to fund critical services upon which society and business depends. Companies have an obligation to their shareholders to be diligent in their approach to tax payments. This goal recognizes the fact that through taxation any company must also contribute to the infrastructure it utilizes and relies upon for its success (e.g. transport networks, legal system, healthcare, education, public utilities) and even its existence, meaning that these outcomes are not at odds with each other.
+
+To be Future-Fit, a company must:
+
+a) commit publicly to a responsible tax policy;
+b) adopt a transparent approach to tax reporting; and
+c) not deliberately seek ways to obey the letter but not the spirit of regional tax laws.
+
+See [**Action Guide**](#be21).
+
+#### BE22: Lobbying and advocacy safeguard the pursuit of future-fitness {-#mg-be22}
+
+Companies often seek to influence the markets within which they operate, by pressuring and persuading those with the power to change them.
+
+This goal recognizes that any attempt to influence market dynamics in favour of the business must not in any way contribute to hindering progress toward future-fitness, in or beyond the company. For example, a Future-Fit company would never knowingly fund any organization that protests against more stringent toxic emissions laws.
+
+The requirement here is not to proactively lobby or advocate _in favour_ of Future-Fit outcomes, but rather to ensure that the company does not use its influence to _undermine_ such outcomes. This includes any direct effort by the company to sway public opinion (e.g. consumer campaigns), and also extends to cover contributions (e.g. membership fees or donations) to any third party which may influence on the company's behalf.
+
+To be Future-Fit, a company must:
+
+a) implement internal controls to ensure that the organization does not lobby or advocate against Future-Fit outcomes; and
+b) disclose details of the contributions it makes to third-party influencers.
+
+See [**Action Guide**](#be22).
+
+#### BE23: Financial assets safeguard the pursuit of future-fitness {-#mg-be23}
+
+Many companies own or control financial assets (equity investments, debt instruments, cash deposits with banks) as part of their core business, as a strategic business objective or simply as a method of utilizing spare cash until it is needed for other purposes.
+
+Purchasing and trading financial assets linked to an underlying organization supplies capital for the investee to continue – or expand – its activities. Any positive or negative outcomes caused by the investee may be sustained or increased by the capital provided, and so the investor is mutually accountable for them.
+
+To be Future-Fit, a company using its capital to finance the activities of others must strive to safeguard the pursuit of future-fitness, by identifying and mitigating any negative impacts resulting from those activities.
+
+See [**Action Guide**](#be23).
+
+
+<!-- Section 7 -->
+
+
+## 7. Positive Pursuits {-#mg-pp}
+
+<div class="ff-figure" id="mg-figure-7-1">
+Figure 7.1: The Future-Fit Positive Pursuits.
+
+![](assets/figures/pp-sdg.svg)
+</div>
+
+### 7.1 Energy {-}
+
+_In a Future-Fit Society, **energy** is renewable and available to all._
+
+#### PP01: Others depend less on non-renewable energy {-#mg-pp01}
+
+Every company must eliminate _its own_ dependence on non-renewable energy, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- More renewable energy is available to replace non-renewable alternatives; or
+- Others are able to meet their needs using less energy.
+
+#### PP02: More people have access to energy {-#mg-pp02}
+
+Many companies contribute goods and services to the global energy system, but that does not necessarily mean they are speeding up society's progress to future-fitness: the key issue here is _access_.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Previously underserved people gain reliable and affordable access to both clean cooking facilities and electricity.[^6#mg-6]
+
+<div class="callout-note">
+**Note:** In a Future-Fit Society, everyone will have access to _renewable_ energy. However, if energy is provided to people who previously had none, then a major barrier to their wellbeing is being removed, even if that energy is derived from non-renewable sources. This is an important outcome which should be recognized – while acknowledging that it is a less-than-perfect interim step toward _full_ access to _renewable_ energy. Also note that if a company generates more GHG emissions as a result of providing such access to energy, or causes its customers to do so, those side-effects will be captured as _negative_ contributions to the Break-Even Goals focused on operational and product GHG emissions respectively.
+</div>
+
+### 7.2 Water {-}
+
+_In a Future-Fit Society, **water** is responsibly sourced and available to all._
+
+#### PP03: Others contribute less to water stress {-#mg-pp03}
+
+Every company must eliminate _its own_ contribution to water stress, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- More clean water is made available without exacerbating water stress; or
+- Others are able to meet their needs using less water.
+
+#### PP04: More people have access to clean water {-#mg-pp04}
+
+Many companies contribute goods and services to the global water system, but that does not necessarily mean they are speeding up society's progress to future-fitness: the key issue here is _access_.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Previously underserved people gain access to clean and reliable freshwater.[^7#mg-7]
+
+### 7.3 Natural resources {-}
+
+_In a Future-Fit Society, **natural resources** are managed to safeguard communities, animals and ecosystems_
+
+#### PP05: Others depend less on inadequately-managed natural resources {-#mg-pp05}
+
+Every company must ensure that any natural resources it obtains itself are managed responsibly, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- More responsibly-managed natural resources are produced, to increase the amount available to others;
+- A natural resource which was being produced in a disruptive way is transformed to be responsibly-managed;
+- Fewer goods and services are derived from endangered or threatened flora and fauna; or
+- Less natural resource is required to serve the same needs.
+
+<div class="callout-note">
+**Note:** Unlike energy and water, natural resources in their raw form are not a basic need, since a relatively small proportion of people require direct access to them. For this reason, there is not a Positive Pursuit category which refers specifically to natural resource _access._ However, it is important to keep in mind that all socioeconomic actors rely on goods and services which are _ultimately derived from_ natural resources. So if a company were to offer a new product which embeds only responsibly-managed natural resources – to displace market alternatives which embed inadequately-managed ones – the outcome would be covered by this Positive Pursuit (in this case &quot;Others&quot; would be the customers of the improved product).
+</div>
+
+### 7.4 Pollution {-}
+
+_In a Future-Fit Society, the environment is free from **pollution**._
+
+#### PP06: Others generate fewer  greenhouse gas emissions {-#mg-pp06}
+
+Every company must eliminate _its own_ greenhouse gas emissions, and any caused by its products as a consequence of their use, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- An activity is modified to deliver the same results with lower greenhouse gas (GHG) emissions;
+- An activity is substituted by another which leads to no GHG emissions; or
+- GHGs are intercepted before emission, and either used or stored in a way that prevents later emission.
+
+#### PP07: Greenhouse gases are removed from the atmosphere {-#mg-pp07}
+
+Greenhouse gases are continuously removed from the atmosphere through natural processes of carbon sequestration and storage. In particular, photosynthesis in trees, plants and algae absorbs carbon dioxide from the air and converts it into other carbon compounds. These end up in biomass – such as tree trunks, branches and roots – and soils, which serve as natural carbon sinks.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Natural carbon sinks are planted, grown or otherwise created;
+- Existing natural carbon sinks are enhanced to absorb and store more carbon; or
+- GHGs are removed from the atmosphere by technical means, and either used or stored in a way that prevents future emission.
+
+#### PP08: Others generate fewer harmful emissions {-#mg-pp08}
+
+Every company must eliminate _its own_ harmful emissions, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- An activity is modified to deliver the same results with fewer harmful emissions; or
+- An activity is substituted by another which leads to no harmful emissions; or
+- Harmful substances are intercepted before emission into the environment, and either used or stored in a way that prevents later emission.
+
+#### PP09: Harmful emissions are removed from the environment {-#mg-pp09}
+
+Some harmful substances – such as scarce metals – may be physically removed from the environment. Others may not be easily removed, but their disruptive effects may be neutralized. For example, a benign chemical may be used to disperse spilled oil and render it harmless.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Substances which degrade air quality, water quality, or soil health are removed or neutralized; or
+- Substances which can otherwise disrupt the health of people,organisms and ecosystems are removed or neutralized.
+
+### 7.5 Waste {-}
+
+_In a Future-Fit Society, **waste** does not exist._
+
+#### PP10: Others generate less waste {-#mg-pp10}
+
+Every company must eliminate _its own_ waste, and make sure that any goods it provides to others can be repurposed after use, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- An existing need is met in a new or modified way, resulting in fewer by-products; or
+- Materials that would otherwise have been discarded are reused, recycled or (if biogenic and with all other options exhausted) burned for energy.
+
+#### PP11: Waste is reclaimed and repurposed {-#mg-pp11}
+
+In many cases, environmental degradation can be reduced or even reversed by 're‑extracting' and reusing previously discarded materials, that have been left to build up in nature, in place of virgin natural resources.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Previously generated waste is removed from the environment – such as landfills or oceans – and repurposed as a production input.
+
+### 7.6 Physical presence {-}
+
+_In a Future-Fit Society, our **physical presence** protects the health of ecosystems and communities._
+
+#### PP12: Others cause less ecosystem degradation {-#mg-pp12}
+
+Every company must avoid encroaching on ecosystems, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Ecosystems are protected from further encroachment; or
+- Activities that lead to ecosystem degradation are avoided.
+
+#### PP13: Ecosystems are restored {-#mg-pp13}
+
+Ecosystems which have been damaged by human presence do not have to remain degraded. Through certain activities, they can gradually be restored to their previous state, or a well-functioning approximation thereof.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Ecosystems are actively restored – for example by replanting native trees, repairing natural flood defences, and re-introducing native species to speed up recovery; or
+- Ecosystems are allowed to regenerate naturally – for example by protecting degraded areas from further human interference.
+
+#### PP14: Others cause less damage to areas of high social or cultural value {-#mg-pp14}
+
+Every company must avoid encroaching on areas of high social or cultural value, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Areas of social or cultural importance are protected; or
+- Land grabbing practices are avoided by establishing people's traditional or customary rights to use, manage and control land, fisheries and forests.
+
+#### PP15: Areas of high social or cultural value are restored {-#mg-pp15}
+
+Cultural heritage has increasingly been seen as an instrument for peace and reconciliation. Its restoration can help rebuild societies and overcome a sense of loss in the wake of conflict. Furthermore, in recent years, a legal precedent has been established where land has been returned to those with traditional or customary rights.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Areas of cultural or social value are reconstructed or rebuilt; or
+- Land which has been acquired in a contentious way is returned to those with traditional or customary rights to it.
+
+### 7.7 People {-}
+
+_In a Future-Fit Society, people have the capacity and opportunity to lead fulfilling lives._
+
+#### PP16: More people are healthy and safe from harm {-#mg-pp16}
+
+Every company must safeguard the health of its employees, customers, and communities, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Premature deaths and illnesses are prevented;
+- Exploitation and abuse is prevented;
+- Mental health issues are prevented;
+- Slavery and forced labour is prevented;
+- More people gain access to nutritious food, and an end to malnutrition;
+- More people gain access to clean water and sanitation;
+- More people gain access to adequate housing; or
+- More people gain access to healthcare, including reproductive healthcare services.
+
+#### PP17: People's capabilities are strengthened {-#mg-pp17}
+
+People should have access to the relevant knowledge, technology and services that will allow them to respond to day-to-day challenges and opportunities to the best of their ability.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- More people gain access to education and vocational training;
+- More people gain access to information needed to make more informed decisions, for example with respect to reproductive choices;
+- More people gain access to information and communication technologies;
+- More people gain access to productivity-enhancing technologies, such as farming implements or manufacturing equipment;
+- More people gain access to social security, insurance and finance, as a means to build resilience to unforeseen shocks; or
+- More people gain access to transport networks, to bring more opportunities within their reach.
+
+#### PP18: More people have access to economic opportunity {-#mg-pp18}
+
+Every company must ensure its own employees are subject to fair employment terms and paid a living wage, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- More people have access to livelihood opportunities which live up to the definition of Decent Work[^8#mg-8];
+- Access to markets and value chains is available to people who were previously unable to participate;
+- The right to benefit economically from local resources, including land, is upheld for more communities.
+
+#### PP19: Individual freedoms are upheld for more people{-#mg-pp19}
+
+Every company must ensure its own employees are not subject to discrimination of any kind, to live up to the Break-Even Goals. Here we consider actions that go beyond this.
+
+People's individual freedoms must be respected, so that everyone can express themselves and participate in social, political and economic life without fear of discrimination.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Freedom of thought, conscience, religion, opinion, expression and association is upheld for more people;
+- More people are free from discrimination;
+- The right to bodily integrity[^9#mg-9] is upheld for more people; or
+- The right to privacy is upheld for more people.
+
+#### PP20: Social cohesion is strengthened {-#mg-pp20}
+
+For everyone to have the opportunity to pursue higher needs, people must be able to form, participate in and rely on social groups. Such social cohesion is crucial to building trust and respect among individuals, communities and institutions.
+
+Social cohesion depends on strong bonds _within_ communities and strong bridges _between_ communities. The emphasis of this Positive Pursuit is therefore not on safeguarding individual wellbeing, but on fostering common ground and closing opportunity gaps between individuals.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Social divides are overcome – such as language barriers and prejudices;
+- Economic divides are overcome – such as a lack of affordability or education; or
+- Physical barriers are overcome – such as a lack of access to appropriate shared spaces.
+
+### 7.8 Drivers {-}
+
+_In a Future-Fit Society, social norms, global governance and economic growth drive the pursuit of future-fitness._
+
+#### PP21: Infrastructure is strengthened in pursuit of future-fitness {-#mg-pp21}
+
+Most human activities depend on various kinds of infrastructure, which together serve as an essential foundation for achieving an efficient, inclusive and resilient society.
+
+Infrastructural gaps and shortcomings are one of the primary reasons why millions of people today lack access to basic services such as energy, clean water, sanitation, connectivity and mobility.
+
+Existing infrastructure is often highly inefficient and may even impede progress toward future-fitness. The infrastructure investment choices society makes over the coming years will effectively lock-in our transition pathway – for good or bad.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Infrastructure gaps are closed, to provide access to basic services for underserved people;
+- Existing infrastructure is upgraded to improve efficiency;
+- Existing infrastructure is altered to reduce its negative operational impacts; or
+- Infrastructure is created or upgraded to enhance resiliency.
+
+#### PP22: Governance is strengthened in pursuit of future-fitness {-#mg-pp22}
+
+The concept of governance can be considered at many levels: international, national, local and corporate. It relates to the way decisions are _made_ and how those decisions are _implemented_ – through regulation, policies, processes and so on.
+
+This Positive Pursuit focuses on how a company might influence governance structures _beyond_ its own organisation – such as those within governments or public institutions – to support the systemic pursuit of future-fitness.[^10#mg-10]
+
+Trust in governance is associated with low levels of corruption, democratic stability and relative economic equality, but there is no shortcut to trust.
+
+Institutions can only accrue trust over time if they are transparent in their decisions, consistently do what they say they will, and continuously strive to act in the best interests of those they serve. The relationship between trust and good governance is circular: each fosters the other.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Governance at an international, national or local level is made to be more accountable, participatory, responsive, responsible and transparent.
+
+#### PP23: Market mechanisms are strengthened  in pursuit of future-fitness {-#mg-pp23}
+
+Every company can take steps to improve its own future-fitness, but some barriers are exceedingly difficult to overcome by any one business alone, because they exist at a market level.
+
+Such barriers may hinder the efforts of even the most committed company, but any action to remove one could
+
+potentially enable not just the company but also its peers and other market actors to make much-needed progress.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Market barriers to the pursuit of Future-Fit outcomes are removed.
+
+#### PP24: Social norms increasingly support the pursuit of future-fitness {-#mg-pp24}
+
+Social norms are the formal and informal rules that govern behaviour in groups and across society. They are what groups of people believe to be normal or appropriate, and they operate at different levels: individuals, industries, countries, communities, and internationally.
+
+A Future-Fit Society encourages diversity of thought and culture, as well as individual expression. In such a society, everyone is free to define and pursue a life of personal fulfilment as part of the broader community, because social norms are fully aligned in support of this pursuit.
+
+In order to transition to a Future-Fit Society, many of today's entrenched social norms need to be challenged.
+
+This Positive Pursuit applies if – as a result of the company's action:
+
+- Social norms which are misaligned with a Future-Fit Society are successfully challenged.
+
+It should be noted, however, that changes in social norms can rarely – if ever – be traced back to a single cause, not least because multiple factors are usually at play.
+
+## Appendix 1: Properties of a Future-Fit Society {-#mg-appendix-1}
+
+<div class="ff-figure" id="mg-table-a1-1">
+Table A1.1: Deriving the 8 Properties of a Future-Fit Society.
+
+![](assets/figures/derive-properties.svg)
+</div>
+
+## Appendix 2: Deriving the Break-Even Goals and Positive Pursuits {-#mg-appendix-2}
+
+<div class="ff-figure" id="mg-table-a2-1">
+Table A2.1: This table shows how the system conditions were mapped against activities across a company's entire value web. Each column is addressed in subsequent tables.
+
+![](assets/figures/map-sc-value-web.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-2">
+Table A2.2: Deriving Break-Even Goals for Business Inputs & Operations – Environment.
+
+![](assets/figures/derive-be-inputs-ops-env.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-3">
+Table A2.3: Deriving Break-Even for Business Inputs & Operations – Communities.
+
+![](assets/figures/derive-be-inputs-ops-com.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-4">
+Table A2.4: Deriving Break-Even Goals for Business Inputs & Operations – Employees.
+
+![](assets/figures/derive-be-inputs-ops-emp.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-5">
+Table A2.5: Deriving Break-Even Goals for Products – Environment & Customers.
+
+![](assets/figures/derive-be-products.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-6">
+Table A2.6: Deriving Break-Even Goals for Citizenship – Society as a Whole.
+
+![](assets/figures/derive-be-society.svg)
+</div>
+
+<div class="ff-figure" id="mg-table-a2-7">
+Table A2.7: Deriving Positive Pursuits.
+
+![](assets/figures/derive-pp.svg)
+</div>
+
+
+[^1#mg-1]: There are many ways to describe how systems operate. This section draws extensively on Donella Meadows' characterization of a system, from her 2009 book, _Thinking in Systems: A Primer_. @Don09
+
+[^2#mg-2]: This understanding of wellbeing is aligned with _The Capability Approach_ pioneered by Economist and Philosopher Amartya Sen. The emphasis here is not on maximizing subjective wellbeing, but on ensuring people have the _capability_ to achieve the kind of lives they deem to be valuable. @Sen19
+
+[^3#mg-3]: This distinction between _basic_ and _higher_ needs is informed by Maslow's Hierarchy of Needs. @Mas43
+
+[^4#mg-4]: This wording mirrors John Ehrenfeld's definition of sustainability as _the possibility that humans and other life will flourish on Earth forever_. @Por11
+
+[^5#mg-5]: Greenhouse gas emissions are the notable exception: a kilogram of CO<sub>2</sub> emitted in one part of the world can be 'cancelled out' by another drawn down out of the atmosphere elsewhere.
+
+[^6#mg-6]: There is no single universally-agreed understanding of what 'access to energy' means. The description used here draws on the International Energy Agency's methodology for defining energy access. @Iri19
+
+[^7#mg-7]: A commonly used definition of 'access to water' is having a source of clean, reliable water within one kilometer of a person's dwelling. @Unw19
+
+[^8#mg-8]: "Decent Work" is defined by the International Labour Organization as work that is "productive, delivers a fair income with security and social protection, safeguards the basic rights, offers equality of opportunity and treatment, prospects for personal development and the chance for recognition and to have your voice heard". @Ilo19
+
+[^9#mg-9]: Right to bodily integrity emphasizes a person's right to autonomy over their own body and is stipulated in the EU Charter of Fundamental Rights. @Fra01
+
+[^10#mg-10]: Corporate governance is an important determinant for how companies act and respond to change. In fact, good governance structures are central to a company's capacity to bring social and environmental considerations into the core of how it does business. This is reflected by the fact that a wide range of governance criteria can be found embedded throughout the Break‑Even Goals.

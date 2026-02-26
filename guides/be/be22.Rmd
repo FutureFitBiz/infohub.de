@@ -1,0 +1,242 @@
+---
+output: github_document
+---
+
+## BE22: Lobbying {-#be22}
+
+<div class="subtitle">Lobbying and advocacy safeguard the pursuit of future-fitness
+</div>
+
+### 1. Ambition {-#be22-ambition}
+
+A Future-Fit Business never seeks to influence market dynamics in ways that may contribute to hindering society's progress toward future-fitness.
+
+#### 1.1 What this goal means {-#be22-what-goal-means}
+
+Companies often seek to influence the markets within which they operate, by pressuring and persuading those with the power to change them.
+
+This goal recognizes that any attempt to influence market dynamics in favour of the business must not in any way contribute to hindering progress toward future-fitness, in or beyond the company. For example, a Future-Fit company would never knowingly fund any organization that protests against more stringent toxic emissions laws.
+
+The requirement here is not to proactively lobby or advocate _in favour_ of Future-Fit outcomes[^1#be22-1], but rather to ensure that the company does not use its influence to _undermine_ such outcomes. This includes any direct effort by the company to sway public opinion (e.g. consumer campaigns), and also extends to cover contributions (e.g. membership fees or donations) to any third party which may influence on the company's behalf.[^2#be22-2]
+
+To be Future-Fit, a company must: (a) implement internal controls to ensure that the organization does not lobby or advocate against Future-Fit outcomes; and (b) disclose details of the contributions[^3#be22-3] it makes to third-party influencers.
+
+#### 1.2 Why this goal is needed {-#be22-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Declarations concerning lobbying activity are mostly voluntary, allowing information to be kept hidden from stakeholders and the wider public.** Less than 0.1% of money spent on lobbying the EU by FTSE 100 companies in 2015-16 was declared to shareholders. @Ral17
+- **Current lobbying practices largely seek to maintain the status quo.** In 2013, the fossil fuel industry spent $213m lobbying US and EU decision makers to prevent action against climate change. @Oxf14
+- **Weak regulation around lobbying allows for continued opacity into corporate activities.** Only 7 EU countries have any form of lobbying regulation. @Tra131
+
+#### 1.3 How this goal contributes to the SDGs {-#be22-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may help to drive progress with respect to all SDGs by only seeking to lobby or otherwise exert their corporate influence in ways that safeguard the pursuit of future‑fitness. But the most direct link with respect to this goal is:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 16](assets/sdg/sdg-16.svg) | Do not undermine broader efforts to improve the effectiveness, accountability or transparency of institutions at any level, or efforts to foster responsive, inclusive, participatory and representative decision-making at all levels. |
+</div>
+
+#### 1.4 Related goals {-#be22-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+The _Lobbying_ goal has the potential to touch on any of the topics that are the focus of the other goals, but the criteria guiding progress toward those other goals do not apply here. Instead, the _Lobbying_ goal focuses on the company's efforts to influence the broader socioeconomic system – for example by supporting a particular legislative outcome – which could hamper progress toward future-fitness beyond the company's own business.
+
+### 2. Action {-#be22-action}
+
+#### 2.1 Getting started {-#be22-getting-started}
+
+##### Background information {-}
+
+Many companies take an active interest in – and seek to influence – changes in policy and legislation that affect their business. This influence extends beyond actions normally associated with the word "lobbying" @Inf17 and includes efforts to shape the public discourse through activities such as advertising, public relations, social media, and participation in influential forums, including trade associations and advocacy groups.
+
+Lobbying is a complex issue. On the positive side, it can help governments to make more informed policy decisions, by furnishing them with leading knowledge or concrete data on a given topic. It is also a way for constituents and those who will be impacted by government action to voice their opinions. On the other hand, lobbying is often a 'pay-to-play' activity, granting wealthy individuals and corporations a disproportionate share of influence, the results of which may not align with the best interests of other individuals or society as a whole. This imbalance, combined with a lack of transparency around lobbying activities, can degrade trust in both companies and legislative or regulatory bodies.
+
+Companies should therefore identify and disclose details of their lobbying and advocacy contributions, and implement controls to assess the potential impacts of the causes they support.
+
+<div class="callout-note">
+Note that "contributions" are discussed throughout this goal in the context of dollar spend and value, but they could also take the form of non-cash support, such as employee time, granting the use of company facilities, or other in-kind donations. See this [frequently asked question](#be22-determining-value) for further information.
+</div>
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Does the company take part in activities that are explicitly defined as lobbying, undertake other actions which seek to change public policy or public opinion, or contribute to third parties who do the same? [^4#be22-4] {-}
+
+- If so, what are the company's objectives? Could any of the issues the company is advocating for directly cause – or unavoidably lead to – outcomes that undermine society's progress toward future-fitness?
+- How does the company discuss these activities with its shareholders, and with the general public? Is the senior management team or the board of directors explicitly aware of the various causes and contributions that the company makes? Or does decentralization of approval processes, or inconsistency in where they are recorded, make it difficult for management to understand the overall picture?
+
+###### Does the company belong to any bodies which influence on its behalf? {-}
+
+- Does the company contribute to any external organization(s) which represent its interests (either individually or as part of a broader group) to government or other regulatory bodies? Does the company know what positions those organizations advocate for? Do they align with the values of the company? Could lobbying for those positions directly cause – or unavoidably lead to – outcomes that undermine society's progress toward future-fitness?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### In what areas can the company make the most significant progress? {-}
+
+- Where does the company spend the largest portion of its lobbying or advocacy money? Which projects or organizations does it most contribute employees' time to? A change to these areas could make a large difference to the company's impact.
+- Which groups or topics does the company contribute to that have (or risk having) the most significant negative impact on society's progress toward future-fitness?
+- Which groups or topics that the company supports have the potential to be damaging to the company's reputation?
+- Does the company disclose the amounts, nature, timing or recipients of its influencing contributions? If not, is there a person or department who is responsible for – or aware of – the full extent of the company's various lobbying and advocacy spends? What reporting vehicles are available to the company to communicate this information to management, the board, shareholders, and/or the general public?
+
+###### Which potential improvements would be the easiest to implement? {-}
+
+- Does the company have its own public relations, lobbying or advocacy departments? Their interactions are likely easier to control or adapt than those of groups in which the company is just one of a number of contributing members.
+- Does the company have systems in place within some parts of its operations, or at specific subsidiaries, that it uses to disclose third-party contributions? Could such systems be adopted more widely?
+- Would the inclusion of lobbying and advocacy information in existing company reports be an appropriate and useful addition? Whose approval would be needed to include such information? Which teams and systems would be involved in gathering and preparing this information?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^5#be22-5] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be22-pursuing}
+
+##### Introduction {-}
+
+Companies must continuously work to ensure that they – and others acting on their behalf – do not lobby or otherwise exert their influence to pursue outcomes that could undermine society's progress toward future-fitness.
+
+##### Fitness criteria {-}
+
+To be Future-Fit, the company must have effective controls in place[^6#be22-6] to guide its lobbying and advocacy activities, and must be transparent about them. To do this, the company should ensure it has satisfied the criteria in each of the three categories below:
+
+###### Lobbying and advocacy policy requirements {-}
+
+The company must adopt and publicly document a policy which includes the following components:
+
+- The company states that it will not seek to influence public policy or public opinion in ways that could undermine society's progress toward future-fitness.
+  - This includes not campaigning for – or supporting individuals or organizations who actively campaign for – policies or behaviours that seek to put in place or preserve conditions that either directly, or due to unavoidable consequences, lead to outcomes that undermine society's progress toward future-fitness.
+  - This also includes setting out any specific positions that the company will _not_ support, under any circumstances (e.g. not contributing to any political campaign which actively seeks to promote the continued use of fossil fuels).
+- The policy applies across all regions, and to all departments and individuals in the company with the opportunity either to influence people directly (e.g. by running consumer campaigns) or to make cash disbursements and non-cash contributions to third parties.
+
+###### Control processes for contributions {-}
+
+Further, the company must have controls in place to ensure that it lives up to its policy. These must include:
+
+- Controls to ensure the company itself does not directly undertake any lobbying or advocacy that is at odds with the policy.
+- Controls to ensure the company exercises due diligence before making contributions to third-party influencers, ensuring it is well informed about the objectives or platforms and activities of prospective recipients.
+  - When a contribution recipient engages in multiple activities, where some activities are at odds with the company's policy and others are aligned, the company must formally alert the recipient to the aspects of their platform which it does not support and for which its funding must not be used.
+- Controls to ensure that the due diligence process is performed at appropriate times, including before non-cash contributions are made, and before participating in events that seek to influence public policy or public opinion.
+- Controls that schedule the regular review of lobbying and advocacy activity undertaken by the company itself, and by individuals and groups that it supports.
+  - The aim of this control is to ensure the company remains aware of its own influencing efforts, and to identify any shifts in the platforms of supported third parties which are at odds with the company's policy.
+- Clear guidance for action in cases where a current or potential recipient's influencing activity is found to be at odds with the company's policy.
+
+###### Disclosure requirements for third-party contributions {-}
+
+For each contribution made to third-party influencers, the following must be disclosed:
+
+- Recipient name(s).
+- Amount of contribution.
+- Date of contribution.
+- A summary of any concerns the company raised with the recipient about aspects of their platform or activities which it does not support.
+
+### 3. Assessment {-#be22-assessment}
+
+#### 3.1 Progress indicators {-#be22-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+If the company _has not_ adopted and documented a policy on influencing that satisfies the criteria in the _Lobbying and advocacy policy_ category, or if it has not yet assessed whether its policy satisfies the criteria, it is **0% fit** with respect to this goal. If the company _has_ adopted and documented such a policy, then its score is calculated as follows:
+
+- **33% fit**: If only the _Lobbying and advocacy policy_ criteria category is satisfied.
+- **66% fit**: If in addition the _Control_ criteria category is satisfied.
+- **100% fit**: If in addition the _Disclosure_ criteria category is satisfied.
+
+For an example of how this progress indicator can be calculated, see [here](#be22-example).
+
+#### 3.2 Context indicators {-#be22-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total expenditure with third-party influencers {-}
+
+In addition to the progress indicator, the company must disclose the total amount spent on contributions to third-party influencers (including political donations, fees for industry and advocacy groups, the value of in-kind contributions, etc.) during the reporting period.
+
+For an example of how context indicators can be reported, see [here](#be22-example).
+
+### 4. Assurance {-#be22-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be22-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be22-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Provide a copy of the document where the company has published its policy regarding lobbying and advocacy. This can help assurers to verify that it has been made public, and that the policy is compliant with the fitness criteria.
+- Document the methods used to determine whether expenditures, industry group memberships or other advocacy positions held by the company are applicable for screening against the policy. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify instances of lobbying or public influence efforts.
+- Document the methods and frequency through which the company reviews the details of its stated policy and assesses the corresponding performance of the control mechanisms for lobbying and advocacy. Where these assessments identify opportunities for potential improvement or expansion, retain any evidence of actions taken by the company to implement or update the controls. This can help assurers to verify that appropriate controls are in place and being used by the company.
+- Retain supporting documentation (e.g. invoices, receipts) for documented lobbying contributions and other outlays applicable to the company's lobbying and advocacy policy. This can help assurers to verify the accuracy of the company's disclosures, and facilitate any work needed to confirm that there are no missing disclosures.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be22-additional}
+
+#### 5.1 Example {-#be22-example}
+
+ACME Inc. sells lemonade products. It has adopted a Future-Fit lobbying and advocacy policy and is a member of the International Beverage Council (IBC) as well as the Association of General Trade (AGT). The IBC has acknowledged the links between increasing obesity rates and the intake of sugared beverages, and it is working with authorities to come up with the best industry-wide solutions.
+
+AGT actively lobbies against a minimum wage increase in a range of countries where the current minimum wage is far below the estimated living wage.
+
+ACME pays an annual fee of $20,000 to IBC and $30,000 to AGT.
+
+After a review of AGT's activities, ACME decides that its activity is undermining future-fitness in regard to paying a living wage, and should therefore not be considered fit.
+
+ACME has an official lobbying and advocacy policy in place, but had not informed AGT that the company did not support its living wage position. ACME did not live up to the _Control_ category of the fitness criteria during the period, and decides that it must actively engage AGT on this issue before disclosing its contributions. ACME therefore measures its progress as 33%, and discloses the total amount spent with third-party influencers.
+
+####### Context indicator {-}
+
+Total expenditure with third-party influencers = $50,000
+
+#### 5.3 Useful links {-#be22-useful-links}
+
+##### InfluenceMap {-}
+
+[InfluenceMap](https://influencemap.org/) measures and scores corporate influence on climate change policy, through a comprehensive process of examining publicly available information (e.g. legislative consultations, respected press, CDP responses). @Inf17
+
+##### The Robert Zicklin Center for Corporate Integrity (ZCCI) {-}
+
+The [CPA-Zicklin Index of Corporate Political Disclosure and Accountability](https://politicalaccountability.net/hifi/files/index/2016CPAZicklinIndex.pdf) measures a company's willingness to disclose and be transparent about its corporate political activity. The Index measures the ease with which someone can find the relevant materials on company websites; what policies, procedures, and corporate governance structures are in place and disclosed; and what the company says about who and what it gives to, and how those donations are made.
+
+##### Transparency International {-}
+
+The UK chapter of [Transparency International](https://www.transparency.org.uk/), has released the [2018 Corporate Political Engagement Index](https://www.transparency.org.uk/publications/cpei2018/), which assesses businesses on how transparent they are in their political engagement. @Tra19
+
+#### 5.2 Frequently asked questions {-#be22-faq}
+
+##### Determining the value of non-cash donations {-#be22-determining-value}
+
+A dollar weighting should be applied to non-cash contributions in order to assess them in the context of the broader, company-wide fitness calculation. Wherever possible, the valuation of these contributions should mirror the way that these contributions are valued by the company for tax purposes.
+
+If for some reason that is not applicable, the company should determine the monetary value of the contribution by using a comparable market price and briefly explaining how the calculation was made. For example, providing free use of company facilities as a venue for a political campaign might be assigned a value equivalent to the commercial price of hiring a comparable venue in the same area.
+
+
+[^1#be22-1]: Lobbying or advocating _in favour_ of Future-Fit outcomes could potentially _speed up_ society's progress to future-fitness, which would fall under the Positive Pursuits. For more information, see the [**Positive Pursuit Guide**](#pp-social-norms).
+
+[^2#be22-2]: Third-party influencers include: lobbying firms; trade associations; trade unions; interest groups; professional bodies; think tanks; charities; and the media. @Han07
+
+[^3#be22-3]: 'Contributions' in the context of this goal refers to the transfer of cash or in-kind assets or services.
+
+[^4#be22-4]: Expenses for activities that are functionally equivalent to lobbying may be described as 'public relations', 'political contributions', 'industry advocacy', or similar.
+
+[^5#be22-5]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^6#be22-6]: See the [**Implementation Guide**](#ig-internal-controls) for details on how to design effective controls.

@@ -1,0 +1,64 @@
+---
+output: github_document
+---
+
+# Break‑Even Goal Action Guides {-#be}
+
+<div class="subtitle">Actionable guidance on how to make and measure progress toward future-fitness.
+</div>
+
+These guides are designed specifically to help you embed the [Break-Even Goals](#mg-be) into how you do business. The intention is not to reinvent the wheel: wherever possible, information relating to the topic at hand has been collated and curated from best-available third party resources, all of which are referenced in the Benchmark's [bibliography](#bibliography).
+
+You can think of each Action Guide as an entry point, providing you with enough detail to get going, and pointing you to additional information as you need it. Action Guides contain five sections, which are described below.
+
+##### 1. Ambition {-}
+
+The _Ambition_ section starts by describing in detail what the goal is. Next there are a handful of statistics that illustrate why addressing this particular issue is so critical. These may prove useful when persuading other people of the goal’s importance.
+
+Then you’ll find information on how the goal relates to the SDGs. It explains why pursuing the goal helps the business to eliminate the possibility that it may be unintentionally undermining society’s collective progress.
+
+And finally, there’s a short explanation of how the goal differs from and complements the other Break-Even Goals. This should give you a sense for the interconnectedness of the issues affecting the business, to help you understand and tackle them in a holistic way.
+
+##### 2. Action {-}
+
+The _Action_ section is divided into two parts: _Getting started_, and _Pursuing future-fitness_.
+
+_Getting started_ provides background information on how to think about the goal, and offers a series of questions for the business to ask itself. These questions are designed to help you check what you already know, identify where there may be gaps in your knowledge, and give you ideas on how to prioritize.
+
+_Pursuing future-fitness_ goes into significant detail about the steps the business must take to become Future-Fit. This is where you will often find references to third-party resources that you may find helpful.
+
+##### 3. Assessment {-}
+
+The _Assessment_ section is focused on how to measure progress toward the goal. The indicators are designed to offer a high-level way to monitor progress at an organizational level, but with enough granularity for you to assess how day-to-day decisions will affect that progress.
+There are two types of indicator: _progress indicators_ and _context indicators_.
+
+###### Progress indicators {-}
+
+Progress indicators are expressed as a simple percentage, representing how far the business has come – and how far it yet has to go – to reach the goal in question. Most goals have only one progress indicator.
+
+Progress indicators are designed to recognise the link between extra-financial performance and financial performance where possible:
+
+-	All goals relating to products – such as Products do not harm people or the environment – have progress indicators that are weighted by revenue.	So if a single product accounts for a lot of the company’s sales, its performance is going to have a similarly large influence on the progress indicator.	This bigger influence reflects the fact that the product is contributing more to the company’s success.
+
+-	Similarly, goals relating to resources the company uses – such as Procurement safeguards the pursuit of future-fitness – have progress indicators that are weighted by cost.	In these cases, the greatest opportunities to make progress can be found in areas where the company is spending the most money.
+
+Progress indicators for all goals could easily be presented on a single screen or printed page, for example as a dashboard to share regularly with the company’s leadership team.
+
+###### Context indicators {-}
+
+Each progress indicator is complemented by one or more context indicators. These provide additional information about the extent of the progress being made. For example, the progress indicator for the living wage goal simply captures the proportion of workers who are paid at least a living wage. There is one context indicator for this goal, that being the total number of workers.
+
+Imagine that two companies are both underpaying 30% of their workers. The extent of this shortfall is very different if one of those companies employs 20 people and the other employs 20,000. Putting progress in context is essential, to give an overall sense for the company’s performance.
+
+##### 4. Assurance {-}
+
+At some point, a business may wish to start talking about its journey to future-fitness publicly. Self-assessment avoids the need for sensitive information to be shared with raters or other organizations, for the purposes of ‘scoring’ the business. But why would investors and others trust what a company says about its own performance?
+
+This question was answered decades ago for financial performance: when it has assessed its performance, a company simply needs to get a qualified third party to independently assure the results before disclosure. The Future-Fit approach mirrors this, extending the tried-and-tested independent assurance model to extra-financial information. So if a company wants to publish details of its progress toward future-fitness, it can ask any registered auditor to assure its calculations. That said, the average business person may know nothing about what an auditor would be looking for – for example, in terms of tracking how processes are monitored and how policies are enforced.
+
+This is where the _Assurance_ section comes in. It offers guidance on the kinds of evidence assurers are likely to look for to verify that the business has assessed itself in the right way. This can help you avoid common assurance pitfalls, to ease the path to publication should you decide to report on the company’s future-fitness at some point.
+
+##### 5. Additional Information {-}
+
+The fifth and final section offers a range of additional material that you might find helpful.
+This includes a worked example explaining how the indicators are used in practice, as well as a set of useful links to third-party resources. Many Action Guides also include a set of goal-specific frequently asked questions.

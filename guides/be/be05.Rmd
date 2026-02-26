@@ -1,0 +1,356 @@
+---
+output: github_document
+---
+
+## BE05: Operational Emissions {-#be05}
+
+<div class="subtitle">Operational emissions do not harm people or the environment
+</div>
+
+### 1. Ambition {-#be05-ambition}
+
+A Future-Fit Business eliminates all forms of harmful emissions from its operations – gaseous, liquid and solid.
+
+#### 1.1 What this goal means {-#be05-what-goal-means}
+
+Company operations can cause the release of a range of chemicals and particles. The emission of substances that are already abundant in nature, and of substances that nature can break down rapidly and without consequence, are not a concern.
+
+Some substances are known to be toxic to people and organisms. Other substances may not seem immediately harmful, but if nature cannot break them down rapidly they may – through gaseous, liquid or solid emissions – systematically build up in the environment to dangerous levels. Substances of greatest concern include those that are scarce in nature (e.g. trace metals such as cadmium), those that are persistent (e.g. CFCs), and those that are emitted in large volumes (e.g. NOx). All such potentially harmful substances must be kept in tight closed loops, or should not be used in the first place. The context of this goal may vary from local (e.g. soil, rivers) to global (e.g. air, oceans) depending on the substance and mode of emission (i.e. gaseous, liquid or solid).
+
+To be Future-Fit, a company must: (a) eliminate harmful gaseous emissions (e.g. air pollutants, toxic fumes); (b) eliminate harmful solid emissions (e.g. scarce metals, use of hazardous fertilizers); (c) eliminate harmful liquid emissions (e.g. spills, chemical fluids).
+
+#### 1.2 Why this goal is needed {-#be05-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Air pollution is a major risk to public health, and industrial processes are a major contributor.** Airborne contaminants were the leading cause of death by pollution in 2015, claiming 6.5 million lives from a mixture of heart disease, strokes, and respiratory ailments. @Ken17
+- **Furthermore, the cost of pollution to the global economy is staggering.** Air pollution alone costs the global economy more than $5 trillion annually in welfare costs, with the most devastating damage occurring in the developing world. @Jus16
+
+#### 1.3 How this goal contributes to the SDGs {-#be05-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by eliminating harmful operational emissions, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 3](assets/sdg/sdg-3.svg) | Support efforts to substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution. |
+| ![SDG 6](assets/sdg/sdg-6.svg) | Support efforts to improve water quality by reducing pollution, eliminating dumping and minimizing the release of hazardous chemicals and materials, and to protect water-related ecosystems. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to enhance inclusive and sustainable urbanization and strengthen efforts to protect and safeguard the world's cultural and natural heritage, and to reduce the adverse per capita environmental impact of cities, paying special attention to air quality and waste management. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, and significantly reduce their release to air, water and soil. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities. |
+| ![SDG 15](assets/sdg/sdg-15.svg) | Support efforts to ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems. |
+</div>
+
+#### 1.4 Related goals {-#be05-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Water use is environmentally responsible and socially equitable:**](#be02) The _Operational emissions_ goal includes considerations for the accidental or intentional emission of substances into the environment after treatment. Treated wastewater discharged into the environment is covered by the _Water use_ goal.
+- [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Operational emissions_ goal covers direct emissions only. It does not cover emissions produced by suppliers of energy or other goods and services, such as those that would be described as Scope 2 or Scope 3 by the [GHG Protocol](http://www.ghgprotocol.org/calculationg-tools-faq). Emissions from suppliers' activities are a factor in the assessment of the supply chain, and are covered by the _Procurement_ goal.
+- [**Operations emit no greenhouse gases:**](#be06) Emissions of greenhouse gases from company operations are covered separately, by the _Operational greenhouse gases_ goal.
+- [**Operational waste is eliminated:**](#be07) The _Operational emissions_ goal deals with substances intentionally or accidentally discharged directly to the environment. Liquid, gaseous, or solid wastes which are contained by the company and sent to a third-party for treatment or disposal are covered by the _Operational waste_ goal.
+- [**Employee health is safeguarded:**](#be10) The _Operational emissions_ goal deals with substances intentionally or accidentally discharged directly to the environment. It is possible for companies to have emissions that occur inside their facilities (indoor emissions, spills, etc.) which may have little or no impact on the natural environment, but may have very negative health implications on employees. Such emissions should be considered as risk factors to be addressed in the _Employee health_ goal.
+
+### 2. Action {-#be05-action}
+
+#### 2.1 Getting started {-#be05-getting-started}
+
+##### Background information {-}
+
+For many companies today, emissions of some sort are an unintended consequence of operational activity. Some emitted substances are harmful at any amount due to their inherent toxicity to people or the environment, while others might cause harm only by contributing to a local or global build-up in concentration – this is the case for some common air pollutants such as nitrous oxide. This is a systemic issue that may require new production approaches and techniques, and zero emissions should be seen as a long-term aspiration to inspire stakeholders and guide innovation towards a clean, pollution-free society.
+
+Companies can start to address this issue by reviewing their operations to identify the types of emissions being produced, and whether they are treated or contained. Once this is understood, the business can start to pursue opportunities for improvement, either by adapting operating procedures, integrating technological innovations, or collaborating with others across the value web.
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Have site reviews been completed for all facilities or other workplaces? {-}
+
+- What types of substances or waste products are created or changed by the company's activities, including during interim processes? Are any of these potentially harmful? What structures are in place to keep materials contained throughout the company's operations?
+- How are substances stored and transported once processes are complete? What happens to scrap and by-products? Is there anything potentially harmful at this stage?
+- Are there any potential knowledge gaps regarding the movement and transformation of substances throughout the company's operations? How might they be addressed?
+
+###### Can the company account for all material inputs, or is there evidence of fugitive emissions?[^1#be05-1] {-}
+
+- Have the lifecycles of all inputs been traced, including raw materials used in production and ancillary consumables (e.g. industrial lubricants, cleaning fluids for production equipment)? How are inventories stored and treated prior to use? Are there any potentially harmful substances, and if so how is their safe containment being ensured?
+- Does the company have any assets or operations which are not fixed to a specific location (e.g. transport fleets, services delivered or performed at clients' premises)? Do any of these involve materials that are consumed or disposed of at those sites? Are they fully contained and treated, or are some quantities left at sites? Do some materials run off onto the ground or into drains?
+- Do any operations produce [hazardous waste](#be05-hazardous-waste)? If so, how are these types of waste handled? What precautions are taken to ensure that such waste stays contained until it has been sufficiently treated?
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the best opportunities for making progress? {-}
+
+- Which sites or processes are the most emission-intensive?
+- Which aspect of the business are subject to the _least comprehensive_ regulatory requirements?
+- Are any operations located near communities or population centres that may be affected by emissions? Are any operations located in or near significant ecosystems or natural habitats which could be affected by emissions?
+- Which alternatives available to the company are likely to require the least investment of time and resources? Are there opportunities to leverage expertise or processes from one area of the company on a broader scale? Can industry best practices be replicated in the company's own operations?
+- Do opportunities exist to collaborate with local groups or other companies on how to tackle shared emission challenges?
+
+###### Has the company already started to actively address operational emissions? {-}
+
+- Has the company made public commitments or set internal targets to significantly reduce or eliminate emissions? If so, are the related action plans sufficient to achieve future-fitness over time?
+- If the company hasn't set targets yet, what approach is most likely to successfully embed considerations around emissions? Whose authorization would be needed, and who must be involved to design and implement adequate controls and incentives?
+- If current action plans are not likely to get the company to future-fitness, how can they be supplemented or adjusted?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _the environment is free from pollution_?[^2#be05-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-environment-pollution).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be05-pursuing}
+
+##### Introduction {-}
+
+Emissions from all aspects of the company's operations must be included in this goal.
+
+A systematic approach should be taken to identify sources of operational emissions, which should incorporate fixed sites owned or leased by the company, addressing overhead processes (e.g. heating/cooling systems, plumbing, cleaning services). It should also incorporate industrial processes (e.g. manufacturing, product treating, processing), service delivery (e.g. transportation, repair processes, consulting services), and other functions that support these activities.[^3#be05-3]
+
+###### Guidance on identifying harmful emissions {-}
+
+The company must identify all substances that are emitted from its operational activities and which are likely to cause harm. For the purposes of this goal, a substance is considered harmful if one or more of the following is true:
+
+1. It has properties that make it dangerous to – or capable of having an immediate detrimental effect on – human health or the environment.
+
+2. The substance is designated as harmful by one of the following sources:
+  - Credible industry bodies relevant to the industry in question, who recommend the phasing out of the substance. See the [Useful Links](#be05-useful-links) section for examples.
+  - Lists of substances which are legally banned in one or more of the company's areas of operations.[^4#be05-4]
+  - Credible peer-reviewed research, which strongly suggests evidence of harm.
+
+3. The substance is likely to build up in nature as a result of operational emissions.[^5#be05-5] Categories of substances known to be of concern for this reason include, but are not limited to:
+  - Human-made synthetics that are novel or foreign to nature @Ste, such as persistent organic pollutants (POPs) @Uni04 including endocrine disrupting chemicals (EDCs) @Env13, radioactive materials @Sto, and nanomaterials / micro-plastics @Sto.
+  - Metals that are not naturally abundant in nature and their compounds (e.g. compounds of heavy metals like mercury, lead, zinc, and cadmium). @Aza96
+  - Stratospheric ozone-depleting chemical substances. @Sto
+  - Aerosols. @Sto
+
+4. The substance is likely to interact with other substances, as a result of its emission, in ways that cause 1, 2 or 3 to be true.
+
+##### Fitness criteria {-}
+
+For a company to become Future-Fit, it must ensure that across all aspects of its operations, the following statements are all true:
+
+- All harmful gaseous emissions have been eliminated (e.g. air pollutants, toxic fumes).
+- All harmful solid emissions have been eliminated (e.g. scarce metals, use of hazardous pesticides).
+- All harmful liquid emissions have been eliminated (e.g. spills, liquid toxic waste, chemical fluids).
+
+### 3. Assessment {-#be05-assessment}
+
+#### 3.1 Progress indicators {-#be05-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+This goal has three progress indicators, one for each mode of emissions. To calculate them, the following steps are required for each:
+
+- Total and categorize all harmful emissions during the reporting period.
+- Calculate the company's progress towards elimination for each mode of emissions.
+
+##### Totalling and categorizing harmful emissions {-}
+
+- Identify all substances emitted as a result of operational activities during the reporting period.
+- Determine whether the identified substances are considered harmful, according to the fitness criteria.
+- Measure emissions of each harmful substance and aggregate by weight, creating separate totals for each mode – gaseous, liquid, and solid emissions.[^6#be05-6]
+
+##### Calculating progress for each mode of emissions {-}
+
+For each mode of emission where harmful substances have been identified, progress is assessed as follows:
+
+- The company chooses a reference year for which complete emission data is available. The reference year is assigned a progress score of 0%.[^7#be05-7]
+
+- If no historic data exists, the first year measured will be used as the reference year.
+- If the company's current emissions are _higher_ than or equal to its reference year emissions, then its Future-Fit progress remains at 0%.
+- If the company's current emissions are _lower_ than its reference year emissions, its Future-Fit progress is calculated as the decrease in emissions relative to the reference year, described as a percentage.
+
+For each mode of emission _M_, the calculation can be expressed mathematically as:
+
+$$
+F^M=
+\begin{cases}
+\frac{E^M_R-E^M_C}{E^M_R} \;\;for\;\; (E^M_R-E^M_C)\geq0\\
+\\
+\;\;\;\;0\% \;\;\;\;\;for\;\; (E^M_R-E^M_C)<0\\
+\end{cases}
+$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$M$$ | Is the mode of emission: (Gaseous, Solid, Liquid). |
+| $$F^M$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$E^M_R$$ | Is the weight of harmful emissions for mode _M_ generated in the reference year. |
+| $$E^M_C$$ | Is the weight of harmful emissions for mode _M_ generated in the current year. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be05-example).
+
+Note that progress is considered to be 0% for a mode of emissions if a company has not yet performed an assessment to identify all harmful emissions. On the other hand, progress is 100% if a full assessment has been undertaken and it has been found that no harmful substances were released during the reporting period.
+
+#### 3.2 Context indicators {-#be05-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Quantities of harmful substances emitted {-}
+
+Companies must document and report the following information on the total amount of harmful substances emitted:
+
+- Total weight of harmful gaseous emissions.
+- Total weight of harmful solid emissions.
+- Total weight of harmful liquid emissions.
+
+Note that this information is a disaggregation of data that companies will already have on hand, as it is required to calculate the progress indicator.
+
+For an example of how context indicators can be reported, see [here](#be05-example).
+
+####### Events involving spills and leaks of harmful substances {-}
+
+In addition to the above indicators, companies must record emissions occurring during incidents such as spills and leaks, if the circumstances meet qualifying criteria, as described below.
+
+###### Qualifying criteria for reporting incidents {-}
+
+When substance(s) are released in a spill, leak, or similar incident, the company must identify the substance(s) involved. If the substances are identified as [hazardous](#be05-hazardous-waste), the company must follow the available guidance on what constitutes the minimum released quantity of that particular substance that requires reporting. Lists of reporting quantities for hazardous and extremely hazardous substances are provided by the [US electronic Code of Federal Regulations](https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=1&amp;SID=3fa0ed9e25c2523888cd56a73eaeecb9&amp;ty=HTML&amp;h=L&amp;mc=true&amp;n=pt40.30.355&amp;r=PART#ap40.30.355_161.a) @Usg17, but companies should default to lesser of the quantities outlined on those lists and any regional government regulations applicable to the area in which the incident occurred.
+
+For oil spills, the US EPA outlines specific criteria which constitute reporting requirements for oil spills or leaks. @Uni17 Companies should report these incidents when they:
+
+- Violate applicable water quality standards;
+- Cause a film or &quot;sheen&quot; upon, or discoloration of the surface of the water or adjoining shorelines; or
+- Cause a sludge or emulsion to be deposited beneath the surface of the water or upon adjoining shorelines.
+
+###### Information required when reporting incidents {-}
+
+For each incident requiring reporting, the following information must be compiled for each qualifying incident and included in the company's reporting for the period:
+
+- Date and time of the incident.
+- Location of the incident.
+- Source and cause of the release or spill.
+- Types of material(s) released or spilled.
+- Quantity of materials released or spilled.[^8#be05-8]
+- Medium (e.g. land, water) affected by release or spill.
+- Danger or threat posed by the release or spill.
+- Number and types of injuries or fatalities (if any).
+- Agencies notified, government or otherwise.
+
+This information echoes the reporting guidance outlined by the US EPA for oil spills or hazardous substance releases. @Uni16
+
+### 4. Assurance {-#be05-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be05-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be05-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to ensure the company has identified all sources of harmful emissions at each of its locations. Note that emissions are not limited to steady or constant outputs, but include intermittently- or irregularly-occurring outputs and spills as well. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify emission sources.
+- Document the methods used to identify the composition of the company's emissions and classify them as harmful or non-harmful. Assurers may use this information to understand and verify the approach taken.
+- Retain any supporting documentation or calculations used to determine the total amount of emissions for each mode during the year. Assurers may use this information to understand and verify the approach taken.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be05-additional}
+
+#### 5.1 Example {-#be05-example}
+
+ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. It decides to begin its fitness assessment by looking at its gaseous emissions. Following a thorough analysis, the company verifies that its office space does not emit any harmful substances into the air.
+
+Its bottling plant is known to emit air pollutants as a result of production. The emissions peaked in 2006 with a total of 500kg of ammonia emitted as gas, but this figure has since been reduced by 200kg due to improvements in manufacturing processes. The company chooses 2006 as its reference year and calculates its progress with respect to gaseous emissions as:
+
+$$F^G=\frac{E^G_R-E^G_C}{E^G_R}=\frac{500-300}{500}=40\%$$
+
+The company has not yet assessed solid or liquid emissions. Therefore:
+
+$$F^S=0\%$$
+$$F^L=0\%$$
+
+####### Context indicators {-}
+
+Total weight of gaseous emissions during the reporting period: 300kg
+
+Number of gaseous leaks during the reporting period: N/A
+
+#### 5.2 Useful links {-#be05-useful-links}
+
+##### The International Chemical Secretariat {-}
+
+[The International Chemical Secretariat](http://chemsec.org/) (ChemSec) is a non-profit organization, based in Sweden and founded by four environmental organizations: The Swedish Society for Nature Conservation; WWF Sweden; Nature and Youth; and Friends of the Earth Sweden. ChemSec maintains the following useful resources:
+
+- The SIN (Substitute It Now!) List – a constantly evolving list of harmful substances that should be phased out of all products, regardless of the industry. @Int121
+- SINimilarity – a free online tool that identifies substances which are structurally similar to SIN List substances with similar problematic properties. @Intwn1
+
+##### Hazardous waste vs. Non-hazardous waste {-#be05-hazardous-waste}
+
+We use the US Environmental Protection Agency's definition for hazardous waste: @Use17
+
+_Hazardous waste is a waste with properties that make it dangerous or capable of having a harmful effect on human health or the environment. _
+
+[Annex III of the Basel Convention](http://archive.basel.int/text/con-e.pdf) offers a list of these properties.
+
+The US Electronic Code of Federal Regulations includes a [listing of several hundred hazardous substances](https://www.ecfr.gov/cgi-bin/text-idx?SID=5eb9206a60662143cb26a1b0a7263e74&amp;mc=true&amp;node=se40.28.302_14&amp;rgn=div8) @Usg17, as well as the reportable amounts (quantity thresholds beyond which a company is required to report on the release of those substances).
+
+'Non-hazardous waste' is any waste not classified as hazardous.
+
+##### The Natural Step {-}
+
+[The Natural Step](http://www.thenaturalstep.org/) is an international not-for-profit organization which pioneered the development and use of the Framework for Strategic Sustainable Development @Bro15 (upon which the Future-Fit Business Benchmark is based). For more than two decades The Natural Step has worked with a wide range of companies, industry bodies and others to understand how substances can cause harm to society and the environment by assessing life cycle management practices against system conditions for a sustainable future. Various tools, guides and case studies are available on its website.
+
+##### The US Environmental Protection Agency (EPA) {-}
+
+The EPA has a list of [six criteria pollutants](https://www.epa.gov/criteria-air-pollutants) @Uni171, which when emitted into the air can cause harm to people and the environment. These are particle pollution (often referred to as particulate matter), ground-level ozone (volatile organic compounds), carbon monoxide, sulphur oxides, nitrogen oxides, and lead.
+
+The EPA further maintains a list of [187 toxic air pollutants](https://www.epa.gov/haps/initial-list-hazardous-air-pollutants-modifications) @Uni172 that are known or suspected to cause cancer, other serious health problems or environmental disruption.
+
+##### World Health Organization (WHO) {-}
+
+WHO has published a [recommended classification of pesticides by hazards](http://www.who.int/ipcs/publications/pesticides_hazard_2009.pdf?ua=1). The hazard level ranges from unlikely to present acute hazard" to "extremely hazardous". @Wor09
+
+##### Zero Discharge of Hazardous Chemicals (ZDHC) {-}
+
+The ZDHC Programme, led by a group of leading apparel and footwear companies, has created a list of restricted or problematic [substances](http://www.roadmaptozero.com/) relevant to the footwear and apparel industry @Tzd17. This should serve as credible guidance for any company in that industry, even if that company is not actively involved in ZDHC.
+
+#### 5.3 Frequently asked questions {-#be05-faq}
+
+##### Why is a substance considered harmful if it can build up in the environment? {-}
+
+As our understanding of the long-term impacts of exposure to chemicals increases, international bodies, NGOs and regulators will continue to identify substances whose use should be eliminated. This is typically due to their chemical characteristics, toxicity classification and resultant effects on people and the environment.
+
+However, harm to the environment cannot always be known in advance. For example, substances such as CFCs were hailed as a modern wonder due to their stable state and long life. It was not understood that CFCs build up in the atmosphere, resulting in the destruction of the ozone layer. Allowing substances to systematically increase in concentration in the environment is fundamentally at odds with system conditions for a sustainable society (see the [**Methodology Guide**](#mg-figure-4-1)) and will eventually lead to harm when systemic thresholds are surpassed. @Bro15
+
+Many of the compounds on the [SIN list](http://sinlist.chemsec.org/) went through the same stages. They were known to increase in concentration but were allowed to be used until damaging thresholds were exceeded, and correlations were effectively demonstrated. A Future-Fit company should err on the side of caution in such cases.
+
+##### What is the difference between waste and emissions? {-#be05-waste-vs-emissions}
+
+[**BE07: Operational waste is eliminated**](#be07) focuses on solid, liquid and gaseous substances (also referred to as by-products) which can be _contained_ by the company and sent to a third-party for treatment, recycling, repurposing or disposal. In contrast, [**BE05: Operational emissions do not harm people or the environment**](#be05) encompasses solid, liquid and gaseous substances which _escape_ into the environment. The difference between waste and emissions is nuanced, but the aim is the same: elimination of substances that end up or build up in the environment. Ultimately, the most important thing is for companies to capture data and assess progress consistently year on year.
+
+##### What is the difference between water discharge and liquid emissions? {-#be05-discharge-vs-liquid}
+
+[**BE02: Water use is environmentally responsible and socially equitable**](#be02) focuses on water-based discharge (often referred to as wastewater) that can be safely returned to watersheds once sufficiently treated. Treatment may be undertaken by a company itself or by third-party wastewater treatment infrastructure. In contrast, [**BE05: Operational emissions do not harm people or the environment**](#be05) encompasses liquid substances which are themselves contaminants – whether that be of air, soil or water. Liquid emissions that might escape into the environment – either intentionally or accidentally – and cannot be returned to a state of water, must be eliminated. The difference between wastewater and liquid emissions is nuanced, but the aim is the same: impact neutralization. Ultimately, the most important thing is for companies to capture data and assess progress consistently year on year.
+
+[^1#be05-1]: The US [EPA](https://www.epa.gov/sites/production/files/2015-12/documents/20110308fefactsheet.pdf) uses the term 'fugitive emissions' to describe emissions "that do not pass through a stack, chimney, vent, or other similar opening". Said another way, process flow diagrams may show where some emissions are intentionally or knowingly deposited into the environment, but fugitive emissions are those which occur in irregular or infrequent intervals, such as via spills, or leaks from pressurized equipment.
+
+[^2#be05-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^3#be05-3]: Some companies may be unsure whether to capture a harmful emission here, or via goal [**BE17: Products do not harm people or the environment**](#be05) (e.g. a transport company whose vehicles emit air pollutants during use). Where such uncertainties arise, see _Differentiating between operational and product impacts_ in the [**Implementation Guide**](#ig-differentiating-impacts).
+
+[^4#be05-4]: In this case the substance should be banned from production across _all_ company regions.
+
+[^5#be05-5]: For further guidance on why the build-up of substances in the environment is considered problematic, see this [_frequently asked question_](#be05-faq).
+
+[^6#be05-6]: Ideally, aggregation would be weighted on the basis of the emitted substance's toxicity, to reflect the seriousness of each substance's effects. However, at the time of publishing there are no tools to support this type of comparable analysis available for general use.
+
+[^7#be05-7]: This step rewards companies that have a long history of gathering emissions data. Once a reference year has been chosen, it should not be changed. For further details on setting reference points see the [**Implementation Guide**](#ig-set-reference-point).
+
+[^8#be05-8]: Where possible, this should be described by weight, for consistency with data used throughout the goal.

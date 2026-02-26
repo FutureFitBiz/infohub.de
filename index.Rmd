@@ -1,0 +1,30 @@
+---
+title: "Future‑Fit Business Benchmark"
+Xauthor: "Future‑Fit Foundation"
+Xdate: "`r Sys.Date()`"
+output: bookdown::gitbook
+Xoutput: bookdown::html_book
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: ["references.bib"]
+biblio-style: apalike
+nocite: '@*'
+link-citations: yes
+github-repo: futurefitbiz/infohub
+description: "This is the Future‑Fit Business Benchmark Info Hub."
+---
+
+# (PART\*) Getting Started {-}
+
+# Welcome {-#welcome}
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Español / Spanish](https://es.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/spain.svg){width=20px}&emsp;&emsp;&emsp;&emsp;[Português / Portuguese](https://pt.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/portugal.svg){width=20px}
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[中文 / Chinese](https://cn.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/china.svg){width=20px}
+
+<div class="subtitle">Release 2.3 - June 2021
+</div>
+
+<div class="callout-tip">
+This is the first online version of the Future-Fit Business Benchmark. Please let us know if you come across any errors or have any suggestions for improvement. You can reach our team at [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.2%20Methodology%20Guide). Thanks as ever for your help...
+</div>

@@ -1,0 +1,319 @@
+---
+output: github_document
+---
+
+## BE13: Employee Discrimination {-#be13}
+
+<div class="subtitle">Employees are not subject to discrimination
+</div>
+
+### 1. Ambition {-#be13-ambition}
+
+A Future-Fit Business proactively investigates and monitors key practices – such as recruitment, pay structures, hiring, performance assessment and promotions – to ensure that no discrimination occurs, however unintentional it may be.
+
+#### 1.1 What this goal means {-#be13-what-goal-means}
+
+Everyone is entitled to respectful, equitable treatment and equal opportunity, irrespective of personal or protected characteristics such as age, gender, sexual orientation, ethnicity, country of origin, disability or socio-economic background.[^7#be13-7]
+
+Discrimination in the workplace may take many forms, and discriminatory behaviour can be perpetuated – or at least go unnoticed and unchallenged – by established norms and practices within organizations.
+
+To be Future-Fit, a company must be proactive in investigating and monitoring key practices – such as recruitment, pay structures, hiring, performance assessment and promotions – to ensure that no discrimination occurs, however unintentional it may be.
+
+#### 1.2 Why this goal is needed {-#be13-why-goal-needed}
+
+As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+
+These statistics help to illustrate why it is critical for all companies to reach this goal:
+
+- **Discrimination is often culturally entrenched.** An Institute for Public Policy Research study in the UK found that immigrants from certain ethnic backgrounds have had to submit between 10% and 150% more applications on average than non-migrants to get a 'call-back' when applying for a job. @The13
+- **Legal protections afforded to minority groups can differ significantly.** For example, in 17 of the 50 United States there are no laws prohibiting companies from discriminating against employees with respect to their sexual orientation or gender identity. @Hum17
+- **Women are still at a disadvantage in the workplace**.Globally, women earn an average of $11,000 annually, compared to men who earn an average of $20,000. @Emi17
+
+#### 1.3 How this goal contributes to the SDGs {-#be13-goal-to-sdgs}
+
+The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+
+Companies may contribute to several SDGs by ensuring employees are not subject to discrimination, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+
+<div class="table-sdg table-blue">
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+|:-:|:-|
+| ![SDG 5](assets/sdg/sdg-5.svg) | Support efforts to end all forms of discrimination against women and girls everywhere, and efforts to ensure workers' (and particularly women's) full and effective participation and equal opportunities for leadership at all levels of decision-making. |
+| ![SDG 10](assets/sdg/sdg-10.svg) | Support efforts to ensure equal opportunity and reduce inequalities of outcome by promoting appropriate policies and action. |
+</div>
+
+#### 1.4 Related goals {-#be13-related-goals}
+
+The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+
+- [**Employees are paid at least a living wage**](#be11), [**Employees are subject to fair employment terms**](#be12), and [**Employee health is safeguarded**](#be10): The _Employee discrimination_ goal seeks to ensure that (starting from the job application stage) workers are not treated differently on the basis of age, sex, ethnicity, religious beliefs, sexual orientation, or other grounds. It complements the other _Employee_ goals in setting out the minimum that companies must do to foster the wellbeing of their employees.
+- [**Employee concerns are actively solicited, impartially judged and transparently addressed**](#be14): The _Employee discrimination_ goal includes requirements for mechanisms that enable employees to report and seek resolution for instances of discrimination. A company could potentially employ the same controls to cover all employee concerns, including those relating to discrimination.
+
+### 2. Action {-#be13-action}
+
+#### 2.1 Getting started {-#be13-getting-started}
+
+##### Background information {-}
+
+It is extremely difficult to identify – and to quantify – incidents and patterns of past discrimination. As a result, the approach here focuses on ensuring that comprehensive internal controls are in place to prevent discrimination from taking place. This aligns with guidance from the [International Labour Organization](#be13-ilo) and the [UN Global Compact](#be13-ungc).
+
+It is important to consider both direct and indirect discrimination when addressing this goal. Direct discrimination occurs when laws, rules or practices explicitly cite a particular reason (such as sex, race, etc.) to deny equal opportunities (e.g. requiring that applicants for a position must be male or female, and actively excluding the opposite sex). Indirect discrimination occurs when rules or practices appear to be neutral, but in practice lead to exclusions (e.g. printing internal job postings in English only at a site that has a high proportion of Spanish-speaking employees). @Int174
+
+Furthermore, discrimination can occur on the basis of multiple personal characteristics, and this can manifest in the workplace in many ways. For example, black women may be subject to a more substantial gender pay gap and an increased likelihood of sexual harassment compared to their white female colleagues. @Di20 @Rep16 @Mdi21
+
+<div class="callout-note">
+**Language: anti-discrimination, inclusion and diversity**
+
+‘Non-discrimination’, ‘anti-discrimination’ and ‘inclusion’ are terms that are often used interchangeably, and are sometimes also confused with ‘diversity’.
+
+‘Anti-discrimination’ is used to describe the active redressing of systemic barriers that have been entrenched within society. An ‘anti-discriminatory’ or ‘inclusive’ workplace is one where the conditions are in place to ensure that no discrimination occurs, or would hypothetically occur if new people were to join the workforce. 
+
+Diversity in the workplace refers to when an organization’s employees have a variety of attributes, which may range from protected characteristics such as gender, race and religion, to other personal characteristics such as economic background or cognitive differences. 
+
+While every business’s operating context and growth will be different, an anti-discriminatory workplace should become more diverse over time.
+</div>
+
+##### Questions to ask {-}
+
+These questions should help you identify what information to gather.
+
+###### Is the company aware of any instances of direct or indirect discrimination in its operations? {-}
+
+- Are there areas where the company is at risk of actively discriminating in the way that roles are assigned, or in ways that impact mobility within the organization?
+- Have there been any concerns expressed by external sources around possible discriminatory practices within the company? If so, how have these concerns been investigated and addressed?
+
+###### What are the main at-risk groups in the company? {-}
+
+- Are there particular groups of employees in specific regions who have greater cultural or social barriers to overcome?
+- Does the demographic makeup of the organization reflect that of the areas it operates in? If not, are the reasons for the discrepancies understood?
+
+###### Are there ways to partner with NGOs or social justice organizations? {-}
+
+- Involving impacted stakeholder groups or their representatives may help the company to develop a more effective solution than they can create by working in isolation.
+
+##### How to prioritize {-}
+
+These questions should help you identify and prioritize actions for improvement.
+
+###### What are the areas where the company could have the largest impact? {-}
+
+- Are there geographic regions or social groups where specific individuals are particularly at risk? If so, improvements to controls here might have a larger relative impact.
+- Which parts of the organization experience the greatest movement of employees, either in terms of turnover or internal progression? Improvements in those areas are most likely to affect the greatest number of people.
+
+###### What are the areas where progress can be most easily made? {-}
+
+- Are there approved policies outlining the company's official position regarding discrimination? Have controls been documented and implemented to help prevent discrimination from occurring?
+- Does the company have demographic data for its workers that it can use to track hiring and promotion outcomes? Does this information help identify any problem areas? Could it be used to track the effectiveness of new policies?
+
+###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+
+- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^1#be13-1] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+
+The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+
+#### 2.2 Pursuing future-fitness {-#be13-pursuing}
+
+##### Introduction {-}
+
+To achieve future-fitness with respect to this goal, companies must ensure that each of their employees are working under conditions and supported by systems that protect them from discrimination.
+
+###### Guidance on determining which workers are in scope as 'employees' {-}
+
+There are many different types of working relationships between a company and those contributing labour to its activities. It is important to distinguish who qualifies as a direct employee, and who is part of an outside organization providing services to the company. See the [**Implementation Guide**](#ig-determining-employee) for details on determining who is an employee.
+
+##### Fitness criteria {-}
+
+The company's anti-discrimination policy and the controls that support it must satisfy the following criteria:
+
+###### Adoption of an anti-discrimination policy {-}
+
+- A policy is in place which clearly states the company's position and commitment to being a discrimination-free workplace.
+- A senior company official is appointed to be responsible for discrimination and equity issues.
+
+###### Directive and preventive measures {-}
+
+- The policy is actively communicated to employees, and stored or posted so that all employees have access to it.
+- The policy is referenced or incorporated into recruitment and training practices, employee performance evaluations, promotion or advancement decisions, and compensation guidelines.
+
+###### Corrective measures {-}
+
+- Procedures or mechanisms are in place (beyond direct reporting lines such as speaking to the employee's manager) to facilitate employees' ability to confidentially report and seek resolution for potential instances of discrimination or breaches of the anti-discrimination policy.[^2#be13-2]
+- Document submitted feedback for internal reference, along with the steps taken by the company to investigate and address the issues raised.
+
+###### Monitoring: {-}
+
+- The company assesses the effectiveness of the anti-discrimination controls – including the policy, reporting mechanism, and any controls used to supplement them – at regular intervals.
+- When needed, steps are taken to adjust the controls.
+
+For additional guidance on evaluating or setting effective internal controls, see the [**Implementation Guide**](#ig-internal-controls).
+
+<div class="callout-note">
+**Positive action in the workplace**
+
+Positive action occurs when employers undertake activities with the express intention of redressing imbalances in opportunity for individuals that are at a disadvantage. @Eac11 An example would be to [place job adverts in targeted sites](#be13-FAQ-hiring-candidate) to encourage applications from under-represented groups. Positive action is not the same as positive discrimination, which involves giving preferential treatment to an individual due to a particular characteristic. Decisions in the workplace should always be based on merit.
+
+Discrimination is highly context-dependent. The type and extent of systemic barriers will vary by region, country and even industry. In some cases more active efforts may be needed to neutralize the entrenched effects of historic discrimination. This might be in the form of an explicit government-level policy, or a company may decide to instigate policies and programmes itself. Any such initiative should be considered very carefully, to avoid issues such as tokenism and undermining the legitimacy of existing employees from minority groups. @Rep16
+
+</div>
+
+### 3. Assessment {-#be13-assessment}
+
+#### 3.1 Progress indicators {-#be13-progress}
+
+The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+
+A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+
+##### Assessing progress {-}
+
+The term _anti-discrimination program_ is used here to refer collectively to an anti-discrimination policy and the control mechanisms used to enforce it.
+
+This goal has one progress indicator. To calculate it the following steps are required:
+
+- Assess fitness for each employee against the fitness criteria.
+- Calculate company-wide progress across all employees.
+
+##### Assessing fitness for each employee {-}
+
+Note that although fitness is measured on a per-employee basis, the assessment can be done by group (e.g. by location, job function, etc.), provided that all employees in a group are subject to the same anti-discrimination program.
+
+The anti-discrimination program is scored using the four fitness criteria categories (adoption of an anti-discrimination policy, directive and preventive measures, corrective measures, monitoring) as follows:
+
+- **0% fit**: no anti-discrimination program is in place for an employee or group of employees, _or_ no assessment of the program against the criteria has been performed, _or_ the program _does not_ live up to the fitness criteria category _Adoption of an anti-discrimination policy_.
+
+Employees covered by an anti-discrimination program are scored as follows:
+
+- **25% fit**: _Adoption of an anti-discrimination policy_ is the only category satisfied.
+- **50% fit**: One additional criteria category is satisfied.
+- **75% fit**: Two additional criteria categories are satisfied.
+- **100% fit**: All criteria categories are satisfied.
+
+##### Calculating company progress {-}
+
+Overall progress is calculated as follows:
+
+- Identify the total number of employees in the company during the reporting period.[^3#be13-3]
+- Calculate progress as the weighted average fitness of the company's anti-discrimination program across all employees.
+
+This can be expressed mathematically as:
+
+$$F=\frac{0(E_{0\%})+0.25(E_{25\%})...+0.75(E_{75\%})+1(E_{100\%})}{E_T}$$
+
+Where:
+
+<div class="table-20">
+| | |
+|-|-|
+| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
+| $$E_{x\%}$$ | Is the number of employees in the company for which the fitness score is x%, based on which of the four fitness criteria categories are being met.[^4#be13-4] |
+| $$E_T$$ | Is the total number of employees in the company during the reporting period. |
+</div>
+
+For an example of how this progress indicator can be calculated, see [here](#be13-example).
+
+#### 3.2 Context indicators {-#be13-context}
+
+The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+
+####### Total number of employees {-}
+
+In addition to the proportion of employees covered by an appropriate anti-discrimination program, the total number of employees that worked for the company during the reporting period must be reported.
+
+Note that for this indicator it is not appropriate to use the average number of employees (e.g. equating two employees working 20 hours per week each to one full-time employee, or three workers employed for four months each as one full time job) as such methods risk obfuscating the impacts on one or more of the individuals concerned.
+
+For an example of how context indicators can be reported, see [here](#be13-example).
+
+### 4. Assurance {-#be13-assurance}
+
+#### 4.1 What assurance is for and why it matters {-#be13-assurance-why}
+
+Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+
+This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+
+#### 4.2 Recommendations for this goal {-#be13-assurance-this-goal}
+
+The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+
+- Document the methods used to determine the number of employees during the reporting period, and how these employees were categorized into groups for the purposes of the assessment. Assurers may use this information to assess the risk that employees were inadvertently omitted from the assessment.[^5#be13-5]
+- Provide a copy of the company's policy describing its anti-discrimination commitment. This can help assurers to determine whether the company is complying with the requirements of the goal.
+- Record the steps taken to communicate the company's anti-discrimination policy to employees, including any ways the policy has been integrated into recruitment, training, or performance evaluation processes or materials. This can help assurers to understand and evaluate the company's strategy for communicating the policy to employees against the criteria.
+- Document the procedures or mechanisms in place which facilitate employees' ability to report cases of discrimination in the workplace, and retain any notes and evidence of actions taken based on employee submissions.[^6#be13-6] Assurers may evaluate the concern-reporting mechanism's design in terms of its appropriateness in identifying and resolving discrimination concerns.
+- Document the controls used by the company to check that the company's anti-discrimination controls are working as intended. Assurers may check these controls to determine whether the company is able to identify and address any problems with the concern-reporting mechanism within a reasonable timeframe. If not, there is a risk that instances of discrimination could go undetected by the company.
+
+For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+
+### 5. Additional information {-#be13-additional}
+
+#### 5.1 Example {-#be13-example}
+
+ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The company has a total of 250 employees: 50 working in the office and 200 at the bottling plant. The company does not have anti-discrimination programs in place at either location, so its fitness starts off at 0%.
+
+The company then finds that discrimination is a significant issue at its bottling plant, with three separate concerns raised during the reporting period. The company therefore implements an anti-discrimination program at the bottling plant which lives up to the fitness criteria categories of _Adoption of an anti-discrimination policy_ and _Corrective measures_.
+
+The company can now calculate its fitness as:
+
+$$F=\frac{0(E_{0\%})+0.25(E_{25\%})...+1(E_{100\%})}{E_T}=\frac{0(50)+0.5(200)}{250}=40\%$$
+
+####### Context Indicator {-}
+
+Number of employees during the reporting period: 250
+
+#### 5.2 Frequently asked questions {-#be13-FAQ}
+
+##### How can a company integrate anti-discrimination into recruitment? {-#be13-FAQ-hiring}
+
+There are many different ways in which businesses can integrate anti-discrimination into recruitment. A variety of suggestions are included below. It should be noted that none of these practices in isolation will eliminate discrimination, but together they can be used to build a comprehensive approach. 
+
+###### Ensure job postings are demographic-neutral {-#be13-FAQ-hiring-posting}
+
+Job advertisements are likely the first point of contact an applicant will have with a potential employer. The language used in these can influence who the job posting attracts. For example, some words such as ‘assertive’ and ‘determined’ have been found to decrease the number of female applications, while words such has ‘committed’, ‘interpersonal’ and ‘responsible’ may have the opposite effect. @Gir19 @Mcg17 By thinking carefully about the words used to describe a candidate profile, a company may attract more diverse applicants. Furthermore, a study has found that women are less likely to apply for jobs if they don’t meet all required criteria, so clearly distinguishing between ‘required’ criteria and 'desirable' criteria may help to ensure a more gender-diverse range of applicants. @Gir19
+
+###### Widen the candidate search {-#be13-FAQ-hiring-candidate}
+
+Where job opportunities are publicized and promoted can have a significant impact on who applies. For example, for entry-level roles, postings which are only shared with top-tier universities will attract a relatively homogeneous group. @Mcg17 By posting on a wider range of platforms, using recruiters focused on diversity, as well as deploying social media and other tools to attract different talent, a company may be able to increase the diversity of the candidate pool.
+
+###### Use appropriate blind hiring practices {-#be13-FAQ-hiring-blind}
+
+Blind hiring represents a range of practices which involve removing information to mitigate conscious or unconscious bias during recruitment. @Bal15 @Win17 This may be as simple as removing any demographic indicators (such as name or academic experience) from applications and CVs before evaluating them, through to basing the entire recruitment process on skills-focused assessments. The most appropriate option will depend on the business’s unique context, including resources available, size, and current hiring practices.
+
+###### Use appropriate interview practices {-#be13-FAQ-hiring-interviews}
+
+Involving diverse people in the hiring process can help decision-makers gain feedback and perspectives which may otherwise have been missed, and can help avoid similarity bias. @Mcg17 @Win17 It can also help candidates feel a greater sense of inclusion during interviews.
+
+##### Should a company implement anti-discrimination, diversity or unconscious bias training? {-#be13-FAQ-training}
+
+Training on discrimination and diversity can take multiple forms. It is typically designed to raise awareness and promote positive interactions between all employees. Unconscious bias [^8#be13-8] training specifically focuses on increasing awareness of the tendency to unconsciously favour certain individuals based on their characteristics. However, there is little evidence that anti-discrimination, diversity or unconscious bias training supports lasting behaviour change in and of itself. @Unc20 
+
+Therefore, while training can be used to raise awareness of the challenge of discrimination, it should always be undertaken as part of a broader anti-discrimination strategy. To be most effective, training sessions should be ongoing and voluntary, rather than one-off and mandatory, should be prioritised for employees carrying out recruitment or progression decisions, and should focus on practical processes which employees can implement. @Mcg17 @Unc20
+
+#### 5.3 Useful links {-#be13-links}
+
+##### International Labour Organization (ILO) {-#be13-ilo}
+
+The ILO has [several conventions](http://www.ilo.org/empent/areas/business-helpdesk/WCMS_DOC_ENT_HLP_BDE_EN/lang--en/index.htm) that address discrimination and equal remuneration. It further offers [guidance](http://www.ilo.org/empent/areas/business-helpdesk/faqs/WCMS_DOC_ENT_HLP_BDE_FAQ_EN/lang--en/index.htm#Q4) as to what constitutes good company policies on equal employment practices.
+
+##### Kat Matfield Gender Decoder {-#be13-katmat}
+
+This [gender decoder](http://gender-decoder.katmatfield.com) is a tool to support the creation of gender-neutral job descriptions or other copy. It checks for the appearance of masculine and feminine language, highlights specific gender-coded words and thereby supports writers to neutralize bias in language. 
+
+##### UN Global Compact {-#be13-ungc}
+
+One of the UN Global Compact's Ten Principles is that "[_businesses should uphold the elimination of discrimination in respect of employment and occupation_](https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6)", and guidance is offered regarding specific actions a company can take to adhere to this Principle.
+
+
+[^1#be13-1]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+
+[^2#be13-2]: Note that if the concern mechanisms used to address the _Employee concerns_ goal is determined to be effective for capturing and appropriately addressing employees' concerns over potential instances of discrimination, there is no explicit need for a separate system.
+
+[^3#be13-3]: Note that for this indicator, it is not appropriate to use the average number of employees (e.g. equating two employees working 20 hours per week each to one full-time employee, or three workers employed for four months each as one full-time job) as it risks obfuscating the impact on one or more of the individuals.
+
+[^4#be13-4]: For example, would be the number of employees for whom an anti-discrimination program is in place which only meets the fitness criteria for _Adoption of an anti-discrimination policy_.
+
+[^5#be13-5]: This information is relevant for all employee-related Break-Even Goals, but the method may have to be adjusted for the purposes of this goal. For the reason why see the [_Context indicator_](#be13-context) section.
+
+[^6#be13-6]: This can be the same mechanism used for the goal [**Employee concerns are actively solicited, impartially judged and transparently addressed**](#be14) and should draw on the best practices and guidance outlined in that Action Guide.
+
+[^7#be13-7]: Protected characteristics are those covered by the international human rights legal framework. The framework contains instruments to protect against the discrimination of indigenous peoples, migrants, minorities, people with disabilities, women, or on the basis of race, religion, sexual orientation or gender identity. @Un21 Protected characteristics sit within the broader category of personal characteristics, which include any other identifying factors, such as socio-economic background.
+
+[^8#be13-8]: Unconscious bias (or ‘implicit’ bias) is the presence of unintentional and automatic associations with someone, often based on a personal characteristic such as race or gender. It stems from traditions, norms, values, culture and/or experience. @Act17

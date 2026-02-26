@@ -1,0 +1,151 @@
+---
+output: github_document
+---
+
+### What is the Benchmark? {-#welcome-what}
+
+###### What it *isn't*... {-}
+The Benchmark is *not* yet another sustainability reporting framework or standard. Nor does it involve filling in and sending off questionnaires for third-parties to score. And it isn’t a certification or rating system which serves primarily as a badge of honour for companies doing slightly more than their peers.
+
+###### What it is: a new kind of business tool. {-}
+
+The Benchmark is a new kind of business tool, designed to help any company play its part in our transition to an environmentally restorative, socially just and economically inclusive future.
+
+It defines what it takes for a business to be truly responsible and regenerative - providing a clear destination to aim for, and a way to steer towards it.
+
+If you work with or inside a business, the Benchmark equips you to do three things:
+
+- First, it helps you **set better environmental and social ambitions** – ones that meet the needs of both the business and society as a whole.
+
+- Second, it provides detailed guidance on how to **make and measure meaningful progress** in pursuit of those ambitions.
+
+- And third, it offers a way to **transform how you engage stakeholders**, by shifting the narrative to focus on the future: where the company is going, how it’s working to get there, and why that is good for both the business and society as a whole.
+
+<div class="callout-note">
+A wide range of companies – from start-ups to global corporations – are already using the Benchmark to build a more successful business. And you can too, without restriction, because it’s published under a Creative Commons [license](#licensing) and is completely free to use.
+</div>
+
+### Finding your way around {-#welcome-way}
+
+The Benchmark comprises a suite of guides, as follows:
+
+<div class="ff-figure" style="max-width:400px; margin:0 auto;">
+![](assets/figures/doc-map.svg)
+</div>
+
+- [Methodology Guide](#mg)<br/>
+The Methodology Guide is the core of the Benchmark. You don’t have to read the Methodology Guide from start to finish, but it is the best place to start if you want to understand what the Future-Fit Business Benchmark is for and why it matters.
+
+- [Break-Even Goal Action Guides](#be)<br/>
+The Break-Even Goals mark the line in the sand that every business ultimately needs to reach, to be sure it is not undermining society's progress to future-fitness. There are 23 Break-Even Goals in total, and there is an Action Guide for each one. Every Action Guide offers in-depth advice on how to pursue and assess progress toward that goal. Practitioners focused on particular aspects of a business – from procurement and ethics, through to human resources and product design – will find plenty of useful guidance here.
+
+- [Positive Pursuit Guide](#pp)<br/>
+The Positive Pursuit Guide offers detailed advice on the range of activities a company can pursue to speed up society’s progress toward future-fitness. This includes guidance on how to credibly assess and explain the positive outcomes that particular projects or products deliver.
+
+- [Implementation Guide](#ig)<br/>
+The Implementation Guide offers supplementary advice on using the Benchmark, with topics ranging from how to assess progress toward the Break-Even Goals with incomplete data, through to designing effective management policies and processes.
+
+If you want to get reading now, start with [Why Future-Fit?](#mg-why-future-fit) in the Methodology Guide. Alternatively you may wish to watch our [Crash Course](https://futurefitbusiness.org/watch-the-crash-course/#). You can find a wealth of supporting resources, and meet and collaborate with other Benchmark users, in our [Changemaker Community](https://www.futurefit.community).
+
+<div class="callout-note">
+The Future-Fit Business Benchmark is a public good, and we would be delighted to hear about your experiences as we continue to improve it. You can reach our team at [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.2%20Methodology%20Guide).
+</div>
+
+### Licensing {-#licensing}
+
+To accelerate progress toward a prosperous future for all, we want to make it as easy as possible for people to use and build on our work. To that end, **the Future-Fit Business Benchmark is free to use, share and modify with a few conditions**.
+
+The Benchmark is published under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license, which means you are free to:
+
+- **Share** – Copy and redistribute the material in any medium or format.
+- **Adapt** – Remix, transform, and build upon the material for any purpose, even commercially.
+
+These freedoms apply as long as you adhere to the following terms:
+
+- **Attribution** – You must give appropriate credit, with a link to [futurefitbusiness.org](http://futurefitbusiness.org/) and to [this license](http://creativecommons.org/licenses/by-sa/4.0/), indicating if changes have been made. You may do so in any reasonable manner, but not in any way that suggests endorsement by Future-Fit Foundation.
+- **ShareAlike** – If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- **No additional restrictions** – You may not apply technological measures or legal terms that legally restrict others from doing anything this license permits.
+
+<div class="callout-note">
+**Partnering with Future-Fit Foundation**
+
+Anyone can use the Future-Fit Business Benchmark for free, and with no obligation to tell us. However, over the past few years a wide range of individuals and organisations have asked us for a way to signal that they are committed to applying the Future-Fit approach in a rigorous way.
+
+To that end, we have developed various optional forms of accreditation – including the right to use Future-Fit logos, and to identify us as a partner – for advisors, assurers, software developers and anyone else wishing to incorporate our work into their own products and services. [Contact us](mailto:info@futurefitbusiness.org?subject=Future-Fit%20Enquiry%20-%20Release%202.1) to find out more.
+</div>
+
+### Release 2.3 Notes {-#releasenotes}
+
+A summary of the changes made to the Benchmark between Release 2.2 and Release 2.3 can be found below.
+
+###### [BE01: Energy is from renewable sources](#be01) {-}
+
+Additional guidance on biomass.
+
+###### [BE02: Water use is environmentally responsible and socially equitable](#be02) {-}
+
+Additional guidance on the difference between water discharge and liquid emissions.
+
+###### [BE03: Natural resources are managed to respect the welfare of ecosystems, people and animals](#be03) {-}
+
+Additional guidance on endangered animals.
+
+###### [BE04: Procurement safeguards the pursuit of future-fitness](#be04) {-}
+
+Minor formatting updates.
+
+###### [BE05: Operational emissions do not harm people or the environment](#be05) {-}
+
+Additional guidance on the difference between harmful emissions, waste and water discharge.
+
+###### [BE07: Operational waste is eliminated](#be07) {-}
+
+Additional guidance on the difference between waste and harmful emissions.
+
+###### [BE08: Operations do not encroach on ecosystems or communities](#be08) {-}
+
+Additional guidance on endangered animals.
+
+###### [BE11: Employees are paid at least a living wage](#be11) {-}
+
+Additional useful resources.
+
+###### [BE12: Employees are subject to fair employment terms](#be12) {-}
+
+Minor formatting updates.
+
+###### [BE13: Employees are not subject to discrimination](#be13) {-}
+
+Additional guidance on positive action and implementing the fitness criteria for this goal.
+
+###### [BE14: Employee concerns are actively solicited, impartially judged and transparently addressed](#be14) {-}
+
+Minor formatting updates.
+
+###### [BE18: Products emit no greenhouse gases](#be18) {-}
+
+Additional guidance on fossil-fuel based energy.
+
+###### [BE19: Products can be repurposed](#be19) {-}
+
+Clarification of ACME example.
+
+###### [BE20: Business is conducted ethically](#be20) {-}
+
+Minor formatting updates.
+
+###### [BE21: The right tax is paid in the right place at the right time](#be21) {-}
+
+Minor formatting updates.
+
+###### [BE22: Lobbying and advocacy safeguard the pursuit of future-fitness](#be22) {-}
+
+Minor formatting updates.
+
+###### [Positive Pursuit Guide](#pp) {-}
+
+Clarified guidance and minor additions to [**PP14: Others cause less damage to areas of high social or cultural value**](#pp14) and [**PP15: Areas of high social or cultural value are restored**](#pp15).
+
+###### [Implementation Guide](#ig) {-}
+
+Additional guidance on how to calculate fitness for subsidiaries and what constitutes a formal policy.

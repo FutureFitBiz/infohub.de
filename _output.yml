@@ -1,0 +1,35 @@
+bookdown::gitbook:
+  includes:
+    in_header: header.html
+  toc_depth: 3
+  anchor_sections: TRUE
+  css: style.css
+  split_by: "section" # versus chapter
+  citation_package: natbib
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: yes
+      before: |
+        <li id="FFBB"><a href="./"><img height=42 src="./assets/FF-Business-WHITE.svg" /></a></li>
+      after: |
+        <li id="FFCOP"><a href="https://futurefitbusiness.org" target="blank">Copyright © Future-Fit Foundation</a></li>
+    Xedit: https://github.com/futurefitbiz/infohub/tree/main/%s
+    Xdownload: ["pdf"]
+    sharing:
+      facebook: no
+      github: no
+      twitter: no
+      linkedin: no
+      weibo: no
+      instapaper: no
+      vk: no
+  pandoc_args: [ "--csl", "ieee-with-url.csl" ]
+bookdown::html_book:
+  toc: yes
+  css: [style.css, toc.css]
+Xbookdown::pdf_book:
+  Xlatex_engine: xelatex
+  Xcitation_package: natbib
+  Xkeep_tex: yes
+  Xsplit_by: "chapter"

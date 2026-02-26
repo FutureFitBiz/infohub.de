@@ -1,0 +1,349 @@
+---
+output: github_document
+---
+
+# Key Terms & Definitions {-#def}
+
+<div class="subtitle">Terminology used across the Future-Fit Business Benchmark.
+</div>
+
+##### Biodegradable {-#def-biodegradable}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
+
+_A material is biodegradable if it can, with the help of micro-organisms, break down into natural elements (e.g. water, carbon dioxide, biomass)._
+
+##### Bio-based {-#def-bio-based}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
+
+_A material is bio-based if it is wholly or partly derived from biomass._
+
+##### Community {-#def-community}
+
+We use [Global Reporting Initiative's](https://www.globalreporting.org/standards/gri-standards-download-center/gri-413-local-communities-2016/) definition of a (local) _community_:
+
+_**Community**: Persons or groups of persons living and/or working in any areas that are economically, socially or environmentally impacted (positively or negatively) by an organization's operations._
+
+##### Ecosystem {-#def-ecosystem}
+
+We use the definition from the [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/en/Index-2.html): @Mil05
+
+_A dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit._
+
+##### Effluent {-#def-effluent}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_A subset of discharge, **effluent** is the wastewater (treated or untreated) from a production process that is discharged._
+
+For simplicity, in the text of this goal the term is meant to include relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+
+##### Emission factor {-#def-emission-factor}
+
+We use the definition from the [UN Framework Convention on Climate Change](https://unfccc.int/resource/docs/publications/09_resource_guide3.pdf): @Unf141
+
+_An emission factor is defined as the average emission rate of a given GHG for a given source, relative to units of activity._
+
+##### Employee {-#def-employee}
+
+For Break-Even Goals relating to employee wellbeing, it is necessary to determine which types of worker should be included. This is not always as straightforward as it may seem: see [_Determining who is an 'employee'_](#ig-determining-employee) for detailed guidance on how to do this.
+
+##### Endangered species {-#def-endangered-species}
+
+We use the definition from [WWF](https://www.worldwildlife.org/pages/what-does-endangered-species-mean): @Wwf21
+
+_The term ‘endangered’ refers specifically to species that are considered to be facing a high risk of extinction in the wild. Species can be listed as Critically Endangered, Endangered and Vulnerable._
+
+A full list of Critically Endangered, Endangered and Vulnerable species can be found on the [IUCN Red List](https://www.iucnredlist.org/).
+
+
+##### Energy recovery {-#def-energy-recovery}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+
+_The conversion of non-recyclable waste materials into useable heat, electricity, or fuel through a variety of so-called waste-to-energy processes, including combustion, gasification, pyrolysis, anaerobic digestion, and landfill gas recovery._
+
+##### Environmental flows {-#def-environmental-flows}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/), as established by [The Brisbane Declaration](https://riversymposium.com/about/brisbane-declaration/) from the 10th International River<em>symposium</em>: @Int07
+
+_**Environmental flows** describe the quantity, timing and quality of water flows required to sustain freshwater and estuarine ecosystems and the human livelihoods and well-being that depend upon these systems._
+
+##### The Five Freedoms {-#def-five-freedoms}
+
+The [Farm Animal Welfare Committee (FAWC)](https://www.gov.uk/government/groups/farm-animal-welfare-committee-fawc), a UK government initiative, proposes that good animal welfare implies both physical fitness _and_ a sense of wellbeing for the animal. As guiding principles, FAWC formulated the following five freedoms: @Far09
+
+- Animals must have freedom from thirst, hunger and malnutrition.
+- Animals must have freedom from discomfort.
+- Animals must have freedom from pain, injury and disease.
+- Animals must have freedom to express normal behavior.
+- Animals must have freedom from fear and distress.
+
+##### Hazardous waste {-#def-hazardous-waste}
+
+We use the definition from the [US Environmental Protection Agency](https://www.epa.gov/hw/learn-basics-hazardous-waste#hwid): @Use17
+
+_Hazardous waste is a waste with properties that make it dangerous or capable of having a harmful effect on human health or the environment._
+
+[Annex III of the Basel Convention](http://archive.basel.int/text/con-e.pdf) offers a list of these properties.
+
+'Non-hazardous waste' is any waste not classified as hazardous.
+
+##### Health {-#def-health}
+
+We use the definition provided by the WHO: @Wor10
+
+_**Health** is a state of complete physical, mental and social well-being, and not merely the absence of disease._
+
+##### High Conservation Value (HCV) Area {-#def-hcv}
+
+We use the definition from the [HCV Resource Network](https://hcvnetwork.org/): @Higwn
+
+_HCVs are biological, ecological, social or cultural values which are considered outstandingly significant or critically important, at the national, regional or global level._
+
+The HCV Resource Network lists six categories of HCVs:
+
+###### HCV 1 {-}
+
+- _Concentrations of biological diversity including endemic species, and rare, threatened or endangered species, that are significant at global, regional or national levels._
+
+###### HCV 2 {-}
+
+- _Intact forest landscapes and large landscape-level ecosystems and ecosystem mosaics that are significant at global, regional or national levels, and that contain viable populations of the great majority of the naturally occurring species in natural patterns of distribution and abundance._
+
+###### HCV 3 {-}
+
+- _Rare, threatened, or endangered ecosystems, habitats or refugia._
+
+###### HCV 4 {-}
+
+- _Basic ecosystem services in critical situations, including protection of water catchments and control of erosion of vulnerable soils and slopes. _
+
+###### HCV 5 {-}
+
+- _Sites and resources fundamental for satisfying the basic necessities of local communities or indigenous peoples (for livelihoods, health, nutrition, water, etc.), identified through engagement with these communities or indigenous peoples._
+
+###### HCV 6 {-}
+
+- _Sites, resources, habitats and landscapes of global or national cultural, archaeological or historical significance, and/or of critical cultural, ecological, economic or religious/sacred importance for the traditional cultures of local communities or indigenous peoples, identified through engagement with these local communities or indigenous peoples._
+
+For further guidance see [Common Guidance for the Identification of HCV](https://hcvnetwork.org/library/common-guidance-for-the-identification-of-high-conservation-values/) @Hig131 and [Common Guidance for the Management & Monitoring of HCV](https://hcvnetwork.org/library/common-guidance-for-the-management-and-monitoring-of-hcv/) @Hig13, which are available freely online via the [HCV Network](https://www.hcvnetwork.org/resources/folder.2006-09-29.6584228415).
+
+##### Homogenous material {-#def-homogenous-material}
+
+We use the definition from [The Cradle to Cradle Products Innovation Institute](http://s3.amazonaws.com/c2c-website/resources/certification/guidance/GUI_HomogeneousMaterialsGuidance_v1.0_030316.pdf): @Cra16
+
+_Homogeneous materials are defined as materials of uniform composition throughout that cannot be mechanically disjointed, in principle, into different materials. Examples of homogeneous materials are polypropylene, steel, shampoo, glass cleaner, nylon yarn, finish, and coating. Examples of non-homogeneous materials are powder-coated steel, a printed bottle label, plywood, laminate, and chair casters._
+
+##### Living wage {-#def-living-wage}
+
+We use the definition proposed by the [Global Living Wage Coalition](https://www.globallivingwage.org/about/anker-methodology/): @Liv17
+
+_**Living wage** is: Remuneration received for a standard work week by a worker in a particular place sufficient to afford a decent standard of living for the worker and her or his family. Elements of a decent standard of living include food, water, housing, education, health care, transport, clothing, and other essential needs, including provision for unexpected events._
+
+##### Major greenhouse gases {-#def-major-ghgs}
+
+The Kyoto Protocol identifies seven major greenhouse gases: carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), hydrofluorocarbons (HFCs), nitrous oxide (N<sub>2</sub>O), perfluorocarbons (PFCs), sulphur hexafluoride (SF<sub>6</sub>), nitrogen triflouride (NF<sub>3</sub>). @Unf12 These GHGs are called 'major' because they make up a large percentage of the total impact on climate caused by humans.
+
+##### Mutual Accountability {-#def-mutual-accountability}
+
+A company is _wholly accountable_ for impacts within its direct control, such as those related to its operational activities and the design of its products. However, a business is _mutually accountable_ for certain impacts outside its direct control, defined as follows:
+
+_A company is **mutually accountable** for any impact beyond its own four walls, to the degree to which that impact is a consequence of the company's existence._
+
+See [_Business responsibility for negative impacts across the value web_](#mg-mutually-accountable) in the Methodology Guide for further information.
+
+##### Natural resources {-#def-natural-resources}
+
+We use the definition from the [Organisation for Economic Co-operation and Development](https://stats.oecd.org/glossary/detail.asp?ID=1740): @Oec971
+
+_Natural resources are natural assets (raw materials) occurring in nature that can be used for economic production or consumption._
+
+##### Operations {-#def-operations}
+
+We define a company's _operations_ as follows:
+
+_A company's **operations** encompass any and all activities that the company undertakes itself._
+
+When it comes to environmental and social performance, what exactly constitutes the boundary of a company is debated. See [_Setting the right company boundary_](#ig-boundary-setting) for more information.
+
+##### Plain language {-#def-plain-language}
+
+We use the definition recommended by the [International Plain Language Federation](https://www.iplfederation.org/plain-language/): @Int19
+
+_A communication is in **plain language** if its wording, structure and design are so clear that the intended readers can easily find what they need, understand what they find, and use that information._
+
+Among other aspects, plain language includes the use of "you" and other pronouns, short sentences, the active voice, common and everyday words and logical organization with the reader in mind.
+
+##### Primary forest {-#def-primary-forest}
+
+We use the definition from the [UN Food and Agriculture Organization](http://www.fao.org/docrep/014/am665e/am665e00.pdf): @Unf10
+
+_Naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed._
+
+##### Pristine ecosystem {-#def-pristine-ecosystems}
+
+We use the definition from the [Union for Ethical BioTrade](https://static1.squarespace.com/static/58bfcaf22994ca36885f063e/t/5c6e8cbb9b747a469b09d32e/1550748860577/std01+-+ethical+biotrade+standard+-+2012-04-11_ENG_new+logo.pdf): @Uni12
+
+_Pristine ecosystem: An ecosystem in its original condition, not disturbed by human beings._
+
+##### Products {-#def-products}
+
+We define _products_ as follows:
+
+_**Products** are the revenue-generating goods and services offered by a company, together with any other items provided to others in support of its commercial activities (e.g. packaging and marketing materials)._
+
+##### Product Inputs {-#def-product-input}
+
+We define a _product input_ as follows:
+
+_A **product input** is any substance which is necessarily consumed in the creation of goods and the delivery of services. This includes:_
+
+_1. Ingredients or components required to manufacture a physical good, which either end up embedded in it or are used up (e.g. a catalyst) during its production._
+
+_2. Consumable substances which are required to provide a service (e.g. detergents and paints used by a commercial decorator)._
+
+##### Project {-#def-project}
+
+We define a _project_ as follows:
+
+_A **project** is a non-revenue generating activity. These range from single targeted interventions through to ongoing programs of work, either led or supported by the company._
+
+##### Recycling {-#def-recycle}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+
+_Recycling is the process of recovering materials for the original purpose or for other purposes. The materials recovered feed back into the process as crude feedstock. Recycling excludes energy recovery._
+
+This definition describes recycling of technical materials only (as opposed to biological materials) which is why energy recovery is excluded.
+
+##### Refurbishment {-#def-refurbishment}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+
+_A process of returning a product to good working condition by replacing or repairing major components that are faulty or close to failure, and making 'cosmetic' changes to update the appearance of a product, such as cleaning, changing fabric, painting or refinishing._
+
+##### Remanufacture {-#def-remanufacture}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+
+_Remanufacture denotes the process of disassembly and recovery at the sub-assembly or component level. Functioning, reusable parts are taken out of a used product and rebuilt into a new one. This process includes quality assurance and potential enhancements or changes to the components._
+
+##### Reuse {-#def-reuse}
+
+We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+
+_The use of a product again for the same purpose in its original form or with little enhancement or change._
+
+##### Scope 1 and Scope 2 GHG emissions {-#def-scope-1-2}
+
+The [Greenhouse Gas Protocol](https://ghgprotocol.org/about-us) defines Scope 1 and Scope 2 GHG emissions as follows:
+
+_**Scope 1**: Direct GHG emissions from sources owned or controlled by the company._
+
+_**Scope 2**: GHG emissions from the generation of purchased electricity consumed by the company._
+
+##### Subsidiary {-#def-subsidiary}
+
+We follow the [OECD](https://stats.oecd.org/glossary/detail.asp?ID=3315) in defining a subsidiary as follows:
+
+_A **subsidiary** is a company controlled by another company. Control occurs when the controlling company owns more than 50 per cent of the common shares. _
+
+_When the parent owns 100 percent of the common shares, the subsidiary is said to be wholly owned. When the subsidiary operates in a different country, it is called a foreign subsidiary. The controlling company is called a holding company or parent. A subsidiary is a corporation with its own charter and is not a division of the controlling company._
+
+##### Suppliers {-#def-suppliers}
+
+We define a _supplier_ as follows:
+
+_Any organization whose activities in some way contribute to a company's ability to generate value, even if the company has no direct contractual relationship with that organization, is considered to be a **supplier** to the company._
+
+And we define a _direct supplier_ as follows:
+
+_Any supplier with whom a contractual relationship exists and which the company pays directly is referred to as a **direct supplier**._
+
+Depending on industry and geography, what we define here as a _direct supplier_ may be referred to as a _tier 1 supplier_ or a _vendor_. A company's supply chains can theoretically be mapped by identifying its direct suppliers, then _their_ direct suppliers, and so on.
+
+##### Uncertainty {-#def-uncertainty}
+
+We use the definition from the [IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories](http://www.ipcc-nggip.iges.or.jp/public/gp/english/A3_Glossary.pdf): @Int00
+
+_**Statistical definition**: An uncertainty is a parameter, associated with the result of measurement that characterises the dispersion of the values that could be reasonably attributed to the measured quantity._
+
+_**[Emissions] inventory definition**: A general and imprecise term which refers to the lack of certainty (in inventory components) resulting from any causal factor such as unidentified sources and sinks, lack of transparency, etc._
+
+##### Wastewater {-#def-wastewater}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_Water that is of no further immediate value to the purpose for which it was used or in the pursuit of which it was produced because of its quality, quantity or time of occurrence. However, **wastewater** from one user can be a potential supply to a user elsewhere. Cooling water is not considered to be **wastewater**._
+
+For simplicity, in the text of this goal the term _wastewater_ encompasses relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+
+##### Water consumption {-#def-water-consumption}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_Represents water that was used by the operation but not returned to its proximate source. It involves evaporated water; transpired water; water that is incorporated into products, crops or waste; water consumed by man or livestock; or water otherwise removed from the local resource. Water that is polluted to an extent prohibiting its use by others wishing access is termed "consumption"._
+
+_**Water consumption** = water lost + water in products, crops or waste + water otherwise removed from the system (e.g. by heavy pollution)._
+
+_Also referred to as consumptive water use._
+
+##### Water discharge {-#def-water-discharge}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_The volume rate of abstracted water, including suspended solids (e.g. sediment), dissolved chemicals (e.g. CaCO<sub>3[aq]</sub>), and/or biologic material (e.g. diatoms), that is returned back to either a water service provider or directly into the catchment's freshwater resources. **Discharge** is typically expressed in the unit of m<sup>3</sup>/s (cubic meters per second). **Discharge** may or may not include effluent._
+
+For simplicity, in the text of this goal the term _water discharge_ encompasses relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+
+##### Water quality {-#def-water-quality}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_A term used to describe the chemical, physical and biological characteristics of water, usually with respect to its suitability for a particular purpose. Put another way, it is a measure of the condition of water relative to the requirements of one or more biotic species and or to any human need or purpose._
+
+##### Water scarcity {-#def-water-scarcity}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_The volumetric abundance, or lack thereof, of water supply. **Water scarcity** is typically calculated as a ratio of human water consumption to available water supply in a given area. **Water scarcity** is a physical, objective reality that can be measured consistently across regions and over time. **Water scarcity** reflects the physical abundance of fresh water, rather than its availability for specific needs. For instance, a region may have abundant water supplies (and thus not be considered water scarce), but have such severe pollution that those supplies are unfit for human or ecological uses._
+
+##### Water stewardship {-#def-water-stewardship}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_The use of water that is socially equitable, environmentally sustainable and economically beneficial, achieved through a stakeholder-inclusive process that involves site and [watershed]-based actions. Good water stewards understand their own water use, catchment context and shared risk in terms of water governance, water balance, water quality and important water-related areas; and then engage in meaningful individual and collective actions that benefit people and nature._
+
+##### Water stress {-#def-water-stress}
+
+Definitions of water stress vary across organizations. In line with [The Alliance for Water Stewardship](http://a4ws.org/about/), we use the definition from the [CEO Water Mandate's Corporate Water Disclosure Guidelines](http://ceowatermandate.org/disclosure/resources/glossary/): @Ceo14
+
+_**Water stress** refers to the ability, or lack thereof, to meet human and ecological demand for freshwater. Compared to scarcity, **water stress** is a more inclusive and broader concept. It considers several physical aspects related to water resources, including water availability, water quality, and the accessibility of water (i.e., whether people can make use of physically available water supplies), which is often a function of the sufficiency of infrastructure and the affordability of water, among other things. Both water consumption and water withdrawals provide useful information that offers insight into relative water stress._
+
+_**Water stress** has subjective elements and is assessed differently depending on societal values. For example, societies may have different thresholds for what constitutes sufficiently clean drinking water or the appropriate level of environmental water requirements to be afforded to freshwater ecosystems, and thus assess stress differently._
+
+##### Water withdrawal {-#def-water-withdrawal}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_Refers to the removal of any form of water from the catchment, groundwater aquifer or adjacent seawater, including surface water (both fresh and salty), groundwater (vadose zone and fossil water), snow, ice and atmospheric water (precipitation, air moisture)._
+
+##### Watershed (sometimes called 'Catchment' or 'Basin') {-#def-watershed}
+
+We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+
+_The area of land from which all surface runoff and subsurface waters flow through a sequence of streams, rivers, aquifers and lakes into the sea or another outlet at a single river mouth, estuary or delta._
+
+##### Work-related accidents {-#def-work-related}
+
+We use the definition provided by the UK Health and Safety Executive ([HSE](http://www.hse.gov.uk/riddor/key-definitions.htm)): @Hea17
+
+_The fact that there is an accident at work premises does not mean in itself that the accident is work-related– the work activity itself must contribute to the accident. An accident is 'work-related' if any of the following played a significant role:_
+
+- _the way the work was carried out;_
+- _any machinery, plant, substances or equipment used for the work, or;_
+- _the condition of the site or premises where the accident happened._
+
+Guidance on defining [work-related diseases](http://www.hse.gov.uk/riddor/occupational-diseases.htm) is available on the HSE website.

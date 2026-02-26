@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>2. Understanding what is in scope | Future‑Fit Business Benchmark</title>
+  <meta name="description" content="This is the Future‑Fit Business Benchmark Info Hub." />
+  <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="2. Understanding what is in scope | Future‑Fit Business Benchmark" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="This is the Future‑Fit Business Benchmark Info Hub." />
+  <meta name="github-repo" content="futurefitbiz/infohub" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="2. Understanding what is in scope | Future‑Fit Business Benchmark" />
+  
+  <meta name="twitter:description" content="This is the Future‑Fit Business Benchmark Info Hub." />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="ig-introduction.html"/>
+<link rel="next" href="ig-systematic.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="book.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li id="FFBB"><a href="./"><img height=42 src="./assets/FF-Business-WHITE.svg" /></a></li>
+
+<li class="divider"></li>
+<li class="part"><span><b>Getting Started</b></span></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#welcome-what"><i class="fa fa-check"></i>What is the Benchmark?</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#welcome-way"><i class="fa fa-check"></i>Finding your way around</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#licensing"><i class="fa fa-check"></i>Licensing</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#releasenotes"><i class="fa fa-check"></i>Release 2.3 Notes</a></li>
+<li class="chapter" data-level="" data-path="acknowledgements.html"><a href="acknowledgements.html"><i class="fa fa-check"></i>Acknowledgements</a></li>
+</ul></li>
+<li class="part"><span><b>The Benchmark</b></span></li>
+<li class="chapter" data-level="" data-path="mg.html"><a href="mg.html"><i class="fa fa-check"></i>Methodology Guide</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-why-future-fit.html"><a href="mg-why-future-fit.html"><i class="fa fa-check"></i>1. Why Future-Fit?</a></li>
+<li class="chapter" data-level="" data-path="mg-getting-started.html"><a href="mg-getting-started.html"><i class="fa fa-check"></i>2. Getting started</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html"><i class="fa fa-check"></i>3. Where we are today: a systems view</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#mg-why-systems-view"><i class="fa fa-check"></i>3.1 Why systems thinking is critical</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#a-systems-view-of-value-creation"><i class="fa fa-check"></i>3.2 A systems view of value creation</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#a-systems-view-of-the-world"><i class="fa fa-check"></i>3.3 A systems view of the world</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#the-environmental-context"><i class="fa fa-check"></i>3.4 The environmental context</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#the-societal-context"><i class="fa fa-check"></i>3.5 The societal context</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#mg-economic-context"><i class="fa fa-check"></i>3.6 The economic context</a></li>
+<li class="chapter" data-level="" data-path="mg-systems-view.html"><a href="mg-systems-view.html#rethinking-our-place-in-the-world"><i class="fa fa-check"></i>3.7 Rethinking our place in the world</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="mg-future-fit-society.html"><a href="mg-future-fit-society.html"><i class="fa fa-check"></i>4. Where we need to go: a Future-Fit Society</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-future-fit-society.html"><a href="mg-future-fit-society.html#starting-with-the-end-in-mind"><i class="fa fa-check"></i>4.1 Starting with the end in mind</a></li>
+<li class="chapter" data-level="" data-path="mg-future-fit-society.html"><a href="mg-future-fit-society.html#mg-requirement-for-society"><i class="fa fa-check"></i>4.2 The requirement for society</a></li>
+<li class="chapter" data-level="" data-path="mg-future-fit-society.html"><a href="mg-future-fit-society.html#properties-of-a-future-fit-society"><i class="fa fa-check"></i>4.3 Properties of a Future-Fit Society</a></li>
+<li class="chapter" data-level="" data-path="mg-future-fit-society.html"><a href="mg-future-fit-society.html#mg-social-system-role"><i class="fa fa-check"></i>4.4 The role of every social system</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="mg-actionable-guidance.html"><a href="mg-actionable-guidance.html"><i class="fa fa-check"></i>5. Actionable guidance for business</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-actionable-guidance.html"><a href="mg-actionable-guidance.html#toward-future-fit-business"><i class="fa fa-check"></i>5.1 Toward Future-Fit Business</a></li>
+<li class="chapter" data-level="" data-path="mg-actionable-guidance.html"><a href="mg-actionable-guidance.html#the-requirement-for-business"><i class="fa fa-check"></i>5.2 The requirement for business</a></li>
+<li class="chapter" data-level="" data-path="mg-actionable-guidance.html"><a href="mg-actionable-guidance.html#the-role-and-reach-of-business"><i class="fa fa-check"></i>5.3 The role and reach of business</a></li>
+<li class="chapter" data-level="" data-path="mg-actionable-guidance.html"><a href="mg-actionable-guidance.html#deriving-the-break-even-goals-positive-pursuits-and-indicators"><i class="fa fa-check"></i>5.4 Deriving the Break-Even Goals, Positive Pursuits, and Indicators</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html"><i class="fa fa-check"></i>6. Break-Even Goals</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#energy"><i class="fa fa-check"></i>6.1 Energy</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#water"><i class="fa fa-check"></i>6.2 Water</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#natural-resources"><i class="fa fa-check"></i>6.3 Natural resources</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#pollution"><i class="fa fa-check"></i>6.4 Pollution</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#waste"><i class="fa fa-check"></i>6.5 Waste</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#physical-presence"><i class="fa fa-check"></i>6.6 Physical presence</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#people"><i class="fa fa-check"></i>6.7 People</a></li>
+<li class="chapter" data-level="" data-path="mg-be.html"><a href="mg-be.html#drivers"><i class="fa fa-check"></i>6.8 Drivers</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html"><i class="fa fa-check"></i>7. Positive Pursuits</a>
+<ul>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#energy-1"><i class="fa fa-check"></i>7.1 Energy</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#water-1"><i class="fa fa-check"></i>7.2 Water</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#natural-resources-1"><i class="fa fa-check"></i>7.3 Natural resources</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#pollution-1"><i class="fa fa-check"></i>7.4 Pollution</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#waste-1"><i class="fa fa-check"></i>7.5 Waste</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#physical-presence-1"><i class="fa fa-check"></i>7.6 Physical presence</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#people-1"><i class="fa fa-check"></i>7.7 People</a></li>
+<li class="chapter" data-level="" data-path="mg-pp.html"><a href="mg-pp.html#drivers-1"><i class="fa fa-check"></i>7.8 Drivers</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="mg-appendix-1.html"><a href="mg-appendix-1.html"><i class="fa fa-check"></i>Appendix 1: Properties of a Future-Fit Society</a></li>
+<li class="chapter" data-level="" data-path="mg-appendix-2.html"><a href="mg-appendix-2.html"><i class="fa fa-check"></i>Appendix 2: Deriving the Break-Even Goals and Positive Pursuits</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be.html"><a href="be.html"><i class="fa fa-check"></i>Break‑Even Goal Action Guides</a>
+<ul>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html"><i class="fa fa-check"></i>BE01: Renewable Energy</a>
+<ul>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html#be01-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html#be01-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html#be01-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html#be01-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be01.html"><a href="be01.html#be01-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html"><i class="fa fa-check"></i>BE02: Water</a>
+<ul>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html#be02-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html#be02-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html#be02-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html#be02-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be02.html"><a href="be02.html#be02-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html"><i class="fa fa-check"></i>BE03: Natural Resources</a>
+<ul>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html#be03-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html#be03-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html#be03-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html#be03-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be03.html"><a href="be03.html#be03-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html"><i class="fa fa-check"></i>BE04: Procurement</a>
+<ul>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html#be04-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html#be04-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html#be04-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html#be04-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be04.html"><a href="be04.html#be04-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html"><i class="fa fa-check"></i>BE05: Operational Emissions</a>
+<ul>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html#be05-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html#be05-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html#be05-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html#be05-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be05.html"><a href="be05.html#be05-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html"><i class="fa fa-check"></i>BE06: Operational GHGs</a>
+<ul>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html#be06-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html#be06-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html#be06-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html#be06-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be06.html"><a href="be06.html#be06-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html"><i class="fa fa-check"></i>BE07: Operational Waste</a>
+<ul>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html#be07-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html#be07-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html#be07-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html#be07-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be07.html"><a href="be07.html#be07-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html"><i class="fa fa-check"></i>BE08: Operational Encroachment</a>
+<ul>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html#be08-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html#be08-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html#be08-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html#be08-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be08.html"><a href="be08.html#be08-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html"><i class="fa fa-check"></i>BE09: Community Health</a>
+<ul>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html#be09-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html#be09-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html#be09-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html#be09-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be09.html"><a href="be09.html#be09-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html"><i class="fa fa-check"></i>BE10: Employee Health</a>
+<ul>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html#be10-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html#be10-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html#be10-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html#be10-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be10.html"><a href="be10.html#be10-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html"><i class="fa fa-check"></i>BE11: Living Wage</a>
+<ul>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html#be11-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html#be11-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html#be11-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html#be11-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be11.html"><a href="be11.html#be11-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html"><i class="fa fa-check"></i>BE12: Employee Terms</a>
+<ul>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html#be12-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html#be12-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html#be12-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html#be12-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be12.html"><a href="be12.html#be12-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html"><i class="fa fa-check"></i>BE13: Employee Discrimination</a>
+<ul>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html#be13-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html#be13-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html#be13-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html#be13-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be13.html"><a href="be13.html#be13-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html"><i class="fa fa-check"></i>BE14: Employee Concerns</a>
+<ul>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html#be14-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html#be14-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html#be14-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html#be14-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be14.html"><a href="be14.html#be14-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html"><i class="fa fa-check"></i>BE15: Product Communications</a>
+<ul>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html#be15-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html#be15-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html#be15-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html#be15-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be15.html"><a href="be15.html#be15-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html"><i class="fa fa-check"></i>BE16: Product Concerns</a>
+<ul>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html#be16-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html#be16-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html#be16-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html#be16-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be16.html"><a href="be16.html#be16-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html"><i class="fa fa-check"></i>BE17: Product Harm</a>
+<ul>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html#be17-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html#be17-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html#be17-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html#be17-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be17.html"><a href="be17.html#be17-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html"><i class="fa fa-check"></i>BE18: Product GHGs</a>
+<ul>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html#be18-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html#be18-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html#be18-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html#be18-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be18.html"><a href="be18.html#be18-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html"><i class="fa fa-check"></i>BE19: Products Repurposed</a>
+<ul>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html#be19-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html#be19-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html#be19-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html#be19-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be19.html"><a href="be19.html#be19-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html"><i class="fa fa-check"></i>BE20: Business Ethics</a>
+<ul>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html#be20-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html#be20-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html#be20-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html#be20-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be20.html"><a href="be20.html#be20-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html"><i class="fa fa-check"></i>BE21: Tax</a>
+<ul>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html#be21-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html#be21-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html#be21-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html#be21-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be21.html"><a href="be21.html#be21-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html"><i class="fa fa-check"></i>BE22: Lobbying</a>
+<ul>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html#be22-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html#be22-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html#be22-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html#be22-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be22.html"><a href="be22.html#be22-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html"><i class="fa fa-check"></i>BE23: Financial Assets</a>
+<ul>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html#be23-ambition"><i class="fa fa-check"></i>1. Ambition</a></li>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html#be23-action"><i class="fa fa-check"></i>2. Action</a></li>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html#be23-assessment"><i class="fa fa-check"></i>3. Assessment</a></li>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html#be23-assurance"><i class="fa fa-check"></i>4. Assurance</a></li>
+<li class="chapter" data-level="" data-path="be23.html"><a href="be23.html#be23-additional"><i class="fa fa-check"></i>5. Additional information</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp.html"><a href="pp.html"><i class="fa fa-check"></i>Positive Pursuit Guide</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-introduction.html"><a href="pp-introduction.html"><i class="fa fa-check"></i>1. Introduction</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-introduction.html"><a href="pp-introduction.html#pp-how-to-use"><i class="fa fa-check"></i>1.1 How to use this guide</a></li>
+<li class="chapter" data-level="" data-path="pp-introduction.html"><a href="pp-introduction.html#what-positive-pursuit-means"><i class="fa fa-check"></i>1.2 What “Positive Pursuit” means</a></li>
+<li class="chapter" data-level="" data-path="pp-introduction.html"><a href="pp-introduction.html#introducing-the-positive-pursuits"><i class="fa fa-check"></i>1.3 Introducing the Positive Pursuits</a></li>
+<li class="chapter" data-level="" data-path="pp-introduction.html"><a href="pp-introduction.html#how-positive-pursuits-relate-to-the-sdgs"><i class="fa fa-check"></i>1.4 How Positive Pursuits relate to the SDGs</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html"><i class="fa fa-check"></i>2. The Positive Pursuits</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-energy"><i class="fa fa-check"></i>2.1 Energy</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-water"><i class="fa fa-check"></i>2.2 Water</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-natural-resources"><i class="fa fa-check"></i>2.3 Natural resources</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-environment-pollution"><i class="fa fa-check"></i>2.4 Pollution</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-waste"><i class="fa fa-check"></i>2.5 Waste</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-physical-presence"><i class="fa fa-check"></i>2.6 Physical presence</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-people-capacity"><i class="fa fa-check"></i>2.7 People</a></li>
+<li class="chapter" data-level="" data-path="pp-positive-pursuits.html"><a href="pp-positive-pursuits.html#pp-social-norms"><i class="fa fa-check"></i>2.8 Drivers</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp-products-and-projects.html"><a href="pp-products-and-projects.html"><i class="fa fa-check"></i>3. Products and Projects</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-products-and-projects.html"><a href="pp-products-and-projects.html#products"><i class="fa fa-check"></i>3.1 Products</a></li>
+<li class="chapter" data-level="" data-path="pp-products-and-projects.html"><a href="pp-products-and-projects.html#projects"><i class="fa fa-check"></i>3.2 Projects</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp-assessment.html"><a href="pp-assessment.html"><i class="fa fa-check"></i>4. Assessment</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-assessment.html"><a href="pp-assessment.html#creating-or-contributing-to-positive-impact"><i class="fa fa-check"></i>4.1 Creating or contributing to positive impact</a></li>
+<li class="chapter" data-level="" data-path="pp-assessment.html"><a href="pp-assessment.html#assessing-and-reporting-on-positive-pursuits"><i class="fa fa-check"></i>4.2 Assessing and reporting on Positive Pursuits</a></li>
+<li class="chapter" data-level="" data-path="pp-assessment.html"><a href="pp-assessment.html#example"><i class="fa fa-check"></i>4.3 Example</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp-additional.html"><a href="pp-additional.html"><i class="fa fa-check"></i>5. Additional information</a>
+<ul>
+<li class="chapter" data-level="" data-path="pp-additional.html"><a href="pp-additional.html#frequently-asked-questions"><i class="fa fa-check"></i>5.1 Frequently asked questions</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="pp-app-human-rights.html"><a href="pp-app-human-rights.html"><i class="fa fa-check"></i>Appendix 1: Human Rights Articles</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ig.html"><a href="ig.html"><i class="fa fa-check"></i>Implementation Guide</a>
+<ul>
+<li class="chapter" data-level="" data-path="ig-introduction.html"><a href="ig-introduction.html"><i class="fa fa-check"></i>1. Introduction</a></li>
+<li class="chapter" data-level="" data-path="ig-scope.html"><a href="ig-scope.html"><i class="fa fa-check"></i>2. Understanding what is in scope</a>
+<ul>
+<li class="chapter" data-level="" data-path="ig-scope.html"><a href="ig-scope.html#ig-boundary-setting"><i class="fa fa-check"></i>2.1 Setting the right company boundary</a></li>
+<li class="chapter" data-level="" data-path="ig-scope.html"><a href="ig-scope.html#ig-determining-employee"><i class="fa fa-check"></i>2.2 Determining who is an ‘employee’</a></li>
+<li class="chapter" data-level="" data-path="ig-scope.html"><a href="ig-scope.html#ig-differentiating-impacts"><i class="fa fa-check"></i>2.3 Differentiating between operational and product impacts</a></li>
+<li class="chapter" data-level="" data-path="ig-scope.html"><a href="ig-scope.html#ig-subsidiaries"><i class="fa fa-check"></i>2.4 Measuring the fitness of subsidiary companies</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html"><i class="fa fa-check"></i>3. Pursuing future-fitness in a systematic way</a>
+<ul>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#ig-internal-controls"><i class="fa fa-check"></i>3.1 What are internal controls?</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#what-are-internal-controls-used-for"><i class="fa fa-check"></i>3.2 What are internal controls used for?</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#types-of-controls"><i class="fa fa-check"></i>3.3 Types of controls</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#steps-for-creating-effective-internal-controls"><i class="fa fa-check"></i>3.4 Steps for creating effective internal controls</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#ig-mapping-guidance"><i class="fa fa-check"></i>3.5 Guidance on mapping processes and internal controls</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#evaluation-of-controls"><i class="fa fa-check"></i>3.6 Evaluation of controls</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#what-is-a-formal-policy"><i class="fa fa-check"></i>3.7 What is a formal policy?</a></li>
+<li class="chapter" data-level="" data-path="ig-systematic.html"><a href="ig-systematic.html#ig-useful-links"><i class="fa fa-check"></i>3.8 Useful links</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ig-assessment.html"><a href="ig-assessment.html"><i class="fa fa-check"></i>4. Considerations for assessment and reporting</a>
+<ul>
+<li class="chapter" data-level="" data-path="ig-assessment.html"><a href="ig-assessment.html#ig-set-reference-point"><i class="fa fa-check"></i>4.1 Setting a reference point to assess progress for elimination metrics</a></li>
+<li class="chapter" data-level="" data-path="ig-assessment.html"><a href="ig-assessment.html#ig-incomplete-data"><i class="fa fa-check"></i>4.2 Assessing and reporting with incomplete data</a></li>
+<li class="chapter" data-level="" data-path="ig-assessment.html"><a href="ig-assessment.html#ig-assurance"><i class="fa fa-check"></i>4.3 Assurance</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="def.html"><a href="def.html"><i class="fa fa-check"></i>Key Terms &amp; Definitions</a></li>
+<li class="chapter" data-level="" data-path="bibliography.html"><a href="bibliography.html"><i class="fa fa-check"></i>Bibliography</a></li>
+<li class="divider"></li>
+<li id="FFCOP"><a href="https://futurefitbusiness.org" target="blank">Copyright © Future-Fit Foundation</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Future‑Fit Business Benchmark</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="ig-scope" class="section level2 unnumbered hasAnchor">
+<h2>2. Understanding what is in scope<a href="ig-scope.html#ig-scope" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="ig-boundary-setting" class="section level3 unnumbered hasAnchor">
+<h3>2.1 Setting the right company boundary<a href="ig-scope.html#ig-boundary-setting" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="implications-of-company-structure" class="section level5 unnumbered hasAnchor">
+<h5>Implications of company structure<a href="ig-scope.html#implications-of-company-structure" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p>Before seeking to assess future-fitness with respect to a specific goal, it is important to determine what should be included: whether an individual worker should be considered as an employee, or whether a specific site falls under the company’s control, for example.</p>
+<p>The challenge of determining what is in and out of scope is not unique to the Benchmark. This question has been subject to much debate and scrutiny in corporate law, when seeking to determine liability boundaries, designing and applying tax frameworks, and for financial reporting.</p>
+<p>Unfortunately, there is no simple answer. If a company spins out a division, but continues to buy 90% of the product it produces, there may be little or no change with respect to surrounding communities or ecosystems from when the division was company-owned. However, the two scenarios could have different implications for how the Benchmark is applied. Different company structures (corporations, partnerships, franchises, joint ventures, etc.) might also affect how a business views and describes itself, its divisions, its suppliers, and its customers.</p>
+<p>A company’s legal designation may significantly affect its ability to control or influence related entities. The Benchmark recognizes this, not least through its clear definition of <a href="def.html#def-mutual-accountability">mutual accountability</a>. That said, certain changes in business structure – such as selling off but continuing to rely on a resource-intensive business process – could potentially be used to ‘game’ the system. A company could – in full accordance with accepted reporting rules – use such changes to effectively move its negative impacts ‘off-book’. The result might be for a company’s future-fitness progress indicators to appear to improve significantly, without any real reduction in the externalities its existence causes.</p>
+<p>This is a shortcoming not just of the Future-Fit Business Benchmark, but of any approach to assess the environmental and social impacts of companies across their full value web. The goal <a href="be04.html#be04"><strong>Procurement safeguards the pursuit of future-fitness</strong></a> goes some way to addressing this issue with respect to supply chain externalities, but it is no panacea.</p>
+<p>The Future-Fit team acknowledges the potential for a company’s structure to affect how its future-fitness would be reported. Going forward we will work with our <a href="http://futurefitbusiness.org/development-council/">Development Council</a> of global corporations and investors to ensure this issue causes as little confusion as possible when seeking to compare the relative progress of different companies.</p>
+</div>
+<div id="allocations-for-collaborative-projects" class="section level5 unnumbered hasAnchor">
+<h5>Allocations for collaborative projects<a href="ig-scope.html#allocations-for-collaborative-projects" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p>When it comes to attributing ownership of collaborative endeavours – e.g. determining the proportion of a joint venture’s impacts that each respective partner is accountable for – the Benchmark draws on the approaches used in the financial world.</p>
+<p>For corporate groups, partnerships, franchises, and joint ventures, a business should seek to mirror whatever approach it is already using for its financial accounting. This should enable the company to determine whether to exclude specific impacts, incorporate them fully, or include a fraction thereof, when calculating its future-fitness.</p>
+<p>In cases where it is not possible to treat shared impacts and externalities in a way that mirrors the accounting treatments for the activities that generate them, the equity and consolidation principles suggested under IFRS (<a href="http://www.ifrs.org/">International Financial Reporting Standards</a>) for consolidation of financial results should be used to establish reporting boundaries. In cases where a company has percentage ownership stake in an entity of &gt;50%, or where it is able to exert effective control over that entity’s operations, then all impacts of that entity should be incorporated into the company’s future-fitness assessment. In cases where the company has a minority percentage stake in an entity <em>and</em> it does not exercise effective control over it, a fraction of that entity’s impacts should be incorporated into the company’s future-fitness assessment, proportionate to its ownership share. <span class="citation"><a href="#ref-Gra20">[194]</a></span> <span class="citation"><a href="#ref-Jos17">[195]</a></span> <span class="citation"><a href="#ref-Pwc15">[196]</a></span></p>
+<p><strong>For example</strong>: Acme Inc. owns 25% of Beta Co. Acme uses 100,000 kWh of energy in its own operations during the reporting period, of which 50,000 kWh are from renewable sources. Beta Co. uses 10,000 kWh of energy during the reporting period, of which 8,000 kWh are from renewable sources. For the goal <a href="be01.html#be01"><strong>Energy is from renewable sources</strong></a>, Acme would add 25% of Beta’s totals to its own in order to calculate its progress indicator.</p>
+<p><span class="math display">\[Acme\:(own\:operations)=\frac{E_{Renewable}}{E_{Total}}=\frac{50,000}{100,000}=50\%\]</span>
+<span class="math display">\[Acme\:(with\:Beta)=\frac{50,000+(25\%*8,000)}{100,000+(25\%*10,000)}=\frac{52,000}{102,500}\approx51\%\]</span></p>
+<p>In cases where “ownership” is not an applicable concept (e.g. multiple companies contributing financially to a community-owned project), the company should determine its share of the outcomes on the basis of its contribution to the cost of the project.</p>
+<p><strong>For example</strong>: Acme Inc and Beta Co launch a wetland clean-up project and are trying to understand how to attribute the positive impacts and externalities between them. Acme contributed $60,000 in cash to advertise the project to volunteers and to pay organizers, while Beta contributed $40,000 worth of machinery and materials to the project. The materials will not be reusable by the company after the project – their full value is being consumed. Although the concept of ownership doesn’t apply, and assuming control of the project is being delegated to the organizers and volunteers, the companies can use their contributions to calculate their portion of the outcomes:</p>
+<p><span class="math display">\[Acme=\frac{Value_{Contribution}}{Cost_{Total}}=\frac{60,000}{100,000}=60\%\]</span>
+<span class="math display">\[Beta=\frac{Value_{Contribution}}{Cost_{Total}}=\frac{40,000}{100,000}=40\%\]</span></p>
+</div>
+</div>
+<div id="ig-determining-employee" class="section level3 unnumbered hasAnchor">
+<h3>2.2 Determining who is an ‘employee’<a href="ig-scope.html#ig-determining-employee" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>It is important to ensure that the Break-Even Goals related to employee wellbeing are applied consistently and fairly to people who contribute to a company’s success.</p>
+<p>The Benchmark’s ambition regarding employees is to ensure that all workers – within the business <em>and</em> across its supply chains – have their health safeguarded, are paid at least a living wage, are subject to fair employment terms, do not face discrimination, and are free to voice any concerns relating to their wellbeing. Performance in this regard for workers in the supply chain are covered by the goal <a href="be04.html#be04"><strong>Procurement safeguards the pursuit of future-fitness</strong></a>.</p>
+<p>However, when it comes to people who contribute directly to a company’s activities, the situation is not always clear-cut, because there are many different types of working relationships between a business and those who contribute time and expertise to it. It is therefore necessary to determine who should be included when assessing progress against the employee Break-Even Goals, and who should be considered part of an external organization, and thus covered by the procurement goal.</p>
+<p><em>The baseline recommendation is that companies should use the same designation for “employees” that they use for tax purposes, where applicable.</em></p>
+<p>When this recommendation does not provide sufficient clarity, or when a company’s designation of employees for tax purposes is inconsistent across its operations, the following questions are often used to help to determine whether a worker is an employee or a contractor:<a href="#fn265" class="footnote-ref" id="fnref265"><sup>265</sup></a></p>
+<div id="who-controls-the-timing-location-and-methods-of-work" class="section level6 unnumbered hasAnchor">
+<h6>Who controls the timing, location, and methods of work?<a href="ig-scope.html#who-controls-the-timing-location-and-methods-of-work" class="anchor-section" aria-label="Anchor link to header"></a></h6>
+<ul>
+<li>If the company has the right to set a schedule that the worker must follow, or the right to determine how their work must be performed, that is more consistent with an employee relationship.</li>
+<li>If the worker is responsible for delivering the end result, but (where applicable) has the right to choose where and when the work is performed, as well as determining the methods they use to accomplish the result, that is more consistent with a contractor relationship.</li>
+</ul>
+</div>
+<div id="who-has-the-potential-to-benefit-from-the-work-or-is-at-risk-if-it-fails" class="section level6 unnumbered hasAnchor">
+<h6>Who has the potential to benefit from the work, or is at risk if it fails?<a href="ig-scope.html#who-has-the-potential-to-benefit-from-the-work-or-is-at-risk-if-it-fails" class="anchor-section" aria-label="Anchor link to header"></a></h6>
+<ul>
+<li>Companies usually pay employees a fixed salary or variable amount for work completed, and assume the risk of whether they can earn enough back to make the enterprise profitable.</li>
+<li>Contractors are more likely to have to make their own investments in fixed and variable costs – such as purchasing materials to complete work with their own capital, or marketing to attract clients – meaning that they are vulnerable to the possibility of incurring a loss, and benefit from the reward of making a profit.</li>
+<li>A good representation of this concept is to look at who owns the tools or equipment used to complete the job; if the company owns the tools, they have taken the risk of that investment, indicating an employee / employer relationship. A truly independent contractor is not likely to be provided with the tools and equipment they need to get the job done.</li>
+</ul>
+</div>
+<div id="is-the-worker-dependent-on-the-company" class="section level6 unnumbered hasAnchor">
+<h6>Is the worker dependent on the company?<a href="ig-scope.html#is-the-worker-dependent-on-the-company" class="anchor-section" aria-label="Anchor link to header"></a></h6>
+<ul>
+<li>Contractors are likely to work for (or have the option of working for) multiple client companies, which means that their financial stability is not highly dependent on any one client. If an individual is earning 90% or more from a single company, that is more indicative of that individual being an employee.</li>
+</ul>
+</div>
+<div id="what-was-the-original-intention-of-both-parties" class="section level6 unnumbered hasAnchor">
+<h6>What was the original intention of both parties?<a href="ig-scope.html#what-was-the-original-intention-of-both-parties" class="anchor-section" aria-label="Anchor link to header"></a></h6>
+<ul>
+<li>Did the company and worker intend for the relationship to be employment-based, or contract-based? If the company offered benefits normally associated with employment (participation in a health plan, paid leave, access to corporate discounts), that is indicative that the relationship is employment-based at its core.</li>
+</ul>
+</div>
+<div id="weighing-the-evidence" class="section level6 unnumbered hasAnchor">
+<h6>Weighing the evidence<a href="ig-scope.html#weighing-the-evidence" class="anchor-section" aria-label="Anchor link to header"></a></h6>
+<p>When legal authorities make judgements based on the aforementioned factors, they weigh the body of evidence, and look for evidence that a consistent decision-making approach has been applied. Hence companies are encouraged to document their reasoning, and – if still unsure – to seek the opinion of an expert such as an employment lawyer or corporate tax accountant.</p>
+</div>
+</div>
+<div id="ig-differentiating-impacts" class="section level3 unnumbered hasAnchor">
+<h3>2.3 Differentiating between operational and product impacts<a href="ig-scope.html#ig-differentiating-impacts" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The Break-Even Goals consider <em>operational</em> impacts and <em>product</em> impacts (from goods and services) separately, because different degrees of accountability apply to them.</p>
+<p>While every company is <em>wholly accountable</em> for eliminating the negative impacts associated with its operational activities (e.g. ensuring all <strong>operational waste is eliminated</strong>), no company can completely control the actions of its customers: all it can do is ensure that negative impacts <em>can</em> be avoided, when the goods and services it offers are used as intended. Users must also act responsibly, so both parties are <em>mutually accountable</em> for eliminating the negative impacts associated with products (e.g. a company must ensure that all its <strong>products can be repurposed</strong>, but not that repurposing <em>actually occurs</em>).<a href="#fn266" class="footnote-ref" id="fnref266"><sup>266</sup></a></p>
+<p>However, the provision of some goods and services involves a high degree of ongoing company activity, so it may not always be obvious which goal a specific impact should fall under. Examples include:</p>
+<ul>
+<li>A logistics provider, where the act of transporting goods is both a key operational activity of the company, and the means by which it generates revenue.</li>
+<li>An owner of specialised assets (e.g. complex machinery) whose use has an impact, and where the owner operates them on behalf of customers to deliver a managed service.</li>
+<li>A hotel operator, whose locations are used directly by customers (for overnight accommodation), but whose day-to-day running is managed directly by the operator.</li>
+</ul>
+<p>In any such cases, it is important that negative impacts are treated consistently, and that they are not counted twice. The following sections offer clarification for how certain types of impact should be recognised.</p>
+<div id="operational-impacts" class="section level5 unnumbered hasAnchor">
+<h5>Operational impacts<a href="ig-scope.html#operational-impacts" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p><em><strong>A negative impact should be classed as operational if it occurs during the production or delivery of a good or service, and if it is – at least in part – modifiable or avoidable by the company.</strong></em></p>
+<ul>
+<li>For example, a user of a ride-sharing service cannot typically influence the fuel and performance characteristics of the vehicles used. Such factors remain within the control of the company providing the service. So any harmful substances emitted by the ride-sharing vehicles should be addressed via goal <a href="be05.html#be05"><strong>BE05: Operational emissions do not harm people or the environment</strong></a>.</li>
+<li>For example, a hotel guest could seek to minimize her own energy usage during her stay, but the operator of the hotel is responsible for sourcing (generating or procuring) that energy. So GHG emissions that result from the hotel’s energy use should be addressed via goal <a href="be06.html#be06"><strong>BE06: Operations emit no greenhouse gases</strong></a>.</li>
+</ul>
+</div>
+<div id="product-impacts" class="section level5 unnumbered hasAnchor">
+<h5>Product impacts<a href="ig-scope.html#product-impacts" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p><em><strong>A negative impact should be classed as product-related if any of the following three conditions apply:</strong></em></p>
+<p><em><strong>1. Control of the product has passed into the hands of a third party<a href="#fn267" class="footnote-ref" id="fnref267"><sup>267</sup></a> before the impact occurs, so the extent of the impact caused is not under the company’s influence.</strong></em></p>
+<ul>
+<li>For example, if a furniture manufacturer uses interim packaging to transport goods to a retailer, the retailer controls what happens to the packaging post-use. So any waste generated from such packaging should be addressed via goal <a href="be19.html#be19"><strong>BE19: Products can be repurposed</strong></a>.</li>
+</ul>
+<p><em><strong>2. When the product transaction occurs, the impact is no longer modifiable by the company, nor the receiving third party.</strong></em></p>
+<ul>
+<li>For example, if a real-estate company erects and sells a building on a greenfield site, any encroachment on local ecosystems is already ‘locked in’ when the buyer moves in. So any impact relating to the building’s physical presence should be addressed via goal <a href="be17.html#be17"><strong>BE17: Products do not harm people or the environment</strong></a>.</li>
+</ul>
+<p><em><strong>3. The impact accrues from physical goods which are not directly revenue-generating, but which are provided to third parties in support of commercial activities.</strong></em></p>
+<ul>
+<li>For example, if a consumer brand provides promotional display materials to stores, or offers giveaway items to new consumers, the fact that those goods are ‘free’ does not change whether or not they cause harm. So any harmful impact caused by non-revenue generating goods should be addressed via goal <a href="be17.html#be17"><strong>BE17: Products do not harm people or the environment</strong></a>.</li>
+</ul>
+<div class="callout-note">
+<p><strong>A special case: what to do when a company sells its assets</strong></p>
+<p>A company may occasionally generate income from selling an asset that is <em>not</em> part of its core business model. This may include for example the sale of a production plant, an office, or a large piece of machinery. Since such a sale would not count as <em>product</em> revenue, any impacts associated with the asset should only be captured as operational whilst in the possession of the company, rather than within the product goals.</p>
+</div>
+<p>Even when applying the above criteria, some situations may remain ambiguous. Wherever there is any doubt, impacts should be categorised as operational rather than product-related, to ensure that the company is wholly accountable for addressing them.</p>
+</div>
+</div>
+<div id="ig-subsidiaries" class="section level3 unnumbered hasAnchor">
+<h3>2.4 Measuring the fitness of subsidiary companies<a href="ig-scope.html#ig-subsidiaries" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The progress indicators for some Break-Even Goals are premised on the existence and substance of company policies and processes. This may raise questions regarding how to calculate the fitness of a subsidiary company in situations where it has little influence over the policies set by its parent. The short answer is that a subsidiary should objectively assess the policies it has in place, regardless of its authority to change them.</p>
+<p>For example, consider a subsidiary whose parent company has stipulated salary levels for each job level across the whole group, leading to junior employees earning less than a living wage. In this case, it may not be possible for the subsidiary to pay all employees a living wage, even if it wishes to do so. When considering <a href="be11.html#be11">BE11: Employees are paid at least a living wage</a>, the subsidiary should calculate its progress indicator according to the reality of the situation. The best course of action to improve performance would be for the subsidiary to lobby its parent company to change its stance on wages.</p>
+</div>
+</div>
+<h3>Bibliography<a href="bibliography.html#bibliography" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="refs" class="references csl-bib-body" entry-spacing="0">
+<div id="ref-Gra20" class="csl-entry">
+<div class="csl-left-margin">[194] </div><div class="csl-right-inline"><span>“Grant thornton, example consolidated financial statements.”</span> <span>Grant Thornton International Ltd</span>, 2020 [Online]. Available: <a href="https://www.grantthornton.global/en/insights/articles/example-financial-statements-2020/">https://www.grantthornton.global/en/insights/articles/example-financial-statements-2020/</a>. [Accessed: 05-Nov-2020]</div>
+</div>
+<div id="ref-Jos17" class="csl-entry">
+<div class="csl-left-margin">[195] </div><div class="csl-right-inline">Kennon, Joshua, <span>“The cost method, equity method, and consolidated method.”</span> 2017 [Online]. Available: <a href="https://www.thebalance.com/cost-equity-consolidated-methods-357583">https://www.thebalance.com/cost-equity-consolidated-methods-357583</a>. [Accessed: 01-Sep-2017]</div>
+</div>
+<div id="ref-Pwc15" class="csl-entry">
+<div class="csl-left-margin">[196] </div><div class="csl-right-inline"><span>“Consolidation and equity method of accounting.”</span> <span>PWC</span>, 2022 [Online]. Available: <a href="https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/consolidation_and_eq/consolidation_and_eq_US/chapter_1_an_introdu__1_US/11_background_US.html#pwc-topic.dita_1909130706204213">https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/consolidation_and_eq/consolidation_and_eq_US/chapter_1_an_introdu__1_US/11_background_US.html#pwc-topic.dita_1909130706204213</a>. [Accessed: 01-Dec-2023]</div>
+</div>
+<div id="ref-Can17" class="csl-entry">
+<div class="csl-left-margin">[197] </div><div class="csl-right-inline"><span>“Employee or self-employed?”</span> <span>Canadian Revenue Agency (CRA)</span> [Online]. Available: <a href="https://www.canada.ca/content/dam/cra-arc/formspubs/pub/rc4110/rc4110-23e.pdf">https://www.canada.ca/content/dam/cra-arc/formspubs/pub/rc4110/rc4110-23e.pdf</a>. [Accessed: 01-Dec-2023]</div>
+</div>
+<div id="ref-Cal11" class="csl-entry">
+<div class="csl-left-margin">[198] </div><div class="csl-right-inline"><span>“Guidance on individual contractors.”</span> <span>California Department of Industrial Relations</span>, 2011 [Online]. Available: <a href="http://www.dir.ca.gov/dlse/independentcontractors.pdf">http://www.dir.ca.gov/dlse/independentcontractors.pdf</a>. [Accessed: 01-Sep-2017]</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="265">
+<li id="fn265"><p>These considerations are an adaptation of those used by the Canadian Revenue Agency <span class="citation"><a href="#ref-Can17">[197]</a></span> and for the Borello test <span class="citation"><a href="#ref-Cal11">[198]</a></span> used by the State of California to determine whether a worker is an employee or independent contractor for legal or tax purposes.<a href="ig-scope.html#fnref265" class="footnote-back">↩︎</a></p></li>
+<li id="fn266"><p>The concept and distinction of the terms <em>wholly</em> and <em>mutually accountable</em> is an important methodological underpinning of the Benchmark. For more information, see the <a href="mg-actionable-guidance.html#mg-mutually-accountable"><strong>Methodology Guide</strong></a>.<a href="ig-scope.html#fnref266" class="footnote-back">↩︎</a></p></li>
+<li id="fn267"><p>This includes end users, B2B customers (e.g. product inputs supplied to manufacturers, or final goods supplied to wholesalers), or other organizations to whom control is transferred (e.g. logistics providers).<a href="ig-scope.html#fnref267" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="ig-introduction.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="ig-systematic.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": false,
+"twitter": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section",
+"scroll_highlight": true
+},
+"Xedit": "https://github.com/futurefitbiz/infohub/tree/main/%s",
+"Xdownload": "pdf"
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

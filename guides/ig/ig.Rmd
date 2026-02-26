@@ -1,0 +1,507 @@
+---
+output: github_document
+---
+
+# Implementation Guide {-#ig}
+
+<div class="subtitle">Guidance to support the implementation of the Future-Fit Business Benchmark.
+</div>
+
+This guide offers information on how to begin pursuing future-fitness, and how to assess, report on and assure progress against the various [Break-Even Goals](#be).
+
+[1. Introduction](#ig-introduction)
+
+[2. Understanding what is in scope](#ig-scope)
+
+[3. Pursuing future-fitness in a systematic way](#ig-systematic)
+
+[4. Considerations for assessment and reporting](#ig-assessment)
+
+
+
+## 1. Introduction {-#ig-introduction}
+
+This guide supplements all [Break-Even Goal Action Guides](#be) by providing specific guidance in three areas:
+
+- **Understanding what is in scope:** How to set the right company boundary for assessment, and how to determine which people should be considered as employees.
+- **Pursuing future-fitness in a systematic way:** How to design and implement internal controls to ensure policy effectiveness and to track important information over time.
+- **Considerations for assessment and reporting:** How to handle specific measurement-related considerations and how to prepare for effective assurance engagements.
+
+This guidance will be enhanced as we learn more from the successes and challenges experienced by users of the Future-Fit Business Benchmark.
+
+<div class="callout-note">
+**Who is the Implementation Guide for?**
+
+This guide is intended for practitioners working with or within companies to integrate the Future-Fit Business Benchmark into day-to day activities, performance assessments and/or public reporting. The guide covers a broad range of topics, and the relevance of each chapter to any one practitioner at any given time will vary.
+
+We recommend that practitioners familiarize themselves with the concepts explained in this guide, so it can serve as a supporting resource as and when needed.
+</div>
+
+This text draws on guidance from the fields of financial accounting, law and tax in an effort to answer the most common questions that have been brought to the attention of the Future-Fit team.
+
+For some of the topics addressed here, entire textbooks have been written about how to properly understand the issues and apply solutions to different contexts. The reader is therefore encouraged to treat the guidance that follows as just a starting point – albeit one that should offer enough information to begin using the Benchmark and assessing future-fitness in a meaningful way.
+
+The Future-Fit team is continuously striving the make the Benchmark both more useful and more usable, so please do [contact us](mailto:info@futurefitbusiness.org?subject=Future-Fit%20Enquiry%20-%20Release%202.2) if you have particular suggestions for improvement.
+
+<div class="callout-note">
+**A note on legality**
+
+Before getting into specific areas of guidance, one over-arching point is worth stating, and it applies to the pursuit of future-fitness generally. In parts of the world, it might actually be _illegal_ to meet certain Future-Fit criteria – at least at this moment in time.
+
+For example, in some regions, governments may restrict workers' rights of association (e.g. to form unions) in ways that might make it impossible to meet all criteria with respect to the goal [**Employees are subject to fair employment terms**](#be12). While such anomalies are likely to be few and far between, in such cases the company should of course _not_ seek to break the law, but rather to explain _why_ its performance falls short of Future-Fit criteria in those areas.
+</div>
+
+## 2. Understanding what is in scope {-#ig-scope}
+
+### 2.1 Setting the right company boundary {-#ig-boundary-setting}
+
+##### Implications of company structure {-}
+
+Before seeking to assess future-fitness with respect to a specific goal, it is important to determine what should be included: whether an individual worker should be considered as an employee, or whether a specific site falls under the company's control, for example.
+
+The challenge of determining what is in and out of scope is not unique to the Benchmark. This question has been subject to much debate and scrutiny in corporate law, when seeking to determine liability boundaries, designing and applying tax frameworks, and for financial reporting.
+
+Unfortunately, there is no simple answer. If a company spins out a division, but continues to buy 90% of the product it produces, there may be little or no change with respect to surrounding communities or ecosystems from when the division was company-owned. However, the two scenarios could have different implications for how the Benchmark is applied. Different company structures (corporations, partnerships, franchises, joint ventures, etc.) might also affect how a business views and describes itself, its divisions, its suppliers, and its customers.
+
+A company's legal designation may significantly affect its ability to control or influence related entities. The Benchmark recognizes this, not least through its clear definition of [mutual accountability](#def-mutual-accountability). That said, certain changes in business structure – such as selling off but continuing to rely on a resource-intensive business process – could potentially be used to 'game' the system. A company could – in full accordance with accepted reporting rules – use such changes to effectively move its negative impacts 'off-book'. The result might be for a company's future-fitness progress indicators to appear to improve significantly, without any real reduction in the externalities its existence causes.
+
+This is a shortcoming not just of the Future-Fit Business Benchmark, but of any approach to assess the environmental and social impacts of companies across their full value web. The goal [**Procurement safeguards the pursuit of future-fitness**](#be04) goes some way to addressing this issue with respect to supply chain externalities, but it is no panacea.
+
+The Future-Fit team acknowledges the potential for a company's structure to affect how its future-fitness would be reported. Going forward we will work with our [Development Council](http://futurefitbusiness.org/development-council/) of global corporations and investors to ensure this issue causes as little confusion as possible when seeking to compare the relative progress of different companies.
+
+##### Allocations for collaborative projects {-}
+
+When it comes to attributing ownership of collaborative endeavours – e.g. determining the proportion of a joint venture's impacts that each respective partner is accountable for – the Benchmark draws on the approaches used in the financial world.
+
+For corporate groups, partnerships, franchises, and joint ventures, a business should seek to mirror whatever approach it is already using for its financial accounting. This should enable the company to determine whether to exclude specific impacts, incorporate them fully, or include a fraction thereof, when calculating its future-fitness.
+
+In cases where it is not possible to treat shared impacts and externalities in a way that mirrors the accounting treatments for the activities that generate them, the equity and consolidation principles suggested under IFRS ([International Financial Reporting Standards](http://www.ifrs.org/)) for consolidation of financial results should be used to establish reporting boundaries. In cases where a company has percentage ownership stake in an entity of >50%, or where it is able to exert effective control over that entity's operations, then all impacts of that entity should be incorporated into the company's future-fitness assessment. In cases where the company has a minority percentage stake in an entity _and_ it does not exercise effective control over it, a fraction of that entity's impacts should be incorporated into the company's future-fitness assessment, proportionate to its ownership share. @Gra20 @Jos17 @Pwc15
+
+**For example**: Acme Inc. owns 25% of Beta Co. Acme uses 100,000 kWh of energy in its own operations during the reporting period, of which 50,000 kWh are from renewable sources. Beta Co. uses 10,000 kWh of energy during the reporting period, of which 8,000 kWh are from renewable sources. For the goal [**Energy is from renewable sources**](#be01), Acme would add 25% of Beta's totals to its own in order to calculate its progress indicator.
+
+$$Acme\:(own\:operations)=\frac{E_{Renewable}}{E_{Total}}=\frac{50,000}{100,000}=50\%$$
+$$Acme\:(with\:Beta)=\frac{50,000+(25\%*8,000)}{100,000+(25\%*10,000)}=\frac{52,000}{102,500}\approx51\%$$
+
+In cases where "ownership" is not an applicable concept (e.g. multiple companies contributing financially to a community-owned project), the company should determine its share of the outcomes on the basis of its contribution to the cost of the project.
+
+**For example**: Acme Inc and Beta Co launch a wetland clean-up project and are trying to understand how to attribute the positive impacts and externalities between them. Acme contributed $60,000 in cash to advertise the project to volunteers and to pay organizers, while Beta contributed $40,000 worth of machinery and materials to the project. The materials will not be reusable by the company after the project – their full value is being consumed. Although the concept of ownership doesn't apply, and assuming control of the project is being delegated to the organizers and volunteers, the companies can use their contributions to calculate their portion of the outcomes:
+
+$$Acme=\frac{Value_{Contribution}}{Cost_{Total}}=\frac{60,000}{100,000}=60\%$$
+$$Beta=\frac{Value_{Contribution}}{Cost_{Total}}=\frac{40,000}{100,000}=40\%$$
+
+### 2.2 Determining who is an 'employee' {-#ig-determining-employee}
+
+It is important to ensure that the Break-Even Goals related to employee wellbeing are applied consistently and fairly to people who contribute to a company's success.
+
+The Benchmark's ambition regarding employees is to ensure that all workers – within the business _and_ across its supply chains – have their health safeguarded, are paid at least a living wage, are subject to fair employment terms, do not face discrimination, and are free to voice any concerns relating to their wellbeing. Performance in this regard for workers in the supply chain are covered by the goal [**Procurement safeguards the pursuit of future-fitness**](#be04).
+
+However, when it comes to people who contribute directly to a company's activities, the situation is not always clear-cut, because there are many different types of working relationships between a business and those who contribute time and expertise to it. It is therefore necessary to determine who should be included when assessing progress against the employee Break-Even Goals, and who should be considered part of an external organization, and thus covered by the procurement goal.
+
+_The baseline recommendation is that companies should use the same designation for "employees" that they use for tax purposes, where applicable._
+
+When this recommendation does not provide sufficient clarity, or when a company's designation of employees for tax purposes is inconsistent across its operations, the following questions are often used to help to determine whether a worker is an employee or a contractor:[^1#ig-1]
+
+###### Who controls the timing, location, and methods of work? {-}
+
+- If the company has the right to set a schedule that the worker must follow, or the right to determine how their work must be performed, that is more consistent with an employee relationship.
+- If the worker is responsible for delivering the end result, but (where applicable) has the right to choose where and when the work is performed, as well as determining the methods they use to accomplish the result, that is more consistent with a contractor relationship.
+
+###### Who has the potential to benefit from the work, or is at risk if it fails? {-}
+
+- Companies usually pay employees a fixed salary or variable amount for work completed, and assume the risk of whether they can earn enough back to make the enterprise profitable.
+- Contractors are more likely to have to make their own investments in fixed and variable costs – such as purchasing materials to complete work with their own capital, or marketing to attract clients – meaning that they are vulnerable to the possibility of incurring a loss, and benefit from the reward of making a profit.
+- A good representation of this concept is to look at who owns the tools or equipment used to complete the job; if the company owns the tools, they have taken the risk of that investment, indicating an employee / employer relationship. A truly independent contractor is not likely to be provided with the tools and equipment they need to get the job done.
+
+###### Is the worker dependent on the company? {-}
+
+- Contractors are likely to work for (or have the option of working for) multiple client companies, which means that their financial stability is not highly dependent on any one client. If an individual is earning 90% or more from a single company, that is more indicative of that individual being an employee.
+
+###### What was the original intention of both parties? {-}
+
+- Did the company and worker intend for the relationship to be employment-based, or contract-based? If the company offered benefits normally associated with employment (participation in a health plan, paid leave, access to corporate discounts), that is indicative that the relationship is employment-based at its core.
+
+###### Weighing the evidence {-}
+
+When legal authorities make judgements based on the aforementioned factors, they weigh the body of evidence, and look for evidence that a consistent decision-making approach has been applied. Hence companies are encouraged to document their reasoning, and – if still unsure – to seek the opinion of an expert such as an employment lawyer or corporate tax accountant.
+
+### 2.3 Differentiating between operational and product impacts {-#ig-differentiating-impacts}
+
+The Break-Even Goals consider _operational_ impacts and _product_ impacts (from goods and services) separately, because different degrees of accountability apply to them.
+
+While every company is _wholly accountable_ for eliminating the negative impacts associated with its operational activities (e.g. ensuring all **operational waste is eliminated**), no company can completely control the actions of its customers: all it can do is ensure that negative impacts _can_ be avoided, when the goods and services it offers are used as intended. Users must also act responsibly, so both parties are _mutually accountable_ for eliminating the negative impacts associated with products (e.g. a company must ensure that all its **products can be repurposed**, but not that repurposing _actually occurs_).[^2#ig-2]
+
+However, the provision of some goods and services involves a high degree of ongoing company activity, so it may not always be obvious which goal a specific impact should fall under. Examples include:
+
+- A logistics provider, where the act of transporting goods is both a key operational activity of the company, and the means by which it generates revenue.
+- An owner of specialised assets (e.g. complex machinery) whose use has an impact, and where the owner operates them on behalf of customers to deliver a managed service.
+- A hotel operator, whose locations are used directly by customers (for overnight accommodation), but whose day-to-day running is managed directly by the operator.
+
+In any such cases, it is important that negative impacts are treated consistently, and that they are not counted twice. The following sections offer clarification for how certain types of impact should be recognised.
+
+##### Operational impacts {-}
+
+_**A negative impact should be classed as operational if it occurs during the production or delivery of a good or service, and if it is – at least in part – modifiable or avoidable by the company.**_
+
+- For example, a user of a ride-sharing service cannot typically influence the fuel and performance characteristics of the vehicles used. Such factors remain within the control of the company providing the service. So any harmful substances emitted by the ride-sharing vehicles should be addressed via goal [**BE05: Operational emissions do not harm people or the environment**](#be05).
+- For example, a hotel guest could seek to minimize her own energy usage during her stay, but the operator of the hotel is responsible for sourcing (generating or procuring) that energy. So GHG emissions that result from the hotel's energy use should be addressed via goal [**BE06: Operations emit no greenhouse gases**](#be06).
+
+##### Product impacts {-}
+
+_**A negative impact should be classed as product-related if any of the following three conditions apply:**_
+
+_**1. Control of the product has passed into the hands of a third party[^3#ig-3] before the impact occurs, so the extent of the impact caused is not under the company's influence.**_
+
+- For example, if a furniture manufacturer uses interim packaging to transport goods to a retailer, the retailer controls what happens to the packaging post-use. So any waste generated from such packaging should be addressed via goal [**BE19: Products can be repurposed**](#be19).
+
+_**2. When the product transaction occurs, the impact is no longer modifiable by the company, nor the receiving third party.**_
+
+- For example, if a real-estate company erects and sells a building on a greenfield site, any encroachment on local ecosystems is already 'locked in' when the buyer moves in. So any impact relating to the building's physical presence should be addressed via goal [**BE17: Products do not harm people or the environment**](#be17).
+
+_**3. The impact accrues from physical goods which are not directly revenue-generating, but which are provided to third parties in support of commercial activities.**_
+
+- For example, if a consumer brand provides promotional display materials to stores, or offers giveaway items to new consumers, the fact that those goods are 'free' does not change whether or not they cause harm. So any harmful impact caused by non-revenue generating goods should be addressed via goal [**BE17: Products do not harm people or the environment**](#be17).
+
+<div class="callout-note">
+**A special case: what to do when a company sells its assets**
+
+A company may occasionally generate income from selling an asset that is _not_ part of its core business model. This may include for example the sale of a production plant, an office, or a large piece of machinery. Since such a sale would not count as _product_ revenue, any impacts associated with the asset should only be captured as operational whilst in the possession of the company, rather than within the product goals.
+</div>
+
+Even when applying the above criteria, some situations may remain ambiguous. Wherever there is any doubt, impacts should be categorised as operational rather than product-related, to ensure that the company is wholly accountable for addressing them.
+
+### 2.4 Measuring the fitness of subsidiary companies {-#ig-subsidiaries}
+
+The progress indicators for some Break-Even Goals are premised on the existence and substance of company policies and processes. This may raise questions regarding how to calculate the fitness of a subsidiary company in situations where it has little influence over the policies set by its parent. The short answer is that a subsidiary should objectively assess the policies it has in place, regardless of its authority to change them.
+
+For example, consider a subsidiary whose parent company has stipulated salary levels for each job level across the whole group, leading to junior employees earning less than a living wage. In this case, it may not be possible for the subsidiary to pay all employees a living wage, even if it wishes to do so. When considering [BE11: Employees are paid at least a living wage](#be11), the subsidiary should calculate its progress indicator according to the reality of the situation. The best course of action to improve performance would be for the subsidiary to lobby its parent company to change its stance on wages.
+
+## 3. Pursuing future-fitness in a systematic way {-#ig-systematic}
+
+A disciplined approach to implementing and documenting policies and internal control processes is important in any business, because it helps management to systematically track, review and modify the steps being taken to achieve any given outcome. Adopting the Future-Fit Business Benchmark is no exception.
+
+This chapter describes what formal policies and internal controls are, and provides guidance on how to create, implement and document them.
+
+### 3.1 What are internal controls? {-#ig-internal-controls}
+
+This section refers to several terms whose meaning may not be immediately apparent:
+
+_**Policies** are high-level rules or general concepts used to guide or influence the actions of employees in specific circumstances._
+
+_**Procedures** are series of steps that describe the way employees should consistently respond to a situation or approach a task._
+
+_**Controls** are the means by which management addresses risks, by influencing the actions of specific areas of the business to align with the objectives of the company. They are checks and balances to ensure the business stays on target. 'Internal' controls refer to these checks and balances occurring within the business itself, as opposed to being imposed by third parties._
+
+<div class="callout-note">
+**Controls, policies, and procedures**
+
+There can be some overlap between these concepts. Policies and procedures can be used as internal controls in a company, but not _every_ policy or procedure is a control.
+
+**Example**: A company wants to put in place a **control** to prevent the sale of defective products, so it develops a **policy** stating that "No product will leave the factory without being checked." To achieve this goal, the company implements a **procedure** whereby a supervisor checks the functionality of each product before it is packaged and shipped.
+</div>
+
+What makes controls effective will vary depending on a company's industry and other circumstances, but there are some generally applicable aspects of effective controls that can help companies achieve their desired outcomes.
+
+The following guidance should help companies to ascertain if the controls they have in place are sufficient, and to design and/or evaluate policies that seek to steer company actions in pursuit of Future-Fit outcomes. This information should be particularly helpful for any company that may eventually wish to have its Future-Fit performance or processes assured by a third party.
+
+### 3.2 What are internal controls used for? {-}
+
+Internal controls can help individual employees and departments maintain alignment with organizational objectives, allow management to be confident in the information they use to make strategic decisions, and keep the company working efficiently and effectively.
+
+This is particularly true when it comes to pursuing future-fitness, because reaching the levels of social and environmental performance required to become Future-Fit will likely require concerted and coordinated action across the whole business and over a significant period of time. Using internal controls and setting formal policies ensures that employees understand the objectives of the broader company and helps clarify the role their daily responsibilities play in achieving those broader objectives.
+
+### 3.3 Types of controls {-}
+
+##### Directive controls {-}
+
+Directive controls are meant to ensure that employees understand and are aligned with the objectives of the company. They are active _before_ the activity they relate to takes place. Examples of directive controls include job descriptions, setting of departmental targets, and organizational mission statements.
+
+##### Preventative controls {-}
+
+These controls are meant to reduce the likelihood that errors occur. They are active _while_ the activity they relate to takes place, which means they are a part of the day-to-day operations of a business. Examples of preventative controls include authorization and approval processes, checking calculations before the resulting figures are reported, and ensuring an appropriate segregation of duties within the company (see note below).
+
+##### Detective controls {-}
+
+These controls are meant to determine whether the process in question is being applied as intended. They are active _after_ the relevant activity takes place. Detective controls are used to identify errors, allowing companies to make corrections and limit an error's impact. Examples of detective controls include checking the calibration of measurement tools at the end of a shift, or performing random checks to see how measured values compare against forecasts.
+
+<div class="callout-note">
+**Segregation of duties**
+
+In the context of internal controls, _segregation of duties_ refers to designating different actors in the control process to be accountable for key steps along the way, to prevent errors and dissuade fraud. Steps to be separated include custody of assets, authority for approval, and responsibility for record-keeping.
+
+For example, when calculating whether employees are paid a living wage, Employee A might have access to the employee payroll records (custody), Employee B would be responsible for performing the calculation of the living wage thresholds in the areas the company operates (recording), and Employee C would review and approve the work for inclusion in a management report (authorization).
+</div>
+
+### 3.4 Steps for creating effective internal controls {-}
+
+When new internal controls are required to shore up the current risk environment, or to respond to changes in the business, the following steps can help ensure that the new controls will be effective in helping the business achieve its objectives.
+
+##### Plan the controls needed {-}
+
+**Identify the stakeholder** that you are trying to affect.
+
+- Are you trying to ensure product quality for customers, prevent workplace accidents for employees, increase data accuracy for management, or minimize emissions for the environment and/or local communities?
+
+**Clearly define the outcome** you are seeking to influence for that stakeholder.
+
+- Do you want to prevent a negative outcome from happening? Encourage a positive behaviour? Reduce the variability in a service provided?
+
+**Identify any risks** that threaten the delivery of those outcomes.
+
+- E.g. external environmental factors, inconsistent approaches to similar problems, lack of precision from machinery or employees.
+
+**Actively engage the target stakeholder group** during the control creation process, or when changes are being made that might impact the stakeholders' experience.
+
+- E.g. for an employee health policy, employees or their representatives must be included in the discussion during policy development.
+
+**Determine which risks can be mitigated** by using controls.
+
+<div class="callout-note">
+**Optional guidance on planning controls**
+
+Create and document contingency plans to prevent the risk of progress toward objectives being interrupted by the absence of key employees, breakdown of equipment, or issues with third-parties.
+</div>
+
+##### Implement the planned controls {-}
+
+- Design and implement controls to mitigate the risks identified.
+- Allocate time and budget for taking corrective action in the event that objectives are at risk of being missed.
+- Describe and document the objectives of each control, and make them available to the employees / stakeholders responsible for enacting them.
+- Clearly define the line of accountability for the outcomes of each control, including a member of the executive team ultimately responsible for the success of the initiative.
+
+<div class="callout-note">
+**Optional guidance on internal control implementation**
+
+- Ensure that sufficient resources are available for the project team[^4#ig-4] to be able to successfully design, implement and operate the required controls.
+
+- Give employees the information and/or training needed to be able to view their own actions in the context of their impact on the broader organization.
+
+- Communicate objectives beyond the core project team so that other relevant groups in the company are aware of them, in order to minimize internal resistance and duplication of effort.
+</div>
+
+##### Monitor performance, and adjust when needed {-}
+
+- Document qualitative and quantitative outcomes of internal controls to be reviewed on a regular basis by management.
+- Take appropriate steps to adjust the controls as needed when they are found not to be operating as intended, or when changes to the operating environment may undermine their effectiveness.
+
+### 3.5 Guidance on mapping processes and internal controls {-#ig-mapping-guidance}
+
+##### Mapping organizational processes {-}
+
+For business processes which are used to measure Future-Fit indicators, or whose outcomes are measured by them, documenting the steps involved in the process can be a helpful exercise. Writing out the actions from the point of initiation through to the final outcome can be done either in narrative form, by creating diagrams, or ideally as a combination of the two. Once all of the steps in the process have been mapped out, the internal controls which keep the process on track and prevent errors from occurring should be identified and highlighted. Formally documenting internal controls in this way allows managers to evaluate if the current approach is the best way to address the relevant risks, and helps identify any gaps or redundancies in the control structure.
+
+Clearly documenting the company's processes will also make it easier for anyone who is unfamiliar with the company to quickly understand which departments, systems and job functions are involved in each step, to identify areas where things might go wrong, and to see which internal controls are in place to prevent potential problems or to quickly detect them if they occur. This is particularly helpful for new employees to understand how the company operates and where they fit in, and will also help make assurance engagements more efficient and effective.[^5#ig-5]
+
+##### Creating flowchart diagrams {-}
+
+A useful way to depict business processes is to create a flowchart that shows the sequence of activities involved, and what happens at decision points. To create a flowchart, it is often easiest to start from the final outcome of the process and work your way back toward the start. Identify any activities performed, measurements taken, people involved, and inputs along the way, until you get to the first action that puts the process into motion. These diagrams should incorporate both the individuals and departments that are actively involved or are primarily responsible at each stage, and also those who provide inputs, receive products, store documents or are otherwise impacted along the way.
+
+Once each piece of the process has been identified, they should be organized in sequential order, with arrows showing the progression from one step to the next. When a step can lead to two or more different outcomes depending on the result of a decision or check, each possible path should be shown along with the reasons that the process would follow that particular route.
+
+To provide an additional layer of clarity, the flowchart can be set up so that the steps assigned to each participating department or individual are grouped together clearly. This can be accomplished by sectioning off columns or rows for each distinct participant, creating 'lanes' that show their involvement. Users can further supplement these flowcharts with a written narrative to help explain what is happening along the way (see [Figure 1](#ig-figure-1) for an example).
+
+<div class="ff-figure" id="ig-figure-1">
+Figure 1: Sample flowchart showing process for determining energy used by buildings.
+
+![](assets/figures/ig-flowchart.svg)
+</div>
+
+Companies should aim to map out the process as it happens in reality, instead of how it works 'on-paper' or 'in theory'. This will help stakeholders gain genuinely useful insights from the process. To further ensure that the company has an accurate depiction of the process, the final flowchart should always be reviewed with the various functions and departments that participate in the process.
+
+There are many resources available on the mechanics of creating a flowchart, such as what shapes to use, different format options, and how to create columns to show ownership over different aspects. There are free guides that can be found online[^6#ig-6], as well as specialized flowchart design programs available for purchase.
+
+### 3.6 Evaluation of controls {-}
+
+When companies initially adopt the Benchmark, a common question for goals which employ policy-based indicators is _"We use 'Control X', is that enough to meet the criteria?"_
+
+To help companies determine whether their internal controls are sufficient, and to ensure that the Benchmark is being consistently applied, one approach would be to implement Directive, Preventative, and Detective controls for each relevant Benchmark objective.
+
+While it may not always be appropriate to have each of these types of internal controls in place for a specific criterion or objective, striving to do so means that for any given outcome described by the Benchmark, employees will: (a) know why they are required to adhere to a policy or follow a procedure, (b) be subject to safeguards that help to avoid failure to meet the intended objective, and (c) have checks and balances in place to help identify areas where the controls are falling short.
+
+It also means that when the company's board or external stakeholders ask what is being done to pursue a particular Future-Fit goal, the company will be well-positioned to give a comprehensive and confident answer. Similarly, for companies that intend to have their reports assured, proving the effectiveness of the internal controls used during the reporting period will be key to the process. See the section on [_Assurance_](#ig-assurance) for more detail on obtaining assurance over Benchmark data.
+
+### 3.7 What is a formal policy? {-}
+
+A formal policy is a written document that has been approved by human resources or company management. Formalizing policies enables a company to have a standard approach to a specific topic or situation. This helps ensure that when the relevant situation arises, it is addressed consistently. When policies are absent or only exist informally, steps are more likely to be missed, issues might be ignored, and employees’ individual judgment will be relied upon more heavily. 
+
+A common example is around how employee concerns are treated. Most companies which have not actively addressed employee concerns before will reply that there is an informal policy where an employee raises any issues to their manager, and the manager either resolves or escalates the issue. The reason that the Benchmark specifies that formal policies are needed is that in this example, the manager receiving the concern may dismiss an issue that they judge to be unimportant, but which might be very significant to the employee raising it, or to the company itself. Having formal policies is an important step towards achieving consistent results across your company.
+
+### 3.8 Useful links {-#ig-useful-links}
+
+###### COSO (Committee of Sponsoring Organizations of the Treadway Commission) {-}
+
+Formed in 1985, COSO was formed via contributions from five major accounting, finance and audit agencies in the US to help provide guidance on financial governance and fraud prevention for a range of stakeholders. COSO is a recognized thought leader on the topic of internal controls, and provides some free materials along with more detailed guidance available for purchase on its [website](https://www.coso.org/Pages/ic.aspx).
+
+###### ISO 9001:2015 application guidance {-}
+
+ISO 9001 also uses a process-based approach for the purpose of designing a quality management system. The [_Plan, Do, Check, Act_](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso9001-2015-process-appr.pdf) approach outlined therein contributed to the guidance offered here @Int15.
+
+###### KPMG – Internal Control: A Practical Guide {-}
+
+In 1999, KPMG [issued a guide](https://ecgi.global/code/kpmg-review-internal-control-practical-guide) to help businesses understand and act on the implications of the "Turnbull Report" (_Guidance for Directors on the Combined Code_) issued by the Institute of Chartered Accountants of England and Wales (ICAEW) @Ica05. The descriptions of the objectives of internal controls, and context for their use helped influence the descriptions in this section.
+
+## 4. Considerations for assessment and reporting {-#ig-assessment}
+
+### 4.1 Setting a reference point to assess progress for elimination metrics {-#ig-set-reference-point}
+
+For some Break-Even Goals such as [**Operations emit no greenhouse gases**](#be06), the progress indicator captures the degree to which a company has eliminated a negative impact. Defining what 100% means for such metrics is straightforward, but identifying the starting point (0%) is less intuitive. To make the company's progress toward elimination relevant, we need a _reference point_ to 'anchor' performance.
+
+A company may choose its own reference point, from which subsequent reductions are measured, as follows:
+
+- If the company has for multiple years been measuring _all_ of the data necessary to calculate its progress toward future-fitness (e.g. all operational GHG emissions), it can choose the data from any one of those years to use as its reference point.
+- If the company has been measuring _a significant proportion but not all_ of the data necessary to calculate its progress (e.g. GHG emissions at 4 out of 5 facilities) it should _estimate_ the missing amount, and use the part-estimated total as its reference point. If reporting on progress publicly, the use of the estimated value should be declared.
+- If the company has not kept records of the required data, its progress starts at 0% for the year in which measurement starts.
+
+This approach ensures that any company which has already been actively measuring and reducing its impacts _before_ using the Benchmark see its performance gains during that period reflected in its progress indicator.
+
+Note that companies must follow up on their commitments with real action. If a company commits to becoming Future-Fit and chooses a reference point, its progress indicator will remain at 0% until it is able to decrease its impacts (e.g. by reducing its GHG emissions) from that initial value.
+
+Once a reference point has been chosen, it should not be changed in future years except in rare cases where doing so would result in the reported data providing more reliable and relevant information.[^7#ig-7]
+
+### 4.2 Assessing and reporting with incomplete data {-#ig-incomplete-data}
+
+Ideally, when describing their progress toward future-fitness, all companies would assess and report on the full extent of their operations. However, there are cases where it might be impossible to do this in a given reporting period. Examples include:
+
+- Companies that are just starting to assess their performance using the Benchmark, and which have not yet managed to gather information from across all parts of the business.
+- Companies that are undergoing major structural changes, such as a merger, acquisition or divestiture of operational components.[^8#ig-8]
+
+In such cases, companies are still encouraged to report their Future-Fit performance, provided that: (a) they disclose and justify the extent of their activities which are _not_ included; (b) they make clear to users of the data the likely implications of such omissions with respect to the company's future-fitness[^9#ig-9]; and (c) they explain how those omissions will be addressed in future reporting cycles.
+
+### 4.3 Assurance {-#ig-assurance}
+
+##### Introduction to Benchmark assurance {-}
+
+The Benchmark indicators are designed to be used by companies to assess their environmental and social performance, and to give visibility into how management decisions affect fitness. Some companies will find that they want to have a third-party check they have done these assessments correctly, either to increase their own confidence in the information being used to drive decisions, or because they intend to report the indicators externally. Anticipating this, the Benchmark has been written in a way that helps facilitate assurance engagements using the ISAE 3000 standard.
+
+When self-assessing performance, a company should think proactively about how to ensure and communicate that its data and calculations are correct. With respect to financial information, this involves two steps: 1) compiling evidence from the process used to arrive at the final figures, and 2) if the information is to be published for external reference (e.g. in an annual report) engaging an independent assurer to review the reported figures and the methods used to determine them. This approach is designed to give users of the information confidence in its reliability, and it is equally applicable to Future-Fit data and reporting.
+
+Typically, assurers require an understanding of the checks and balances that a company relies on to keep things running smoothly (referred to as _'internal controls'_)[^10#ig-10], along with an information trail that enables them to evaluate the following five areas where data collection and reporting could potentially go wrong:
+
+- **Existence / Occurrence**: Did the social and environmental outcomes reported actually take place? Or has information been included which cannot be verified, and therefore may relate to events that never occurred?
+- **Completeness**: Does what is reported include all the relevant information? Or are there other important pieces of missing data that someone using the report would need to make an informed decision?
+- **Attribution**: Did the social and environmental outcomes being reported occur because of the company's actions? Is it possible that the company is claiming responsibility for outcomes (whether positive or negative) that were caused by another organization, or that would have occurred on their own?
+- **Accuracy**: Have the numbers in the report been calculated correctly? Did the company follow the instructions properly, and are the calculations free from errors?
+- **Presentation**: Are the figures being communicated in a way that makes their meaning and significance clear to report users? Where necessary, has adequate supporting information been included to put the data in context?
+
+As a group, these are known as _'audit assertions'_. When a Future-Fit report is being reviewed, the assurance team's objective is to determine whether the report was prepared according to the rules set out in the Benchmark. The company can make it easier for an assurance team to reach a conclusion by tailoring the evidence it collects to address these audit assertions.
+
+##### Preparing for an assurance engagement {-}
+
+If a company is planning to have its Benchmark data assured by an independent third party, there are steps it can take prior to the assurance team arriving to help make the task easier. Because every company is different and faces unique challenges, it is impossible to be entirely prescriptive and provide a complete checklist of steps that will ensure the assurance process goes smoothly and successfully. Nonetheless, the following sections outline certain actions that will help companies address criteria that show up multiple times throughout the Benchmark.
+
+###### Internal control documentation {-}
+
+Assurance providers suggest mapping out and documenting the organizational processes that the company uses to get information for calculating Benchmark indicators as flowchart diagrams, and to identify the internal controls that help prevent errors along the way. This will make it easy for external assurance teams to quickly understand which departments, systems and job functions are involved in each process, to identify areas where things might go wrong, and to start to consider whether the internal controls in place could be effective in preventing or quickly detecting potential problems. See the section on [_Guidance on mapping processes and internal controls_](#ig-mapping-guidance) for more information on how to do this.
+
+###### Specific guidance for Break-Even Goal criteria types {-}
+
+The Break-Even Goals cover a wide range of topics, and the criteria outlined in their respective Action Guides include everything from measuring production outputs to scheduling regular review meetings, and from making company-wide commitments to implementing the recommendations of industry-specific frameworks. While the requirements are clearly defined and specific rules for measurement are given, there is substantial flexibility for companies to achieve these outcomes in unique ways that fit with their business model and strategy.
+
+In general, this is good for businesses. Distinct criteria mean that the destination targeted by the goals is clear, and specific definitions set a level playing field for measurement among reporting companies. At the same time, companies are not being told how they have to achieve these criteria, which allows management freedom to define priorities and apply solutions that make sense for them.
+
+While some of the criteria in the various Action Guides are only relevant to one specific Break-Even Goal, there are also some recurring themes that appear in several different Action Guides. This section identifies these themes, and gives some guidance on what types of internal controls can help ensure that all relevant risks are addressed.
+
+####### 1) Initial scope assessments {-}
+
+For many goals, the first step is to perform a scope assessment, where the company identifies all of the areas in which the goal applies to its business. For the goal [**Energy is from renewable sources**](#be01) a company must first identify all the areas where it is using energy before it can determine the type and ratio of energy it is using. For the goal [**Operations emit no greenhouse gases**](#be06), the concept is similar; before measuring the amount of emissions, a company first needs to determine all of the different aspects of its operations that _generate_ emissions. This type of criteria relates to the _Completeness_ assertion – has the company included all of the relevant information in its assessment and report, or are there areas that were incorrectly excluded?
+
+Some examples of controls that can help with this are:
+
+- Design processes that do not allow users to proceed until they have recorded all relevant pieces of information, reducing the likelihood of missing key data points.
+  - E.g. [**Employees are subject to fair employment terms**](#be12): when a new employee is hired, the HR system prompts users for information on their employment terms before their record can be submitted and payroll set up.
+- Perform random spot checks of data points and track them through to the final aggregated total to ensure that they are included in the final reported value, potentially detecting necessary information that has accidentally been omitted.
+  - E.g. [**Energy is from renewable sources**](#be01): randomly select a month and a process that uses energy at a given location, and track that energy purchase through the reporting process to ensure that it has been included in the final report.
+
+####### 2) Calculation criteria {-}
+
+Once the necessary data has been collected for any Break-Even Goal a calculation needs to be performed in order to assess the company's progress. There are several different formats of indicator in the Benchmark, and it's helpful for a reporting company to understand which type of indicator it is dealing with before attempting the calculation. Indicator types include _proportional_ (e.g. what percentage of employees are paid a living wage), _elimination_ (e.g. reduce harmful emissions from the level produced in the baseline year to zero), and _scoring-table_ goals (e.g. a supplier's goods are rated at 60% because they fulfil some of the specific procurement requirements which correspond with the criteria used to measure progress, but are missing others).
+
+For these criteria, _Accuracy_ and _Completeness_ are both relevant assertions. A company should make sure that, 1) it has carefully considered all of the information and definitions offered in the relevant Action Guide, 2) for topics where it does not have full data from all parts of the company, it knows how to communicate this and factor it into indicator calculations, and 3) baseline years have been set in line with the suggestions in the section on [_Setting a reference point to assess progress for elimination metrics_](#ig-set-reference-point).
+
+Some examples of controls that can help with this are:
+
+- Creating a checklist for employees to use while completing aspects of the calculation process to ensure that necessary steps are followed and all key information is identified. The checklist will direct employees on the tasks needing to be performed, and can be reviewed by a supervisor once the employee's work is complete to identify any steps that are missing.
+  - E.g. A sample checklist for the goal [**Operational waste is eliminated**](#be07) could be:
+    - Download all expense entries in the 'Waste Disposal' account for the year;
+    - Identify each unique vendor from the account;
+    - Obtain the folder containing the physical invoices for each vendor from the 'Waste Disposal' account, and review invoices for the period to ensure there are no other disposal charges that were errantly left out or mislabeled;
+    - Record the weights listed on the invoices in a spreadsheet used for calculations;
+    - For invoices listing the amount of waste in volume instead of weight, convert to weight using the appropriate ratio;
+    - Check with the Facilities Manager whether they are aware of any other third-parties that removed waste from the location during the reporting period but weren't listed in the account;
+    - Sum the weights in the spreadsheet used for calculations;
+    - Submit the file and invoices to Supervisor to check.
+
+- After the calculation for the current reporting period is complete, perform a variance analysis against the same calculation from a prior period. For any items included in this year's calculation but not in the prior year's, for items in last year's calculation but not in the current one, or for items that are included in both years' calculations but where the amounts differ significantly, investigate the differences and identify the reasons for each variance to ensure it is not an error.
+  - E.g. For the goal [**Business is conducted ethically**](#be20), the calculation might be:
+
+    - 2017: 80% = 800 employees covered / 1000 total employees
+    - 2016: 63% = 825 employees covered / 1300 total employees
+
+  The variance of 300 total employees might indicate that the company is missing information from this year's calculation, so it is investigated. Management confirms that one of the company's factories was shut down during the year, affecting all 350 employees including 25 office staff. The company had assessments, policies and processes in place for the office staff, but had not completed that work for the other employees at the factory. Shutting down the plant had a positive impact on the company's financials, allowing them to hire an additional 50 employees – who have not yet received the training they need for the company to count them as fully covered by the goal's requirements. This explanation can be substantiated with evidence and explains the variance between years, so the reporting team is confident that it doesn't indicate an error in the calculation.
+
+####### 3) Documentation criteria {-}
+
+At points throughout the Benchmark, there are requirements that companies document the steps of their processes, the calculations performed, and/or the names of the external resources used while applying steps from the Action Guides. This documentation can be for different purposes. In some cases, it is meant to be included in the company's external Future-Fit communications, in order to give more context and a better understanding to users of the information. In other cases, it is meant to be recorded and retained internally, for management's review or to create a trail for assurance providers to understand the approach that the company took in addressing the corresponding goal.
+
+Documentation can be an effective way to demonstrate that a certain event occurred at a specific point in time. This is important internally when trying to convey the results of a project or generate buy-in for a proposal, and can also help to satisfy an external assurance provider that systems and controls worked as intended throughout a reporting period. Documentation can also be useful to take the informal, institutional knowledge or experience of individual employees, and codify it into something that anyone can use and understand. This can particularly benefit growing companies that need to replicate the success of their existing operations, or in cases of employee turnover where someone is leaving the company and their duties need to be transferred.
+
+Some examples of documentation controls include:
+
+- Creating diagrams of steps in a process, showing what triggers each step, what actions are involved, and whether specific outputs are generated. Diagrams can be strengthened by adding narrative explanations of what happens at each point.
+  - See the section [_Guidance on mapping processes and internal controls_](#ig-mapping-guidance) for examples of control processes being documented as a flowchart.
+- Recording calculations and retaining source documents of the numbers that go into them. This can include references to third-party documents or websites, as well as internal systems.
+  - E.g. For the goal [**Employees are paid at least a living wage**](#be11), a company may calculate the wage in its region by combining a housing cost based on a recent NGO report, the average cost of a healthy diet in the country from a government website, a fashion industry report detailing the cost of clothing, and primary research into the cost of schools in a city, amongst others. Referencing the sources and the dates they were accessed gives confidence to report users that the numbers are credible.
+- Creating documentation for physical processes which would not normally involve paper or electronic documents can help prove to internal and external stakeholders that processes are being used as intended.
+  - E.g. For the goal [**Natural resources are managed to respect the welfare of ecosystems, people, and animals**](#be03), an employee may perform a regular inspection of a filtration membrane in a farm's drainage ditch that is part of the company's system to prevent fertilizer runoff. That task doesn't require anything to be written down, but if a physical checklist is created listing the different filters checked, the date on which the checks were performed, and it is signed by both the employee who performed the checks and by their manager or supervisor, then it becomes a convincing piece of evidence that the inspection occurred.
+
+####### 4) Periodic review of internal controls {-}
+
+Businesses are dynamic – constantly innovating, growing, and adapting. Internal controls are not immune to this, so businesses should always seek to improve on existing controls and be ready to adapt controls in response to other changes in the business. For this reason, it often makes sense to proactively set up time to review individual control processes. The Benchmark contains some requirements for these reviews, but there may be additional situations where they can be helpful.
+
+Review timing should be planned based on the risk that the control relates to. For example, how frequently does the risk arise, and how significant are the consequences of the control not working efficiently? Depending on the answer, it might be that a control requires a review once every year (e.g. checking new employee training material contains updated links to supplemental online safety courses for staff), once a quarter, weekly, or even more frequently (e.g. ensuring a new electric fence is effective for keeping livestock from intruding on neighboring ecosystems without risking harm to the animals).
+
+Some examples of periodic reviews include:
+
+- Setting regularly recurring meetings with relevant employees and management to evaluate and discuss the effectiveness of an internal control. When planning these reviews, companies should also plan for the next steps that will be taken to resolve any issues found with the control, and consider budgeting funds for addressing these issues.
+  - For the goal [**Employee concerns are actively solicited, impartially judged, and transparently addressed**](#be14), a company may schedule annual meetings between the CEO, head of HR, and union representatives to evaluate the system for employees to report grievances about working or employment conditions. Standing agenda items might include discussing employee awareness of the system, usage rates, response times, and feedback collected from employees.
+- Sending a request for feedback to randomly selected employees from different locations or divisions on a set schedule to gauge employee opinions, and reviewing the results to see whether any issues have been raised that require action.
+  - For the goal [**Business is conducted ethically**](#be20), a company might send out a survey to employees from each division on a quarterly basis to ask whether they perceive a risk of ethical breaches (e.g. pressure to meet sales targets causing employees to alter sales terms). Results could be analyzed and reviewed the following week by senior management, where any potentially significant issues or recurring themes in responses are responded to by the company.
+- Setting up time to observe whether controls are being executed the way they are intended to be. It is not unusual for controls to be enacted differently in practice than how they were originally designed. Observing them in practice can highlight weaknesses in the design, aspects that are impractical, or point to changes needed in training or incentive structures. Performing these observations without notifying the stakeholders responsible for the control may help ensure that observed behaviour is representative of what actually happens on a daily basis.
+  - For the goal [**Product communications are honest, ethical and promote responsible use** ](#be15), a company may conduct unannounced store visits to retail locations selling the company's products once a month, to determine whether customers are being given the information they need in order to make informed purchase decisions.
+
+####### 5) References to other standards {-}
+
+At several points, the Benchmark either refers to a specific third party management tool, or recommends that companies adhere to &quot;relevant industry standards&quot;. The reason for this is that the Benchmark is designed to be applicable to any business in any industry, but for many sectors there is a wealth of highly specialized guidance available on social and environmental topics relevant to future-fitness. Whenever practical, we have attempted to point companies to these other standards, or to align guidance with them. In other cases, the topics covered are too specific to include in the Benchmark, as they would not be applicable to most users.
+
+Some examples of other standards that may be applicable to companies include:
+
+- Identifying areas of cultural or environmental High Conservation Value around a company's physical work sites.
+  - For the goal [**Operations do not encroach on ecosystems or communities**](#be08), companies should refer to the definitions and assessment guidance provided by the HCV Network in order to determine whether the areas that are impacted by their operations include High Conservation Value areas, and for guidance on their management if applicable.
+- For companies that produce or purchase products or services where widely accepted guidance exists detailing how to minimize negative social or environmental impacts, companies are expected to identify and adhere to those policies, while noting areas where the guidance does not extend to cover the requirements of the Benchmark.
+  - For the goal [**Natural resources are managed to respect the welfare of ecosystems, people, and animals**](#be03), companies that produce palm oil would be expected to identify and adhere to the guidance set out by the Roundtable on Sustainable Palm Oil (RSPO). The company would also be required to acknowledge where the scope of the relevant industry standard (in this case, the RSPO guidance) does not extend to information needed in the Benchmark. For example, the RSPO provides guidance and tools to help greenhouse gas calculations for the estate and mill aspects of palm oil producers and asks companies to calculate these values, but this does not provide the full carbon footprint for the company's entire operation, which is required for the goal [**Operations emit no greenhouse gases**.](#be06)
+
+###### Applying these principles {-}
+
+These examples should help provide insights on how a company might ensure that it is assurance-ready for some of the recurring criteria types found in the Benchmark. However, it is important to remember that each company is likely to have unique elements that require innovative planning to address.
+
+There are also many criteria in the Benchmark that don't fit neatly into the five categories outlined above. In those cases, companies should consider which audit assertions are likely to be of greatest concern to a report user, ensure that there are controls in place to prevent those potential issues from arising, and then clearly describe and document those controls. This will ensure that assurance providers are able to quickly and accurately understand the control environment at the company, and help ensure that assurance engagements are as efficient and helpful as possible.
+
+
+[^1#ig-1]: These considerations are an adaptation of those used by the Canadian Revenue Agency @Can17 and for the Borello test @Cal11 used by the State of California to determine whether a worker is an employee or independent contractor for legal or tax purposes.
+
+[^2#ig-2]: The concept and distinction of the terms _wholly_ and _mutually accountable_ is an important methodological underpinning of the Benchmark. For more information, see the [**Methodology Guide**](#mg-mutually-accountable).
+
+[^3#ig-3]: This includes end users, B2B customers (e.g. product inputs supplied to manufacturers, or final goods supplied to wholesalers), or other organizations to whom control is transferred (e.g. logistics providers).
+
+[^4#ig-4]: 'Project team' refers to the person(s) responsible for carrying out the tasks required to meet each objective.
+
+[^5#ig-5]: See the section on [_Assurance_](#ig-assurance) for more information on what companies can do to prepare when getting their Future-Fit data assured.
+
+[^6#ig-6]: For example, see [“System Based Audits”](https://www.pempal.org/sites/pempal/files/attachments/Part_2_Sistem_based_audit.pdf) from [pempal.org](https://pempal.org) (a World Bank & UK FCDO backed learning site), [“Flow Charts for Audit Purposes”](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1308&context=dl_tr) from the University of Mississippi, or [“Practical Flowcharting for Auditors”](https://chapters.theiia.org/western-new-york/ChapterDocuments/Practical Flowcharting for Auditors.pptx) from the Institute of Internal Auditors.
+
+[^7#ig-7]: The company should approach setting a reference year in the same manner as it approaches applying an accounting policy. For this reason, the wording used here reflects that used in International Accounting Standard 8.14. @Int05
+
+[^8#ig-8]: In such cases, companies must consider whether adjustments should be made to previously-reported figures (including to any reference points, as described in [_Setting a reference point to assess progress for elimination metrics_](#ig-set-reference-point)). They must also determine how and when to integrate any new asset's future-fitness information into their company calculations.
+
+[^9#ig-9]: For example, is the omitted part expected to be similar to rest of the company's operations in terms of its future-fitness? If so, what is the size of that part, as a percentage of the company's overall operations? If not, how might the omitted part introduce new risks (e.g. regional or industry-specific) that are not proportional to size?
+
+[^10#ig-10]: See the section [_What are internal controls?_](#ig-internal-controls) for a more detailed description of internal controls.
