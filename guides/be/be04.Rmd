@@ -2,486 +2,484 @@
 output: github_document
 ---
 
-## BE04: Procurement {-#be04}
+## BE04: Beschaffung {-#be04}
 
-<div class="subtitle">Procurement safeguards the pursuit of future-fitness
+<div class="subtitle">Beschaffung sichert das Streben nach Zukunftsfähigkeit
 </div>
 
-### 1. Ambition {-#be04-ambition}
+### 1. Zielsetzung {-#be04-ambition}
 
-If any activity in a company's supply chains results in a negative impact, then the company is contributing to and potentially perpetuating that impact – and thus hindering progress toward a Future-Fit Society.
+Wenn eine Aktivität in den Lieferketten eines Unternehmens negative Auswirkungen hat, dann trägt das Unternehmen zu diesen Auswirkungen bei und setzt sie möglicherweise fort – und behindert so den Fortschritt auf dem Weg zu einer zukunftsfähigen Gesellschaft.
 
-A Future-Fit Business therefore seeks to reduce – and eventually eliminate – any negative environmental and social impact caused by the goods and services it depends upon, by continuously striving to anticipate, avoid and address issue-specific hotspots in its supply chains.
+Ein zukunftsfähiges Unternehmen ist daher bestrebt, negative ökologische und soziale Auswirkungen, die durch die von ihm benötigten Waren und Dienstleistungen verursacht werden, zu reduzieren und letztendlich zu beseitigen, indem es kontinuierlich daran arbeitet, problematische Bereiche in seinen Lieferketten zu antizipieren, zu vermeiden und anzugehen.
 
-#### 1.1 What this goal means {-#be04-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be04-what-goal-means}
 
-Every company relies to some extent upon goods and services procured from other organizations, which are collectively referred to as suppliers. Common examples include energy, water, computers, transport, machinery, furniture, accounting services, and materials required to make products.
+Every company relies to some extent upon goods and services procured from other organizations, which are collectively referred to as suppliers. Common examples include energy, water, computers, transport, machinery, Jedes Unternehmen ist in gewissem Maße auf Waren und Dienstleistungen angewiesen, die von anderen Organisationen bezogen werden, die zusammenfassend als Lieferanten bezeichnet werden. Gängige Beispiele sind Energie, Wasser, Computer, Transport, Maschinen, Möbel, Buchhaltungsdienste und Materialien, die zur Herstellung von Produkten erforderlich sind.
 
-All companies are mutually accountable[^1#be04-1] for the environmental and social impacts caused by the production and delivery of the goods and services they depend upon. Only when a company has effectively avoided or addressed such negative impacts can it consider itself to be Future-Fit.
+Alle Unternehmen sind gegenseitig für die ökologischen und sozialen Auswirkungen verantwortlich[^1#be04-1] die durch die Produktion und Lieferung der Waren und Dienstleistungen entstehen, von denen sie abhängig sind. Nur wenn ein Unternehmen solche negativen Auswirkungen wirksam vermieden oder behoben hat, kann es sich als zukunftsfähig betrachten.
 
-This goal requires a company to implement policies and procedures that continuously seek to increase the future-fitness of its purchases, with a particular emphasis on anticipating, avoiding and addressing issue-specific supply chain hotspots.
+Dieses Ziel erfordert von einem Unternehmen die Implementierung von Richtlinien und Verfahren, die kontinuierlich darauf abzielen, die Zukunftsfähigkeit seiner Einkäufe zu verbessern, wobei ein besonderer Schwerpunkt auf der Antizipation, Vermeidung und Bewältigung problemspezifischer Hotspots in der Lieferkette liegt.
 
-To be Future-Fit, a company must: (a) have policies and processes in place that enable it and its employees to anticipate where negative supply chain impacts are likely to occur; (b) avoid them where possible; and (c) take measurable steps to address concerns that arise.
+Um zukunftsfähig zu sein, muss ein Unternehmen: (a) über Richtlinien und Prozesse verfügen, die es ihm und seinen Mitarbeitenden ermöglichen, negative Auswirkungen auf die Lieferkette zu erkennen; (b) diese nach Möglichkeit vermeiden; und (c) messbare Maßnahmen ergreifen, um auftretende Bedenken anzugehen.
 
-#### 1.2 Why this goal is needed {-#be04-why-goal-needed}
+#### 1.2 Warum dieses Ziel erforderlich ist {-#be04-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Procurement practices typically focus on identifying the most cost-effective and efficient means of acquiring goods and services, sometimes at the expense of environmental or safety concerns.** A Trucost study found that of the $2.15 trillion of environmental damage caused by the world's largest 3,000 companies annually, 49% came from impacts hidden within their supply chains. @Sal12
-- **The scarcity of some natural resources results in extraction practices that undermine future-fitness.** For example, a popular type of granite comes from only one district in India, where debt bondage, child labour and unsafe conditions for workers are prevalent issues. @Hod17
+- **Beschaffungspraktiken konzentrieren sich in der Regel auf die Ermittlung der kostengünstigsten und effizientesten Mittel zur Beschaffung von Waren und Dienstleistungen, manchmal auf Kosten von Umwelt- oder Sicherheitsbedenken.** Eine Trucost-Studie ergab, dass von den 2,15 Billionen US-Dollar an Umweltschäden, die die 3.000 größten Unternehmen der Welt jährlich verursachen, 49 % auf versteckte Auswirkungen in ihren Lieferketten zurückzuführen sind. @Sal12
+- **Die Knappheit einiger natürlicher Ressourcen führt zu Abbaupraktiken, die die Zukunftsfähigkeit gefährden.** Beispielsweise stammt eine beliebte Granitsorte nur aus einem Distrikt in Indien, wo Schuldenknechtschaft, Kinderarbeit und unsichere Arbeitsbedingungen weit verbreitet sind. @Hod17
 
-#### 1.3 How this goal contributes to the SDGs {-#be04-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be04-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may help to drive progress with respect to all SDGs by striving to make their procurement activities Future-Fit, and actively encouraging their suppliers to do the same. The most direct links with respect to this goal, however, will depend on the unique characteristics of each company's supply chains.
+Unternehmen können dazu beitragen, den Fortschritt in Bezug auf alle SDGs voranzutreiben, indem sie sich bemühen, ihre Beschaffungsaktivitäten zukunftsfähig zu gestalten, und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Verbindungen zu diesem Ziel hängen jedoch von den einzigartigen Merkmalen der Lieferketten jedes Unternehmens ab.
 
-#### 1.4 Related goals {-#be04-related-goals}
+#### 1.4 1.4 Verwandte Ziele {-#be04-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-While Future-Fit Break-Even Goals focus on what a company itself can control, their intent is to eliminate all negative externalities for which the company is wholly or mutually accountable, across its value web. Procurement is a critical part of this: while a company cannot fully control the activities of its suppliers, it can and must continuously work to improve the operational future-fitness of those suppliers, all the way down to the extraction and management of natural resource inputs.
+Während sich Future-Fit Break-Even-Ziele auf das konzentrieren, was ein Unternehmen selbst kontrollieren kann, besteht ihre Absicht darin, alle negativen externen Effekte, für die das Unternehmen vollständig oder gegenseitig verantwortlich ist, in seinem gesamten Wertschöpfungsnetz zu eliminieren. Die Beschaffung spielt dabei eine entscheidende Rolle: Ein Unternehmen kann zwar die Aktivitäten seiner Lieferanten nicht vollständig kontrollieren, aber es kann und muss kontinuierlich daran arbeiten, die operative Zukunftsfähigkeit dieser Lieferanten zu verbessern, bis hin zur Gewinnung und Bewirtschaftung natürlicher Ressourcen.
 
-- [**Natural resources are managed to respect the welfare of ecosystems, people and animals:**](#be03) The _Natural resources_ goal applies to companies that are directly involved in harvesting or extracting natural resources, either for sale or for use in their own operations. The _Procurement_ goal applies when companies aren't involved with these processes directly, instead relying on suppliers for the natural resources they use.
-- [**Water use is environmentally responsible and socially equitable:**](#be02) Company reliance on water for operational use is covered by the _Water use_ goal. The ways in which water suppliers manage social and environmental impacts, and the ways in which other suppliers manage their water needs, are covered by the _Procurement_ goal.
-- [**Energy is from renewable sources:**](#be01) Company reliance on energy for operational use is covered by the _Energy_ goal. The ways in which energy suppliers manage social and environmental impacts, and the ways in which other suppliers manage their energy needs are covered by the _Procurement_ goal.
+- [**Natürliche Ressourcen werden so bewirtschaftet, dass das Wohlergehen von Ökosystemen, Menschen und Tieren respektiert wird:**](#be03) Das Ziel _Natürliche Ressourcen_ gilt für Unternehmen, die direkt an der Ernte oder Gewinnung natürlicher Ressourcen beteiligt sind, entweder zum Verkauf oder zur Verwendung in ihren eigenen Betrieben. Das _Beschaffungsziel_ gilt, wenn Unternehmen nicht direkt an diesen Prozessen beteiligt sind und sich stattdessen für die von ihnen genutzten natürlichen Ressourcen auf Lieferanten verlassen.
+- [**Die Wassernutzung ist umweltverträglich und sozial gerecht:**](#be02) Die Abhängigkeit des Unternehmens von Wasser für den betrieblichen Gebrauch wird durch das _Wassernutzungsziel_ abgedeckt. Die Art und Weise, wie Wasserversorger mit sozialen und ökologischen Auswirkungen umgehen, und die Art und Weise, wie andere Lieferanten ihren Wasserbedarf verwalten, werden durch das _Beschaffungsziel_ abgedeckt.
+- [**Energie stammt aus erneuerbaren Quellen:**](#be01) Die Abhängigkeit des Unternehmens von Energie für den betrieblichen Gebrauch wird durch das _Energieziel_ abgedeckt. Die Art und Weise, wie Energielieferanten mit sozialen und ökologischen Auswirkungen umgehen, und die Art und Weise, wie andere Lieferanten ihren Energiebedarf verwalten, werden durch das _Beschaffungsziel_ abgedeckt.
 
-### 2. Action {-#be04-action}
+### 2. Aktion {-#be04-action}
 
-#### 2.1 Getting started {-#be04-getting-started}
+#### 2.1 Erste Schritte {-#be04-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-As explained in the [**Methodology Guide**](#mg-mutually-accountable), every company is _mutually accountable_ for any impact beyond its own four walls, to the extent that the impact is a consequence of the company's existence.
+Wie im [**Methodikleitfaden erläutert**](#mg-mutually-accountable), ist jedes Unternehmen für alle Auswirkungen außerhalb seiner eigenen vier Wände mitverantwortlich, sofern diese Auswirkungen eine Folge der Existenz des Unternehmens sind.
 
-In terms of procurement, this means not relying on goods and services which themselves hinder society's progress toward future-fitness. The exact requirements vary depending on the type of purchase, as follows:
+Bezogen auf die Beschaffung heißt das, nicht auf Güter und Dienstleistungen zu setzen, die ihrerseits den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit behindern. Die genauen Anforderungen variieren je nach Kaufart wie folgt:
 
-- **Outsourced core functions:** When a company outsources any activity that it would otherwise have to undertake itself (e.g. customer support, manufacturing, logistics) it effectively also outsources all negative impacts associated with that activity. Companies are thus mutually accountable for addressing the negative operational impacts of those suppliers to whom they outsource core functions. All negative impacts caused by suppliers of outsourced core functions must eventually be eliminated.
-- **Product inputs:** No company can produce physical goods – or offer services whose delivery involves the _consumption_ of such goods – without relying on product inputs: raw materials, manufactured parts, finished goods, etc. Mutual accountability demands that companies work to eliminate all cradle-to-gate impacts caused by the provision of their product inputs.[^2#be04-2] All negative impacts associated with the creation and delivery of the company's product inputs must eventually be eliminated.
-- **Ancillary purchases:** This encompasses three types of purchase. First, services that a company uses from time to time (e.g. consultancy, taxis, flights and hotels for business travel). Second, general goods consumed in the course of day-to-day operations (e.g. office supplies, cleaning products). Third, purchased or leased capital assets that support day-to-day activities (e.g. buildings, IT equipment, machinery, furniture). A company can generally source such inputs on a like-for-like basis from a range of suppliers, but its influence over any one of them is likely to be negligible. In this case, mutual accountability extends to selecting the best option available.
+- **Ausgelagerte Kernfunktionen:** Wenn ein Unternehmen Aktivitäten auslagert, die es ansonsten selbst durchführen müsste (z.B. Kundenbetreuung, Fertigung, Logistik), lagert es effektiv auch alle mit dieser Aktivität verbundenen negativen Auswirkungen aus. Unternehmen sind somit gegenseitig dafür verantwortlich, die negativen betrieblichen Auswirkungen derjenigen Lieferanten anzugehen, an die sie Kernfunktionen auslagern. Alle negativen Auswirkungen, die durch Anbieter ausgelagerter Kernfunktionen verursacht werden, müssen letztendlich beseitigt werden.
+- **Produktinputs:** Kein Unternehmen kann physische Güter herstellen – oder Dienstleistungen anbieten, deren Erbringung den Verbrauch solcher Güter beinhaltet –, ohne auf Produkeingaben zurückzugreifen: Rohstoffe, Fertigungsteile, Fertigwaren usw. Gegenseitige Rechenschaftspflicht verlangt, dass Unternehmen daran arbeiten, alle Auswirkungen zu beseitigen, die durch die Bereitstellung ihrer Produktinputs von der Gewinnung bis zum Verlassen des Werks (cradle-to-gate) entstehen.[^2#be04-2] Alle negativen Auswirkungen, die mit der Herstellung und Lieferung der Produktinputs des Unternehmens verbunden sind, müssen letztendlich beseitigt werden.
+- **Nebeneinkäufe:** Dies umfasst drei Arten von Beschaffungen. Erstens Dienstleistungen, die ein Unternehmen von Zeit zu Zeit in Anspruch nimmt (z. B. Beratung, Taxis, Flüge und Hotels für Geschäftsreisen). Zweitens allgemeine Güter, die im Rahmen des täglichen Betriebs verbraucht werden (z. B. Bürobedarf, Reinigungsmittel). Drittens gekaufte oder geleaste Kapitalgüter, die die täglichen Aktivitäten unterstützen (z. B. Gebäude, IT-Ausrüstung, Maschinen, Möbel). Ein Unternehmen kann solche Vorleistungen in der Regel auf einer vergleichbaren Basis von einer Reihe von Lieferanten beziehen, aber sein Einfluss auf einen einzelnen Lieferanten ist wahrscheinlich vernachlässigbar. In diesem Fall erstreckt sich die gegenseitige Rechenschaftspflicht auf die Auswahl der besten verfügbaren Option.
 
 <div class="callout-note">
-**How to categorize energy and water inputs**
+**So kategorisieren Sie Energie- und Wassereinträge**
 
-For the purpose of this goal, energy and water inputs should be treated as ancillary purchases, unless there is good reason to think of them as product inputs. If this is the case, a company can choose to classify them as such.
+Für die Zwecke dieses Ziels sollten Energie- und Wasserinputs als Nebeneinkäufe behandelt werden, es sei denn, es gibt gute Gründe, sie als Produkteingaben zu betrachten. Ist dies der Fall, kann sich ein Unternehmen dafür entscheiden, sie als solche einzustufen.
 </div>
 
-Traceability of business inputs – and their resulting impacts – can be a significant challenge. Critical information might be buried upstream in the supply chain, or it may be that suppliers are simply reluctant to offer these details. As a result, improving supply chain future-fitness demands significant and ongoing effort from the company, and cooperation from its vendors.
+Die Rückverfolgbarkeit geschäftlicher Inputs – und ihrer daraus resultierenden Auswirkungen – kann eine große Herausforderung darstellen. Kritische Informationen können vorgelagert in der Lieferkette vergraben sein oder es kann sein, dass Lieferanten einfach nur zögern, diese Details preiszugeben. Daher erfordert die Verbesserung der Zukunftsfähigkeit der Lieferkette erhebliche und kontinuierliche Anstrengungen des Unternehmens sowie die Zusammenarbeit seiner Lieferanten.
 
-A company can begin this process by identifying the goods and services it relies on, examining the issues most likely to arise, and determining whether any of those negative impacts are indeed occurring. Once that is understood, the company can begin to improve its performance by working with suppliers to avoid or address those issues.
+Ein Unternehmen kann diesen Prozess beginnen, indem es die Waren und Dienstleistungen identifiziert, auf die es angewiesen ist, die am wahrscheinlichsten auftretenden Probleme untersucht und feststellt, ob diese negativen Auswirkungen tatsächlich auftreten. Sobald dies verstanden ist, kann das Unternehmen damit beginnen, seine Leistung zu verbessern, indem es mit Lieferanten zusammenarbeitet, um diese Probleme zu vermeiden oder anzugehen.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### If the company makes goods – or offers services which require physical goods to be consumed – what product inputs go into those goods? {-}
+###### Wenn das Unternehmen Waren herstellt - oder Dienstleistungen anbietet, die den Verbrauch physischer Güter erfordern - welche Produkteingaben gehen in diese Waren ein? {-}
 
-- What kinds of product inputs are used to create and deliver the company's products? Do these inputs themselves consist of a complex blend of ingredients/materials?
-- Who supplies these inputs, and where do the suppliers get _their_ inputs from? Do suppliers sub-contract parts of their own manufacturing to third parties?
-- Where are the operations of the company's direct suppliers located? Where do they source their materials from? Are these regions known for any environmental or labour issues?
-- What raw materials go into making the product inputs? Does the company know where and how these resources are harvested, fished, hunted, reared or mined?
-- How are the company's products made? Does final production take place in-house, or is it outsourced to third parties? If it's outsourced, what regulations or standards are those vendors subject to?
-- Does the company know what social and/or environmental impacts might occur at the various stages of its product inputs' lifecycles? How do these change during raw material production, interim processing, or transport?
-- What are the steps required to become a supplier to the company? Do prospective suppliers need to fulfil any criteria regarding their social or environmental performance? Do vendors sign a code of conduct, provide proof of minimum performance, or accept occasional audits?
+- Welche Arten von Produkteingaben werden für die Herstellung und Lieferung der Produkte des Unternehmens verwendet? Bestehen diese Vorleistungen selbst aus einer komplexen Mischung von Zutaten/Materialien?
+- Wer liefert diese Inputs und woher beziehen die Lieferanten ihre Inputs? Vergeben Lieferanten Teile ihrer eigenen Fertigung an Dritte?
+- Wo sind die Betriebe der direkten Lieferanten des Unternehmens angesiedelt? Woher beziehen sie ihre Materialien? Sind diese Regionen für Umwelt- oder Arbeitsprobleme bekannt?
+- Aus welchen Rohstoffen werden die Produktinputs hergestellt? Weiß das Unternehmen, wo und wie diese Ressourcen geerntet, gefischt, gejagt, aufgezogen oder abgebaut werden?
+- Wie werden die Produkte des Unternehmens hergestellt? Findet die Endproduktion im eigenen Haus statt oder wird sie an Dritte ausgelagert? Welchen Vorschriften oder Standards unterliegen diese Anbieter im Falle einer Auslagerung?
+- Weiß das Unternehmen, welche sozialen und/oder ökologischen Auswirkungen in den verschiedenen Phasen des Lebenszyklus seiner Produkteingaben auftreten könnten? Wie verändern sich diese bei der Rohstoffgewinnung, Zwischenverarbeitung oder beim Transport?
+- Welche Schritte sind erforderlich, um Lieferant des Unternehmens zu werden? Müssen potenzielle Lieferanten bestimmte Kriterien hinsichtlich ihrer sozialen oder ökologischen Leistung erfüllen? Unterzeichnen Lieferanten einen Verhaltenskodex, legen sie Nachweise über Mindestleistungen vor oder akzeptieren sie gelegentliche Audits?
 
-###### Does the company outsource any core functions? {-}
+###### Verlagert das Unternehmen Kernfunktionen? {-}
 
-- Does the company outsource any operational activities that are critical to its business, and that it would otherwise have to undertake itself (e.g. manufacturing, customer call centres)? Who provides those functions, and where and how are they delivered?
-- What does the company gain from having these functions performed by external parties? What are the trade-offs in giving up control over these functions?
-- Does the company know what social and/or environmental impacts might occur as a result of the supplier delivering the function?
+- Verlagert das Unternehmen betriebliche Tätigkeiten, die für sein Geschäft von entscheidender Bedeutung sind und die es andernfalls selbst durchführen müsste (z.B. Fertigung, Kunden-Callcenter)? Wer stellt diese Funktionen bereit und wo und wie werden sie bereitgestellt?
+- Welchen Gewinn hat das Unternehmen, wenn diese Funktionen von externen Parteien übernommen werden? Welche Kompromisse gibt es, wenn man die Kontrolle über diese Funktionen aufgibt?
+- Weiß das Unternehmen, welche sozialen und/oder ökologischen Auswirkungen durch die Erbringung der Funktion durch den Lieferanten entstehen könnten?
 
-###### Which ancillary goods and services does the company purchase to support its operations? {-}
+###### Welche ergänzenden Waren und Dienstleistungen kauft das Unternehmen zur Unterstützung seiner Geschäftstätigkeit? {-}
 
-- Is the company aware of any social and/or environmental risks associated with the production and use of these goods and services?
-- Do suppliers of such goods and services need to fulfil any criteria regarding their social or environmental performance?
-- Does the company have policies in place to ensure that it uses certified sources for goods where possible (e.g. FSC-certified wood and paper)?
+- Ist sich das Unternehmen der sozialen und/oder ökologischen Risiken bewusst, die mit der Produktion und Nutzung dieser Waren und Dienstleistungen verbunden sind?
+- Müssen Anbieter solcher Waren und Dienstleistungen Kriterien hinsichtlich ihrer sozialen oder ökologischen Leistung erfüllen?
+- Verfügt das Unternehmen über Richtlinien, um sicherzustellen, dass es nach Möglichkeit zertifizierte Quellen für Waren verwendet (z.B. FSC-zertifiziertes Holz und Papier)?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### What are the best opportunities for making progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- What kinds of purchases does the company make the most often? What does it purchase in the largest quantities? What categories make up the biggest portions of its overall spend? Small changes to such purchases could significantly affect both the impacts caused, as well as the company's progress toward future-fitness.
-- How often does the company review or renew procurement contracts? Are any up for reappraisal in the near future? Contract renewals offer opportunities to incorporate more stringent social and/or environmental criteria into sourcing decisions.
-- Which goods and services purchased by the company are most likely to have negative social and/or environmental impacts? Are these impacts due to a lack of regulation in the region from which they are sourced, industry-specific challenges, or a lack of supply chain transparency and/or traceability? Which of these pose the biggest reputational risks to the company? Could any of these impacts cause other risks, such as to the continuity of supply of critical product inputs?
-- Have research institutions, industry bodies, government authorities or others raised concerns about specific social and/or environmental problems relating to the production or use of the types of goods that the company relies upon?
+- Welche Einkäufe tätigt das Unternehmen am häufigsten? Was kauft es in den größten Mengen? Welche Kategorien machen den größten Teil der Gesamtausgaben aus? Kleine Änderungen bei solchen Anschaffungen könnten sowohl die verursachten Auswirkungen als auch die Fortschritte des Unternehmens in Richtung Zukunftsfähigkeit erheblich beeinflussen.
+- Wie oft überprüft oder erneuert das Unternehmen Beschaffungsverträge? Steht in naher Zukunft eine Neubewertung an? Vertragsverlängerungen bieten Möglichkeiten, strengere soziale und/oder ökologische Kriterien in Beschaffungsentscheidungen einzubeziehen.
+- Welche vom Unternehmen gekauften Waren und Dienstleistungen haben am wahrscheinlichsten negative soziale und/oder ökologische Auswirkungen? Sind diese Auswirkungen auf mangelnde Regulierung in der Region, aus der sie bezogen werden, auf branchenspezifische Herausforderungen oder auf mangelnde Transparenz und/oder Rückverfolgbarkeit der Lieferkette zurückzuführen? Welche davon stellen die größten Reputationsrisiken für das Unternehmen dar? Könnten einige dieser Auswirkungen andere Risiken verursachen, beispielsweise für die Kontinuität der Versorgung mit kritischen Produkteingaben?
+- Haben Forschungseinrichtungen, Branchenverbände, Regierungsbehörden oder andere Bedenken hinsichtlich spezifischer sozialer und/oder ökologischer Probleme im Zusammenhang mit der Produktion oder Verwendung der Arten von Gütern geäußert, auf die das Unternehmen angewiesen ist?
 
-###### Does the company have processes in place to anticipate, avoid and address supply chain hotspots? {-}
+###### Verfügt das Unternehmen über Prozesse, um kritische Punkte in der Lieferkette zu antizipieren, zu vermeiden und zu beheben? {-}
 
-- If so, are these likely to be sufficient to eliminate or significantly reduce any negative social or environmental impacts that result from the company's purchases over time?
-- If not, how might processes like these be embedded? Whose authorization would be needed? Which individuals or teams would need to be involved to design and implement these processes, and what incentives would be required to ensure their adoption?
+- Wenn ja, reichen diese Maßnahmen aus, um die negativen sozialen oder ökologischen Auswirkungen, die sich aus den Einkäufen des Unternehmens im Laufe der Zeit ergeben, zu beseitigen oder erheblich zu verringern?
+- Wenn nicht, wie könnten solche Prozesse eingebettet werden? Wessen Genehmigung wäre dafür erforderlich? Welche Personen oder Teams müssten an der Konzeption und Umsetzung dieser Prozesse beteiligt sein, und welche Anreize wären erforderlich, um ihre Akzeptanz sicherzustellen?
 
-###### What are the best ways to make immediate progress? {-}
+###### Was sind die besten Möglichkeiten, um sofort Fortschritte zu erzielen? {-}
 
-- Are there existing selection criteria or questionnaires for new suppliers that the company could integrate social or environmental considerations into? Could those considerations be integrated into bid requests or proposals for contracts that are put out to tender?
-- Are there clear opportunities to switch certain purchases from uncertified to certified sources?
+- Gibt es bereits Auswahlkriterien oder Fragebögen für neue Lieferanten, in die das Unternehmen soziale oder ökologische Aspekte integrieren könnte? Könnten diese Aspekte in Ausschreibungen oder Angeboten für Verträge, die ausgeschrieben werden, integriert werden?
+- Gibt es klare Möglichkeiten, bestimmte Einkäufe von nicht zertifizierten auf zertifizierte Quellen umzustellen?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^3#be04-3] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+- Kann das Unternehmen über das zur Erreichung dieses Ziels hinaus Erforderliche hinaus irgendetwas tun, um sicherzustellen, dass gesellschaftliche Normen, _globale Governance und Wirtschaftswachstum das Streben nach Zukunftsfähigkeit vorantreiben?_[^3#be04-3] Eine solche Aktivität kann den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie in der Leitfaden zur [**positiven Verfolgung**](#pp-social-norms).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be04-pursuing}
+#### 2.2 Streben nach Zukunftsfähigkeit {-#be04-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-For a company's procurement processes to be Future-Fit, all purchases of product inputs, outsourced core functions, and ancillary purchases must be assessed to determine possible negative impacts. Furthermore, policies must be implemented to avoid those impacts where possible, and steps must be taken to address any that cannot be avoided.
+Damit die Beschaffungsprozesse eines Unternehmens zukunftsfähig sind, müssen alle Einkäufe von Produkeingaben, ausgelagerten Kernfunktionen und Nebenbeschaffungen bewertet werden, um mögliche negative Auswirkungen zu ermitteln. Darüber hinaus müssen Richtlinien umgesetzt werden, um diese Auswirkungen nach Möglichkeit zu vermeiden, und es müssen Maßnahmen ergriffen werden, um unvermeidbare Auswirkungen zu begegnen.
 
-###### Guidance on performing hotspot assessments {-#be04-hotspot-assessment}
+###### Anleitung zur Durchführung von Hotspot-Bewertungen {-#be04-hotspot-assessment}
 
-To anticipate the negative impacts that its procured goods and services could be contributing to, a company must develop a thorough understanding of the size, nature and complexity of its supply chains. All product inputs, outsourced core functions and ancillary purchases should be subject to hotspot assessments, to identify any activity that may undermine progress toward the 8 Properties of a Future-Fit Society, namely:[^4#be04-4]
+Um die negativen Auswirkungen, zu denen die von ihm beschafften Waren und Dienstleistungen beitragen könnten, vorherzusehen, muss ein Unternehmen ein umfassendes Verständnis für die Größe, Art und Komplexität seiner Lieferketten entwickeln. Alle Produkteingaben, ausgelagerten Kernfunktionen und Nebenbeschaffungen sollten einer Hotspot-Bewertung unterzogen werden, um alle Aktivitäten zu identifizieren, die den Fortschritt in Richtung der 8 Eigenschaften einer zukunftsfähigen Gesellschaft behindern könnten, nämlich:[^4#be04-4]
 
-- **Energy** is renewable and available to all;
-- **Water** is responsibly sourced and available to all;
-- **Natural resources** are managed to safeguard communities, animals and ecosystems;
-- The environment is free from **pollution;**
-- **Waste** does not exist;
-- Our **physical presence** protects the health of ecosystems and communities;
-- **People** have the capacity and opportunity to lead fulfilling lives; and
-- Social norms, global governance and economic growth **drive** the pursuit of future‑fitness.
+- **Energie** ist erneuerbar und für alle verfügbar;
+- **Wasser** wird verantwortungsbewusst gewonnen und ist für alle verfügbar;
+- **Natürliche Ressourcen** werden so verwaltet, dass Gemeinschaften, Tiere und Ökosysteme geschützt werden;
+- Die Umwelt ist frei von **Verschmutzung;**
+- Es gibt keinen **Abfall;**
+- Unsere **physische Präsenz** schützt die Gesundheit von Ökosystemen und Gemeinschaften;
+- **Menschen** haben die Fähigkeit und die Möglichkeit, ein erfülltes Leben zu führen; Und
+- Soziale Normen, globale Governance und Wirtschaftswachstum **treiben** das Streben nach Zukunftsfähigkeit voran.
 
-[Figure 1](#be04-figure-1) offers a list of common issues to consider in each area. Particular scrutiny should be given to types of impact whose likelihood is higher depending on geographical, industry-specific, and resource-specific risks. For example:
+[Abbildung 1](#be04-figure-1) bietet eine Liste häufiger Probleme, die in jedem Bereich berücksichtigt werden müssen. Besondere Aufmerksamkeit sollte den Arten von Auswirkungen gewidmet werden, deren Wahrscheinlichkeit je nach geografischen, branchenspezifischen und ressourcenspezifischen Risiken höher ist. Zum Beispiel:
 
-- Is a highly water-intensive agricultural input sourced from a water-stressed region?
-- Is an outsourced 24-hour customer services function being run in a country with limited regulatory protection for employee rights?
-- Are resources like office paper and palm oil, which may contribute to deforestation, being purchased from uncertified sources?
+- Stammt ein sehr wasserintensiver landwirtschaftlicher Betriebsstoff aus einer wasserarmen Region?
+- Wird ein ausgelagerter 24-Stunden-Kundendienst in einem Land betrieben, in dem der gesetzliche Schutz der Arbeitnehmerrechte eingeschränkt ist?
+- Werden Ressourcen wie Büropapier und Palmöl, die zur Abholzung der Wälder beitragen können, aus nicht zertifizierten Quellen bezogen?
 
 <div class="ff-figure" id="be04-figure-1">
-Figure 1: A list of common hotspot issues by area of impact.
+Abbildung 1: Eine Liste häufiger Hotspot-Probleme nach Wirkungsbereich.
 </div>
 
 <div class="table-20 table-blue">
-| Issue area | Common hotspots |
+| Issue area | Typische Hotspots (Brennpunkte) |
 |:---:|:---|
-| **Energy** | Energy-intensive processes which are likely to:<br/>- Rely on non-renewable energy<br/>- Prevent others from meeting energy needs |
-| **Water** | Water-intensive processes which are likely to:<br/>- Rely on water from water-stressed sources<br/>- Prevent others from meeting water needs |
-| **Natural resources** | Reliance on natural resources, whose sourcing contributes to the following:<br/>- Loss of biodiversity<br/>- Depletion of renewable resources<br/>- Armed conflicts<br/>- Poor treatment of animals<br/>- Physical degradation of the environment<br/>- Diversion of agricultural crops to energy feedstock |
-| **Pollution: GHGs** | GHG-intensive processes |
-| **Pollution: Other harmful emissions** | Harmful emissions into air, land and water, including:<br/>- Gaseous toxins and air pollutants (e.g. VOCs, NOx)<br/>- Ozone depleting substances<br/>- Substances that build up in nature<br/>- Scarce metals (e.g. Cadmium and lead)<br/>- Untreated or insufficiently treated wastewater<br/>- Harmful chemicals (e.g. fertilizer run-off, harmful pesticides) |
-| **Waste** | Processes which result in large amounts of waste generation |
-| **Physical presence** | Harmful uses of land, including:<br/>- Encroachment into areas of importance to local communities<br/>- Conversion of pristine ecosystems (e.g. conversion of primary forests and wetlands)<br/>- Lack of respect for community rights (e.g. land-grabbing practices) |
-| **People** | Poor labor practices, including:<br/>- Child Labor<br/>- Excessive overtime<br/>- Forced Labor<br/>- Hazardous working conditions<br/>- Irresponsible use of agency labor<br/>- Underpayment or non-payment of wages and benefits<br/>- Undisclosed subcontracting<br/>- Discriminatory practices<br/>- Lack of representation (e.g. the right to bargain collectively) |
-| **Drivers** | Operational activities which are driven by unethical business conduct (e.g. bribery practices) |
+| **Energie** | Energieintensive Prozesse, die wahrscheinlich:<br/>- auf nicht erneuerbare Energien angewiesen sind<br/>- andere daran hindern, ihren Energiebedarf zu decken |
+| **Wasser** | Wasserintensive Prozesse, die wahrscheinlich:<br/>- auf Wasser aus wasserintensive Quellen angewiesen sind<br/>- andere daran hindern, ihren Wasserbedarf zu decken |
+| **Natürliche Ressourcen** | Abhängigkeit von natürlichen Ressourcen, deren Gewinnung zu Folgendem beiträgt:<br/>- Verlust der biologischen Vielfalt<br/>- Erschöpfung erneuerbarer Ressourcen<br/>- Bewaffnete Konflikte<br/>- Misshandlung von Tieren<br/>- Physische Schädigung der Umwelt<br/>- Umwidmung landwirtschaftlicher Nutzflächen für die Energiegewinnung |
+| **Umweltverschmutzung: Treibhausgase** | Treibhausgasintensive Prozesse |
+| **Umweltverschmutzung: Sonstige schädliche Emissionen** | Schädliche Emissionen in Luft, Boden und Wasser, darunter:<br/>- Gasförmige Giftstoffe und Luftschadstoffe (z.B. VOC, NOx)<br/>- Ozonabbauende Stoffe<br/>- Stoffe, die sich in der Natur anreichern<br/>- Seltene Metalle (z.B. Cadmium und Blei)<br/>- Unbehandeltes oder unzureichend behandeltes Abwasser<br/>- Schädliche Chemikalien (z. B. Düngemittelabflüsse, schädliche Pestizide) |
+| **Abfall** | Prozesse, die zu großen Abfallmengen führen |
+| **Physische Präsenz** | Schädliche Landnutzung, darunter:<br/>- Eingriffe in Gebiete, die für lokale Gemeinschaften von Bedeutung sind<br/>- Umwandlung unberührter Ökosysteme (z. B. Umwandlung von Primärwäldern und Feuchtgebieten)<br/>- Missachtung der Rechte von Gemeinschaften (z. B. Landraub) |
+| **Mernschen** | Schlechte Arbeitspraktiken, darunter:<br/>- Kinderarbeit<br/>- Übermäßige Überstunden<br/>-  Zwangsarbeit<br/>- Gefährliche Arbeitsbedingungen<br/>- Unverantwortlicher Einsatz von Leiharbeitern<br/>- Unterbezahlung oder Nichtzahlung von Löhnen und Sozialleistungen<br/>- Nicht offengelegte Untervergabe von Aufträgen<br/>- Diskriminierende Praktiken<br/>- Mangelnde Vertretung (z. B. das Recht auf Tarifverhandlungen) |
+| **Treiber** | Betriebliche Aktivitäten, die durch unethisches Geschäftsverhalten motiviert sind (z. B. Bestechungspraktiken) |
 </div>
 
-####### Assessments for outsourced core functions and ancillary purchases: {-}
+####### Bewertungen für ausgelagerte Kernfunktionen und Nebenkäufe: {-}
 
-For any outsourced core function or ancillary purchase, the company should seek to:
+Bei jeder ausgelagerten Kernfunktion oder jedem Nebenkauf sollte das Unternehmen Folgendes anstreben:
 
-- Identify the activities contributing to its delivery;
-- Determine where and how those activities take place; and
-- Consider which negative impacts might be reasonably expected to occur as a result of those activities.
+- Identifizieren Sie die Aktivitäten, die zu seiner Umsetzung beitragen;
+- Bestimmen Sie, wo und wie diese Aktivitäten stattfinden; Und
+- Überlegen Sie, welche negativen Auswirkungen aufgrund dieser Aktivitäten vernünftigerweise zu erwarten sind.
 
-####### Assessments for product inputs: {-}
+####### Bewertungen für Produkteingaben: {-}
 
-For each product input, the company should seek to:
+Für jeden Produkteingabe sollte das Unternehmen Folgendes anstreben:
 
-- Identify the raw materials required to create the product input;
-- Determine the key life-cycle stages the product input goes through, and the activities involved (i.e. where and how its raw materials are likely to be extracted, processed, combined, transported, etc.); and
-- Consider which negative impacts might be reasonably expected to occur across the product input's lifecycle as a result of those activities.
-
+- die für die Herstellung des Produkteingaben erforderlichen Rohstoffe zu identifizieren;
+- die wichtigsten Lebenszyklusphasen des Produktinputs und die damit verbundenen Aktivitäten zu bestimmen (d. h. wo und wie die Rohstoffe wahrscheinlich gewonnen, verarbeitet, kombiniert, transportiert usw. werden); und
+- Überlegen Sie, welche negativen Auswirkungen aufgrund dieser Aktivitäten im Laufe des Produktlebenszyklus zu erwarten sind.
 <div class="callout-note">
-**Resources for hotspot assessments**
+**Ressourcen für Hotspot-Bewertungen**
 
-Companies should use information available from government and industry bodies, as well as their own desk research. For product inputs, Life-Cycle Assessment (LCA) databases can prove useful. For social impacts, the [Social Hotspot Database](http://socialhotspot.org/) is a good starting point, as is [OpenLCA](http://www.openlca.org/) for environmental impacts.
+Unternehmen sollten Informationen von Regierungs- und Branchenverbänden sowie ihre eigenen Sekundärrecherchen nutzen. Für Produkteingaben können Lebenszyklusanalysen (LCA) nützlich sein. Für soziale Auswirkungen ist die [Social Hotspot Database](http://socialhotspot.org/) ein guter Ausgangspunkt, ebenso wie [OpenLCA](http://www.openlca.org/) für Umweltauswirkungen.
 </div>
 
-###### Guidance on how to categorize hotspots {-}
+###### Anleitung zur Kategorisierung von Hotspots {-}
 
-To prioritize action with respect to each hotspot, a company should look at both the _likelihood_ of a negative impact occurring, and the _severity_ of the consequences if it does occur. Any impact of medium to high severity should be considered a hotspot unless there is good reason to believe that the impact will not occur (see [Figure 2](#be04-figure-2)).
+Um Maßnahmen in Bezug auf jeden Hotspot zu priorisieren, sollte ein Unternehmen sowohl die Wahrscheinlichkeit des Auftretens einer negativen Auswirkung als auch die Schwere der Folgen prüfen, wenn sie tatsächlich eintreten. Jede Auswirkung mittlerer bis hoher Schwere sollte als Hotspot betrachtet werden, es sei denn, es gibt guten Grund zu der Annahme, dass die Auswirkung nicht eintreten wird (siehe [Abbildung 2](#be04-figure-2)).
 
-Companies should also consider which impacts pose the greatest risk to their business, and which ones are easiest to address.
+Unternehmen sollten auch überlegen, welche Auswirkungen das größte Risiko für ihr Unternehmen darstellen und welche am einfachsten zu begegnen sind.
 
 <div class="ff-figure" id="be04-figure-2">
-Figure 2: Guidance on identifying hotspot intensity, by considering both likelihood and severity. Issues toward the top right of the matrix deserve the most attention.[^5#be04-5]
+Abbildung 2: Anleitung zur Ermittlung der Hotspot-Intensität unter Berücksichtigung von Wahrscheinlichkeit und Schweregrad. Die Probleme oben rechts in der Matrix verdienen die größte Aufmerksamkeit.[^5#be04-5]
 
 ![](assets/figures/hotspot.svg){width=100%}
 </div>
 
-###### Guidance on how to address hotspots {-}
+###### Anleitung zur Behebung von Hotspots {-}
 
-A company must ensure it is effective in taking meaningful action to avoid and address hotspots. This requires the adoption of a _No use, No excuse, Commitment to reduce_ approach, as follows:
+Ein Unternehmen muss sicherstellen, dass es wirksame Maßnahmen ergreift, um Hotspots zu vermeiden und zu bekämpfen. Dies erfordert die Einführung eines Ansatzes nach dem Motto _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_ wie folgt:
 
-####### No use… {-}
+####### Kein Nutzen... {-}
 
-Companies must work to screen, avoid, or (where already in use) eliminate any purchases of goods or services that either directly, or due to unavoidable consequences, lead to outcomes that undermine society's progress toward future-fitness. Examples include:
+Unternehmen müssen daran arbeiten, den Kauf von Waren oder Dienstleistungen, die entweder direkt oder aufgrund unvermeidbarer Folgen zu Ergebnissen führen, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit behindern, zu überprüfen, zu vermeiden oder (sofern bereits verwendet) zu eliminieren. Beispiele hierfür sind:
 
-- Goods which directly cause or unavoidably result in physical degradation of the environment (e.g. bottom-trawling fishing nets)
-- Goods which directly cause or unavoidably result in pollution of the environment (e.g. plastic microbeads as an ingredient in shampoo).
-- Goods which directly cause or unavoidably result in harm to people (e.g. landmines, tobacco used for cigarettes).
-- Substances considered harmful according to one of the following sources:
-  - The freely available [SIN List](http://sinlist.chemsec.org/), created by The International Chemical Secretariat, which identifies a range of substances known to be of very high concern to human or environmental health.
-  - Credible industry bodies relevant to the substance in question, who recommend that it is phased out.
-- Minerals or other natural resources whose procurement (without sufficient oversight and traceability) could help to finance conflicts (e.g. metals obtained from the Democratic Republic of Congo).
+- Waren, die direkt oder unvermeidbar zu einer physischen Schädigung der Umwelt führen (z. B. Grundschleppnetze)
+- Waren, die direkt oder unvermeidbar zu einer Verschmutzung der Umwelt führen (z. B. Kunststoff-Mikroperlen als Inhaltsstoff in Shampoos).
+- Waren, die direkt oder unvermeidbar zu einer Schädigung von Menschen führen (z. B. Landminen, Tabak für Zigaretten).
+- Stoffe, die laut einer der folgenden Quellen als schädlich gelten:
+  - Die frei zugängliche [SIN List](http://sinlist.chemsec.org/), die vom International Chemical Secretariat erstellt wurde und eine Reihe von Stoffen identifiziert, die bekanntermaßen ein sehr hohes Risiko für die Gesundheit von Mensch und Umwelt darstellen.
+  - Glaubwürdige Branchenverbände, die für den betreffenden Stoff relevant sind und dessen Ausstieg empfehlen.
+- Mineralien oder andere natürliche Ressourcen, deren Beschaffung (ohne ausreichende Aufsicht und Rückverfolgbarkeit) zur Finanzierung von Konflikten beitragen könnte (z. B. Metalle aus der Demokratischen Republik Kongo).
 
-####### No excuse… {-}
+####### Keine Ausreden... {-}
 
-Companies must not rely on any purchase if more benign and functionally equivalent alternatives are available, or if alternatives are available that represent a step towards eliminating future impacts. This includes:
+Unternehmen dürfen sich nicht auf einen Kauf verlassen, wenn günstigere und funktional gleichwertige Alternativen verfügbar sind oder wenn Alternativen verfügbar sind, die einen Schritt zur Beseitigung künftiger Auswirkungen darstellen. Dazu gehören:
 
-- Purchasing virgin or non-certified commodities when recycled or certified options are available (e.g. recycled or FSC-certified timber or paper, RSPO-certified palm oil). For more information, see the note on [certifications as proxies](#be04-Certifications-as-proxies).
-- Placing large orders, procuring major assets, or signing long-term service contracts without factoring in the social and environmental consequences of choosing a specific supplier.
+- Der Kauf von neuen oder nicht zertifizierten Rohstoffen, wenn recycelte oder zertifizierte Optionen verfügbar sind (z. B. recyceltes oder FSC-zertifiziertes Holz oder Papier, RSPO-zertifiziertes Palmöl). Weitere Informationen finden Sie im Hinweis zu Zertifizierungen als stellvertretende [Indikatoren (Proxies)](#be04-Certifications-as-proxies).
+- Große Aufträge erteilen, wichtige Vermögenswerte beschaffen oder langfristige Dienstleistungsverträge abschließen, ohne die sozialen und ökologischen Folgen der Wahl eines bestimmten Lieferanten zu berücksichtigen.
 
-####### Commitment to reduce… {-}
+####### Verpflichtung zur Reduzierung... {-}
 
-When a hotspot is identified and direct substitution for a better alternative is not available, the company must commit to reducing impacts through other means. This may include:
+Wenn ein Hotspot identifiziert wird und kein direkter Ersatz durch eine bessere Alternative verfügbar ist, muss sich das Unternehmen dazu verpflichten, die Auswirkungen durch andere Mittel zu reduzieren. Dazu können folgende Maßnahmen gehören:
 
-- Only purchasing from suppliers who have a clear commitment to reduce the identified impact, or whose impact is lower than all other potential suppliers.
-- Adjusting operations to reduce dependence on the good or service. For example:
-  - Updating logistics to favour lower-emission means of transportation, in an effort to reduce GHG emissions.
-  - Adjusting production techniques to reduce reliance on harmful substances.
-- Modifying products and/or business models to reduce dependence on the good or service. For example:
-  - Switching from an outright sales model to a product-as-service model, increasing the company's incentive to create more durable, repairable goods, thereby reducing the amount of raw materials needed in the long term.
+- Nur von Lieferanten zu kaufen, die sich klar dazu verpflichten, die identifizierten Auswirkungen zu reduzieren, oder deren Auswirkungen geringer sind als die aller anderen potenziellen Lieferanten.
+- Anpassung der Betriebsabläufe, um die Abhängigkeit von der Ware oder Dienstleistung zu verringern. Zum Beispiel:
+  - Modernisierung der Logistik zugunsten emissionsärmerer Transportmittel, um die Treibhausgasemissionen zu reduzieren.
+  - Anpassung der Produktionstechniken, um die Abhängigkeit von Schadstoffen zu verringern.
+- Modifizieren von Produkten und/oder Geschäftsmodellen, um die Abhängigkeit von der Ware oder Dienstleistung zu verringern. Zum Beispiel:
+  - Umstellung von einem reinen Verkaufsmodell auf ein Produkt-als-Dienstleistungs-Modell, wodurch der Anreiz für das Unternehmen erhöht wird, langlebigere, reparierbare Waren herzustellen und so langfristig den Rohstoffbedarf zu senken.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-The company must ensure that all hotspots are identified and managed consistently and in a way that is aligned with the _No use, No excuse, Commitment to reduce_ approach described above.
+Das Unternehmen muss sicherstellen, dass alle Hotspots identifiziert und einheitlich verwaltet werden, und zwar in Übereinstimmung mit dem oben beschriebenen Ansatz _Keine Nutzung, keine Ausreden, Verpflichtung zur Reduzierung_.
 
-In addition, each product input, outsourced core function and ancillary purchase must be subject to screening processes and efforts to improve fitness outcomes, as described below.
+Darüber hinaus muss jede Produkteingabe, jede ausgelagerte Kernfunktion und jeder Nebenkauf Überprüfungsprozessen und Bemühungen zur Verbesserung der Fitnessergebnisse unterliegen, wie unten beschrieben.
 
-- The company must perform a [hotspot assessment](#be04-hotspot-assessment) applicable to the purchase or type of purchase,[^6#be04-6] which achieves the following:
-  - The identification of hotspots for each issue area (see [Figure 1](#be04-figure-1)).
-  - An assessment of hotspot intensity (see [Figure 2](#be04-figure-2)).
-  - An informed prioritization of which impacts to address first.
-- When a hotspot has been identified, it must be addressed through actions in line with the _No use, No excuse, Commitment to reduce_ approach.
+- Das Unternehmen muss a [Hotspot-Bewertung](#be04-hotspot-assessment) anwendbar auf den Kauf oder die Art des Kaufs,[^6#be04-6] wodurch Folgendes erreicht wird:
+  - Die Identifizierung von Hotspots für jeden Problembereich (siehe [Abbildung 1](#be04-figure-1)).
+  - Eine Bewertung der Hotspot-Intensität (siehe [Abbildung 2](#be04-figure-2)).
+  - Eine fundierte Priorisierung, welche Auswirkungen zuerst angegangen werden sollten.
+- Wenn ein Hotspot identifiziert wurde, muss er durch Maßnahmen im Einklang mit dem Ansatz _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_ angegangen werden.
 
 <div class="callout-note">
-**How often should hotspot assessments be performed?**
+**Wie oft sollten Hotspot-Bewertungen durchgeführt werden?**
 
-Given sufficient time, a company should succeed in eliminating the most intense hotspots from its supply chains, but this is no cause for complacency. Supply chains and the businesses within them are dynamic, so new problems might appear periodically, and less‑problematic impacts must still be addressed. Because of this, hotspot assessments are an iterative and ongoing process.
+Bei entsprechender Zeit sollte es einem Unternehmen gelingen, die gravierendsten Hotspots aus seinen Lieferketten zu beseitigen, doch dies ist kein Grund zur Selbstzufriedenheit. Lieferketten und die darin tätigen Unternehmen sind dynamisch, sodass regelmäßig neue Probleme auftreten können und auch weniger problematische Auswirkungen weiterhin angegangen werden müssen. Aus diesem Grund sind Hotspot-Bewertungen ein iterativer und fortlaufender Prozess.
 
-Practically, hotspot assessments should be reviewed and updated on an appropriate periodic basis, or if the provenance of specific purchased goods and services changes substantially. For example, a company purchasing an agricultural input from a range of suppliers all operating in a single, water-abundant region need not perform frequent water hotspot assessments for that input. However, if the company were to start sourcing that same input from a second region, a new water hotspot assessment would be required.
+In der Praxis sollten Hotspot-Bewertungen regelmäßig überprüft und aktualisiert werden, oder wenn sich die Herkunft bestimmter gekaufter Waren und Dienstleistungen erheblich ändert. Beispielsweise muss ein Unternehmen, das landwirtschaftliche Betriebsmittel von einer Reihe von Lieferanten kauft, die alle in einer einzigen wasserreichen Region tätig sind, für diese Betriebsmittel keine häufigen Wasser-Hotspot-Bewertungen durchführen. Wenn das Unternehmen jedoch denselben Input aus einer zweiten Region beziehen würde, wäre eine neue Bewertung des Wasser-Hotspots erforderlich.
 </div>
 
-### 3. Assessment {-#be04-assessment}
+### 3. Bewertung {-#be04-assessment}
 
-#### 3.1 Progress indicators {-#be04-progress}
+#### 3.1 Fortschrittsindikatoren {-#be04-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschritte bewerten {-}
 
-This goal has _nine_ progress indicators, corresponding to the specific issue areas identified in [Figure 2](#be04-figure-2), namely: _Energy_, _Water_, _Natural resources_, _GHG emissions_, _Harmful emissions_, _Waste_, _Physical presence_, _People_, and _Drivers_. To calculate progress, the following steps are required:
+Dieses Ziel umfasst neun Fortschrittsindikatoren, die den in [Abbildung 2](#be04-figure-2), aufgeführten spezifischen Themenbereichen entsprechen, nämlich: _Energie_, _Wasser_, _natürliche Ressourcen_, _Treibhausgasemissionen_, _schädliche Emissionen_, _Abfall_, _physische Präsenz_, _Menschen_ und _Treiber_. Zur Berechnung des Fortschritts sind folgende Schritte erforderlich:
 
-**For each of the nine issue areas:**
+**Für jeden der neun Themenbereiche:**
 
-- Assess the fitness of individual purchase decisions according to the guidance below.
-- Calculate company-wide progress regarding that issue area, across all procurement activities.
+- Bewerten Sie die Angemessenheit einzelner Kaufentscheidungen anhand der folgenden Leitlinien.
+- Berechnen Sie den unternehmensweiten Fortschritt in diesem Bereich über alle Beschaffungsaktivitäten hinweg.
 
-##### Assessing the fitness of a purchase for a specific issue area {-}
+##### Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie hier {-}
 
-The assessment approach is conceptually the same for all types of spend, but there are differences – in particular in terms of the scope of the hotspot assessment required. The scoring methodology is described in [Figure 3](#be04-figure-3).
+Der Bewertungsansatz ist konzeptionell für alle Arten von Ausgaben gleich, es gibt jedoch Unterschiede – insbesondere hinsichtlich des Umfangs der erforderlichen Hotspot-Bewertung. Die Bewertungsmethodik ist in [Abbildung 3](#be04-figure-3) dargestellt.
 
 <div class="ff-figure" id="be04-figure-3">
-Figure 3: How to assess fitness of purchase decisions for outsourced core functions, product inputs, and ancillary spend.
+Abbildung 3: So beurteilen Sie die Eignung von Kaufentscheidungen für ausgelagerte Kernfunktionen, Produkteingaben und Nebenausgaben.
 </div>
 
 <div class="table-blue">
 <table>
 <thead>
   <tr>
-    <th style="text-align:center"; rowspan="2">Fitness Score</th>
-    <th style="text-align:center"; colspan="3">Fitness Criteria</th>
+    <th style="text-align:center"; rowspan="2">Fitrness-Ergebnis</th>
+    <th style="text-align:center"; colspan="3">Fitness-Kritieren</th>
   </tr>
    <tr>
-    <th style="text-align:center">Outsourced Core Functions</th>
-    <th style="text-align:center">Product Inputs</th>
-    <th style="text-align:center">Ancillary Spend</th>
+    <th style="text-align:center">Ausgelagerte Kernfunktionen</th>
+    <th style="text-align:center">Produkteingaben</th>
+    <th style="text-align:center">Nebenkosten</th>
   </tr>
 </thead>
 <tbody>
   <tr class="odd">
-    <td style="text-align:center">Hotspot Assessment Scope</td>
-    <td style="text-align:center">Assessment covers the operations of the supplier performing the function on the company’s behalf</td>
-    <td style="text-align:center">Cradle-to-gate assessment back to the extraction of raw materials used to create the product input</td>
-    <td style="text-align:center">Assessment focuses on the
-services, consumables and assets procured, rather than the companies producing them</td>
+    <td style="text-align:center">Bewertungsumfang des Hotspots</td>
+    <td style="text-align:center">Die Bewertung umfasst die Tätigkeiten des Lieferanten, der die Funktion im Auftrag des Unternehmens ausübt.</td>
+    <td style="text-align:center">Die Bewertung erfolgt vom Ursprung bis zum Tor (Cradle-to-Gate), zurück bis zur Gewinnung der Rohstoffe, die zur Herstellung des Produktinputs verwendet werden.</td>
+    <td style="text-align:center">Die Bewertung konzentriert sich auf die beschafften Dienstleistungen, Verbrauchsmaterialien und Vermögenswerte und nicht auf die Unternehmen, die diese herstellen.</td>
   </tr>
   <tr class="even">
     <td style="text-align:center">0%</td>
-    <td colspan="3">No hotspot assessment has been performed<br/><i>or</i><br/>The purchase falls into the <i>No use</i> category of the<br/><i>No use, No excuse, Commitment to reduce approach</i></td>
+    <td colspan="3">Es wurde keine Hotspot-Bewertung durchgeführt<br/><i>or</i><br/> oder der Kauf<i> fällt unter</i> die Kategorie<br/><i>Kein Nutzen des Ansatzes Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung.</i></td>
    </tr>
   <tr class="odd">
     <td style="text-align:center">25%</td>
-    <td colspan="3">An appropriate hotspot assessment has been undertaken<br/>The assessment identifies that <i>potential</i> hotspots <i>may</i> exist<br/>No further action has been taken<br/><i>Note: if analysis confirms there are <b>no potential hotspots</b>, check criteria to score 100% (below)</i></td>
+    <td colspan="3">Eine angemessene Hotspot-Bewertung wurde durchgeführt.<br/> Die Bewertung hat ergeben, dass <i>potenzielle</i> Hotspots <i>vorhanden</i> sein könnten.<br/>Es wurden keine weiteren Maßnahmen ergriffen.<br/><i>Hinweis: Wenn die Analyse bestätigt <b>dass keine potenziellen Hotspots</b> vorhanden sind, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten).</i></td>
    </tr>
   <tr class="even">
     <td style="text-align:center">50%</td>
-    <td colspan="3">A detailed analysis of all potential hotspots has been undertaken<br/>The analysis confirms that <i>actual</i> hotspots <i>do</i> exist<br/>Steps are being taken to address identified hotspots<br/><i>Note: if analysis confirms there are <b>no actual hotspots</b>, check criteria to score 100% (below)</i></td>
+    <td colspan="3">Eine detaillierte Analyse aller potenziellen Hotspots wurde durchgeführt.<br/>Die Analyse hat bestätigt, <i>dass tatsächlich</i> Hotspots <i>vorhanden</i> sind.<br/>Es werden Maßnahmen ergriffen, um die identifizierten Hotspots zu beheben.<br/><i>Hinweis: Wenn die Analyse bestätigt, <b>dass keine tatsächlichen Hotspots vorhanden sind, </b>, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten).</i></td>
    </tr>
   <tr class="odd">
     <td style="text-align:center">75%</td>
-    <td colspan="3">All high-intensity hotspots have been addressed<br/>Company is taking appropriate steps towards addressing remaining hotspots, in line with the <i>No use, No excuse, Commitment to reduce</i> approach</td>
+    <td colspan="3">Alle Hotspots mit hoher Intensität wurden behoben.<br/>Das Unternehmen unternimmt geeignete Schritte zur Behebung der verbleibenden Hotspots im Einklang mit dem Ansatz <i>Keine Nutzung, keine Ausreden, Verpflichtung</i> zur Reduzierung</td>
    </tr>
   <tr class="even">
     <td style="text-align:center">100%</td>
-    <td style="text-align:center">All hotspots have been avoided or eliminated</td>
-    <td style="text-align:center">All hotpots from cradle to gate have been avoided or eliminated</td>
-    <td style="text-align:center">Company continuously seeks to procure options which causes fewest negative impacts</td>
+    <td style="text-align:center">Alle Hotspots wurden vermieden oder beseitigt</td>
+    <td style="text-align:center">Alle Hotspots vom Ursprung bis zum Tor (Cradle-to-Gate) wurden vermieden oder beseitigt</td>
+    <td style="text-align:center">Das Unternehmen ist ständig bestrebt, Optionen zu beschaffen, die die geringsten negativen Auswirkungen haben</td>
   </tr>
   </tbody>
 </table>
 </div>
 
-##### Calculating company progress for a specific issue area {-}
+##### Berechnung des Unternehmensfortschritts für einen bestimmten Themenbereich {-}
 
-The company's aggregate Future-Fit progress with respect to issue area "X" (for each issue area shown in [Figure 3](#be04-figure-3)) is the cost-weighted sum of the future-fitness scores of all product inputs, outsourced core functions and ancillary purchases.
+Der Gesamtfortschritt des Unternehmens in Bezug auf den Themenbereich „X“ (für jeden in [Abbildung 3](#be04-figure-3) dargestellten Themenbereich) ist die kostengewichtete Summe der Future-Fit-Bewertungen aller Produktinputs, ausgelagerten Kernfunktionen und Nebenkäufe.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F^X=\frac{\sum_{d=1}^Df_d^X*C_d}{\sum_{d=1}^DC_d}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F^{X}$$ | Is the progress toward future-fitness for issue area X, expressed as a percentage. |
-| $$X$$ | Is the issue area: *Energy*, *Water*, *Natural resources*, *GHG emissions, Harmful emissions*, *Waste*, *Physical presence*, *People,* or *Drivers*. |
-| $$f_d^{X}$$ | Is the fitness of the screening and evaluation process applied to the purchase decision for good or service _d_. |
-| $$C_d$$ | Is the total cost (dollar amount spent) during the reporting period on good or service _d_. |
-| $$D$$ | Is the total number of financial assets in the company's portfolio. |
+| $$F^{X}$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit für den Themenbereich X, ausgedrückt in Prozent. |
+| $$X$$ | Ist der Themenbereich: _Energie_, _Wasser_, _natürliche Ressourcen_, _Treibhausgasemissionen_, _schädliche Emissionen_, _Abfall_, _physische Präsenz_, _Menschen_ oder _Treiber_. |
+| $$f_d^{X}$$ | Ist die Eignung des Prüf- und Bewertungsprozesses, der auf die Kaufentscheidung für die Ware oder Dienstleistung _d_ angewendet wird. |
+| $$C_d$$ | Sind die Gesamtkosten (ausgegebener Dollarbetrag) während des Berichtszeitraums für die Ware oder Dienstleistung _d_. |
+| $$D$$ | Ist die Gesamtzahl der finanziellen Vermögenswerte im Portfolio des Unternehmens. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be04-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be04-example).
 
-#### 3.2 Context indicators {-#be04-context}
+#### 3.2 Kontextindikatoren {-#be04-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Stakeholdern zusätzliche Informationen zur Verfügung zu stellen, die sie benötigen, um den Fortschritt eines Unternehmens in vollem Ausmaß zu interpretieren.
 
-####### Percentage of product inputs traceable to source {-}
+####### Prozentsatz der Produkteingaben, die auf die Quelle zurückgeführt werden können {-}
 
-The percentage of product inputs, by spend, for which the company has identified all suppliers, from raw material extraction or harvesting to interim manufacturing and distribution.
+Der Prozentsatz der Produkteingaben nach Ausgaben, für den das Unternehmen alle Lieferanten identifiziert hat, von der Rohstoffgewinnung oder -ernte bis hin zur Zwischenfertigung und dem Vertrieb.
 
-####### Challenging hotspots {-}
+####### Anspruchsvolle Hotspots {-}
 
-A brief description of any high-intensity hotspots that have not been fully addressed within the reporting period, and for each:
+Eine kurze Beschreibung aller Hotspots mit hoher Intensität, die im Berichtszeitraum nicht vollständig angegangen wurden, und für jeden:
 
-- A short description of the hotspot.
-- Actions taken to date to avoid or address hotspot.
-- If applicable, additional actions planned.
+- Eine kurze Beschreibung des Hotspots.
+- Bisher ergriffene Maßnahmen zur Vermeidung oder Behebung von Hotspots.
+- Falls zutreffend, geplante zusätzliche Maßnahmen.
 
-For an example of how context indicators can be reported, see [here](#be04-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be04-example).
 
-### 4. Assurance {-#be04-assurance}
+### 4. Prüfung und Sicherheit {-#be04-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be04-assurance-why}
+#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be04-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be04-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be04-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to ensure that all of the company's suppliers have been identified. This information can help assurers to assess whether the company's approach runs the risk of failing to identify any suppliers, which may result in the company unknowingly purchasing goods or services which contribute to significant negative social or environmental impacts, leading to incorrect data being reported.
-- Document the methods used for grouping vendors for hotspot assessments. Assurers may use this information to evaluate and verify whether key characteristics are consistent within groups.
-- Document the methods used to assess the company's supply chain for potential social and environmental hotspots, including the parameters used to distinguish whether an issue qualifies or not. For each supplier (or group of suppliers) that has been assessed, the company should retain the details of the assessment performed to create an evidence trail. Assurers may use this information to verify that the company has consistently identified issues requiring further investigation.
-- Where potential hotspots have been identified, document the methods used to confirm or disprove the presence of those issues in the company's suppliers. For each of these assessments, retain the details of the work performed in order to create an evidence trail for assurers, who may use this information to verify that the company has been consistent in determining which issues require action.
-- Where the company has taken active steps towards helping a supplier to eliminate a hotspot issue, retain any documentation of these actions. Assurers may use this information to verify that the company has correctly applied the method to calculate the Future-Fit indicators.
-- Describe the methods used to classify the company's vendors into one of the three categories described in this Action Guide (i.e. product inputs, outsourced core functions, ancillary purchases). Assurers may use this information to evaluate and verify whether key characteristics are consistent within categories.
+- Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass alle Lieferanten des Unternehmens identifiziert wurden. Diese Informationen können den Prüfern dabei helfen, zu beurteilen, ob das Vorgehen des Unternehmens das Risiko birgt, dass Lieferanten nicht identifiziert werden, was dazu führen könnte, dass das Unternehmen unwissentlich Waren oder Dienstleistungen einkauft, die erhebliche negative soziale oder ökologische Auswirkungen haben, was wiederum zu falschen Datenmeldungen führen könnte.
+- Dokumentieren Sie die Methoden, die zur Gruppierung von Anbietern für Hotspot-Bewertungen verwendet werden. Prüfer können diese Informationen nutzen, um zu bewerten und zu überprüfen, ob die wichtigsten Merkmale innerhalb der Gruppen konsistent sind.
+- Dokumentieren Sie die Methoden, die zur Bewertung der Lieferkette des Unternehmens auf potenzielle soziale und ökologische Hotspots verwendet werden, einschließlich der Parameter, anhand derer unterschieden wird, ob ein Problem vorliegt oder nicht. Für jeden bewerteten Lieferanten (oder jede Gruppe von Lieferanten) sollte das Unternehmen die Details der durchgeführten Bewertung aufbewahren, um einen Nachweis zu erstellen. Die Prüfer können diese Informationen verwenden, um zu überprüfen, ob das Unternehmen Probleme, die einer weiteren Untersuchung bedürfen, konsequent identifiziert hat.
+- Wenn potenzielle Hotspots identifiziert wurden, dokumentieren Sie die Methoden, mit denen das Vorliegen dieser Probleme bei den Lieferanten des Unternehmens bestätigt oder widerlegt wurde. Bewahren Sie für jede dieser Bewertungen die Details der durchgeführten Arbeiten auf, um einen Nachweis für die Prüfer zu erstellen, die diese Informationen verwenden können, um zu überprüfen, ob das Unternehmen bei der Feststellung der zu behandelnden Probleme konsistent vorgegangen ist.
+- Wenn das Unternehmen aktive Maßnahmen ergriffen hat, um einem Lieferanten bei der Beseitigung eines Hotspot-Problems zu helfen, bewahren Sie alle Unterlagen zu diesen Maßnahmen auf. Die Prüfer können diese Informationen verwenden, um zu überprüfen, ob das Unternehmen die Methode zur Berechnung der Future-Fit-Indikatoren korrekt angewendet hat.
+- Beschreiben Sie die Methoden, mit denen die Lieferanten des Unternehmens in eine der drei in diesem Aktionsleitfaden beschriebenen Kategorien eingeteilt werden (d. h. Produkeingaben, ausgelagerte Kernfunktionen, Nebenkäufe). Die Prüfer können diese Informationen verwenden, um zu bewerten und zu überprüfen, ob die Hauptmerkmale innerhalb der Kategorien konsistent sind.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Systematische Implementierung der Zukunftsfähigkeit_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be04-additional}
+### 5. Zusätzliche Informationen {-#be04-additional}
 
-#### 5.1 Example {-#be04-example}
+#### 5.1 Beispiel {-#be04-example}
 
-ACME Inc. sells lemonade products. The company buys sugar and lemons as product inputs (other ingredients including water are excluded from this example for simplicity), and outsources its distribution of products to a third party.
+ACME Inc. verkauft Limonadenprodukte. Das Unternehmen kauft Zucker und Zitronen als Produkteingaben (andere Zutaten, einschließlich Wasser, sind der Einfachheit halber aus diesem Beispiel ausgeschlossen) und lagert den Vertrieb der Produkte an einen Dritten aus.
 
-ACME decides to do a thorough assessment to identify _water_ and _worker_ hotspots within its lemon and sugar supply chains.
+ACME beschließt, eine gründliche Bewertung durchzuführen, um Wasser- und Arbeits-Hotspots innerhalb seiner Zitronen- und Zuckerlieferketten zu identifizieren.
 
-From an initial assessment, ACME learns that farm labourers in some of the countries from which it sources its sugar can be subject to human rights abuses. Further investigations confirm this as a high-intensity hotspot and as a next step ACME decides to work with a farming group to improve the situation for its sugar supplier. ACME assesses the lemon supplier and finds that there is a high intensity hotspot because workers are paid less than minimum wage. However, ACME takes no further action. As a result, it scores these inputs as follows:
+Aus einer ersten Bewertung geht hervor, dass ACME erfährt, dass Landarbeiter:innen in einigen Ländern, aus denen das Unternehmen seinen Zucker bezieht, Menschenrechtsverletzungen ausgesetzt sein können. Weitere Untersuchungen bestätigen dies als einen Hotspot mit hoher Intensität, und als nächsten Schritt beschließt ACME, mit einer Landwirtschaftsgruppe zusammenzuarbeiten, um die Situation für seinen Zuckerlieferanten zu verbessern. ACME bewertet den Zitronenlieferanten und stellt fest, dass es sich um einen Hotspot mit hoher Intensität handelt, da die Arbeiter:innen weniger als den Mindestlohn erhalten. ACME ergreift jedoch keine weiteren Maßnahmen. Infolgedessen bewertet es diese Inputs wie folgt:
 
-$$f^{People}_S=50\%$$
-$$f^{People}_L=25\%$$
+$$f^{Menschen}_S=50\%$$
+$$f^{Menschen}_L=25\%$$
 
-Research further confirms that all sugar is grown in water-abundant regions. Research into the company's lemon supply chain however indicates that water stress might be an issue, but no work has been done to check this. ACME scores these inputs as follows:
+Untersuchungen bestätigen außerdem, dass Zucker ausschließlich in wasserreichen Regionen angebaut wird. Untersuchungen zur Lieferkette des Unternehmens für Zitronen deuten jedoch darauf hin, dass Wasserstress ein Problem darstellen könnte, aber es wurden keine Maßnahmen ergriffen, um dies zu überprüfen. ACME bewertet diese Inputs wie folgt:
 
-$$f^{Water}_S=100\%$$
-$$f^{Water}_L=25\%$$
+$$f^{Wasser}_S=100\%$$
+$$f^{Wasser}_L=25\%$$
 
-ACME also decides to do an assessment of the distribution provider across all issue areas. The assessment indicates that it is performing well across all social and environmental issue areas. No potential hotspots are identified. ACME therefore scores this outsourced core function as follows:
+ACME beschließt außerdem, eine Bewertung des Vertriebspartners in allen Themenbereichen durchzuführen. Die Bewertung zeigt, dass das Unternehmen in allen sozialen und ökologischen Themenbereichen gute Leistungen erbringt. Es wurden keine potenziellen Hotspots identifiziert. ACME bewertet diese ausgelagerte Kernfunktion daher wie folgt:
 
 $$f^X_D=100\%$$
 
-Across all issue areas (where "X" is one of _Energy, Water, Natural resources, GHG emissions, Harmful emissions, Waste, Physical presence, People_ and _Drivers_).
+Über alle Themenbereiche hinweg (wobei „X“ für _Energie_, _Wasser_, _natürliche Ressourcen_, _Treibhausgasemissionen_, _schädliche Emissionen_, _Abfall_, _physische Präsenz_, _Menschen_ und _Treiber_ steht).
 
-ACME spends $40,000 on sugar annually, $100,000 on lemons and pays the distribution provider $60,000.
+ACME gibt jährlich 40.000 Dollar für Zucker, 100.000 Dollar für Zitronen aus und zahlt dem Vertriebspartner 60.000 Dollar.
 
-The company can now calculate its progress as follows:
+Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
-$$F^{People}=\frac{f^{People}_S*C_S+{f^{People}_L*C_L+f^{People}_D*C_D}}{C_S+C_L+C_D}$$
+$$F^{Menschen}=\frac{f^{Menschen}_S*C_S+{f^{Menschen}_L*C_L+f^{Menschen}_D*C_D}}{C_S+C_L+C_D}$$
 $$=\frac{50\%*40,000+25\%*100,000+100\%*60,000}{200,000}\approx53\%$$
 <br/>
-$$F^{Water}=\frac{f^{Water}_S*C_S+{f^{Water}_L*C_L+f^{Water}_D*C_D}}{C_S+C_L+C_D}$$
+$$F^{Wasser}=\frac{f^{Wasser}_S*C_S+{f^{Wasser}_L*C_L+f^{Wasser}_D*C_D}}{C_S+C_L+C_D}$$
 $$=\frac{100\%*40,000+25\%*100,000+100\%*60,000}{200,000}\approx63\%$$
 <br/>
-$$F^{Energy}=F^{N.resources}=F^{GHGs}=F^{Harmful-emissions}=F^{Waste}=F^{Presence}$$
-$$=F^{Drivers}=\frac{100\%*C_D}{C_S+C_L+C_D}=\frac{100\%*60,000}{200,000}\approx30\%$$
+$$F^{Energie}=F^{natürliche Ressourcen}=F^{Treibhausgasemissionen}=F^{schädliche Emissionen}=F^{Abfall}=F^{physische Präsenz}$$
+$$=F^{Treiber steht}=\frac{100\%*C_D}{C_S+C_L+C_D}=\frac{100\%*60,000}{200,000}\approx30\%$$
 <br/>
 
-####### Context indicators {-}
+####### Kontextindikatoren {-}
 
-**Percentage of product inputs traceable to source**
+**Prozentsatz der Produkteingaben, die auf die Quelle zurückgeführt werden können**
 
-Not calculated.
+Nicht berechnet.
 
-**Challenging hotspots**
+**Anspruchsvolle Hotspots**
 
-Two high-intensity hotspots were identified:
+Es wurden zwei Hotspots mit hoher Intensität identifiziert:
 
-- Human rights abuses of sugar farm labourers.
-  - Steps taken: Engaged local organisation to support a group of strategically chosen suppliers to improve in several key areas.
-- Lemon farm workers paid under minimum wage
-  - Steps taken: No actions taken.
+- Menschenrechtsverletzungen gegenüber Arbeitern auf Zuckerrohrplantagen.
+  - Ergriffene Maßnahmen: Beauftragung einer lokalen Organisation mit der Unterstützung einer Gruppe strategisch ausgewählter Lieferanten, um Verbesserungen in mehreren Schlüsselbereichen zu erzielen.
+- Arbeiter auf Zitrusplantagen erhalten weniger als den Mindestlohn
+  - Ergriffene Maßnahmen: Keine Maßnahmen ergriffen.
 
-#### 5.2 Frequently asked questions {-#be04-faq}
+#### 5.2 Häufig gestellte Fragen {-#be04-faq}
 
-##### Can certifications be used as proxies? {-#be04-certifications}
+##### Können Zertifizierungen als stellvertretende Indikatoren verwendet werden? {-#be04-certifications}
 
-Whenever possible, companies are encouraged to leverage work already performed to use in their assessment of future-fitness. In the case of suppliers, existing certification standards may significantly reduce the burden of analysis, although some caveats exist.
+Unternehmen werden dazu angehalten, nach Möglichkeit bereits geleistete Arbeit für die Bewertung ihrer Zukunftsfähigkeit zu nutzen. Im Falle von Lieferanten können bestehende Zertifizierungsstandards den Analyseaufwand erheblich reduzieren, wobei jedoch einige Einschränkungen zu beachten sind.
 
-Many current industry and issue-specific certification standards help companies identify whether the goods and services they purchase have been produced responsibly. In fact, the fitness criteria for a number of the Break-Even Goals draw on the guidance and research of such standards. As a result, there is often overlap between certain goal-specific fitness criteria and the performance levels that leading certification bodies are already demanding.
+Viele aktuelle branchen- und themenspezifische Zertifizierungsstandards helfen Unternehmen dabei, festzustellen, ob die von ihnen gekauften Waren und Dienstleistungen verantwortungsbewusst hergestellt wurden. Tatsächlich stützen sich die Fitnesskriterien für eine Reihe von Break-Even-Zielen auf die Leitlinien und Forschungsergebnisse solcher Standards. Infolgedessen gibt es häufig Überschneidungen zwischen bestimmten zielspezifischen Fitnesskriterien und den Leistungsniveaus, die führende Zertifizierungsstellen bereits verlangen.
 
-Whenever part of a supply chain has been certified to a _sufficient_ standard, this fact may serve as a _proxy_ for performance verification – meaning that a company need 'look no further'. Specifically:
+Wenn ein Teil einer Lieferkette nach einem ausreichenden Standard zertifiziert wurde, kann diese Tatsache als Ersatz für die Leistungsüberprüfung dienen – was bedeutet, dass ein Unternehmen _nicht weiter suchen muss_. Insbesondere:
 
-_A supplier (or 'branch' of a supply chain) is considered Future-Fit with respect to a particular Break-Even Goal if:_
+_Ein Lieferant (oder „Zweig“ einer Lieferkette) gilt im Hinblick auf ein bestimmtes Break-Even-Ziel als zukunftsfähig, wenn:_
 
-1. _it has been certified by a recognized and independent standard; and_
-2. _that standard demands a level of performance **equivalent** to the goal's fitness criteria._
+1. _er nach einem anerkannten und unabhängigen Standard zertifiziert wurde und_
+2. _dieser Standard ein Leistungsniveau verlangt, das den Eignungskriterien des Ziels entspricht._
 
-Examples include:
+Beispiele hierfür sind:
 
-1. An [FSC](http://www.fsc-uk.org/en-uk)-certified supplier of timber is considered to live up to the goal [**_Natural resources are managed to respect the welfare of ecosystems, people and animals_**](#be03).
-2. A supplier accredited as a living wage employer by [The Living Wage Foundation](http://www.livingwage.org.uk/) is considered to live up to the goal [**_Employees are paid at least a living wage_**](#be11).
+1. Ein [FSC](http://www.fsc-uk.org/en-uk)-zertifizierter Holzlieferant gilt als dem Ziel [**_Natürliche Ressourcen werden unter Berücksichtigung des Wohlergehens von Ökosystemen, Menschen und Tieren genutzt _**](#be03) entsprechend.
+2. Ein Lieferant, der von der [The Living Wage Foundation](http://www.livingwage.org.uk/) als Arbeitgeber mit existenzsichernden Löhnen akkreditiert ist, gilt als dem Ziel [**_Arbeitnehmer erhalten mindestens einen existenzsichernden Lohn_**](#be11) entsprechend..
 
 <div class="callout-note">
-**Appropriateness of certifications**
+**Angemessenheit der Zertifizierungen**
 
-Many of today's certification standards – although pushing companies in the right direction – do not go far enough to guarantee Future-Fit levels of performance. Companies should seek to clarify whether all issues are adequately covered by any standards they use. Any company who undertakes such an analysis is encouraged to check and share its thinking with the Future-Fit team, so that over time we can build up a body of knowledge relating to certifications that all pursuers of future-fitness can benefit from.
+Viele der heutigen Zertifizierungsstandards – obwohl sie Unternehmen in die richtige Richtung lenken – reichen nicht aus, um ein zukunftsfähiges Leistungsniveau zu garantieren. Unternehmen sollten klären, ob alle Aspekte durch die von ihnen verwendeten Standards angemessen abgedeckt sind. Jedes Unternehmen, das eine solche Analyse durchführt, wird aufgefordert, seine Überlegungen mit dem Future-Fit-Team zu überprüfen und zu teilen, damit wir im Laufe der Zeit einen Wissensbestand zu Zertifizierungen aufbauen können, von dem alle, die sich für Zukunftsfähigkeit einsetzen, profitieren können.
 </div>
 
-#### 5.3 Useful links {-#be04-useful-links}
+#### 5.3 Nützliche Links {-#be04-useful-links}
 
 ##### United National Global Compact (UNGC) {-}
 
-In collaboration with [Business for Social Responsibility](https://www.bsr.org/), the UNGC has developed a guide to help signatories implement the UNGC's [Ten Principles](https://www.unglobalcompact.org/what-is-gc/mission/principles) throughout their supply chains. See [Supply Chain Sustainability – a Practical Guide for Continuous Improvement](https://www.unglobalcompact.org/library/205).
+In Zusammenarbeit mit [Business for Social Responsibility](https://www.bsr.org/), hat das UNGC einen Leitfaden entwickelt, der den Unterzeichnern dabei helfen soll, die [zehn Prinzipien des UNGC](https://www.unglobalcompact.org/what-is-gc/mission/principles) in ihren Lieferketten umzusetzen. Siehe [Nachhaltigkeit in der Lieferkette – Ein praktischer Leitfaden für kontinuierliche Verbesserung](https://www.unglobalcompact.org/library/205).
 
-[^1#be04-1]: See the [**Methodology Guide**](#mg-mutually-accountable) for more details on mutual accountability for procured goods and services.
+[^1#be04-1]: Weitere Informationen zur gegenseitigen Rechenschaftspflicht für beschaffte Waren und Dienstleistungen finden Sie im [**Methodischer Leitfaden**](#mg-mutually-accountable).
 
-[^2#be04-2]: A _product input_ is any substance which is necessarily consumed in the creation of goods and the delivery of services. This includes: ingredients or components required to manufacture a physical good, which either end up embedded in it or are used up (e.g. a catalyst) during its production; and consumable substances which are required to provide a service (e.g. detergents and paints used by a commercial decorator).
+[^2#be04-2]: Eine Produkteingabe ist jeder Stoff, der notwendigerweise bei der Herstellung von Waren und der Erbringung von Dienstleistungen verbraucht wird. Dazu gehören: Zutaten oder Komponenten, die zur Herstellung eines physischen Gutes erforderlich sind und entweder darin eingebettet werden oder bei der Herstellung verbraucht werden (z. B. ein Katalysator); und Verbrauchsstoffe, die zur Erbringung einer Dienstleistung erforderlich sind (z. B. Reinigungsmittel und Farben, die von einem gewerblichen Dekorateur verwendet werden).↩︎
 
-[^3#be04-3]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^3#be04-3]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^4#be04-4]: See the [**Methodology Guide**](#mg-appendix-2)for details on how these 8 Properties of a Future-Fit Society were derived.
+[^4#be04-4]: Einzelheiten dazu, wie diese acht Eigenschaften einer zukunftsfähigen Gesellschaft abgeleitet wurden, finden Sie im [**Methodischer Leitfaden**](#mg-appendix-2).
 
-[^5#be04-5]: This guidance is a generalized adaptation of the approach presented in the [GHG Protocol's Policy and Action Standard](https://ghgprotocol.org/sites/default/files/standards/Policy%20and%20Action%20Standard.pdf) @Gre14.
+[^5#be04-5]: Bei diesem Leitfaden handelt es sich um eine allgemeine Anpassung des im [Folgenden vorgestellten Ansatzes Richtlinien- und Aktionsstandard des GHG-Protokolls](https://ghgprotocol.org/sites/default/files/standards/Policy%20and%20Action%20Standard.pdf) @Gre14.
 
-[^6#be04-6]: "Type of purchase" is used here to emphasize that the focus is on the considerations relevant to different kinds of goods and services, rather than on scrutinizing every individual transaction. For instance, ordering FSC-certified office paper from like-for-like suppliers would be considered as one type of purchase.
+[^6#be04-6]: Der Begriff „Art des Einkaufs“ wird hier verwendet, um zu betonen, dass der Schwerpunkt auf den Überlegungen liegt, die für verschiedene Arten von Waren und Dienstleistungen relevant sind, und nicht auf der genauen Prüfung jeder einzelnen Transaktion. Beispielsweise würde die Bestellung von FSC-zertifiziertem Büropapier bei vergleichbaren Lieferanten als eine Art von Einkauf betrachtet werden.
