@@ -7,7 +7,7 @@ output: github_document
 <div class="subtitle">Energie stammt aus erneuerbaren Quellen
 </div>
 
-### 1. Zielsetzung {-#be01-ambition}
+### 1. Ambition {-#be01-ambition}
 
 Ein zukunftsfähiges Unternehmen stellt sicher, dass die gesamte Energie, die es verbraucht – Strom, Wärme oder Kraftstoff – aus erneuerbaren Energiequellen stammt: Sonne, Wind, Meer, Wasserkraft, geothermische Ressourcen und Biomasse.
 

@@ -7,7 +7,7 @@ output: github_document
 <div class="subtitle">Die Wassernutzung ist umweltverträglich und sozial gerecht
 </div>
 
-### 1. Zielsetzung {-#be02-ambition}
+### 1. Ambition {-#be02-ambition}
 
 Ein zukunftsfähiges Unternehmen schützt die Süßwasserressourcen, indem es den Wasserverbrauch in seinen gewerblichen und industriellen Aktivitäten minimiert und sicherstellt, dass seine Abwässer die Wasserqualität der aufnehmenden Gewässer nicht beeinträchtigen.
 

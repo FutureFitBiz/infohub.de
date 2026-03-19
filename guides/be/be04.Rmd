@@ -7,7 +7,7 @@ output: github_document
 <div class="subtitle">Beschaffung sichert das Streben nach Zukunftsfähigkeit
 </div>
 
-### 1. Zielsetzung {-#be04-ambition}
+### 1. Ambition {-#be04-ambition}
 
 Wenn eine Aktivität in den Lieferketten eines Unternehmens negative Auswirkungen hat, dann trägt das Unternehmen zu diesen Auswirkungen bei und setzt sie möglicherweise fort – und behindert so den Fortschritt auf dem Weg zu einer zukunftsfähigen Gesellschaft.
 
@@ -183,6 +183,7 @@ Für jeden Produkteingabe sollte das Unternehmen Folgendes anstreben:
 - die für die Herstellung des Produkteingaben erforderlichen Rohstoffe zu identifizieren;
 - die wichtigsten Lebenszyklusphasen des Produktinputs und die damit verbundenen Aktivitäten zu bestimmen (d. h. wo und wie die Rohstoffe wahrscheinlich gewonnen, verarbeitet, kombiniert, transportiert usw. werden); und
 - Überlegen Sie, welche negativen Auswirkungen aufgrund dieser Aktivitäten im Laufe des Produktlebenszyklus zu erwarten sind.
+
 <div class="callout-note">
 **Ressourcen für Hotspot-Bewertungen**
 
@@ -284,10 +285,10 @@ Abbildung 3: So beurteilen Sie die Eignung von Kaufentscheidungen für ausgelage
 <table>
 <thead>
   <tr>
-    <th style="text-align:center"; rowspan="2">Fitrness-Ergebnis</th>
+    <th style="text-align:center"; rowspan="2">Fitness-Ergebnis</th>
     <th style="text-align:center"; colspan="3">Fitness-Kritieren</th>
   </tr>
-   <tr>
+  <tr>
     <th style="text-align:center">Ausgelagerte Kernfunktionen</th>
     <th style="text-align:center">Produkteingaben</th>
     <th style="text-align:center">Nebenkosten</th>
@@ -302,27 +303,27 @@ Abbildung 3: So beurteilen Sie die Eignung von Kaufentscheidungen für ausgelage
   </tr>
   <tr class="even">
     <td style="text-align:center">0%</td>
-    <td colspan="3">Es wurde keine Hotspot-Bewertung durchgeführt<br/><i>or</i><br/> oder der Kauf<i> fällt unter</i> die Kategorie<br/><i>Kein Nutzen des Ansatzes Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung.</i></td>
-   </tr>
+    <td colspan="3">Es wurde keine Hotspot-Bewertung durchgeführt<br/><i>or</i><br/> oder der Kauf <i>fällt unter</i> die Kategorie<br/><i>Kein Nutzen des Ansatzes Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung.</i></td>
+  </tr>
   <tr class="odd">
     <td style="text-align:center">25%</td>
     <td colspan="3">Eine angemessene Hotspot-Bewertung wurde durchgeführt.<br/> Die Bewertung hat ergeben, dass <i>potenzielle</i> Hotspots <i>vorhanden</i> sein könnten.<br/>Es wurden keine weiteren Maßnahmen ergriffen.<br/><i>Hinweis: Wenn die Analyse bestätigt <b>dass keine potenziellen Hotspots</b> vorhanden sind, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten).</i></td>
-   </tr>
+  </tr>
   <tr class="even">
     <td style="text-align:center">50%</td>
-    <td colspan="3">Eine detaillierte Analyse aller potenziellen Hotspots wurde durchgeführt.<br/>Die Analyse hat bestätigt, <i>dass tatsächlich</i> Hotspots <i>vorhanden</i> sind.<br/>Es werden Maßnahmen ergriffen, um die identifizierten Hotspots zu beheben.<br/><i>Hinweis: Wenn die Analyse bestätigt, <b>dass keine tatsächlichen Hotspots vorhanden sind, </b>, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten).</i></td>
-   </tr>
+    <td colspan="3">Eine detaillierte Analyse aller potenziellen Hotspots wurde durchgeführt.<br/>Die Analyse hat bestätigt, <i>dass tatsächlich</i> Hotspots <i>vorhanden</i> sind.<br/>Es werden Maßnahmen ergriffen, um die identifizierten Hotspots zu beheben.<br/><i>Hinweis: Wenn die Analyse bestätigt, <b>dass keine tatsächlichen Hotspots vorhanden sind</b>, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten).</i></td>
+  </tr>
   <tr class="odd">
     <td style="text-align:center">75%</td>
     <td colspan="3">Alle Hotspots mit hoher Intensität wurden behoben.<br/>Das Unternehmen unternimmt geeignete Schritte zur Behebung der verbleibenden Hotspots im Einklang mit dem Ansatz <i>Keine Nutzung, keine Ausreden, Verpflichtung</i> zur Reduzierung</td>
-   </tr>
+  </tr>
   <tr class="even">
     <td style="text-align:center">100%</td>
     <td style="text-align:center">Alle Hotspots wurden vermieden oder beseitigt</td>
     <td style="text-align:center">Alle Hotspots vom Ursprung bis zum Tor (Cradle-to-Gate) wurden vermieden oder beseitigt</td>
     <td style="text-align:center">Das Unternehmen ist ständig bestrebt, Optionen zu beschaffen, die die geringsten negativen Auswirkungen haben</td>
   </tr>
-  </tbody>
+</tbody>
 </table>
 </div>
 

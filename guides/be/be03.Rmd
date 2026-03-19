@@ -7,7 +7,7 @@ output: github_document
 <div class="subtitle">Natürliche Ressourcen werden so bewirtschaftet, dass das Wohlergehen von Ökosystemen, Menschen und Tieren respektiert wird
 </div>
 
-### 1. Zielsetzung {-#be03-ambition}
+### 1. Ambition {-#be03-ambition}
 
 Ein zukunftsfähiges Unternehmen schützt die Gesundheit aller natürlichen Ressourcen, die es besitzt oder bewirtschaftet, sowie die Gesundheit aller Ökosysteme und Gemeinschaften, die von seinen Beschaffungsaktivitäten (z. B. Landwirtschaft, Fischerei, Jagd, Tierhaltung, Bergbau) betroffen sind.
 
