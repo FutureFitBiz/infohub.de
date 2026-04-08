@@ -2,306 +2,306 @@
 output: github_document
 ---
 
-## BE09: Community Health {-#be09}
+## BE09: Gesundheit der Gemeinschaft {-#be09}
 
-<div class="subtitle">Community health is safeguarded
+<div class="subtitle">Die Gesundheit der Gemeinschaft wird geschützt
 </div>
 
 ### 1. Ambition {-#be09-ambition}
 
-A Future-Fit Business actively seeks to anticipate, avoid and address the concerns of all local communities[^1#be09-1] whose wellbeing may be affected by its operational activities.
+Ein zukunftsfähiges Unternehmen versucht aktiv, die Anliegen aller lokalen Gemeinschaften zu antizipieren, zu vermeiden und anzugehen[^1#be09-1] deren Wohlergehen durch seine betriebliche Tätigkeit beeinträchtigt werden kann.
 
-#### 1.1 What this goal means {-#be09-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be09-what-goal-means}
 
-Every business depends on the goodwill, health and resilience of the communities in which it operates, and must ensure its presence does nothing to undermine their wellbeing.
+Jedes Unternehmen ist auf den guten Willen, die Gesundheit und die Widerstandsfähigkeit der Gemeinschaften angewiesen, in denen es tätig ist, und muss sicherstellen, dass seine Präsenz ihr Wohlergehen nicht beeinträchtigt.
 
-Future-Fit companies take all steps possible to ensure their presence does not negatively impact surrounding communities. The emphasis here is on putting in place appropriate mechanisms to pre-empt, identify, assess and manage community concerns, so that potentially serious issues and legitimate grievances do not go unaddressed.
+Future-Fit-Unternehmen unternehmen alle möglichen Schritte, um sicherzustellen, dass ihre Präsenz keine negativen Auswirkungen auf die umliegenden Gemeinden hat. Der Schwerpunkt liegt hier auf der Einrichtung geeigneter Mechanismen zur Vorbeugung, Identifizierung, Bewertung und Bewältigung von Anliegen der Gemeinschaft, damit potenziell schwerwiegende Probleme und berechtigte Beschwerden nicht unberücksichtigt bleiben.
 
-To be Future-Fit a company must: (a) seek to anticipate and avoid concerns from communities potentially affected by its activities; (b) impartially assess any concerns that do arise; and (c) ensure it effectively and transparently manages those concerns.
+Um zukunftsfähig zu sein, muss ein Unternehmen: (a) versuchen, Bedenken von Gemeinschaften, die möglicherweise von seinen Aktivitäten betroffen sind, zu antizipieren und zu vermeiden; (b) alle auftretenden Bedenken unparteiisch beurteilen; und (c) sicherzustellen, dass diese Bedenken wirksam und transparent gehandhabt werden.
 
-#### 1.2 Why this goal is needed {-#be09-why-goal-needed}
+#### 1.2. Warum dieses Ziel erforderlich ist {-#be09-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **The implications for not identifying and managing community concerns can be significant for both the community and the company.** A chemical leak from a plant owned by DuPont was linked to a range of ailments in the surrounding community, including cancers, and resulting in a class action lawsuit brought by more than 3,500 people, and eventually settled for $671 million. @Ara171
-- **Disputes over land rights between communities and businesses can impact both parties.** A survey of 360 cases in which privately-financed projects met resistance from local populations found that half resulted in material financial impact on the company, through interruption to operations, damage to company assets, reputation, or fines. @Tmp16
+- **Die Auswirkungen, wenn gemeinschaftliche Anliegen nicht erkannt und bewältigt werden, können sowohl für die Gemeinschaft als auch für das Unternehmen erheblich sein.** Ein Chemieleck aus einer DuPont-Anlage wurde mit einer Reihe von Krankheiten in der umliegenden Bevölkerung in Verbindung gebracht, darunter Krebserkrankungen, und führte zu einer Sammelklage von mehr als 3.500 Personen, die schließlich mit einem Vergleich in Höhe von 671 Millionen US-Dollar endete. @Ara171
+- **Streitigkeiten über Landrechte zwischen Gemeinden und Unternehmen können sich auf beide Parteien auswirken.** Eine Untersuchung von 360 Fällen, in denen privat finanzierte Projekte auf den Widerstand der örtlichen Bevölkerung stießen, ergab, dass die Hälfte davon erhebliche finanzielle Auswirkungen auf das Unternehmen hatte, etwa durch Betriebsunterbrechungen, Schäden an Unternehmensvermögen, Rufschädigung oder Geldstrafen. @Tmp16
 
-#### 1.3 How this goal contributes to the SDGs {-#be09-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be09-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by safeguarding the health of communities, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie die Gesundheit der Gemeinden schützen und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to enhance inclusive and sustainable urbanization, and efforts to protect and safeguard the world's cultural and natural heritage. |
-| ![SDG 16](assets/sdg/sdg-16.svg) | Support efforts to ensure responsive, inclusive, participatory and representative decision-making at all levels. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | Unterstützen Sie Maßnahmen zur Förderung einer inklusiven und nachhaltigen Urbanisierung sowie zum Schutz und zur Erhaltung des kulturellen und natürlichen Erbes der Welt. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | Unterstützen Sie Maßnahmen, die darauf abzielen, eine responsive, inklusive, partizipative und repräsentative Entscheidungsfindung auf allen Ebenen zu gewährleisten. |
 </div>
 
-#### 1.4 Related goals {-#be09-related-goals}
+#### 1.4 Verwandte Ziele {-#be09-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Operations do not encroach on ecosystems or communities:**](#be08) The _Operations do not encroach_ goal seeks to ensure that companies do not undermine the wellbeing of communities by encroaching on them. The _Community health_ goal complements this by ensuring that if any concerns _do_ arise, the company deals with them effectively.
+- [**Betriebsaktivitäten beeinträchtigen keine Ökosysteme oder Gemeinden:**](#be08) Das Ziel _Betriebsaktivitäten beeinträchtigen keine Ökosysteme oder Gemeinden_ soll sicherstellen, dass Unternehmen das Wohlergehen von Gemeinden nicht durch Eingriffe in diese untergraben. Das Ziel _Gesundheit der Gemeinschaft_ ergänzt dies, indem es sicherstellt, dass das Unternehmen etwaige Bedenken, sollten sie auftreten, wirksam angeht.
 
-### 2. Action {-#be09-action}
+### 2. Aktion {-#be09-action}
 
-#### 2.1 Getting started {-#be09-getting-started}
+#### 2.1 Erste Schritte {-#be09-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Companies need to be conscious of the impact their operations have on their physical surroundings. Buildings, transportation routes, and other aspects of the business might adversely and unexpectedly disrupt local communities and the ecosystems they depend upon. Companies should take active steps to pre-empt and avoid such disruption, but it is unlikely that all issues will be anticipated before they arise. For that reason, companies must ensure that people living in communities which may be impacted by their presence have ready access to and are aware of a concerns mechanism, which enables any issues to be raised and dealt with effectively.
+Unternehmen müssen sich der Auswirkungen bewusst sein, die ihre Geschäftstätigkeit auf ihre physische Umgebung hat. Gebäude, Transportwege und andere Aspekte der Geschäftstätigkeit können lokale Gemeinden und die Ökosysteme, von denen diese abhängig sind, unerwartet und nachteilig beeinträchtigen. Unternehmen sollten aktive Maßnahmen ergreifen, um solche Störungen vorzubeugen und zu vermeiden. Es ist jedoch unwahrscheinlich, dass alle Probleme vor ihrem Auftreten vorhergesehen werden können. Aus diesem Grund müssen Unternehmen sicherstellen, dass Menschen, die in Gemeinden leben, die von ihrer Präsenz betroffen sein könnten, einfachen Zugang zu einem Beschwerdemechanismus haben und über diesen informiert sind, der es ermöglicht, Probleme anzusprechen und effektiv zu lösen.
 
-The nature of potential concerns from the community will likely change over time as the both the community and the company's operations grow and change. Because of this, companies should continuously seek to anticipate and avoid concerns, and to improve how it responds to them. The first steps should be to assess the physical extent of the impacts of its operations, and to establish lines of communication with the communities in those places impacted. It can then identify and pursue opportunities for improvement.
+Die Art potenzieller Bedenken der Gemeinschaft wird sich wahrscheinlich im Laufe der Zeit ändern, da sowohl die Gemeinschaft als auch die Geschäftstätigkeit des Unternehmens wachsen und sich verändern. Aus diesem Grund sollten Unternehmen kontinuierlich danach streben, Bedenken zu antizipieren und zu vermeiden und ihre Reaktion darauf zu verbessern. Die ersten Schritte sollten darin bestehen, das physische Ausmaß der Auswirkungen des Betriebs zu bewerten und Kommunikationswege mit den Gemeinden an den betroffenen Orten einzurichten. Anschließend können Verbesserungsmöglichkeiten identifiziert und verfolgt werden.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Which aspects of the company's operations have a physical impact on local communities or ecosystems? {-}
+###### Welche Aspekte der Geschäftstätigkeit des Unternehmens haben physische Auswirkungen auf lokale Gemeinschaften oder Ökosysteme? {-}
 
-- Does the company own or operate from fixed sites, such as offices or factories? Where are these located? What activities take place in each location? Do any business activities occur away from these company-controlled sites?
-- What is known about the areas in which the company has fixed sites? Which other companies or communities have a presence in those areas? What information is available on the current state of natural ecosystems in those areas?
-- When the company is planning a new building or location, what internal controls are involved in the decision process? Are social or environmental impacts considered? If so, how are those impacts weighed against other factors, like cost?
+- Besitzt das Unternehmen feste Standorte wie Büros oder Fabriken oder betreibt es solche? Wo befinden sich diese? Welche Aktivitäten finden an den einzelnen Standorten statt? Finden geschäftliche Aktivitäten auch außerhalb dieser vom Unternehmen kontrollierten Standorte statt?
+- Was ist über die Gegenden bekannt, in denen das Unternehmen feste Standorte unterhält? Welche anderen Unternehmen oder Gemeinschaften sind in diesen Gegenden präsent? Welche Informationen liegen über den aktuellen Zustand der natürlichen Ökosysteme in diesen Gegenden vor?
+- Welche internen Kontrollen sind in den Entscheidungsprozess einbezogen, wenn das Unternehmen ein neues Gebäude oder einen neuen Standort plant? Werden soziale oder ökologische Auswirkungen berücksichtigt? Wenn ja, wie werden diese Auswirkungen im Vergleich zu anderen Faktoren wie den Kosten abgewogen?
 
-###### How might the company's presence influence local communities? {-}
+###### Wie könnte sich die Präsenz des Unternehmens auf die lokalen Gemeinschaften auswirken? {-}
 
-- What key inputs does the company rely on to operate in each location (e.g. water, energy, raw materials)? Is the company's need for these inputs likely to be a cause for concern to local communities (e.g. if water is scarce in that region)?
-- What types of by-products or emissions result from operational activities (gaseous, liquid and solid emissions, physical waste)? Where do those substances end up?
-- Is any physical disruption – such as changes in land use – caused by operational activities? Is that disruption temporary and reversible, or permanent?
-- Does the company currently have mechanisms in place to engage community members – or groups representing them – and actively solicit their concerns in each location? If so, are those mechanisms tailored to local circumstances (e.g. adjusted for cultural differences, community access to different communication mediums)?
-- Is a named individual responsible for anticipating and following up on community concerns at each company location?
+- Auf welche wichtigen Inputs ist das Unternehmen angewiesen, um an den einzelnen Standorten tätig zu sein (z. B. Wasser, Energie, Rohstoffe)? Ist der Bedarf des Unternehmens an diesen Inputs möglicherweise ein Grund zur Sorge für die örtlichen Gemeinden (z. B. wenn in dieser Region Wasser knapp ist)?
+- Welche Arten von Nebenprodukten oder Emissionen entstehen aus betrieblichen Tätigkeiten (gasförmige, flüssige und feste Emissionen, physische Abfälle)? Wo landen diese Substanzen?
+- Werden physische Störungen – wie etwa Landnutzungsänderungen – durch betriebliche Aktivitäten verursacht? Ist diese Störung vorübergehend und reversibel oder dauerhaft?
+- Verfügt das Unternehmen derzeit über Mechanismen, um Mitglieder der Gemeinschaft – oder Gruppen, die diese vertreten – einzubeziehen und an jedem Standort aktiv nach ihren Anliegen zu fragen? Wenn ja, sind diese Mechanismen auf die lokalen Gegebenheiten zugeschnitten (z. B. angepasst an kulturelle Unterschiede, den Zugang der Gemeinschaft zu verschiedenen Kommunikationsmedien)?
+- Gibt es an jedem Unternehmensstandort eine namentlich benannte Person, die dafür verantwortlich ist, Anliegen der Gemeinschaft zu antizipieren und weiterzuverfolgen?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### What are the best opportunities for making progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Are local organizations actively challenging the company's activities at any of its locations? If so, has the company already started to engage with them?
-- In which locations would disputes with community members carry a high potential for reputational risk?
-- Do any company activities take place in or close to critical ecosystems, near vulnerable or isolated communities, or in relatively undeveloped areas?
+- Stellen lokale Organisationen aktiv die Aktivitäten des Unternehmens an einem seiner Standorte in Frage? Wenn ja, hat das Unternehmen bereits mit der Zusammenarbeit begonnen?
+- An welchen Orten bergen Streitigkeiten mit Gemeindemitgliedern ein hohes Reputationsrisiko?
+- Finden Unternehmensaktivitäten in oder in der Nähe kritischer Ökosysteme, in der Nähe gefährdeter oder isolierter Gemeinden oder in relativ unerschlossenen Gebieten statt?
 
-###### Which potential improvements would be the easiest to implement? {-}
+###### Welche potenziellen Verbesserungen wären am einfachsten umzusetzen? {-}
 
-- Does the company have any locations that have already established dialogues with local communities? Could any proven models be replicated elsewhere in the company? Is there guidance available from industry groups, regulatory bodies, or community advocates on the best ways to communicate with local groups?
-- Do opportunities exist to collaborate with local groups and/or other companies on how to tackle regional challenges (e.g. water scarcity, pollution)?
-- Could improvements be made without significant investment in systems or staffing (e.g. through appointing named individuals, or introducing new incentives, to ensure concerns are addressed)? What approvals or internal changes would be required?
+- Gibt es Standorte des Unternehmens, an denen bereits ein Dialog mit den lokalen Gemeinschaften besteht? Könnten bewährte Modelle an anderen Standorten des Unternehmens übernommen werden? Gibt es Leitlinien von Branchenverbänden, Aufsichtsbehörden oder Interessenvertretern der lokalen Gemeinschaften dazu, wie man am besten mit lokalen Gruppen kommuniziert?
+- Gibt es Möglichkeiten zur Zusammenarbeit mit lokalen Gruppen und/oder anderen Unternehmen bei der Bewältigung regionaler Herausforderungen (z. B. Wasserknappheit, Umweltverschmutzung)?
+- Könnten Verbesserungen ohne erhebliche Investitionen in Systeme oder Personal vorgenommen werden (z. B. durch die Ernennung benannter Personen oder die Einführung neuer Anreize, um sicherzustellen, dass Bedenken berücksichtigt werden)? Welche Genehmigungen oder internen Änderungen wären erforderlich?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^2#be09-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+- Über das hinaus, was zur Erreichung dieses Ziels erforderlich ist: Kann das Unternehmen etwas tun, um sicherzustellen, dass die Menschen die Fähigkeit und die Möglichkeit haben, ein erfülltes Leben zu führen?[^2#be09-2] Jede solche Maßnahme kann den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-people-capacity).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be09-pursuing}
+#### 2.2 Streben nach Zukunftsfähigkeit {-#be09-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-The company must identify all communities which may have legitimate concerns about its activities, and in particular those which are at risk of being significantly impacted.[^3#be09-3] For each community, the company must then ensure that suitable controls are in place to avoid potential issues, and to address concerns as they arise.
+Das Unternehmen muss alle Gemeinschaften ermitteln, die berechtigte Bedenken hinsichtlich seiner Aktivitäten haben könnten, insbesondere diejenigen, die von erheblichen Auswirkungen bedroht sind.[^3#be09-3] Für jede dieser Gemeinschaften muss das Unternehmen dann sicherstellen, dass geeignete Kontrollmaßnahmen vorhanden sind, um potenzielle Probleme zu vermeiden und auftretende Bedenken anzugehen.
 
-###### Identifying communities which may be affected by company activities {-}
+###### Ermittlung von Gemeinschaften, die von den Aktivitäten des Unternehmens betroffen sein könnten {-}
 
-The company should identify all communities which may be affected by:
+Das Unternehmen sollte alle Gemeinden identifizieren, die möglicherweise betroffen sind durch:
 
-- Any activities undertaken at company-controlled sites;
-- The transport of materials and goods to, from and between its sites;
-- Any off-site company activities, including its use of remote assets.
+- alle Aktivitäten, die an vom Unternehmen kontrollierten Standorten durchgeführt werden;
+- den Transport von Materialien und Gütern zu, von und zwischen seinen Standorten;
+- jegliche Aktivitäten außerhalb des Unternehmensstandorts, einschließlich der Nutzung entfernter Ressourcen.
 
-Note that _proximity_ of communities to company activities is not the only factor that should be considered. For example, if a company site consumes significant amounts of water from a local river, it could impact communities far downstream.
+Beachten Sie, dass die Nähe der Gemeinden zu Unternehmensaktivitäten nicht der einzige Faktor ist, der berücksichtigt werden sollte. Wenn beispielsweise ein Unternehmensstandort erhebliche Mengen Wasser aus einem örtlichen Fluss verbraucht, könnte dies Auswirkungen auf Gemeinden weiter flussabwärts haben.
 
-###### Identifying at-risk communities {-}
+###### Identifizierung gefährdeter Gemeinschaften {-}
 
-For every identified community, the company should seek to determine the potential for any of its activities to cause a negative impact. A good starting point would be to check whether sufficient attention is being given to other operational Break-Even Goals.
+Für jede ermittelte Gemeinschaft sollte das Unternehmen versuchen, das Potenzial für negative Auswirkungen seiner Aktivitäten zu ermitteln. Ein guter Ausgangspunkt wäre die Überprüfung, ob anderen operativen Break-Even-Zielen ausreichend Aufmerksamkeit geschenkt wird.
 
-For example, legitimate concerns may be raised if the company is: emitting hazardous substances; accumulating waste; generating excess noise or odours; over-utilizing water or limited local resources; or creating or removing jobs to such a degree that community-wide employment levels are affected.
+Beispielsweise können berechtigte Bedenken aufkommen, wenn das Unternehmen: gefährliche Stoffe emittiert; Abfälle ansammelt; übermäßigen Lärm oder Gerüche verursacht; Wasser oder begrenzte lokale Ressourcen übermäßig nutzt; oder Arbeitsplätze in einem solchen Ausmaß schafft oder abbaut, dass das Beschäftigungsniveau der gesamten Gemeinschaft beeinträchtigt wird.
 
-A community should be considered at risk of being impacted if:
+Eine Gemeinschaft sollte als gefährdet eingestuft werden, wenn:
 
-- It has been impacted by a similar activity[^4#be09-4] in the past;
-- It is being impacted now; or
-- It is likely to be impacted in the future unless sufficient measures are in place.
+- sie in der Vergangenheit von einer ähnlichen Aktivität betroffen war;[^4#be09-4]
+- sie derzeit betroffen ist; oder
+- sie in Zukunft wahrscheinlich betroffen sein wird, sofern keine ausreichenden Maßnahmen getroffen werden.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-To be Future-Fit, the company must identify the communities likely to be impacted by its operations, and take steps to anticipate, avoid and address any issues via an effective concerns mechanism. Drawing on third-party guidance[^5#be09-5], Figure 1 outlines the criteria that are deemed sufficient for future‑fitness. Note that additional requirements must be adhered to for at‑risk communities.
+Um zukunftsfähig zu sein, muss das Unternehmen die Gemeinschaften identifizieren, die von seinen Aktivitäten betroffen sein könnten, und Maßnahmen ergreifen, um etwaige Probleme durch einen wirksamen Beschwerdemechanismus zu antizipieren, zu vermeiden und zu lösen. Unter Rückgriff auf Leitlinien Dritter werden[^5#be09-5], in Abbildung 1 die Kriterien dargelegt, die als ausreichend für die Zukunftsfähigkeit angesehen werden. Es ist zu beachten, dass für gefährdete Gemeinschaften zusätzliche Anforderungen zu erfüllen sind.
 
 <div class="ff-figure">
-Figure 1: **Fitness criteria** for community concerns mechanisms.
+Abbildung 1: **Fitnesskriterien** für Mechanismen zur Berücksichtigung von Anliegen der Gemeinschaft.
 </div>
 
 <div class="table-3col table-blue">
-| Category | For all identified communities | For at-risk communities |
+| Kategorie | Für alle identifizierten Gemeinschaften | Für gefährdete Gemeinschaften |
 |:-:|:-|:-|
-| Ensure **legitimacy** | The concerns mechanism is designed not to exclude any manner of community concern. | Stakeholders from and/or representing the community are actively involved in the design of the concerns mechanism and are consulted on changes to existing mechanisms. |
-| Ensure **positive outcomes** | All concerns are resolved in a timely manner and without negatively impacting the health of the community, other people or the environment. | _No additional requirements._ |
-| Ensure **accessibility** | Information on the existence and use of the concerns mechanism is available and easily accessible. | Information on the existence and use of the concerns mechanism is actively communicated to communities.[^6#be09-6]<br/><br/>The company communicates using situationally-appropriate information channels. Any barriers that community members may face in accessing the concerns mechanism are overcome. |
-| Reduce **uncertainty** | At both corporate level and on a per-community basis, a team or individual is assigned responsibility for facilitating development and implementation of the concerns mechanism. | _No additional requirements._ |
-| Ensure **fairness** | In cases where the user of the concern mechanism may not be clear on their rights, or where there may be a conflict of interest for the company to manage concerns, those who raised the concern are provided with access to neutral and independent advice and expertise. | _No additional requirements._ |
-| Ensure **transparency** | Users of the concerns mechanism are fully informed throughout the process.<br/><br/>Any complaint – and the company’s response to it – is made available for public viewing, provided the complaint relates to the company activity or employees, and insofar as legal and confidentiality restrictions allow. | _No additional requirements._ |
-| Improve **continuously** | Anyone using the concerns mechanism is asked for feedback on how to improve it.<br/><br/>The performance of the concerns mechanism is monitored and regularly assessed.<br/><br/>When areas for improvement are identified, steps are taken to implement those improvements. | _No additional requirements._ |
-| Engage **actively** | _Not applicable._ | Community members or established groups that represent their interests are proactively consulted on issues of potential concern – and ahead of any change in company activity – that could impact community wellbeing. |
+| **Legitimität** gewährleisten | Der Mechanismus zur Meldung von Beschweden ist so konzipiert, dass keine Art von Anliegen der Gemeinschaft ausgeschlossen wird. | Interessengruppen aus der Gemeinschaft und/oder deren Vertreter:innen werden aktiv in die Gestaltung des Beschwerdemechanismus einbezogen und zu Änderungen bestehender Mechanismen konsultiert. |
+| **Positive Ergebnisse** sicherstellen | Alle Anliegen werden zeitnah und ohne negative Auswirkungen auf das Wohlergehen der Gemeinschaft, andere Menschen oder die Umwelt geklärt. | _Keine zusätzlichen Anforderungen._ |
+| **Barrierefreiheit** sicherstellen | Informationen über die Existenz und die Nutzung des Mechanismus zur Meldung von Beschweden sind verfügbar und leicht zugänglich. | Informationen über die Existenz und Nutzung des Beschwerdemechanismus werden den Gemeinschaften aktiv vermittelt.[^6#be09-6]<br/><br/>Das Unternehmen kommuniziert über situationsgerechte Informationskanäle. Etwaige Hindernisse, denen Mitglieder der Gemeinschaft beim Zugang zum Beschwerdemechanismus begegnen könnten, werden beseitigt. |
+| **Unsicherheit** verringern | Sowohl auf Unternehmensebene als auch auf Gemeindeebene wird ein Team oder eine Person damit beauftragt, die Entwicklung und Umsetzung des Beschwerdemechanismus zu koordinieren. | _Keine zusätzlichen Anforderungen._ |
+| **Fairness** sicherstellen | In Fällen, in denen den Nutzern des Beschwerdemechanismus ihre Rechte möglicherweise nicht klar sind oder in denen ein Interessenkonflikt für das Unternehmen bei der Bearbeitung von Beschwerden bestehen könnte, erhalten diejenigen, die die Beschwerde vorgebracht haben, Zugang zu neutraler und unabhängiger Beratung und Fachkompetenz. | _Keine zusätzlichen Anforderungen._ |
+| **Transparenz** gewährleisten | Die Nutzer:innen des Beschwerdemechanismus werden während des gesamten Prozesses umfassend informiert.<br/><br/>Jede Beschwerde – und die Reaktion des Unternehmens darauf – wird der Öffentlichkeit zugänglich gemacht, sofern sich die Beschwerde auf die Tätigkeit des Unternehmens oder seine Mitarbeiter:innen bezieht und soweit dies rechtlich und unter Berücksichtigung von Vertraulichkeitsbeschränkungen zulässig ist. | _Keine zusätzlichen Anforderungen._ |
+| **Kontinuierliche** verbesserung | Jede:r, der den Beschwerdemechanismus nutzt, wird um Feedback gebeten, wie dieser verbessert werden kann.<br/><br/>Die Leistung des Beschwerdemechanismus wird überwacht und regelmäßig bewertet.<br/><br/>Wenn Verbesserungsmöglichkeiten identifiziert werden, werden Maßnahmen ergriffen, um diese Verbesserungen umzusetzen. | _Keine zusätzlichen Anforderungen._ |
+| **Aktives** Engagement | _Nicht zutreffend._ | Mitglieder der Gemeinschaft oder etablierte Gruppen, die deren Interessen vertreten, werden proaktiv zu potenziellen Anliegen konsultiert – und zwar vor jeder Änderung der Unternehmensaktivitäten –, die sich auf das Wohlergehen der Gemeinschaft auswirken könnten. |
 </div>
 
-### 3. Assessment {-#be09-assessment}
+### 3. Bewertung {-#be09-assessment}
 
-#### 3.1 Progress indicators {-#be09-progress}
+#### 3.1 Fortschrittsindikatoren {-#be09-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Beurteilung des Fortschritts {-}
 
-This goal has one progress indicator. To calculate it the following steps are required:
+Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Identify communities which may be affected by the company's activities, and determine whether each one is at risk of negative impacts.
-- Assess each community against the fitness criteria.
-- Calculate company-wide progress across all communities.
+- Identifizieren Sie Gemeinden, die von den Aktivitäten des Unternehmens betroffen sein könnten, und bestimmen Sie, ob für jede einzelne das Risiko negativer Auswirkungen besteht.
+- Bewerten Sie jede Gemeinschaft anhand der Fitnesskriterien.
+- Berechnen Sie den unternehmensweiten Fortschritt über alle Gemeinschaften hinweg.
 
-##### Assessing fitness for community {-}
+##### Bewertung der Fitness für die Gemeinschaft {-}
 
-The community concerns mechanism is scored using the eight fitness criteria categories (legitimacy, positive outcomes, accessibility, reducing uncertainty, fairness, transparency, engage actively, improve continuously), as follows:
+Der Mechanismus zur Berücksichtigung von Anliegen der Gemeinschaft wird anhand der acht Kategorien von Fitnesskriterien (Legitimität, positive Ergebnisse, Zugänglichkeit, Verringerung von Unsicherheit, Fairness, Transparenz, aktive Einbindung, kontinuierliche Verbesserung) wie folgt bewertet:
 
-- **0% fit:** Any community that has not been assessed, or any community covered by a concerns mechanism that _does not_ live up to the two fitness criteria categories _Ensure legitimacy_ and _Ensure positive outcomes_.
+- **0 % Fitness:** Jede Gemeinschaft, die nicht bewertet wurde, oder jede Gemeinschaft, für die ein Mechanismus zur Berücksichtigung von Anliegen besteht, der die beiden Kategorien der Fitnesskriterien _Legitimität gewährleisten_ und _positive Ergebnisse gewährleisten_ nicht erfüllt.
 
-Communities covered by a concerns mechanism are scored as follows:
+Gemeinden, die unter einen Beteiligungsmechanismus fallen, werden wie folgt bewertet:
 
-- **30% fit** : _Ensure legitimacy_ and _Ensure positive outcomes_ criteria are satisfied.
-- **45% fit** : One additional criteria category is satisfied.
-- **60% fit** : Two additional criteria categories are satisfied.
-- **70% fit** : Three additional criteria categories are satisfied.
-- **80% fit** : Four additional criteria categories are satisfied.
-- **90% fit** : Five additional criteria categories are satisfied.
-- **100% fit** : All criteria categories are satisfied.
+- **30 % Übereinstimmung** : Die Kriterien _Gewährleistung der Legitimität_ und _Gewährleistung positiver Ergebnisse_ sind erfüllt.
+- **45 % Übereinstimmung** : Eine zusätzliche Kriterienkategorie ist erfüllt.
+- **60 % Übereinstimmung** : Zwei zusätzliche Kriterienkategorien sind erfüllt.
+- **70 % Passung** : Drei zusätzliche Kriterienkategorien sind erfüllt.
+- **80 % Übereinstimmung** : Vier zusätzliche Kriterienkategorien sind erfüllt.
+- **90 % Übereinstimmung** : Fünf zusätzliche Kriterienkategorien sind erfüllt.
+- **100 % passend** : Alle Kriterienkategorien sind erfüllt.
 
-##### Calculating company progress {-}
+##### Berechnung des Unternehmensfortschritts {-}
 
-Overall progress is calculated as follows:
+Der Gesamtfortschritt wird wie folgt berechnet:
 
-- Calculate progress as the weighted average fitness of the company's concerns mechanisms across all communities.
+- Der Fortschritt wird als gewichteter Durchschnitt der Fitness der Unternehmensmechanismen über alle Gemeinschaften hinweg berechnet.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F=\frac{0(C_{0\%})+0.3(C_{30\%})...+0.9(C_{90\%})+1(C_{100\%})}{C_T}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$C_{x\%}$$ | Is the number of communities for which the fitness score is x%, based on which of the eight fitness criteria categories are being met.[^7#be09-7] |
-| $$C_T$$ | Is the total number of communities identified during the reporting period. |
+| $$F$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$C_{x\%}$$ | ist die Anzahl der Gemeinschaften, für die der Fitnesswert x % beträgt, je nachdem, welche der acht Kategorien der Fitnesskriterien erfüllt sind.[^7#be09-7] |
+| $$C_T$$ | ist die Gesamtzahl der im Berichtszeitraum erfassten Gemeinden. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be09-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be09-example).
 
 <div class="callout-note">
-**How big should each 'community' be? It depends…**
+**Wie groß sollte jede 'Gemeinschaft' sein? Das kommt darauf an...**
 
-Communities vary in terms of their size, their surroundings, their demographic composition, and their primary forms of income and commerce. However, there is currently no generally accepted and objective way to quantify such differences. For this reason, an even-weighting method is employed here, such that each community effectively contributes the same proportion to the assessment of the company's progress.
+Gemeinden unterscheiden sich hinsichtlich ihrer Größe, ihrer Umgebung, ihrer demografischen Zusammensetzung sowie ihrer wichtigsten Einkommens- und Wirtschaftsquellen. Derzeit gibt es jedoch keine allgemein anerkannte und objektive Methode, um solche Unterschiede zu quantifizieren. Aus diesem Grund wird hier ein Verfahren mit gleicher Gewichtung angewendet, sodass jede Gemeinde effektiv den gleichen Anteil zur Bewertung des Fortschritts des Unternehmens beiträgt.
 
-Note that this may open up the potential for a company to try to 'game the system' by dividing up populations they have adequately addressed into several smaller communities. This would artificially inflate the total number of communities, and thus reduce the scoring contribution of any community for which concerns have _not_ been adequately addressed.
+Es ist zu beachten, dass dies einem Unternehmen die Möglichkeit eröffnen könnte, das System zu manipulieren, indem es Bevölkerungsgruppen, die bereits angemessen berücksichtigt wurden, in mehrere kleinere Gemeinden aufteilt. Dies würde die Gesamtzahl der Gemeinden künstlich erhöhen und somit den Beitrag zur Bewertung jeder Gemeinde verringern, deren Anliegen nicht angemessen berücksichtigt wurden.
 
-To counter this, companies should segment their communities at the largest scale that makes sense, given the nature of the impacts they face. For some issues, this will be local (e.g. noise affecting nearby villages). For others it may be broader (e.g. water use affecting everyone in a watershed). For people not at risk, it may even be appropriate to assess progress at a national level (e.g. handling customer complaints for a chain of retail stores).
+Um dem entgegenzuwirken, sollten Unternehmen ihre Gemeinschaften auf der größtmöglichen Ebene segmentieren, die angesichts der Art der Auswirkungen, denen sie ausgesetzt sind, sinnvoll ist. Bei manchen Themen ist dies auf lokaler Ebene der Fall (z. B. Lärmbelästigung in benachbarten Dörfern). Bei anderen kann der Umfang größer sein (z. B. Wassernutzung, die alle Menschen in einem Wassereinzugsgebiet betrifft). Für Menschen, die nicht gefährdet sind, kann es sogar angebracht sein, den Fortschritt auf nationaler Ebene zu bewerten (z. B. die Bearbeitung von Kundenbeschwerden für eine Einzelhandelskette).
 
-Whichever approach the company uses to identify and segment its various communities, it must be (a) clearly documented, and (b) applied consistently across all regions and reporting periods. See the _Context indicators_ section below.
+Unabhängig davon, welchen Ansatz das Unternehmen zur Identifizierung und Segmentierung seiner verschiedenen Gemeinschaften wählt, muss dieser (a) klar dokumentiert und (b) in allen Regionen und Berichtszeiträumen einheitlich angewendet werden. Siehe den Abschnitt _Kontextindikatoren_ weiter unten.
 </div>
 
 <div class="callout-note">
-**What should be done when no communities are identified**
+**Was ist zu tun, wenn keine Gemeinschaften identifiziert werden?**
 
-If a company is unable to identify any communities that are potentially affected by its activities, it should define one overarching community for every country in which it operates. This is to ensure that anyone who may wish to raise concerns about the company's activities, even if they are not obviously affected, has the means to do so.
+Wenn ein Unternehmen keine Gemeinschaften identifizieren kann, die potenziell von seinen Aktivitäten betroffen sind, sollte es für jedes Land, in dem es tätig ist, eine übergreifende Gemeinschaft definieren. Damit soll sichergestellt werden, dass jeder, der Bedenken hinsichtlich der Aktivitäten des Unternehmens äußern möchte, auch wenn er nicht offensichtlich betroffen ist, die Möglichkeit dazu hat.
 </div>
 
-#### 3.2 Context indicators {-#be09-context}
+#### 3.2 Kontextindikatoren {-#be09-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zu liefern, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total number of potentially affected communities {-}
+####### Gesamtzahl potenziell betroffener Gemeinden {-}
 
-To give an indication of the company's overall footprint in absolute terms, the total number of potentially affected communities should be reported.
+Um einen Anhaltspunkt für den gesamten Fußabdruck des Unternehmens in absoluten Zahlen zu geben, sollte die Gesamtzahl der potenziell betroffenen Gemeinden angegeben werden.
 
-####### Number of at-risk communities {-}
+####### Anzahl gefährdeter Gemeinden {-}
 
-To give an indication of where the company has the potential to cause a negative impact, the number of at-risk communities should be reported.
+Um einen Hinweis darauf zu geben, wo das Unternehmen das Potenzial hat, negative Auswirkungen zu verursachen, sollte die Anzahl der gefährdeten Gemeinden angegeben werden.
 
-####### Methodology used to identify potentially affected communities {-}
+####### Methodik zur Identifizierung potenziell betroffener Gemeinschaften {-}
 
-The company should provide a brief summary of the method used to identify and segment its communities, to explain how it derived the _Total number of potentially affected communities_ figure used to assess its overall progress.
+Das Unternehmen sollte eine kurze Zusammenfassung der Methode zur Identifizierung und Segmentierung seiner Gemeinden bereitstellen, um zu erläutern, wie es die Gesamtzahl der potenziell betroffenen Gemeinschaften ermittelt hat, die zur Bewertung seines Gesamtfortschritts herangezogen wird.
 
-For an example of how context indicators can be reported, see [here](#be09-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be09-example).
 
-### 4. Assurance {-#be09-assurance}
+### 4. Prüfung und Sicherheit {-#be09-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be09-assurance-why}
+#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be09-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be09-assurance-this-goal}
+#### 4.2 4.2 Empfehlungen für dieses Ziel {-#be09-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to ensure the company has identified the communities which are likely to be impacted by the company's operations. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify any impacted communities.
-- Document the approach used by the company to ensure that concern mechanisms are appropriate for, and accessible by, the communities being served. Retain any notes or materials generated from the application of this process to create an evidence trail. Assurers may use this information to help verify that the company has appropriate controls in place to facilitate feedback from impacted communities.
-- Document the process used to identify issues of concern that require proactive communication from the company to the community, including parameters or conditions used to make the distinction. Retain any notes or materials generated from the analysis of these issues, and from the application of the communication process. This will allow assurers to verify that the process is appropriate.
-- Document the method and frequency through which the company assesses the performance of the concern mechanisms. When these assessments identify opportunities for potential improvement, retain any evidence of actions taken by the company to implement processes that address them. Assurers may use this information to verify that an appropriate control is in place and is used.
+- Dokumentieren Sie die Methoden, mit denen sichergestellt wurde, dass das Unternehmen die Gemeinschaften ermittelt hat, die voraussichtlich von seinen Tätigkeiten betroffen sein werden. Eine Beschreibung der Ermittlungsmethode kann den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens das Risiko besteht, dass betroffene Gemeinschaften übersehen werden.
+- Dokumentieren Sie den vom Unternehmen verwendeten Ansatz, um sicherzustellen, dass die Beschwerdemechanismen für die betreuten Gemeinden geeignet und für diese zugänglich sind. Bewahren Sie alle Notizen oder Materialien auf, die bei der Anwendung dieses Prozesses entstanden sind, um einen Nachweispfad zu erstellen. Prüfer:innen können diese Informationen nutzen, um zu überprüfen, ob das Unternehmen über geeignete Kontrollmechanismen verfügt, um Rückmeldungen von betroffenen Gemeinschaften zu ermöglichen.
+- Dokumentieren Sie den Prozess, mit dem kritische Themen ermittelt werden, die eine aktive Kommunikation des Unternehmens gegenüber der Öffentlichkeit erfordern, einschließlich der Parameter oder Bedingungen, anhand derer diese Unterscheidung getroffen wird. Bewahren Sie alle Notizen und Unterlagen auf, die aus der Analyse dieser Themen sowie aus der Anwendung des Kommunikationsprozesses hervorgehen. Dies ermöglicht es den Prüfern, die Angemessenheit des Prozesses zu überprüfen.
+- Dokumentieren Sie die Methode und die Häufigkeit, mit der das Unternehmen die Leistung der Beschwerdemechanismen bewertet. Wenn bei diesen Bewertungen Möglichkeiten für potenzielle Verbesserungen festgestellt werden, bewahren Sie alle Nachweise über Maßnahmen auf, die das Unternehmen ergriffen hat, um Prozesse zur Behebung dieser Probleme zu implementieren. Die Prüfer:innen können diese Informationen nutzen, um zu überprüfen, ob eine angemessene Kontrolle vorhanden ist und angewendet wird.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfähigkeit systematisch sichern_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be09-additional}
+### 5. Zusätzliche Informationen {-#be09-additional}
 
-#### 5.1 Example {-#be09-example}
+#### 5.1 Beispiel {-#be09-example}
 
-ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space.
+ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen.
 
-The office is in a long-established commercial district. ACME identifies one potentially affected community, but due to the nature of the office's activities, does not classify it as at-risk. The company has a concerns mechanism in place that adheres to six of the fitness criteria categories, but community members are not given access to neutral and independent advice, and there is no team or individual within the office responsible for the concerns mechanism.
+Das Büro befindet sich in einem traditionsreichen Geschäftsviertel. ACME identifiziert eine potenziell betroffene Gemeinde, stuft diese jedoch aufgrund der Art der Büroaktivitäten nicht als gefährdet ein. Das Unternehmen verfügt über einen Beschwerdemechanismus, der sechs der Kategorien der Eignungskriterien erfüllt, doch haben Gemeindemitglieder keinen Zugang zu neutraler und unabhängiger Beratung, und es gibt innerhalb des Büros kein Team und keine Person, die für den Beschwerdemechanismus verantwortlich ist.
 
-The bottling plant is near a small village. One potentially affected community is identified, and because of the plant's operational activities – in particular the use of significant amounts of local water – it is classified as at-risk. The plant's control processes only satisfy the 'legitimacy', 'positive outcomes' and 'transparency' criteria categories.
+Die Abfüllanlage liegt in der Nähe eines kleinen Dorfes. Eine potenziell betroffene Gemeinde wurde identifiziert und aufgrund der betrieblichen Aktivitäten der Anlage – insbesondere der Nutzung erheblicher Mengen an lokalem Wasser – als gefährdet eingestuft. Die Kontrollprozesse der Anlage erfüllen lediglich die Kriterienkategorien „Legitimität“, „positive Ergebnisse“ und „Transparenz“.
 
-The company can now calculate its progress as:
+Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
 $$F=\frac{0(C_{0\%})+0.3(C_{30\%})...+1(C_{100\%})}{C_T}=\frac{0.8(1)+0.45(1)}{2}=63\%$$
 
-####### Context indicators {-}
+####### Kontextindikatoren {-}
 
-Total number of potentially affected communities: 2
+Gesamtzahl potenziell betroffener Gemeinden: 2
 
-Number of at-risk communities: 1
+Anzahl gefährdeter Gemeinden: 1
 
-Methodology used to identify potentially affected communities: The company decided to count a single (neighbouring) community for each site, having verified that the only off-site activity (transporting goods) does not disrupt people elsewhere.
+Zur Identifizierung potenziell betroffener Gemeinden verwendete Methodik: Das Unternehmen beschloss, für jeden Standort eine einzige (benachbarte) Gemeinde zu zählen, nachdem sichergestellt wurde, dass die einzige Aktivität außerhalb des Standorts (Warentransport) die Menschen an anderen Orten nicht stört.
 
-#### 5.2 Useful links {-#be09-links}
+#### 5.2 Nützliche Links {-#be09-links}
 
-##### The UN Guiding Principles on Business and Human Rights {-#be09-Un-pbhr}
+##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-#be09-Un-pbhr}
 
-The UN's Human Rights Council endorsed the [Guiding Principles](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) in 2011, which apply both to states and business enterprises.
+Der Menschenrechtsrat der Vereinten Nationen hat die [Leitprinzipien](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) im Jahr 2011 verabschiedet, die sowohl für Staaten als auch für Unternehmen gelten.
 
 ##### CSR Europe {-#be09-Csr-europe}
 
-CSR Europe is a leading European business network for corporate social responsibility. In 2013 it published the report [Assessing the effectiveness of company grievance mechanisms](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), which translated the UN's Guiding Principles into a recommended set of company actions.
+CSR Europe ist ein führendes europäisches Unternehmensnetzwerk für soziale Verantwortung von Unternehmen. Im Jahr 2013 veröffentlichte es den Bericht [Assessing the effectiveness of company grievance mechanisms](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), (Bewertung der Wirksamkeit von Beschwerdemechanismen in Unternehmen), in dem die Leitprinzipien der Vereinten Nationen in eine Reihe von Handlungsempfehlungen für Unternehmen umgesetzt wurden.
 
-##### The Office of the Compliance Advisor/Ombudsman (CAO) {-#be09-Miga}
+##### Das Büro des Compliance-Beraters/Ombudsmanns (CAO) {-#be09-Miga}
 
-CAO is the independent recourse mechanism for the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). It has released [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects.](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf)
+Das CAO ist die unabhängige Beschwerdestelle für die Internationale Finanz-Corporation (IFC) und die Multilaterale Investitionsgarantie-Agentur (MIGA). Es hat einen [ Leitfaden zur Konzeption und Umsetzung von Beschwerdemechanismen für Entwicklungsprojekte](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf) veröffentlicht.
 
 
-[^1#be09-1]: We use Global Reporting Initiative's definition of a (local) community: _Persons or groups of persons living and/or working in any areas that are economically, socially or environmentally impacted (positively or negatively) by an organization's operations._ @Gri16 See [**Key Terms & Definitions**](#def) for all key definitions.
+[^1#be09-1]: Wir verwenden die Definition der Global Reporting Initiative für eine (lokale) Gemeinschaft: Personen oder Personengruppen, die in Gebieten leben und/oder arbeiten, die durch die Geschäftstätigkeit einer Organisation wirtschaftlich, sozial oder ökologisch (positiv oder negativ) beeinflusst werden.@Gri16 Alle wichtigen Definitionen finden Sie unter [**Schlüsselbegriffe und Definitionen**](#def).
 
-[^2#be09-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^2#be09-2]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^3#be09-3]: Some company activities (e.g. running a retail store in a shopping centre) are far less likely to have a significant detrimental impact on the local community than others (e.g. manufacturing chemicals).
+[^3#be09-3]: Bei einigen Unternehmensaktivitäten (z. B. dem Betrieb eines Einzelhandelsgeschäfts in einem Einkaufszentrum) ist die Wahrscheinlichkeit weitaus geringer, dass sie erhebliche schädliche Auswirkungen auf die örtliche Gemeinschaft haben als bei anderen (z. B. die Herstellung von Chemikalien).
 
-[^4#be09-4]: Sometimes a company may not be the first organisation to undertake a specific activity in a particular place. For example, an extractives company may acquire and start operating an existing mine, and a food producer may purchase and farm an existing tract of arable land. Insofar as is possible, a company should consider any such historically similar activities when exploring whether a community was negatively impacted in the past.
+[^4#be09-4]: Manchmal ist ein Unternehmen nicht die erste Organisation, die eine bestimmte Aktivität an einem bestimmten Ort durchführt. Beispielsweise kann ein Rohstoffunternehmen ein bestehendes Bergwerk erwerben und in Betrieb nehmen, und ein Lebensmittelhersteller kann ein bestehendes Ackerland erwerben und bewirtschaften. Soweit möglich, sollte ein Unternehmen solche historisch ähnlichen Aktivitäten berücksichtigen, wenn es untersucht, ob eine Gemeinschaft in der Vergangenheit negativ beeinflusst wurde.
 
-[^5#be09-5]: In particular the [UN Principles on Business and Human Rights](#be09-Un-pbhr), [CSR Europe](#be09-Csr-europe) and the [IFC/MIGA](#be09-Miga).
+[^5#be09-5]: Insbesondere die [UN-Leitprinzipien für Wirtschaft und Menschenrechte](#be09-Un-pbhr), [CSR Europe](#be09-Csr-europe) und die [IFC/MIGA](#be09-Miga).
 
-[^6#be09-6]: The _Ensure accessibility_ category references 'active communication', which means that the company has taken specific actions to make communities aware of a concerns mechanism and how to use it. Active communication might include, but is not limited to, distributed printed materials, company websites, and physical notices at sites or on vehicles controlled by the company.
+[^6#be09-6]: Die Kategorie _Barrierefreiheit sicherstellen_ bezieht sich auf _aktive Kommunikation_, was bedeutet, dass das Unternehmen konkrete Maßnahmen ergriffen hat, um die Gemeinschaften über einen Beschwerdemechanismus und dessen Nutzung zu informieren. Aktive Kommunikation kann unter anderem die Verteilung von Drucksachen, Unternehmenswebsites und physische Aushänge an Standorten oder auf Fahrzeugen umfassen.
 
-[^7#be09-7]: For example, would be the number of communities for which a concerns mechanism is in place which meets five of the eight fitness criteria categories, including _Ensure legitimacy_ and _Ensure positive outcomes_.
+[^7#be09-7]: Dies wäre beispielsweise die Anzahl der Communities, für die ein Bedenkenmechanismus vorhanden ist, der fünf der acht Eignungskriterienkategorien erfüllt, darunter _Legitimität gewährleisten_ und _Positive Ergebnisse sicherstellen_.
