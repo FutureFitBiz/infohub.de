@@ -2,300 +2,300 @@
 output: github_document
 ---
 
-## BE11: Living Wage {-#be11}
+## BE11: Existenzminimum {-#be11}
 
-<div class="subtitle">Employees are paid at least a living wage
+<div class="subtitle">Die Beschäftigten erhalten mindestens einen existenzsichernden Lohn
 </div>
 
 ### 1. Ambition {-#be11-ambition}
 
-A Future-Fit Business pays all workers in all regions enough to meet their basic needs and secure essential services for themselves and their families.
+Ein zukunftsfähiges Unternehmen bezahlt allen Arbeitnehmer:innen in allen Regionen ausreichend Geld, um ihre Grundbedürfnisse zu decken und wesentliche Dienstleistungen für sich und ihre Familien sicherzustellen.
 
-#### 1.1 What this goal means {-#be11-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be11-what-goal-means}
 
-A company should ensure all its employees and their families have the means to afford health coverage, to eat a nutritious diet and to be free of concerns about meeting basic needs.
+Ein Unternehmen sollte sicherstellen, dass alle seine Mitarbeiter:innen und ihre Familien über die Mittel verfügen, sich eine Krankenversicherung zu leisten, sich ausgewogen zu ernähren und sich keine Sorgen um ihre Grundversorgung machen zu müssen.
 
-A living wage affords a decent standard of living for workers and their families. Living wage estimates vary by region and guidance is offered by government agencies, academics and/or NGOs. In many regions, the living wage is higher than the legal minimum wage or poverty-line wage. Living wage calculations should focus on employee compensation with respect to standard working hours: figures should exclude overtime pay as well as productivity bonuses and allowances, unless they are guaranteed.
+Ein existenzsichernder Lohn ermöglicht den Arbeitnehmer:innen und ihren Familien einen angemessenen Lebensstandard. Schätzungen zum existenzsichernden Lohn variieren je nach Region und Beratung wird von Regierungsbehörden, Wissenschaftlern und/oder NGOs angeboten. In vielen Regionen liegt der existenzsichernde Lohn über dem gesetzlichen Mindestlohn oder dem Armutsgrenzlohn. Bei der Berechnung existenzsichernder Löhne sollte der Schwerpunkt auf der Vergütung im Hinblick auf die Standardarbeitszeit liegen: Die Zahlen sollten Überstundenvergütung sowie Produktivitätsprämien und Zulagen ausschließen, sofern diese nicht garantiert sind.
 
-To be Future-Fit a company must pay all its employees at least a living wage.
+Um zukunftsfähig zu sein, muss ein Unternehmen allen Mitarbeiter:innen mindestens einen existenzsichernden Lohn zahlen.
 
-#### 1.2 Why this goal is needed {-#be11-why-goal-needed}
+#### 1.2 Warum dieses Ziel erforderlich ist {-#be11-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Being employed does not preclude living in poverty.** In the UK in 2014/15, there were 2.9 million people in work classed as living in poverty. @Tin16
-- **Wages in many developed countries have remained stagnant or fallen for many years, relative to inflation.** For instance, since 2000, normal weekly wages in the US have fallen 3.7% (in real terms) among workers in the lowest tenth of the earnings distribution, and 3.0% among the lowest quarter. @Des14
+- **Eine Erwerbstätigkeit schließt ein Leben in Armut nicht aus.** Im Vereinigten Königreich lebten im Jahr 2014/15 2,9 Millionen Menschen in Armut. @Tin16
+- **In vielen Industrieländern stagnieren die Löhne im Verhältnis zur Inflation oder sind seit vielen Jahren gesunken.** Beispielsweise sind die normalen Wochenlöhne in den USA seit dem Jahr 2000 bei Arbeitnehmern im untersten Zehntel der Einkommensverteilung real um 3,7 % und im untersten Viertel um 3,0 % gesunken. @Des14
 
-#### 1.3 How this goal contributes to the SDGs {-#be11-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be11-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by paying their employees a living wage, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie ihren Mitarbeiter:innen einen existenzsichernden Lohn zahlen und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 1](assets/sdg/sdg-1.svg) | Support efforts to provide access to basic services, and to reduce people's exposure and vulnerability to economic, social and environmental shocks. |
-| ![SDG 2](assets/sdg/sdg-2.svg) | Support efforts to ensure everyone has access to safe and nutritious food. |
-| ![SDG 3](assets/sdg/sdg-3.svg) | Support efforts to achieve universal health coverage, including financial risk protection, access to quality essential health-care services and affordable essential medicines and vaccines. |
-| ![SDG 6](assets/sdg/sdg-6.svg) | Supports efforts to ensure access for all to clean water for drinking and sanitation. |
-| ![SDG 8](assets/sdg/sdg-8.svg) | Support efforts to achieve full and productive employment and decent work for all women and men. |
-| ![SDG 10](assets/sdg/sdg-10.svg) | Support efforts to empower and promote the economic inclusion of all, and to encourage financial flows to areas where the need is greatest. |
-| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to ensure access for all to adequate, safe and affordable housing and basic services including transport. |
+| ![SDG 1](assets/sdg/sdg-1.svg) | Unterstützung von Bemühungen, den Zugang zu grundlegenden Dienstleistungen zu gewährleisten und die Gefährdung und Anfälligkeit der Menschen gegenüber wirtschaftlichen, sozialen und ökologischen Schocks zu verringern. |
+| ![SDG 2](assets/sdg/sdg-2.svg) | Unterstützung von Bemühungen, sicherzustellen, dass jeder Zugang zu sicheren und nahrhaften Lebensmitteln hat. |
+| ![SDG 3](assets/sdg/sdg-3.svg) | Unterstützung von Bemühungen zur Verwirklichung einer universellen Gesundheitsversorgung, einschließlich finanzieller Risikosicherung, Zugang zu hochwertigen grundlegenden Gesundheitsdienstleistungen sowie erschwinglichen grundlegenden Medikamenten und Impfstoffen. |
+| ![SDG 6](assets/sdg/sdg-6.svg) | Unterstützung von Bemühungen, den Zugang zu sauberem Trinkwasser und sanitären Einrichtungen für alle sicherzustellen. |
+| ![SDG 8](assets/sdg/sdg-8.svg) | Unterstützung von Bemühungen zur Verwirklichung von Vollbeschäftigung und produktiver Beschäftigung sowie menschenwürdiger Arbeit für alle Frauen und Männer. |
+| ![SDG 10](assets/sdg/sdg-10.svg) | Unterstützung von Bemühungen zur Stärkung und Förderung der wirtschaftlichen Teilhabe aller sowie zur Förderung von Finanzströmen in Gebiete, in denen der Bedarf am größten ist. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | Unterstützung von Bemühungen, den Zugang zu angemessenem, sicherem und bezahlbarem Wohnraum sowie zu grundlegenden Dienstleistungen, einschließlich Verkehr, für alle sicherzustellen. |
 </div>
 
-#### 1.4 Related goals {-#be11-related-goals}
+#### 1.4 Verwandte Ziele {-#be11-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Living wage_ goal applies to a company's full and part-time employees. Wages paid by the company's suppliers are covered by the _Procurement_ goal. To determine whether a worker should be considered to be an employee or an independent contractor (i.e. and so treated as a supplier) see the [**Implementation Guide**](#ig-determining-employee).
+- [**Beschaffung sichert das Streben nach Zukunftsfähigkeit:**](#be04)Das existenzsichernde Lohnziel gilt für die Voll- und Teilzeitbeschäftigten eines Unternehmens. Die von den Lieferanten des Unternehmens gezahlten Löhne fallen unter das Beschaffungsziel. Um zu bestimmen, ob ein:e Arbeitnehmer:in als Angestellte:r oder als unabhängige:r Auftragnehmer:in betrachtet werden sollte (d. h. und somit als Lieferant behandelt wird), siehe [**Implementierungsleitfaden**](#ig-determining-employee).
 
-### 2. Action {-#be11-action}
+### 2. Aktion {-#be11-action}
 
-#### 2.1 Getting started {-#be11-getting-started}
+#### 2.1 Erste Schritte {-#be11-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Poverty is a serious problem in many parts of the world, and is an issue that businesses are well positioned to address. For companies to be sure they are helping to resolve this issue, they must at a minimum ensure that they are not systematically keeping any of their workers in a state of poverty by paying them less than they need to meet the basic needs of themselves and their families.
+Armut ist in vielen Teilen der Welt ein ernstes Problem, und Unternehmen sind gut aufgestellt, um hier etwas zu bewirken. Damit Unternehmen sicher sein können, dass sie zur Lösung dieses Problems beitragen, müssen sie zumindest sicherstellen, dass sie ihre Beschäftigten nicht systematisch in Armut halten, indem sie ihnen weniger zahlen, als sie benötigen, um ihre Grundbedürfnisse und die ihrer Familien zu decken.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company have public commitments or internal targets related to paying employees a living wage? {-}
+###### Verfügt das Unternehmen über öffentliche Verpflichtungen oder interne Ziele im Zusammenhang mit der Zahlung eines existenzsichernden Lohns für die Mitarbeiter:innen? {-}
 
-- If so, what is the timeframe the company has set for achieving these targets? What measurements is the company using to define success? Is the company collaborating with any other organizations to achieve these aims?
-- If not, are there any external factors in markets where the company operates which may force it to reassess its wage levels in the near future? Examples include upcoming legislation, pressure from consumer activist groups in the industry, or competitor commitments.
+- Wenn ja, welchen Zeitrahmen hat sich das Unternehmen gesetzt, um diese Ziele zu erreichen? Anhand welcher Messgrößen definiert das Unternehmen den Erfolg? Arbeitet das Unternehmen mit anderen Organisationen zusammen, um diese Ziele zu erreichen?
+- Wenn nicht, gibt es in den Märkten, in denen das Unternehmen tätig ist, externe Faktoren, die es dazu zwingen könnten, sein Lohnniveau in naher Zukunft neu zu bewerten? Beispiele hierfür sind bevorstehende Gesetze, Druck von Verbraucherschutzgruppen in der Branche oder Verpflichtungen von Wettbewerbern.
 
-###### For companies with multiple locations or divisions, where do decisions on wages get made? {-}
+###### Wo werden in Unternehmen mit mehreren Standorten oder Geschäftsbereichen Entscheidungen über die Löhne getroffen? {-}
 
-- Is there a centralized Human Resources department with discretion over compensation rates? Or do different regions or functional departments have control over wage levels?
-- If there are multiple groups or individuals with the authority to determine wages, are they coordinated in their approach?
-- Does the company know the living wage in each region where it has employees? How were these figures determined? What timeframe do they relate to?
+- Gibt es eine zentrale Personalabteilung, die über die Vergütungssätze entscheidet? Oder haben verschiedene Regionen oder Fachabteilungen die Kontrolle über das Lohnniveau?
+- Falls es mehrere Gruppen oder Personen gibt, die befugt sind, Löhne festzulegen, stimmen diese ihre Vorgehensweise untereinander ab?
+- Kennt das Unternehmen den existenzsichernden Lohn in jeder Region, in der es Mitarbeiter:innen beschäftigt? Wie wurden diese Zahlen ermittelt? Auf welchen Zeitrahmen beziehen sie sich?
 
-###### If there are regions where the company is unsure about whether it is paying a living wage, what obstacles are keeping it from making this determination? {-}
+###### Falls es Regionen gibt, in denen das Unternehmen nicht sicher ist, ob es einen existenzsichernden Lohn zahlt, welche Hindernisse stehen einer solchen Feststellung im Wege? {-}
 
-- Are there resource constraints to calculating the living wage in the relevant regions?
-- Do the company's systems make it hard to determine what its employees are paid?
+- Gibt es Ressourcenbeschränkungen bei der Berechnung des existenzsichernden Lohns in den relevanten Regionen?
+- DErschweren die Systeme des Unternehmens die Ermittlung der Gehälter seiner Mitarbeiter:innen?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### Where are the biggest opportunities to have a positive impact? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Which of the regions the company operates in have the largest number of employees?
-- Which regions have the lowest wage rates per unit of labour?
-- Have any regions or operational divisions been identified as an area of concern by either internal or external groups?
+- Welche der Regionen, in denen das Unternehmen tätig ist, hat die meisten Mitarbeiter:innen?
+- Welche Regionen haben die niedrigsten Lohnsätze pro Arbeitseinheit?
+- Wurden bestimmte Regionen oder Betriebsbereiche von internen oder externen Gruppen als Problembereiche identifiziert?
 
-###### Where can the company most easily make progress? {-}
+###### In welchen Bereichen kann das Unternehmen am einfachsten Fortschritte erzielen? {-}
 
-- For the areas where the company hasn't already identified a living wage threshold, is up-to-date data available from governments or NGO sources?
-- Do profit margins for specific regions or product lines allow for adjustment to wages without significantly disrupting the business model?
+- Gibt es für die Bereiche, in denen das Unternehmen noch keine Schwelle für existenzsichernde Löhne festgelegt hat, aktuelle Daten von Regierungen oder Nichtregierungsorganisationen?
+- Ermöglichen die Gewinnmargen für bestimmte Regionen oder Produktlinien eine Anpassung der Löhne, ohne das Geschäftsmodell wesentlich zu beeinträchtigen?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^1#be11-1] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+- Über das hinaus, was zur Erreichung dieses Ziels erforderlich ist: Kann das Unternehmen etwas tun, um sicherzustellen, dass die Menschen die Fähigkeit und die Möglichkeit haben, ein erfülltes Leben zu führen?[^1#be11-1] Jede derartige Maßnahme kann den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-people-capacity).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be11-pursuing}
+#### 2.2 Streben nach Zukunftsfähigkeit {-#be11-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-The two aspects that need to be addressed are to ensure the company has identified all its employees, and to ensure that those employees are all being paid at least a living wage.
+Die beiden Aspekte, die berücksichtigt werden müssen, sind zum einen, dass das Unternehmen alle seine Beschäftigten erfasst hat, und zum anderen, dass diese Beschäftigten alle mindestens einen existenzsichernden Lohn erhalten.
 
-###### Guidance on determining which workers are in scope as 'employees' {-}
+###### Leitlinien zur Feststellung, welche Arbeitskräfte als „Mitarbeiter:innen“ gelten {-}
 
-There are many different types of working relationships between a company and those contributing labour to its activities. It is important to distinguish who qualifies as a direct employee, and who is part of an outside organization providing services to the company. See the [**Implementation Guide**](#ig-determining-employee) for details on determining who is an employee.
+Es gibt viele verschiedene Arten von Arbeitsverhältnissen zwischen einem Unternehmen und denjenigen, die Arbeitsleistungen für dessen Tätigkeiten erbringen. Es ist wichtig zu unterscheiden, wer als direkte:r Mitarbeiter:in gilt und wer Teil einer externen Organisation ist, die Dienstleistungen für das Unternehmen erbringt. Einzelheiten zur Feststellung, wer als Mitarbeiter:in gilt, finden Sie im [**Implementierungsleitfaden**](#ig-determining-employee).
 
-###### Guidance on determining location-specific living wage thresholds {-}
+###### Leitfaden zur Ermittlung ortsspezifischer Schwellenwerte für existenzsichernde Löhne {-}
 
-There are several approaches a company may take to determine living wage thresholds:
+Es gibt verschiedene Ansätze, die ein Unternehmen verfolgen kann, um die Schwellenwerte für existenzsichernde Löhne festzulegen:
 
-- Use existing, up-to-date estimates from credible third parties. Methodologies vary, and using estimates from multiple sources across different regions is acceptable, as it may be impossible to obtain all required data from a single source.[^2#be11-2]
-- Partner with or commission a credible third party to undertake the calculations.
-- Undertake its own calculations (see [Guidance on minimum requirements in a living wage calculation](#be11-living-wage-calc)).
-- A combination of the above.
+- Verwendung bestehender, aktueller Schätzungen von glaubwürdigen Dritten. Die Methoden variieren, und die Verwendung von Schätzungen aus mehreren Quellen aus verschiedenen Regionen ist zulässig, da es unter Umständen unmöglich ist, alle erforderlichen Daten aus einer einzigen Quelle zu beziehen.[^2#be11-2]
+- Zusammenarbeit mit oder Beauftragung eines glaubwürdigen Dritten zur Durchführung der Berechnungen.
+- Eigenständige Berechnungen durchführen (siehe [Leitfaden zu den Mindestanforderungen](#be11-living-wage-calc) bei der Berechnung des existenzsichernden Lohns).
+- Eine Kombination der oben genannten Ansätze.
 
 <div class="callout-note">
-**Family vs. Individual living wages**
+**Existenzsichernde Löhne für Einzelpersonen vs. Familien**
 
-When looking for a living wage that has been calculated by a third party, companies may find that there are two options in some regions: an individual living wage, and a family living wage. The individual wage is based on the costs of supporting the needs of a single person in the region, whereas the family wage will also include supporting the needs of children and possibly a spouse, and is likely to be based on demographic data in the region about the average structure of families and number of workers per family.
+Bei der Suche nach einem von einer unabhängigen Stelle berechneten existenzsichernden Lohn stellen Unternehmen in manchen Regionen möglicherweise fest, dass es zwei Optionen gibt: einen existenzsichernden Lohn für Einzelpersonen und einen existenzsichernden Lohn für Familien. Der individuelle Lebenshaltungslohn basiert auf den Kosten für den Lebensunterhalt einer einzelnen Person in der Region, während der Familien-Lebenshaltungslohn auch die Kosten für den Unterhalt von Kindern und möglicherweise eines Ehepartners umfasst und sich wahrscheinlich auf demografische Daten der Region über die durchschnittliche Familienstruktur und die Anzahl der Erwerbstätigen pro Familie stützt.
 
-The accepted international best practice is to use the family wage. This is in line with the guidance in the section below about calculating a living wage.
+Als international anerkannte Best Practice gilt die Verwendung des Familienlohns. Dies steht im Einklang mit den Leitlinien im folgenden Abschnitt zur Berechnung eines existenzsichernden Lohns.
 </div>
 
-###### Guidance on minimum requirements in a living wage calculation {-#be11-living-wage-calc}
+###### GLeitlinien zu den Mindestanforderungen bei der Berechnung eines existenzsichernden Lohns {-#be11-living-wage-calc}
 
-A living wage is meant to cover the needs of a typical worker and their family in the region in which they live and work. When calculating a living wage[^3#be11-3], companies must therefore gain an understanding of both the typical family size in the region, and the number of full-time worker equivalents per couple, in order to understand the number of individuals dependent on each employee, and the cost of meeting basic needs for those individuals.
+Ein existenzsichernder Lohn soll die Bedürfnisse einer/s typischen Arbeitnehmerin/s und ihrer/seiner Familie in der Region decken, in der sie/er lebt und arbeitet. Bei der Berechnung eines existenzsichernden Lohns[^3#be11-3], müssen Unternehmen daher sowohl die typische Familiengröße in der Region als auch die Anzahl der Vollzeitäquivalente pro Paar ermitteln, um zu erfassen, wie viele Personen von jeder/m Arbeitnehmer:in abhängig sind und welche Kosten für die Deckung der Grundbedürfnisse dieser Personen anfallen.
 
-The minimum expenses to be included in addressing basic needs are:
+Die Mindestausgaben, die in die Deckung der Grundbedürfnisse einbezogen werden müssen, sind:
 
-- A low cost, nutritious diet meeting WHO recommendations for calories, macro- and micronutrients[^4#be11-4], consistent with local food preferences.
-- Potable water for consumption and sanitary / hygienic purposes.
-- Clothing costs, as regionally appropriate.
-- Transportation needs, as regionally appropriate.
-- Costs of any other regionally relevant basic needs identified, if applicable.
-- Education fees for the workers' children.
-- Decent housing, as defined by UN-HABITAT[^5#be11-5] and applicable regional standards for decent housing.
-- Healthcare needs.
-- A provision for unexpected events.[^6#be11-6]
+- Eine kostengünstige, nährstoffreiche Ernährung, die den Empfehlungen der WHO hinsichtlich Kalorien, Makro- und Mikronährstoffen entspricht[^4#be11-4], und den lokalen Ernährungsgewohnheiten gerecht wird.
+- Trinkwasser für den Verzehr sowie für sanitäre und hygienische Zwecke.
+- Kleidungskosten, entsprechend den regionalen Gegebenheiten.
+- Transportkosten, entsprechend den regionalen Gegebenheiten.
+- Gegebenenfalls Kosten für weitere identifizierte regional relevante Grundbedürfnisse.
+- Bildungsgebühren für die Kinder der Arbeiter.
+- Menschenwürdiger Wohnraum im Sinne von UN-HABITAT[^5#be11-5] und geltende regionale Standards für angemessenen Wohnraum.
+- Gesundheitsversorgung.
+- Eine Rückstellung für unerwartete Ereignisse.[^6#be11-6]
 
-In addition to covering the above expense types, the calculation should include consideration of the following contexts:
+Zusätzlich zur Abdeckung der oben genannten Ausgabenarten sollte die Berechnung die Berücksichtigung folgender Zusammenhänge umfassen:
 
-- A clear statement of the area it is meant to apply to.
-- The time period that it is calculated for.
-  - If the living wage is being calculated for anything other than the reporting period, an explanation must be provided as to why the figure being used is appropriate.
+- Eine klare Angabe des Bereichs, für den es gelten soll.
+- Der Zeitraum, für den es berechnet wird.
+  - Wenn der existenzsichernde Lohn für einen anderen Zeitraum als den Berichtszeitraum berechnet wird, muss erläutert werden, warum die verwendete Zahl angemessen ist.
 
-In accordance with the Global Living Wage Coalition methodology, a company should _exclude_ the following:
+Gemäß der Methodik der Global Living Wage Coalition sollte ein Unternehmen Folgendes ausschließen:
 
-- Overtime pay, because a living wage must be earned in standard working hours.
-- Productivity bonuses and allowances, unless they are guaranteed.
+- Überstundenvergütung, da in der Regelarbeitszeit ein existenzsichernder Lohn verdient werden muss.
+- Produktivitätsprämien und Zulagen, sofern diese nicht garantiert sind.
 
-###### Guidance on identifying wage levels of employees {-#be11-identifying-wage-levels}
+###### Leitlinien zur Ermittlung des Lohnniveaus von Beschäftigten {-#be11-identifying-wage-levels}
 
-When identifying employees' wages for comparison to the living wage for each region, it is not as simple as simply identifying the stated gross salary or hourly wage of an employee.
+Bei der Ermittlung der Löhne von Beschäftigten zum Vergleich mit dem existenzsichernden Lohn der jeweiligen Region reicht es nicht aus, lediglich das angegebene Bruttogehalt oder den Bruttostundenlohn eines Beschäftigten heranzuziehen.
 
-The reality for employees is that they rely on net or take-home pay, rather than gross amounts which often undergo mandatory deductions such as taxes before reaching the employee.
+In der Realität sind Arbeitnehmer:innen auf das Netto- oder Auszahlungsgehalt angewiesen und nicht auf Bruttobeträge, von denen oft obligatorische Abzüge wie Steuern abgezogen werden, bevor das Geld den Arbeitnehmer:innen erreicht.
 
-Moreover, when workers receive benefits that help them meet their basic needs, such as free healthcare or meals, these can be considered as supplements toward the net pay of workers. @Ank11
+Wenn Arbeitnehmer:innen zudem Leistungen erhalten, die ihnen helfen, ihre Grundbedürfnisse zu decken, wie kostenlose Gesundheitsversorgung oder Mahlzeiten, können diese als Zuschläge zum Nettogehalt der Arbeitnehmer betrachtet werden. @Ank11
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-In order to be Future-Fit, a company must ensure that it is paying each of its employees at least a living wage.
+Um zukunftsfähig zu sein, muss ein Unternehmen sicherstellen, dass es jedem seiner Mitarbeitenden mindestens einen existenzsichernden Lohn zahlt.
 
-### 3. Assessment {-#be11-assessment}
+### 3. Bewertung {-#be11-assessment}
 
-#### 3.1 Progress indicators {-#be11-progress}
+#### 3.1 Fortschrittsindikatoren {-#be11-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has one progress indicator. To calculate it the following steps are required:
+Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Assess the fitness of wage levels paid to individual employees.
-- Calculate company-wide progress as the percentage of employees being paid at least a living wage.
+- Bewerten Sie die Angemessenheit der an einzelne Mitarbeiter:in gezahlten Löhne.
+- Berechnen Sie den unternehmensweiten Fortschritt als Prozentsatz der Mitarbeiter:innen, die mindestens einen existenzsichernden Lohn erhalten.
 
-##### Assessing the fitness of wages paid to employees {-}
+##### Beurteilung der Angemessenheit der an Mitarbeiter:innen gezahlten Löhne {-}
 
-- Identify the living wage for each region the company operates in. In order for this criterion to be met, the wage threshold must at a minimum include the components listed in the section titled [Guidance on minimum requirements in a living wage calculation](#be11-living-wage-calc).
-- Identify the wages being paid to each employee in each of those regions. For considerations on how to determine this, see [Guidance on identifying wage levels of employees](#be11-identifying-wage-levels).
-- Determine whether the amounts the employees receive are equal to or greater than the living wage in their respective regions.
+- Ermitteln Sie den existenzsichernden Lohn für jede Region, in der das Unternehmen tätig ist. Damit dieses Kriterium erfüllt ist, muss die Lohnschwelle mindestens die Komponenten enthalten, die im Abschnitt [Leitlinien zu den Mindestanforderungen bei der Berechnung eines existenzsichernden Lohns](#be11-living-wage-calc)) aufgeführt sind.
+- Ermitteln Sie die Löhne, die jeder/m Arbeitnehmer:in in jeder dieser Regionen gezahlt werden. Hinweise zur Ermittlung dieser Löhne finden Sie unter [Leitlinien zur Ermittlung des Lohnniveaus von Arbeitnehmenden](#be11-identifying-wage-levels).
+- Stellen Sie fest, ob die Beträge, die die Mitarbeiter:innen erhalten, dem existenzsichernden Lohn in ihrer jeweiligen Region entsprechen oder darüber liegen.
 
-If no assessment has been done in a region or no appropriate living wage threshold has been identified, the default assumption must be that none of the employees in that region are paid a living wage.
+Wenn in einer Region keine Bewertung durchgeführt wurde oder kein angemessener Schwellenwert für den existenzsichernden Lohn ermittelt wurde, muss standardmäßig davon ausgegangen werden, dass keiner der Arbeitnehmer:innen in dieser Region einen existenzsichernden Lohn erhält.
 
-##### Calculating company-wide progress {-}
+##### Berechnung des unternehmensweiten Fortschritts {-}
 
-- Add up the number of employees being paid at least a living wage.
-- Add up the total number of employees in the company.
-- Calculate the percentage of employees that are paid at least a living wage.
+- Zählen Sie die Anzahl der Beschäftigten zusammen, die mindestens einen existenzsichernden Lohn erhalten.
+- Zählen Sie die Gesamtzahl der Beschäftigten im Unternehmen zusammen.
+- Berechnen Sie den Prozentsatz der Beschäftigten, die mindestens einen existenzsichernden Lohn erhalten.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F=\frac{E_L}{E_T}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$E_L$$ | Is the number of employees in the company who received at least a living wage. |
-| $$E_T$$ | Is the total number of individuals employed by the company during the reporting period. |
+| $$F$$ | Der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$E_L$$ | Die Anzahl der Mitarbeiter:innen im Unternehmen, die mindestens einen existenzsichernden Lohn erhalten haben. |
+| $$E_T$$ | Dies ist die Gesamtzahl der im Berichtszeitraum im Unternehmen beschäftigten Personen. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be11-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be11-example).
 
-#### 3.2 Context indicators {-#be11-context}
+#### 3.2 Kontextindikatoren {-#be11-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total number of employees {-}
+####### Gesamtzahl der Beschäftigten {-}
 
-In addition to the percentage of employees that are being paid a living wage, a company must report on the total number of employees that worked for the company during the reporting period.
+Neben dem Prozentsatz der Beschäftigten, die einen existenzsichernden Lohn erhalten, muss ein Unternehmen die Gesamtzahl der Beschäftigten angeben, die im Berichtszeitraum für das Unternehmen tätig waren.
 
-Note that for this indicator it is not appropriate to use the average number of employees (e.g. equating two employees working 20 hours per week each to one full-time employee, or three workers employed for four months each as one full time job) as such methods would risk obfuscating the impacts on one or more of the individuals concerned.
+Es ist zu beachten, dass es für diesen Indikator nicht angemessen ist, die durchschnittliche Mitarbeiterzahl zu verwenden (z. B. zwei Mitarbeiter:innen, die jeweils 20 Stunden pro Woche arbeiten, mit einem Vollzeitbeschäftigten gleichzusetzen, oder drei Arbeitnehmer:innen, die jeweils vier Monate beschäftigt sind, als einen Vollzeitjob zu betrachten), da solche Methoden die Auswirkungen auf eine oder mehrere der betroffenen Personen verschleiern könnten.
 
-As with the progress indicator, the focus is on workers who are classified as an [employee](#def-employee), which may not necessarily include every worker (see the [**Implementation Guide**](#ig-determining-employee)).
+Wie beim Fortschrittsindikator liegt der Schwerpunkt auf [Beschäftigten](#def-employee), die als Arbeitnehmer:innen eingestuft sind, was nicht unbedingt alle Beschäftigten umfasst (siehe [**Implementierungsleitfaden**](#ig-determining-employee)).
 
-For an example of how context indicators can be reported, see [here](#be11-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be11-example).
 
-### 4. Assurance {-#be11-assurance}
+### 4. Prüfung und Sicherheit {-#be11-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be11-assurance-why}
+#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be11-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be11-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be11-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to determine the number of employees of the company during the reporting period, and how these employees are categorized into groups for the purposes of the evaluation. Assurers may use this information to verify the accuracy of the calculated indicator.[^7#be11-7]
-- Document the methods used by the company to determine which sites or regions require unique living cost assessments. This can help assurers to understand the approach used and evaluate whether it fulfils the criteria.
-- Document all data sources used to determine living wage thresholds. When information is available from different sources, provide reasoning behind final choices. This can help assurers to understand the relevance of the final wage value and to verify that the inputs meet the criteria.
-- The company is not explicitly required to refresh its cost-of-living data on a prescribed timeframe, but if data are not current to the reporting period in question, the company should document the analysis performed to determine whether the figures are still relevant. This can help assurers to ensure that the progress indicator is based on appropriate information.
-- Document the approach used by the company to determine whether there are additional region-specific costs of living that should be incorporated into the assessment, including any formal parameters used to decide if an identified item qualifies for inclusion or not. This can help assurers understand how the company ensures that no significant costs have been excluded.
+- Dokumentieren Sie die Methoden, mit denen die Anzahl der Beschäftigten des Unternehmens im Berichtszeitraum ermittelt wurde, sowie die Art und Weise, wie diese Beschäftigten für die Zwecke der Bewertung in Gruppen eingeteilt werden. Die Prüfer:innen können diese Informationen nutzen, um die Genuaigkeit des berechneten Indikators zu überprüfen.[^7#be11-7]
+- Dokumentieren Sie die Methoden, mit denen das Unternehmen ermittelt, welche Standorte oder Regionen eine gesonderte Bewertung der Lebenshaltungskosten erfordern. Dies kann den Prüfer:innen helfen, den verwendeten Ansatz nachzuvollziehen und zu beurteilen, ob er die Kriterien erfüllt.
+- Dokumentieren Sie alle Datenquellen, die zur Ermittlung der Schwellenwerte für existenzsichernde Löhne herangezogen wurden. Wenn Informationen aus verschiedenen Quellen vorliegen, begründen Sie die endgültige Auswahl. Dies kann den Prüfer:innen helfen, die Relevanz des endgültigen Lohnwerts nachzuvollziehen und zu überprüfen, ob die Eingabedaten den Kriterien entsprechen.
+- Das Unternehmen ist nicht ausdrücklich verpflichtet, seine Daten zu den Lebenshaltungskosten in einem vorgeschriebenen Zeitrahmen zu aktualisieren; sollten die Daten jedoch nicht auf den betreffenden Berichtszeitraum aktuell sein, sollte das Unternehmen die durchgeführte Analyse dokumentieren, um festzustellen, ob die Zahlen noch relevant sind. Dies kann den Prüfer:innen helfen, sicherzustellen, dass der Fortschrittsindikator auf angemessenen Informationen basiert.
+- Dokumentieren Sie den vom Unternehmen verwendeten Ansatz zur Feststellung, ob zusätzliche regionsspezifische Lebenshaltungskosten in die Bewertung einbezogen werden sollten, einschließlich aller formalen Parameter, anhand derer entschieden wird, ob ein identifizierter Posten für die Einbeziehung in Frage kommt oder nicht. Dies kann den Prüfern helfen zu verstehen, wie das Unternehmen sicherstellt, dass keine wesentlichen Kosten ausgeschlossen wurden.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be11-additional}
+### 5. Zusätzliche Informationen {-#be11-additional}
 
-#### 5.1 Example {-#be11-example}
+#### 5.1 Beispiel {-#be11-example}
 
-ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The company has a total of 250 employees: 50 working in the office and the other 200 at the bottling plant. A credible living wage estimate exists for the city in which the office is located, and following an assessment the company finds that 5 junior hires are paid less than the calculated living wage. It has not yet assessed wages at the factory.
+ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Unternehmen beschäftigt insgesamt 250 Mitarbeiter:innen: 50 davon im Büro und 200 in der Abfüllanlage. Für die Stadt, in der sich das Büro befindet, liegt eine glaubwürdige Schätzung des existenzsichernden Lohns vor, und nach einer Bewertung stellt das Unternehmen fest, dass fünf Nachwuchskräfte weniger als den berechneten existenzsichernden Lohn erhalten. Die Löhne in der Fabrik wurden noch nicht ermittelt.
 
-The company can now calculate its progress as follows:
+Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
 $$F=\frac{E_L}{E_T}=\frac{45}{250}=18\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total number of employees: 250.
+Gesamtzahl der Mitarbeiter:innen: 250.
 
-ACME later collaborates with a credible third party to calculate living wage values for its bottling location. Based on this estimate it finds that 150 people are paid less than a living wage, while 50 are paid at or above the required level. It can now calculate its progress as:
+ACME arbeitet später mit einem seriösen externen Dienstleister zusammen, um die Höhe des existenzsichernden Lohns für seinen Abfüllstandort zu ermitteln. Auf Grundlage dieser Schätzung stellt das Unternehmen fest, dass 150 Mitarbeiter:innen weniger als den existenzsichernden Lohn erhalten, während 50 Mitarbeiter:innen mindestens das erforderliche Niveau erreichen. Nun kann es seinen Fortschritt wie folgt berechnen:
 
 $$F=\frac{E_L}{E_T}=\frac{45+50}{250}=38\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total number of employees: 250.
+Gesamtzahl der Mitarbeiter:innen: 250.
 
-#### 5.2 Useful links {-#be11-links}
+#### 5.2 Nützliche Links {-#be11-links}
 
-##### The Global Living Wage Coalition {-}
+##### Die Global Living Wage Coalition {-}
 
-The [Global Living Wage Coalition](http://www.isealalliance.org/our-work/improving-effectiveness/global-living-wage-coalition) is a collaboration between a number of organizations, includingFairtrade International, the Forest Stewardship Council and others. Working within the ISEAL Alliance, these organizations have created a standardized [methodology for calculating a living wage](https://www.globallivingwage.org/about/anker-methodology/). @Ank13
+Die [Global Living Wage Coalition](http://www.isealalliance.org/our-work/improving-effectiveness/global-living-wage-coalition) ist ein Zusammenschluss mehrerer Organisationen, darunter Fairtrade International, der Forest Stewardship Council und andere. Im Rahmen der ISEAL Alliance haben diese Organisationen eine standardisierte [Methode zur Berechnung eines existenzsichernden Lohns](https://www.globallivingwage.org/about/anker-methodology/) entwickelt. @Ank13
 
-##### The Living Wage Foundation {-}
+##### Die Living Wage Foundation {-}
 
-The [Living Wage Foundation](http://www.livingwage.org.uk/what-we-do) has calculated UK-wide and London-specific living wage estimates, and offers accreditation to companies who meet their criteria.
+Die [Living Wage Foundation](http://www.livingwage.org.uk/what-we-do) hat Schätzungen zum existenzsichernden Lohn für ganz Großbritannien und speziell für London berechnet und bietet Unternehmen, die ihre Kriterien erfüllen, eine Zertifizierung an.
 
 ##### Fair Wage Network {-}
 
-The [Fair Wage Network](http://fair-wage.com/) focuses on 12 dimensions which cover the spectrum of wage indicators, one of which is living wage. The organization has an extensive database of living wage values which companies can subscribe to.
+Das [Fair Wage Network](http://fair-wage.com/) konzentriert sich auf 12 Dimensionen, die das Spektrum der Lohnindikatoren abdecken, darunter auch den existenzsichernden Lohn. Die Organisation verfügt über eine umfangreiche Datenbank mit Werten für existenzsichernde Löhne, die Unternehmen abonnieren können.
 
 ##### WageIndicator Foundation {-}
 
-[WageIndicator Foundation](https://wageindicator.org/Wageindicatorfoundation) is a non-for-profit with a comprehensive database on living wage (and other wage data). National-level data is freely available, and companies can gain access to regional- and city-level data through a subscription.
+Die [WageIndicator Foundation](https://wageindicator.org/Wageindicatorfoundation) ist eine gemeinnützige Organisation mit einer umfassenden Datenbank zu existenzsichernden Löhnen (und anderen Lohndaten). Daten auf nationaler Ebene sind frei zugänglich, und Unternehmen können über ein Abonnement Zugang zu Daten auf regionaler und städtischer Ebene erhalten.
 
-[^1#be11-1]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^1#be11-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^2#be11-2]: The Global Living Wage Coalition is seen as a global leader in assessing living wage thresholds and publishes a small but expanding set of regional estimates.
+[^2#be11-2]: Die Global Living Wage Coalition gilt als weltweit führend bei der Bewertung von Schwellenwerten für existenzsichernde Löhne und veröffentlicht eine kleine, aber wachsende Reihe regionaler Schätzungen.
 
-[^3#be11-3]: The approach for the minimum recommended criteria is based on the [methodology](https://www.globallivingwage.org/about/anker-methodology/) used by the Global Living Wage Coalition. @Ank13 It should be noted that while we identify general categories of expenses and considerations for family size and structure, the full methodology is much more comprehensive, and includes significantly more detailed explanation and nuance.
+[^3#be11-3]: Der Ansatz für die empfohlenen Mindestkriterien basiert auf der [Methodik](https://www.globallivingwage.org/about/anker-methodology/) der Global Living Wage Coalition. @Ank13 Es sei darauf hingewiesen, dass wir zwar allgemeine Ausgabenkategorien sowie Überlegungen zur Familiengröße und -struktur aufzeigen, die vollständige Methodik jedoch wesentlich umfassender ist und deutlich detailliertere Erläuterungen und Nuancen enthält.
 
-[^4#be11-4]: See the WHO website for [detail on nutrition](http://www.who.int/topics/nutrition/en/) thresholds and guidelines, including [nutrition factsheets](http://www.who.int/mediacentre/factsheets/fs394/en/) for a summary of general components of a healthy diet.
+[^4#be11-4]: Auf der Website der WHO finden Sie [Einzelheiten zu Ernährungsschwellenwerten und -richtlinien](http://www.who.int/topics/nutrition/en/) einschließlich [Informationsblättern](http://www.who.int/mediacentre/factsheets/fs394/en/) zur Ernährung mit einer Zusammenfassung der allgemeinen Bestandteile einer gesunden Ernährung.
 
-[^5#be11-5]: See [The Right to Adequate Housing: Fact Sheet No. 21/Rev.1](https://unhabitat.org/the-right-to-adequate-housing-fact-sheet-no-21rev-1/), published by UN HABITAT for a list of components
+[^5#be11-5]: Eine Liste der Bestandteile finden Sie in [The Right to Adequate Housing: Fact Sheet No. 21/Rev.1](https://unhabitat.org/the-right-to-adequate-housing-fact-sheet-no-21rev-1/), veröffentlicht von UN-HABITAT.
 
-[^6#be11-6]: The living wage calculation is designed to keep employees and their families out of poverty. Without a surplus amount being included as a provision for unexpected events, a single social, economic, or natural event could send them back into poverty. Examples include political unrest interrupting work, a rise in food prices due to a poor regional harvest, or a fire or storm damaging a family home.
+[^6#be11-6]: Die Berechnung des existenzsichernden Lohns zielt darauf ab, Arbeitnehmer:innen und ihre Familien vor Armut zu bewahren. Ohne einen Überschussbetrag als Rücklage für unerwartete Ereignisse könnte ein einziges soziales, wirtschaftliches oder natürliches Ereignis sie zurück in die Armut stürzen. Beispiele hierfür sind politische Unruhen, die die Arbeit unterbrechen, ein Anstieg der Lebensmittelpreise aufgrund einer schlechten regionalen Ernte oder ein Brand oder Sturm, der das Familienheim beschädigt.
 
-[^7#be11-7]: This information is relevant for all employee-related Break-Even Goals.
+[^7#be11-7]: Diese Informationen sind für alle mitarbeiterbezogenen Break-Even-Ziele relevant.
