@@ -2,280 +2,280 @@
 output: github_document
 ---
 
-## BE14: Employee Concerns {-#be14}
+## BE14: Anliegen der Mitarbeiter:innen {-#be14}
 
-<div class="subtitle">Employee concerns are actively solicited, impartially judged and transparently addressed
+<div class="subtitle">Die Anliegen der Mitarbeiter:innen werden aktiv eingeholt, unvoreingenommen beurteilt und transparent behandelt
 </div>
 
 ### 1. Ambition {-#be14-ambition}
 
-A Future-Fit Business takes steps to minimize employee concerns, and implements internal controls to identify and deal fairly with any issues that do arise.
+Ein zukunftsfähiges Unternehmen ergreift Maßnahmen, um die Bedenken der Mitarbeiter:innen zu minimieren, und implementiert interne Kontrollen, um auftretende Probleme zu erkennen und fair zu behandeln.
 
-#### 1.1 What this goal means {-#be14-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be14-what-goal-means}
 
-Companies depend on the commitment and motivation of their employees, so it is good business sense to engage them as much as possible. The intent of this goal is to set a minimum threshold of acceptable performance in this regard, which means ensuring that the company does nothing to undermine its employees' wellbeing.
+Unternehmen sind auf das Engagement und die Motivation ihrer Mitarbeiter:innen angewiesen, daher ist es betriebswirtschaftlich sinnvoll, sie so weit wie möglich einzubeziehen. Mit diesem Ziel soll ein Mindestmaß an akzeptabler Leistung in dieser Hinsicht festgelegt werden, was bedeutet, dass das Unternehmen nichts unternimmt, um das Wohlbefinden seiner Mitarbeiter:innen zu beeinträchtigen.
 
-No company can be completely free of employee concerns, but it must take all steps possible to minimize concerns, and to deal effectively and appropriately with any concerns that arise.
+Kein Unternehmen kann völlig frei von den Bedenken der Mitarbeiter:innen sein, aber es muss alle möglichen Schritte unternehmen, um Bedenken zu minimieren und auf auftretende Anliegen effektiv und angemessen zu reagieren.
 
-To be Future-Fit, a company must put in place appropriate mechanisms to identify and manage employee concerns, so that potentially serious issues and legitimate grievances do not go unaddressed.
+Um zukunftsfähig zu sein, muss ein Unternehmen geeignete Mechanismen zur Identifizierung und Bewältigung von Bedenken der Mitarbeiter:innen einrichten, damit potenziell schwerwiegende Probleme und berechtigte Beschwerden nicht unberücksichtigt bleiben.
 
-#### 1.2 Why this goal is needed {-#be14-why-goal-needed}
+####  1.2. Warum dieses Ziel erforderlich ist {-#be14-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Despite legal protections in many developed countries, whistle-blowers still often experience negative outcomes and are deterred from speaking out.** A five-year study by Public Concern at Work found that more than 80% of employees who had raised concerns over workplace practices were dismissed, victimised or resigned. @Pub16
-- **Effective concerns mechanisms help to uncover illegal activity.** In 2016, occupational fraud caused $6.3bn of company losses worldwide, with an average loss of $2.7 million per case. Companies with a dedicated reporting hotline in place were first alerted to instances of fraud by employees in 47% of cases, but only 28% of cases were reported by employees in companies with no such hotline. @Ass16
+- **Trotz gesetzlicher Schutzmaßnahmen in vielen Industrieländern erleben Whistleblower immer noch häufig negative Ergebnisse und werden davon abgehalten, sich zu äußern.** Eine fünfjährige Studie von Public Concern at Work ergab, dass mehr als 80 % der Mitarbeiter:innen, die Bedenken über Praktiken am Arbeitsplatz geäußert hatten, entlassen, schikaniert oder gekündigt wurden. @Pub16
+- **Wirksame Meldemechanismen tragen dazu bei, illegale Aktivitäten aufzudecken.** Im Jahr 2016 verursachte Betrug am Arbeitsplatz weltweit Unternehmensverluste in Höhe von 6,3 Mrd. US-Dollar, mit einem durchschnittlichen Verlust von 2,7 Mio. US-Dollar pro Fall. In 47 % der Fälle wurden Unternehmen mit einer speziellen Meldestelle zuerst von Mitarbeitenden auf Betrugsfälle aufmerksam gemacht, während in Unternehmen ohne eine solche Meldestelle nur 28 % der Fälle von Mitarbeitenden gemeldet wurden. @Ass16
 
-#### 1.3 How this goal contributes to the SDGs {-#be14-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be14-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by ensuring employee concerns are actively solicited, impartially judged and transparently addressed, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie sicherstellen, dass die Anliegen der Mitarbeiter:innen aktiv geäußert, unparteiisch beurteilt und transparent angegangen werden, und indem sie ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 5](assets/sdg/sdg-5.svg) | Support efforts to ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making. |
-| ![SDG 10](assets/sdg/sdg-10.svg) | Support efforts to empower and promote the social, economic and political inclusion of all, and efforts to ensure equal opportunity and reduce inequalities of outcome by promoting appropriate policies and action. |
-| ![SDG 16](assets/sdg/sdg-16.svg) | Support efforts to develop effective, accountable and transparent institutions, and efforts to ensure responsive, inclusive, participatory and representative decision-making at all levels. |
+| ![SDG 5](assets/sdg/sdg-5.svg) | Unterstützung von Bemühungen, die uneingeschränkte und wirksame Teilhabe von Frauen sowie Chancengleichheit in Führungspositionen auf allen Entscheidungsebenen sicherzustellen. |
+| ![SDG 10](assets/sdg/sdg-10.svg) | Unterstützung von Bemühungen zur Stärkung und Förderung der sozialen, wirtschaftlichen und politischen Teilhabe aller sowie von Bemühungen zur Gewährleistung der Chancengleichheit und zum Abbau von Ungleichheiten durch die Förderung geeigneter politischer Maßnahmen und Aktionen. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | Unterstützung von Bemühungen zum Aufbau wirksamer, rechenschaftspflichtiger und transparenter Institutionen sowie von Bemühungen zur Gewährleistung einer bürgernahen, inklusiven, partizipativen und repräsentativen Entscheidungsfindung auf allen Ebenen. |
 </div>
 
-#### 1.4 Related goals {-#be14-related-goals}
+#### 1.4 Verwandte Ziele {-#be14-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Community health is safeguarded:**](#be09) The _Employee concerns_ goal applies to the company's employees, and is meant to address issues specific to the workplace, employment terms, and other related issues. The _Community health_ goal is similarly focused on managing people's concerns, but applies to local communities potentially impacted by the company's operations. Despite the similarities, the company is likely to need separate concerns mechanisms tailored to the needs of these two groups.
-- [**Employees are not subject to discrimination:**](#be13) The _Employee discrimination_ goal's fitness criteria state the need for a mechanism that enables employees to raise concerns relating to discrimination. That requirement could be met by the same concerns mechanism employed here.
-- [**Business is conducted ethically:**](#be20) The _Ethics_ goal's fitness criteria include requirements for a channel through which employees (and others) can raise concerns in confidence about ethical breaches, and for effective response mechanisms to address such concerns. While the intended outcomes for the _Employee concerns_ goal are different, this particular requirement is similar, so companies may well implement one approach to meet the needs of both goals.
+- [**Die Gesundheit der Gemeinschaft wird geschützt:**](#be09) Das Ziel _Anliegen der Mitarbeiter:innen_ gilt für die Mitarbeiter:innen des Unternehmens und soll sich mit arbeitsplatzspezifischen Themen, Arbeitsbedingungen und anderen damit zusammenhängenden Themen befassen. Das Ziel _Gemeinschaftliche Gesundheit_ konzentriert sich ebenfalls auf die Bewältigung der Anliegen der Menschen, gilt jedoch für lokale Gemeinschaften, die möglicherweise von der Geschäftstätigkeit des Unternehmens betroffen sind. Trotz der Ähnlichkeiten benötigt das Unternehmen wahrscheinlich separate Mechanismen für Anliegen, die auf die Bedürfnisse dieser beiden Gruppen zugeschnitten sind.
+- [**Mitarbeiter:innen unterliegen keiner Diskriminierung:**](#be13) Die Fitnesskriterien für das Ziel _Mitarbeiterdiskriminierung_ sehen die Notwendigkeit eines Mechanismus vor, der es Mitarbeitenden ermöglicht, Bedenken hinsichtlich Diskriminierung zu äußern. Diese Anforderung könnte durch denselben hier eingesetzten Mechanismus zur Meldung von Anliegen erfüllt werden.
+- [**Ethisches Geschäftsgebaren:**](#be20) Die Fitnesskriterien für das Ziel _Ethik_ umfassen Anforderungen an einen Kanal, über den Mitarbeiter:innen (und andere) vertraulich Bedenken hinsichtlich ethischer Verstöße äußern können, sowie an wirksame Reaktionsmechanismen zur Bearbeitung solcher Anliegen. Auch wenn die angestrebten Ergebnisse für das Ziel _Mitarbeiteranliegen_ unterschiedlich sind, ist diese spezielle Anforderung ähnlich, sodass Unternehmen durchaus einen einzigen Ansatz umsetzen können, um die Anforderungen beider Ziele zu erfüllen.
 
-### 2. Action {-#be14-action}
+### 2. Aktion {-#be14-action}
 
-#### 2.1 Getting started {-#be14-getting-started}
+#### 2.1 Erste Schritte {-#be14-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-This goal addresses issues that aren't covered in the other employee goals, and in addition ensures that employees have the ability to notify management whenever the company's performance against those other goals falls short.
+Dieses Ziel geht auf Probleme ein, die in den anderen Mitarbeiterzielen nicht abgedeckt sind, und stellt darüber hinaus sicher, dass Mitarbeiter:innen die Möglichkeit haben, das Management zu benachrichtigen, wenn die Leistung des Unternehmens im Vergleich zu diesen anderen Zielen hinterherhinkt.
 
-In order to actively solicit, impartially judge and transparently address employee concerns, all employees must have access to a well-functioning mechanism through which to raise general concerns, and to call attention to potentially damaging or unethical practices.
+Um die Anliegen der Mitarbeiter:innen aktiv einzuholen, unvoreingenommen zu beurteilen und transparent anzugehen, müssen alle Mitarbeiter Zugang zu einem gut funktionierenden Mechanismus haben, über den sie allgemeine Bedenken äußern und auf potenziell schädliche oder unethische Praktiken aufmerksam machen können.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company have a formal mechanism in place to solicit and manage employee feedback? {-}
+###### Verfügt das Unternehmen über einen formellen Mechanismus zur Einholung und Bearbeitung von Mitarbeiterfeedback? {-}
 
-- If there are only informal practices in place, could personal judgement or inconsistency in timing and treatment of reactions impair the company's ability to respond to and benefit from employee input?
-- Is the company aware how confident its employees are that their concerns will be dealt with effectively and (where appropriate) confidentially?
+- Falls es lediglich informelle Vorgehensweisen gibt, könnten dann persönliches Ermessen oder Uneinheitlichkeit hinsichtlich des Zeitpunkts und der Behandlung von Rückmeldungen die Fähigkeit des Unternehmens beeinträchtigen, auf Mitarbeiteranregungen zu reagieren und davon zu profitieren?
+- Ist dem Unternehmen bewusst, inwieweit seine Mitarbeiter:innen darauf vertrauen, dass ihre Anliegen effektiv und (sofern angemessen) vertraulich behandelt werden?
 
-###### Does the company foster a culture of open communication? {-}
+###### Pflegt das Unternehmen eine Kultur der offenen Kommunikation? {-}
 
-- Do incentive or recognition structures exist which encourage employees to speak up?
-- Is it possible for employees to provide input anonymously?
-- Even if a functioning concerns mechanism is in place, could the company's culture or past experiences make employees reluctant to use it?
+- Gibt es Anreiz- oder Anerkennungsstrukturen, die Mitarbeiter:innen dazu ermutigen, sich zu Wort zu melden?
+- Ist eine anonyme Eingabe durch Mitarbeiter:innen möglich?
+- Könnte es sein, dass die Unternehmenskultur oder vergangene Erfahrungen die Mitarbeiter:innen davon abhalten, ein funktionierendes Meldesystem zu nutzen, selbst wenn ein solches vorhanden ist?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### In which areas could the company could have the biggest impact? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Which divisions or facilities have the most employees? Improvements here could impact the greatest number of people.
-- Where are employees most likely to notice opportunities or risks that management is not aware of? For instance, are there locations geographically remote from headquarters, or operations occurring at off-site workplaces or in remote areas?
+- Welche Abteilungen oder Standorten haben die meisten Mitarbeiter:innen? Verbesserungen hier könnten die meisten Menschen betreffen.
+- Wo bemerken Mitarbeiter am ehesten Chancen oder Risiken, die dem Management nicht bewusst sind? Gibt es beispielsweise Standorte, die geografisch weit vom Hauptsitz entfernt sind, oder finden Vorgänge an externen Arbeitsplätzen oder in abgelegenen Gebieten statt?
 
-###### In which areas could the company make progress most easily? {-}
+###### In welchen Bereichen könnte das Unternehmen am leichtesten vorankommen? {-}
 
-- What types of concerns mechanism and communication tools would be accessible to the largest numbers of workers?
-- Does the company have an employee concerns mechanism in place within parts of its operations, or at specific subsidiaries? Could it be adopted more widely?
+- Welche Arten von Beschwerdemechanismen und Kommunikationsinstrumenten wären für die meisten Mitarbeiter:innen zugänglich?
+- Verfügt das Unternehmen in Teilen seiner Betriebs oder in bestimmten Tochtergesellschaften über einen Mechanismus für Mitarbeiteranliegen? Könnte es in größerem Umfang übernommen werden?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _people have the capacity and opportunity to lead fulfilling lives_?[^1#be14-1] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+- Ist das Unternehmen in der Lage, über das zur Erreichung dieses Ziels erforderliche Maß hinaus etwas zu tun, um sicherzustellen, dass die Menschen die Fähigkeit und die Möglichkeit haben, ein erfülltes Leben zu führen?[^1#be14-1] Jede derartige Maßnahme kann den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-people-capacity).
 
-The next section describes the criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be14-pursuing}
+#### 2.2 Zukunftsfähigkeit anstreben {-#be14-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-The two steps to be addressed in order to assess progress towards this goal are to identify all of the company's employees during the period, and then to ensure that those employees all have access to an appropriate concerns mechanism.
+Um den Fortschritt in Richtung dieses Ziels zu bewerten, müssen zwei Schritte unternommen werden: Die Identifizierung aller Mitarbeiter:innen des Unternehmens während des Zeitraums und die anschließende Sicherstellung, dass alle diese Mitarbeiter:innen Zugang zu einem geeigneten Beschwerdemechanismus haben.
 
-###### Guidance on determining which workers are in scope as 'employees' {-}
+###### Leitlinien zur Bestimmung, welche Arbeitkräfte als „Mitarbeiter:innen“ gelten {-}
 
-There are many different types of working relationships between a company and those contributing labour to its activities. It is important to distinguish who qualifies as a direct employee, and who is part of an outside organization providing services to the company. See the [**Implementation Guide**](#ig-determining-employee) for details on determining who is an employee.
+Es gibt viele verschiedene Arten von Arbeitsverhältnissen zwischen einem Unternehmen und denjenigen, die Arbeitsleistungen für dessen Tätigkeiten erbringen. Es ist wichtig zu unterscheiden, wer als direkte:r Mitarbeiter:in gilt und wer Teil einer externen Organisation ist, die Dienstleistungen für das Unternehmen erbringt. Einzelheiten zur Feststellung, wer als Mitarbeiter:in gilt, finden Sie im [**Implementierungsleitfaden**](#ig-determining-employee).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Im nächsten Abschnitt werden die Fitnesskriterien beschrieben, die erforderlich sind, um festzustellen, ob eine bestimmte Aktion zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-Drawing on the guidance embodied in the [UN Principles on Business and Human Rights](#be14-un-pbhr), [CSR Europe](#be14-csr-europe), and the [CAO](#be14-cao), the following criteria are deemed sufficient for future‑fitness:
+Auf der Grundlage der Leitlinien der [UN-Prinzipien zu Wirtschaft und Menschenrechten](#be14-un-pbhr), [von CSR Europe](#be14-csr-europe), und der [CAO](#be14-cao), werden die folgenden Kriterien als ausreichend für Zukunftsfähigkeit angesehen:
 
-###### Ensure legitimacy {-}
+###### Legitimität sicherstellen {-}
 
-- Employees or established groups that represent their interests are actively involved in the design of any new or updated concerns mechanism.
-- The concerns mechanism is designed to accommodate the reporting of all conceivable issues, irrespective of their category or type.
+- Mitarbeiter:innen oder etablierte Gruppen, die deren Interessen vertreten, werden aktiv in die Gestaltung jedes neuen oder überarbeiteten Beschwerdemechanismus einbezogen.
+- Der Beschwerdemechanismus ist so konzipiert, dass er die Meldung aller denkbaren Probleme ermöglicht, unabhängig von deren Kategorie oder Art.
 
-###### Ensure positive outcomes {-}
+###### Positive Ergebnisse sicherstellen {-}
 
-- All concerns are resolved in a timely manner and without negatively impacting progress towards other Break-Even goals.
+- Alle Anliegen werden zeitnah geklärt, ohne den Fortschritt bei der Erreichung anderer Break-Even-Ziele zu beeinträchtigen.
 
-###### Ensure accessibility {-}
+###### Zugänglichkeit sicherstellen {-}
 
-- Information on the existence and use of a concerns mechanism (beyond direct reporting lines, such as speaking to the employee's manager) is actively communicated to all employees.
-- The concerns mechanism is designed to allow for employee confidentiality and to protect employees from reprisals.
+- Informationen über die Existenz und Nutzung eines Beschwerdemechanismus (über die direkten Berichtswege hinaus, wie z. B. das Gespräch mit der/dem Vorgesetzte/Vorgesetzten der/des Mitarbeiterin/Mitarbeiters) werden allen Mitarbeitenden aktiv vermittelt.
+- Der Beschwerdemechanismus ist so konzipiert, dass die Vertraulichkeit der Mitarbeiter:innen gewahrt bleibt und diese vor Vergeltungsmaßnahmen geschützt sind.
 
-###### Reduce uncertainty {-}
+###### Unsicherheiten abbauen {-}
 
-- At both corporate level and on a per-site basis, a team or individual is assigned responsibility for facilitating development and implementation of the concerns mechanism.
+- Sowohl auf Unternehmensebene als auch auf Standortebene wird einem Team oder einer Person die Verantwortung übertragen, die Entwicklung und Umsetzung des Beschwerdemechanismus zu koordinieren.
 
-###### Ensure fairness {-}
+###### Fairness sicherstellen {-}
 
-- Where necessary (e.g. if a complaint is filed against a manager who might normally be involved in arbitration) employees are provided with access to neutral/independent advice and expertise.
+- Wo erforderlich (z. B. wenn eine Beschwerde gegen eine Führungskraft eingereicht wird, die normalerweise an der Schlichtung beteiligt wäre), erhalten die Mitarbeiter:innen Zugang zu neutraler/unabhängiger Beratung und Fachkompetenz.
 
-###### Ensure transparency {-}
+###### Transparenz sicherstellen {-}
 
-- Employees who use the concerns mechanism are fully informed throughout the process.
+- Mitarbeiter:innen, die den Beschwerdemechanismus nutzen, werden während des gesamten Prozesses umfassend informiert.
 
-###### Engage actively {-}
+###### Aktive Einbindung {-}
 
-- Employees or established groups that represent their interests are proactively consulted on any changes to any existing concerns mechanism, and ahead of any major change in company activity that could impact employee wellbeing.
+- Mitarbeiter:innen oder etablierte Gruppen, die deren Interessen vertreten, werden aktiv zu allen Änderungen am bestehenden Beschwerdemechanismus sowie vor jeder größeren Änderung der Unternehmenstätigkeit, die sich auf das Wohlbefinden der Mitarbeiter:innen auswirken könnte, konsultiert.
 
-###### Improve continuously {-}
+###### Kontinuierlich verbessern {-}
 
-- Anyone who uses the concerns mechanism is asked for feedback on its improvement.
-- The performance of the concerns mechanism is monitored and regularly assessed.
-- The assessment of the concerns mechanism must include proactively soliciting of feedback from employees at regular intervals.[^2#be14-2]
-- When areas for improvement are identified, the company takes steps to implement those changes.
+- Jede:r, die/der den Beschwerdemechanismus nutzt, wird um Feedback zu dessen Verbesserung gebeten.
+- Die Funktionsweise des Beschwerdemechanismus wird überwacht und regelmäßig bewertet.
+- Die Bewertung des Beschwerdemechanismus muss die proaktive Einholung von Feedback von den Mitarbeitenden in regelmäßigen Abständen umfassen.[^2#be14-2]
+- Wenn Verbesserungsmöglichkeiten identifiziert werden, ergreift das Unternehmen Maßnahmen, um diese Änderungen umzusetzen.
 
-### 3. Assessment {-#be14-assessment}
+### 3. Bewertung {-#be14-assessment}
 
-#### 3.1 Progress indicators {-#be14-progress}
+#### 3.1 Fortschrittsindikatoren {-#be14-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has one progress indicator. To calculate it the following steps are required:
+Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Assess fitness for each employee against the fitness criteria.
-- Calculate company-wide progress across all employees.
+- Bewerten Sie die Fitness jeder/jedes Mitarbeiterin/Mitarbeiters anhand der Fitnesskriterien.
+- Berechnen Sie den unternehmensweiten Fortschritt aller Mitarbeitenden.
 
-##### Assessing fitness for each employee {-}
+##### Bewertung der Fitness einzelner Mitarbeitende:r {-}
 
-Note that although fitness is measured on a per-employee basis, the assessment can be done by group (e.g. by location, job function, etc.), provided that all employees in a group have equal access to the same concerns mechanism.
+Beachten Sie, dass die Fitness zwar auf individueller Basis gemessen wird, die Bewertung jedoch auch gruppenweise (z. B. nach Standort, Funktion usw.) erfolgen kann, sofern alle Mitarbeitenden einer Gruppe gleichen Zugang zu demselben Mechanismus zur Meldung von Bedenken haben.
 
-The employee concerns mechanism is scored using the eight fitness criteria categories (legitimacy, positive outcomes, accessibility, reducing uncertainty, fairness, transparency, engage actively, improve continuously), as follows:
+Der Mechanismus für Mitarbeiteranliegen wird anhand der acht Kategorien von Fitnesskriterien (Legitimität, positive Ergebnisse, Zugänglichkeit, Verringerung von Unsicherheit, Fairness, Transparenz, aktive Einbindung, kontinuierliche Verbesserung) wie folgt bewertet:
 
-- **0% fit**: no formal concerns mechanism is in place for an employee or group of employees, _or_ no assessment of the mechanism against the criteria has been performed, _or_the concerns mechanism _does not_ live up to the two fitness criteria categories _Ensure legitimacy_ and _Ensure positive outcomes_.
+- **0 % fit**: Für eine:n Mitarbeiter:in oder eine Gruppe von Mitarbeitenden ist kein formeller Bedenkenmechanismus vorhanden, oder es wurde keine Bewertung des Mechanismus anhand der Kriterien durchgeführt, oder der Beschwerdemechanismus erfüllt nicht die beiden Fitnesskriterienkategorien _Legitimität sicherstellen_ und _Positive Ergebnisse sicherstellen_.
 
-Employees covered by a concerns mechanism are scored as follows:
+Mitarbeiter:innen, die von einem Beschwerdemechanismus erfasst werden, werden wie folgt bewertet:
 
-- **30% fit**: _Ensure legitimacy_ and _Ensure positive outcomes_ criteria are satisfied.
-- **45% fit**: One additional criteria category is satisfied.
-- **60% fit**: Two additional criteria categories are satisfied.
-- **70% fit**: Three additional criteria categories are satisfied.
-- **80% fit**: Four additional criteria categories are satisfied.
-- **90% fit**: Five additional criteria categories are satisfied.
-- **100% fit**: All criteria categories are satisfied.
+- **30 % fit**: Die Kriterien _Legitimität sicherstellen_ und _Positive Ergebnisse sicherstellen_ sind erfüllt.
+- **45 % fit**: Eine weitere Kriterienkategorie ist erfüllt.
+- **60 % fit**: Zwei weitere Kriterienkategorien sind erfüllt.
+- **70 % fit**: Drei weitere Kriterienkategorien sind erfüllt.
+- **80 % fit**: Vier weitere Kriterienkategorien sind erfüllt.
+- **90 % fit**: Fünf weitere Kriterienkategorien sind erfüllt.
+- **100 % fit**: Alle Kriterienkategorien sind erfüllt.
 
-##### Calculating company progress {-}
+##### Berechnung des Unternehmensfortschritts {-}
 
-Overall progress is calculated as follows:
+Der Gesamtfortschritt wird wie folgt berechnet:
 
-- Identify the total number of employees in the company during the reporting period.[^3#be14-3]
-- Calculate progress as the weighted average fitness of the company's concerns mechanism across all employees.
+- Ermitteln Sie die Gesamtzahl der Mitarbeiter:innen im Unternehmen während des Berichtszeitraums.[^3#be14-3]
+- Berechnen Sie den Fortschritt als gewichteten Durchschnittswert der Leistungsfähigkeit des Beschwerdemechanismus des Unternehmens über alle Mitarbeiter:innen hinweg.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F=\frac{0(E_{0\%})+0.3(E_{30\%})...+0.9(E_{90\%})+1(E_{100\%})}{E_T}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness, expressed as a percentage. |
-| $$E_{x\%}$$ | Is the number of employees in the company for which the fitness score is x%, based on which of the eight fitness criteria categories are being met.[^4#be14-4] |
-| $$E_T$$ | Is the total number of employees in the company during the reporting period. |
+| $$F$$ | Der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
+| $$E_{x\%}$$ | Gibt die Anzahl der Mitarbeiter:innen in dem Unternehmen an, dessen Fitness-Score bei x % liegt, basierend darauf, welche der acht Kategorien der Fitnesskriterien erfüllt sind.[^4#be14-4] |
+| $$E_T$$ | Dies ist die Gesamtzahl der Mitarbeiter:innen des Unternehmens im Berichtszeitraum. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be14-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be14-example).
 
-#### 3.2 Context indicators {-#be14-context}
+#### 3.2 Kontextindikatoren {-#be14-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu erfassen.
 
-####### Total number of employees {-}
+####### Gesamtzahl der Mitarbeiter:innen {-}
 
-In addition to the proportion of employees that have access to an appropriate concerns mechanism, the total number of employees that worked for the company during the reporting period must be reported.
+Neben dem Anteil der Beschäftigten, die Zugang zu einem geeigneten Beschwerdemechanismus haben, muss die Gesamtzahl der Beschäftigten angegeben werden, die im Berichtszeitraum für das Unternehmen tätig waren.
 
-Note that for this indicator it is not appropriate to use the average number of employees (e.g. equating two employees working 20 hours per week each to one full-time employee, or three workers employed for four months each as one full time job) as such methods would risk obfuscating the impacts on one or more of the individuals concerned.
+Es ist zu beachten, dass es für diesen Indikator nicht angemessen ist, die durchschnittliche Mitarbeiterzahl heranzuziehen (z. B. zwei Mitarbeiter:innen, die jeweils 20 Stunden pro Woche arbeiten, als eine:n Vollzeitbeschäftigte:n zu betrachten, oder drei Arbeitnehmer:innen, die jeweils vier Monate beschäftigt sind, als eine Vollzeitstelle), da solche Methoden die Auswirkungen auf eine oder mehrere der betroffenen Personen verschleiern könnten.
 
-For an example of how context indicators can be reported, see [here](#be14-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be14-example).
 
-### 4. Assurance {-#be14-assurance}
+### 4. Zuverlässigkeitserklärung {-#be14-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be14-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be14-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be14-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be14-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to determine the number of employees that the company had during the reporting period, and how these employees were categorized into groups for the purposes of the evaluation. Assurers may use this information to assess the risk that employees were inadvertently omitted from the assessment.[^5#be14-5]
-- Create documentation, such as meeting notes and attendee lists, to demonstrate the involvement of employees and/or their representatives when creating or modifying concern mechanisms. Assurers may evaluate this documentation to verify employees' involvement in these processes.
-- Record the steps taken to communicate the existence of the concern mechanism to employees, and directions for its use. Communication to employees includes any ways it has been integrated into recruitment, training, or performance evaluation processes or materials. This can help assurers to understand and evaluate the company's strategy for ensuring that employees are aware of the mechanism.
-- Document the method used to ensure that employees submitting concerns via the mechanisms provided by the company remain anonymous when appropriate. Assurers may use this to verify that the mechanism is accessible to employees without fear of reprisal.
-- Document the conditions in which employees are given access to independent advice and expertise when bringing a concern to the company. Assurers may evaluate the processes to validate that the company is meeting this criterion.
-- Document the process followed to ensure controls are working as intended. Assurers may check this process to determine whether the company is able to identify and address any problems with the concern-reporting system within a reasonable timeframe.
+- Dokumentieren Sie die Methoden zur Bestimmung der Anzahl der Mitarbeiter:innen, die das Unternehmen im Berichtszeitraum beschäftigte, und wie diese Mitarbeiter:innen für die Zwecke der Bewertung in Gruppen eingeteilt wurden. Die Prüfer:innen können diese Informationen nutzen, um das Risiko zu bewerten, dass Mitarbeiter:innen versehentlich bei der Bewertung nicht berücksichtigt wurden.[^5#be14-5]
+- Erstellen Sie Unterlagen wie Protokolle und Teilnehmerlisten, um die Einbeziehung der Mitarbeiter:innen und/oder ihrer Vertreter:innen bei der Einrichtung oder Änderung von Beschwerdemechanismen nachzuweisen. Prüfer:innen können diese Dokumentation auswerten, um die Einbeziehung der Mitarbeiter:innen in diese Prozesse zu überprüfen.
+- Halten Sie die Maßnahmen fest, die ergriffen wurden, um die Mitarbeiter:innen über die Existenz des Beschwerdemechanismus zu informieren, sowie die Anweisungen zu dessen Nutzung. Die Kommunikation mit den Mitarbeitenden umfasst alle Formen, in denen der Mechanismus in Einstellungs-, Schulungs- oder Leistungsbewertungsprozesse oder -materialien integriert wurde. Dies kann Prüfenden helfen, die Strategie des Unternehmens zur Sicherstellung der Kenntnis des Mechanismus durch die Mitarbeiter:in verstehen und zu bewerten.
+- Dokumentieren Sie die Methode, mit der sichergestellt wird, dass Mitarbeiter:innen, die Bedenken über die vom Unternehmen bereitgestellten Mechanismen vorbringen, gegebenenfalls anonym bleiben. Die Prüfer:innen können dies nutzen, um zu überprüfen, ob der Mechanismus für Mitarbeiter:innen zugänglich ist, ohne dass sie Vergeltungsmaßnahmen befürchten müssen.
+- Dokumentieren Sie die Bedingungen, unter denen Mitarbeiter:innen Zugang zu unabhängiger Beratung und Fachwissen erhalten, wenn sie dem Unternehmen ein Anliegen vorbringen. Die Prüfer:innen die Prozesse bewerten, um zu bestätigen, dass das Unternehmen dieses Kriterium erfüllt.
+- Dokumentieren Sie den Prozess, der befolgt wird, um sicherzustellen, dass die Kontrollen wie vorgesehen funktionieren. Die Prüfer:innen können diesen Prozess überprüfen, um festzustellen, ob das Unternehmen in der Lage ist, etwaige Probleme mit dem Meldesystem für Beschwerde innerhalb eines angemessenen Zeitraums zu erkennen und zu beheben.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be14-additional}
+### 5. Zusätzliche Informationen {-#be14-additional}
 
-#### 5.1 Example {-#be14-example}
+#### 5.1 Beispiel {-#be14-example}
 
-ACME Inc. sells lemonade products. Its operations consist of two sites: a bottling plant and an office space. The company has a total of 250 employees: 50 working in the office and 200 at the bottling plant. The company has a concerns mechanism at both sites.
+ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Unternehmen beschäftigt insgesamt 250 Mitarbeiter:innen: 50 im Büro und 200 in der Abfüllanlage. Das Unternehmen verfügt an beiden Standorten über einen Beschwerdemechanismus.
 
-The concerns mechanism at the office site lives up to only five of eight criteria categories: there is currently no way to access an independent arbiter, the company does not communicate significant business changes to employee groups beforehand, and employees that submit complaints do not receive any updates during the process. The company therefore scores its office concerns mechanism as 70% fit.
+Das Beschwerdesystem am Bürostandort erfüllt nur fünf von acht Kriterienkategorien: Derzeit gibt es keine Möglichkeit, eine:n unabhängige:n Schlichter:in anzurufen, das Unternehmen informiert die Mitarbeitergruppen nicht vorab über wesentliche geschäftliche Veränderungen, und Mitarbeiter:innen, die Beschwerden einreichen, erhalten während des Verfahrens keine Rückmeldung. Das Unternehmen bewertet sein Beschwerdesystem am Bürostandort daher als 70 % fit.
 
-The concerns mechanism at the plant has the same three shortcomings as the office mechanism, but in addition ACME has not provided the means for plant staff to submit concerns anonymously. The company therefore scores its bottling plant concerns mechanism as 60% fit.
+Das Beschwerdesystem in der Abfüllanlage weist dieselben drei Mängel auf wie das System in der Zentrale, doch darüber hinaus hat ACME den Mitarbeitenden der Anlage keine Möglichkeit zur anonymen Einreichung von Beschwerden bereitgestellt. Das Unternehmen bewertet daher das Beschwerdesystem in der Abfüllanlage mit einer Eignung von 60 %.
 
-The company calculates its progress as:
+Das Unternehmen berechnet seinen Fortschritt wie folgt:
 
 $$F=\frac{0(E_{0\%})+0.3(E_{30\%})...+1(E_{100\%})}{E_T}=\frac{0.7(50)+0.6(200)}{250}=62\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total number of employees during the reporting period = 250
+Gesamtzahl der Mitarbeiter:innen im Berichtszeitraum = 250
 
-#### 5.2 Useful links {-#be14-links}
+#### 5.2 Nützliche Links {-#be14-links}
 
-##### The UN Guiding Principles on Business and Human Rights {-#be14-un-pbhr}
+##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-#be14-un-pbhr}
 
-The UN's Human Rights Council endorsed the [guiding principles](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) in 2011, which apply both to states and business enterprises.
+Der Menschenrechtsrat der Vereinten Nationen hat die [Leitprinzipien](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf) im Jahr 2011 verabschiedet; diese gelten sowohl für Staaten als auch für Unternehmen.
 
 ##### CSR Europe {-#be14-csr-europe}
 
-CSR Europe is a leading European business network for corporate social responsibility. In 2013 it published the report [Assessing the effectiveness of company grievance mechanisms](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), which translated the UN's guiding principles into a recommended set of company actions.
+CSR Europe ist ein führendes europäisches Unternehmensnetzwerk für soziale Verantwortung von Unternehmen. Im Jahr 2013 veröffentlichte es den Bericht [Leitfaden zur Konzeption und Umsetzung von Beschwerdemechanismen für Entwicklungsprojekte](https://static1.squarespace.com/static/5df776f6866c14507f2df68a/t/5e666810b7c6ef5fcd9bf296/1583769622168/MOC-A+Report.pdf), (Bewertung der Wirksamkeit von Beschwerdemechanismen in Unternehmen), in dem die Leitprinzipien der Vereinten Nationen in eine Reihe von Handlungsempfehlungen für Unternehmen umgesetzt wurden.
 
 ##### The Office of the Compliance Advisor / Ombudsman {-#be14-cao}
 
-CAO is the independent recourse mechanism for the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). It has released [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects.](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf)
+CAO ist der unabhängige Beschwerdemechanismus für die Internationale Finanz-Corporation (IFC) und die Multilaterale Investitionsgarantie-Agentur (MIGA). Es hat einen [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf) veröffentlicht.
 
 
-[^1#be14-1]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^1#be14-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^2#be14-2]: Due to the nature of concerns mechanisms, if employees are not aware of one or if it is not functioning as intended, management is unlikely to be made aware of this fact without proactively checking. It is suggested that reviews are conducted on at least an annual basis.
+[^2#be14-2]: Aufgrund der Natur von Beschwerdemechanismen ist es unwahrscheinlich, dass die Unternehmensleitung davon Kenntnis erhält, wenn Mitarbeiter:innen einen solchen Mechanismus nicht kennen oder dieser nicht wie vorgesehen funktioniert, es sei denn, sie führt proaktiv Überprüfungen durch. Es wird empfohlen, mindestens einmal jährlich Überprüfungen durchzuführen.
 
-[^3#be14-3]: Note that for this indicator it is not appropriate to use the average number of employees (e.g. equating two employees working 20 hours per week each to one full-time employee, or three workers employed for four months each as one full-time job) as it risks obfuscating the impact on one or more of the individuals.
+[^3#be14-3]: Beachten Sie, dass es für diesen Indikator nicht angemessen ist, die durchschnittliche Mitarbeiterzahl heranzuziehen (z. B. zwei Mitarbeiter:innen, die jeweils 20 Stunden pro Woche arbeiten, als eine:n Vollzeitmitarbeiter:in zu betrachten, oder drei Arbeitnehmer:innen, die jeweils vier Monate beschäftigt sind, als einen Vollzeitposten), da dies die Auswirkungen auf eine oder mehrere Einzelpersonen verschleiern könnte.
 
-[^4#be14-4]: For example, would be the number of employees for whom a concerns mechanism is in place which meets five of the eight fitness criteria categories, including _Ensure legitimacy_ and _Ensure positive outcomes_.
+[^4#be14-4]: Beispielsweise wäre dies die Anzahl der Mitarbeiter:innen, für die ein Beschwerdemechanismus eingerichtet ist, der fünf der acht Kategorien von Fitnesskriterien erfüllt, darunter _Legitimität sicherstellen_ und _Positive Ergebnisse sicherstellen_.
 
-[^5#be14-5]: This information is relevant for all employee-related Break-Even Goals, but the method may have to be adjusted for the purposes of this goal. For the reason why see the [_Context indicator_](#be14-context) section.
+[^5#be14-5]: Diese Information ist für alle mitarbeiterbezogenen Break-Even-Ziele relevant, doch muss die Methode für die Zwecke dieses Ziels möglicherweise angepasst werden. Den Grund hierfür finden Sie im Abschnitt [_Kontextindikator_](#be14-context).

@@ -226,17 +226,17 @@ Wie beim Fortschrittsindikator liegt der Schwerpunkt auf [Beschäftigten](#def-e
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be11-example).
 
-### 4. Prüfung und Sicherheit {-#be11-assurance}
+### 4. Zuverlässigkeitserklärung {-#be11-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be11-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be11-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be11-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen die Anzahl der Beschäftigten des Unternehmens im Berichtszeitraum ermittelt wurde, sowie die Art und Weise, wie diese Beschäftigten für die Zwecke der Bewertung in Gruppen eingeteilt werden. Die Prüfer:innen können diese Informationen nutzen, um die Genuaigkeit des berechneten Indikators zu überprüfen.[^7#be11-7]
 - Dokumentieren Sie die Methoden, mit denen das Unternehmen ermittelt, welche Standorte oder Regionen eine gesonderte Bewertung der Lebenshaltungskosten erfordern. Dies kann den Prüfer:innen helfen, den verwendeten Ansatz nachzuvollziehen und zu beurteilen, ob er die Kriterien erfüllt.

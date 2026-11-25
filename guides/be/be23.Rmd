@@ -5,455 +5,452 @@ editor_options:
     wrap: 72
 ---
 
-## BE23: Financial Assets {-#be23}
+## BE23: Finanzielle Vermögenswerte {-#be23}
 
 <div class="subtitle">
-Financial assets safeguard the pursuit of future-fitness
+Finanzielle Vermögenswerte behüten die Zukunftsfähigkeit
 </div>
 
 ### 1. Ambition {-#be23-ambition}
 
-A Future-Fit Business implements investment policies and related internal controls that continuously seek to improve the future-fitness of both the financial assets it owns, and any that it manages or controls on behalf of third-party asset owners.
+Ein zukunftsfähiges Unternehmen setzt Investitionsrichtlinien und entsprechende interne Kontrollmechanismen um, die darauf abzielen, die Zukunftsfähigkeit sowohl der eigenen Finanzanlagen als auch derjenigen, die es im Auftrag von Drittvermögeneigentümern verwaltet oder kontrolliert, kontinuierlich zu verbessern.
 
-#### 1.1 What this goal means {-#be23-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be23-what-goal-means}
 
-Many companies own or control financial assets (equity investments, debt instruments, cash deposits with banks, etc.) as part of their core business, as a strategic business objective or simply as a method of utilizing spare cash until it is needed for other purposes. Purchasing and trading financial assets supplies capital for the investee to continue -- or expand -- its activities.[^1#be23-1] Any positive or negative outcomes caused by the investee may be sustained or increased by the capital provided, and so the investor is mutually accountable for them.[^2#be23-2]
+Viele Unternehmen halten oder verwalten Finanzanlagen (Beteiligungen, Schuldtitel, Bareinlagen bei Banken usw.) als Teil ihres Kerngeschäfts, als strategisches Unternehmensziel oder einfach als Möglichkeit, überschüssige Barmittel zu nutzen, bis sie für andere Zwecke benötigt werden. Der Erwerb und Handel mit Finanzanlagen versorgt das Beteiligungsunternehmen mit Kapital, damit es seine Aktivitäten fortsetzen oder erweiten kann.[^1#be23-1] Jegliche positiven oder negativen Ergebnisse, die durch das Beteiligungsunternehmen verursacht werden, können durch das bereitgestellte Kapital aufrechterhalten oder verstärkt werden, sodass der Investor dafür mitverantwortlich ist.[^2#be23-2]
 
-This goal requires a company to implement internal controls that help it to continuously maximize the future-fitness of its investments, with a particular emphasis on anticipating, avoiding and addressing issue-specific hotspots.
+Dieses Ziel erfordert, dass ein Unternehmen interne Kontrollmechanismen einführt, die ihm helfen, die Zukunftsfähigkeit seiner Investitionen kontinuierlich zu maximieren, wobei ein besonderer Schwerpunkt auf der Vorhersage, Vermeidung und Bewältigung themenspezifischer Risikobereiche liegt.
 
-To be Future-Fit, a company must: (a) have policies and internal controls in place that enable it and its employees to anticipate where negative investment impacts are likely to occur; (b) avoid them where possible; and (c) take measurable steps to address concerns that arise.
+Um zukunftsfähig zu sein, muss ein Unternehmen: (a) über Richtlinien und interne Kontrollen verfügen, die es ihm und seinen Mitarbeitenden ermöglichen, vorauszusehen, wo negative Investitionsauswirkungen wahrscheinlich sind; (b) sie nach Möglichkeit meiden; und (c) messbare Schritte unternehmen, um auftretende Bedenken auszuräumen.
 
-#### 1.2 Why this goal is needed {-#be23-why-goal-needed}
+#### 1.2. Warum dieses Ziel erforderlich ist {-#be23-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
--   **Between 60-80% of coal, oil and gas reserves of publicly listed companies are 'un-burnable' if the world is to have a chance of not exceeding global warming of 2°C.** Company valuations do not typically inform investors about their exposure to these so-called "stranded assets", despite these reserves supporting share value of $4 trillion in 2012. @Car13
+-   **Zwischen 60 und 80 % der Kohle-, Öl- und Gasreserven börsennotierter Unternehmen sind „unverbrennbar“, wenn die Welt eine Chance haben soll, die globale Erwärmung von 2 °C nicht zu überschreiten.** Unternehmensbewertungen informieren Anleger:innen in der Regel nicht über ihr Engagement in diesen sogenannten _gestrandeten Vermögenswerten_, obwohl diese Reserven im Jahr 2012 einen Aktienwert von 4 Billionen US-Dollar unterstützten. @Car13
 
--   **There is substantial and continual growth in both the demand for Sustainable and Responsible Investment (SRI) opportunities, and in the availability of information reported on extra-financial performance.** According to Eurosif's 2018 European SRI study, Environmental, Social and Governance (ESG) integration strategies grew by 60% over the previous two years to represent more than €4 trillion of assets under management. @Eur16
+-   **Sowohl die Nachfrage nach nachhaltigen und verantwortungsvollen Anlagemöglichkeiten (Sustainable and Responsible Investment, SRI) als auch die Verfügbarkeit von Informationen über nichtfinanzielle Leistungen nehmen erheblich und kontinuierlich zu.** Laut der europäischen SRI-Studie von Eurosif aus dem Jahr 2018 sind die Integrationsstrategien Umwelt-, Sozial- und Governance-Kriterien (ESG) in den letzten zwei Jahren um 60 % gewachsen und machen mehr als 4 Billionen Euro verwaltetes Vermögen aus. @Eur16
 
--   **Major investment is needed to meet the SDGs. While some initiatives should be publicly funded, success will also require significant investment of private funds from individual and corporate investors.** The United Nations Conference on Trade and Development estimates there is an annual investment gap in developing countries of over $4 trillion. @Nic17
+-   **Um die SDGs zu erreichen, sind große Investitionen erforderlich. Während einige Initiativen öffentlich finanziert werden sollten, ist für den Erfolg auch eine erhebliche Investition privater Mittel von Privat- und Unternehmensinvestoren erforderlich.** Die Handels- und Entwicklungskonferenz der Vereinten Nationen schätzt, dass in den Entwicklungsländern eine jährliche Investitionslücke von über 4 Billionen US-Dollar besteht. @Nic17
 
-#### 1.3 How this goal contributes to the SDGs {-#be23-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be23-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping - and in no way hindering - progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may help to drive progress with respect to all SDGs by ensuring that the financial assets they control do not hinder the pursuit of future-fitness. The most direct links with respect to this goal, however, will depend on the unique characteristics of each company's investments.
+Unternehmen können dazu beitragen, den Fortschritt in Bezug auf alle SDGs voranzutreiben, indem sie sicherstellen, dass die von ihnen kontrollierten finanziellen Vermögenswerte das Streben nach Zukunftsfähigkeit nicht behindern. Die direktesten Verbindungen zu diesem Ziel hängen jedoch von den einzigartigen Merkmalen der Investitionen jedes Unternehmens ab.
 
-#### 1.4 Related goals {-#be23-related-goals}
+#### 1.4 Verwandte Ziele {-#be23-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
--   [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Procurement_ goal applies to the purchase of goods and services that the company uses. The _Financial assets_ goal in contrast encompasses how the company invests or lends capital (through debt finance, equity investment, project finance, cash deposits, investment funds, etc.).
+-   [**Beschaffung sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Beschaffungsziel bezieht sich auf den Einkauf von Waren und Dienstleistungen, die das Unternehmen nutzt. Das Ziel _Finanzielle Vermögenswerte_ umfasst dagegen die Art und Weise, wie das Unternehmen Kapital investiert oder vergibt (durch Fremdfinanzierung, Kapitalbeteiligungen, Projektfinanzierung, Bareinlagen, Investmentfonds usw.).
 
--   [**Lobbying and corporate influence safeguard the pursuit of future-fitness:**](#be22) The _Lobbying_ goal applies to how the company invests its capital specifically to pursue some form of beneficial outcome (such as
-favourable regulatory changes) for the business. The _Financial assets_ goal does not encompass donations or fundraising activities, but instead focuses on investing with the expectation of financial returns.
+-   [**Lobbyarbeit und Interessenvertretung behüten das Streben nach Zukunftsfähigkeit:**](#be22) Das Ziel Lobbyarbeit bezieht sich auf die Art und Weise, wie das Unternehmen sein Kapital gezielt investiert, um ein positives Ergebnis (z. B. günstige regulatorische Änderungen) für das Unternehmen zu erzielen. Das Ziel _Finanzielle Vermögenswerte_ umfasst keine Spenden oder Fundraising-Aktivitäten, sondern konzentriert sich stattdessen auf Investitionen mit der Erwartung einer finanziellen Rendite.
 
-### 2. Action {-#be23-action}
+### 2. Aktion {-#be23-action}
 
-#### 2.1 Getting started {-#be23-getting-started}
+#### 2.1 Erste Schritte {-#be23-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-As explained in the [**Methodology Guide**](mg-mutually_accountable), every company is _mutually accountable_ for any impact beyond its own four walls, to the extent that the impact is a consequence of the company's existence.
+Wie im [**methodischen Leitfaden**](mg-mutually_accountable), erläutert, trägt jedes Unternehmen eine Mitverantwortung für alle Auswirkungen, die über seine eigenen vier Wände hinausgehen, sofern diese Auswirkungen eine Folge der Existenz des Unternehmens sind.
 
-In terms of investment, this means not investing in financial assets which themselves hinder society's progress toward future-fitness.[^3#be23-3] This goal covers three ownership scenarios:
+In Bezug auf Investitionen bedeutet dies, nicht in Finanzanlagen zu investieren, die den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit behindern.[^3#be23-3] Dieses Ziel umfasst drei Eigentumsmodelle:
 
--   Financial assets owned by the company.
--   Financial assets managed by the company on behalf of third-party owners.
--   Financial assets offered as products to third-parties without any involvement in the management of the investment itself.
+-   Finanzielle Vermögenswerte im Besitz des Unternehmens.
+-   Finanzielle Vermögenswerte, die das Unternehmen im Auftrag Dritter verwaltet.
+-   Finanzielle Vermögenswerte, die Dritten als Produkte angeboten werden, ohne dass sie an der Verwaltung der Anlage selbst beteiligt sind.
 
-When a company invests in a financial asset -- either on its own behalf or for a third-party owner -- or offers the investment as a product to third-parties, it effectively chooses to provide (part of the) financing
-for the negative impacts associated with that asset. Companies are therefore mutually accountable for the negative impacts of that investment.
+Wenn ein Unternehmen in einen finanziellen Vermögenswert investiert – entweder im eigenen Namen oder für eine:n Dritteigentümer:in – oder die Investition als Produkt Dritten anbietet, entscheidet es sich effektiv dafür, (einen Teil der) Finanzierung für die damit verbundenen negativen Auswirkungen bereitzustellen mit diesem Vermögenswert. Die Unternehmen sind daher gemeinsam für die negativen Auswirkungen dieser Investition rechenschaftspflichtig.
 
-Understanding the impact of any individual company or project -- and therefore any associated financial asset -- is complex, and a company may not even know exactly where and how its money is being deployed. However, if companies do not work to understand the impacts of their financial decisions, they risk contributing to negative outcomes.
+Es ist komplex, die Auswirkungen eines einzelnen Unternehmens oder Projekts – und damit jedes damit verbundenen finanziellen Vermögenswerts – zu verstehen. Ein Unternehmen weiß möglicherweise nicht einmal genau, wo und wie sein Geld eingesetzt wird. Wenn Unternehmen jedoch nicht daran arbeiten, die Auswirkungen ihrer Finanzentscheidungen zu verstehen, laufen sie Gefahr, zu negativen Folgen beizutragen.
 
-That said, growing demand for information on the environmental and social impacts of investments is leading to greater transparency and availability of information. Full integration of future-fitness data into the company's approach to financial assets should therefore be a long-term aspiration.
+Allerdings führt die wachsende Nachfrage nach Informationen über die ökologischen und sozialen Auswirkungen von Investitionen zu größerer Transparenz und Verfügbarkeit von Informationen. Die vollständige Integration von Daten zur Zukunftsfähigkeit in den Ansatz des Unternehmens in Bezug auf Finanzanlagen sollte daher ein langfristiges Ziel sein.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Are financial assets part of the company's core business? {-}
+###### Gehören Finanzanlagen zum Kerngeschäft des Unternehmens? {-}
 
--   Does the company manage financial assets on its own behalf, or for other organizations or individuals? Does it sell financial assets as products? Does it supply other organizations or individuals with loans? How much insight does the company have into where its financial assets are invested?
--   Does the company pay into a pension fund on behalf of its employees? Does it have any insight into how the money in that fund is invested, and the degree to which that fund's investment strategy aligns with the company's own values?
+-   Verwaltet das Unternehmen finanzielle Vermögenswerte im eigenen Namen oder für andere Organisationen oder Einzelpersonen? Verkauft es finanzielle Vermögenswerte als Produkte? Gewährt es anderen Organisationen oder Einzelpersonen Kredite? Inwieweit hat das Unternehmen Einblick darin, wo seine Finanzanlagen angelegt sind?
+-   Zahlt das Unternehmen im Namen seiner Mitarbeiter:innen in eine Pensionskasse ein? Hat es Einblick in die Art und Weise, wie das Geld in diesem Fonds investiert wird und inwieweit die Anlagestrategie dieses Fonds mit den eigenen Werten des Unternehmens übereinstimmt?
 
-###### What are the company's investment goals? {-}
+###### Was sind die Investitionsziele des Unternehmens? {-}
 
--   When investing capital in financial assets, what are the company's primary objectives? Is it looking to maximize financial returns, minimize risk or preserve liquidity?
--   Does the company have explicit social or environmental objectives with respect to its financial assets?
--   Does the company have a stated commitment to support the SDGs? If so, has this commitment been integrated into the company's investment criteria?
+-   Was sind die vorrangigen Ziele des Unternehmens bei der Anlage von Kapital in Finanzanlagen? Strebt es die Maximierung der finanziellen Rendite, die Minimierung des Risikos oder die Sicherung der Liquidität an?
+-   Hat das Unternehmen in Bezug auf seine finanziellen Vermögenswerte explizite soziale oder ökologische Ziele?
+-   Hat das Unternehmen eine erklärte Verpflichtung, die SDGs zu unterstützen? Wenn ja, wurde dieses Engagement in die Investitionskriterien des Unternehmens integriert?
 
-###### How does the company manage its financial assets? {-}
+###### Wie verwaltet das Unternehmen seine finanziellen Vermögenswerte? {-}
 
--   Does the company have explicit policies and internal controls relating to financial assets? Are these actively and regularly reviewed? Who are the individuals responsible for overseeing and ensuring their effectiveness? Have social and environmental criteria been integrated into them?
--   Are the company's own investments, or those of its clients, managed by a third-party? If so, what are the investment parameters communicated to the managers of these assets, and do they include specific social or environmental objectives? Do the existing managers report on any extra-financial elements of their investments? How are the managers evaluated on - and rewarded for - their performance?
--   How does the company treat voting rights? Does it participate in shareholder discussions, or have someone represent its interests? Has the company formally documented its objectives in this regard? Do any managers exercise ownership and voting rights on behalf of the company in line with Future-Fit objectives?
+-   Verfügt das Unternehmen über explizite Richtlinien und interne Kontrollen in Bezug auf Finanzanlagen? Werden diese aktiv und regelmäßig überprüft? Wer ist für die Überwachung und Sicherstellung ihrer Wirksamkeit verantwortlich? Wurden soziale und ökologische Kriterien darin integriert?
+-   Werden die eigenen Investitionen des Unternehmens oder die seiner Kunden von Dritten verwaltet? Wenn ja, welche Anlageparameter werden den Verwaltern dieser Vermögenswerte mitgeteilt, und umfassen diese bestimmte soziale oder ökologische Ziele? Berichten die bestehenden Manager über alle nichtfinanziellen Elemente ihrer Investitionen? Wie werden die Führungskräfte anhand ihrer Leistung bewertet und belohnt?
+-   Wie geht das Unternehmen mit Stimmrechten um? Beteiligt es sich an Aktionärsgesprächen oder lässt es seine Interessen vertreten? Hat das Unternehmen seine diesbezüglichen Ziele offiziell dokumentiert? Üben Manager Eigentums- und Stimmrechte im Namen des Unternehmens im Einklang mit den Future-Fit-Zielen aus?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### Where could the company have most impact with its financial assets? {-}
+###### Wo könnte das Unternehmen mit seinen Finanzanlagen die größte Wirkung erzielen? {-}
 
--   In which types of financial assets does the company have the largest amounts of capital invested? Small changes to the way these assets are managed could have relatively large impacts.
+-   In welche Arten von Finanzanlagen hat das Unternehmen die größten Kapitalbeträge investiert? Geringfügige Änderungen bei der Verwaltung dieser Anlagen könnten relativ große Auswirkungen haben.
 
-###### Which potential improvements would be the easiest to implement? {-}
+###### Welche potenziellen Verbesserungen wären am einfachsten umzusetzen? {-}
 
--   For which asset types or pools of capital would it be easiest to begin integrating Future-Fit objectives? Which risk profiles or stated investment objectives most closely align with Future-Fit requirements?
--   Are there opportunities to transition to instruments with similar risk profiles and growth potential that also incorporate social or environmental considerations?
+-   Für welche Anlageklassen oder Kapitalpools wäre es am einfachsten, Future-Fit-Ziele zu integrieren? Welche Risikoprofile oder erklärten Anlageziele stimmen am ehesten mit den Future-Fit-Anforderungen überein?
+-   Gibt es Möglichkeiten, auf Instrumente mit ähnlichen Risikoprofilen und Wachstumspotenzial umzusteigen, die auch soziale oder ökologische Aspekte berücksichtigen?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
--   Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^4#be23-4] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+-   Ist das Unternehmen über das zur Erreichung dieses Ziels erforderliche Maß hinaus in der Lage, etwas zu tun, um sicherzustellen, dass soziale Normen, globale Governance und Wirtschaftswachstum das Streben nach Zukunftsfähigkeit vorantreiben?[^4#be23-4] Jede derartige Maßnahme kann den gesellschaftlichen Fortschritt in Richtung Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-social-norms).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Im nächsten Abschnitt werden die Fitnesskriterien beschrieben, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be23-pursuing}
+#### 2.2 Zukunftsfähigkeit anstreben {-#be23-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-To be Future-Fit, a company must have internal controls in place that enable it and its employees to evaluate financial assets in order to identify any potential negative impacts. Furthermore, policies must be implemented to avoid those impacts where possible, and steps must be taken to address any that cannot be avoided.
+Um zukunftsfähig zu sein, muss ein Unternehmen über interne Kontrollen verfügen, die es ihm und seinen Mitarbeitenden ermöglichen, finanzielle Vermögenswerte zu bewerten, um mögliche negative Auswirkungen zu erkennen. Darüber hinaus müssen Richtlinien umgesetzt werden, um diese Auswirkungen nach Möglichkeit zu vermeiden, und es müssen Maßnahmen ergriffen werden, um alle Auswirkungen anzugehen, die sich nicht vermeiden lassen.
 
-###### Guidance on performing hotspot assessments {-#be23-hotspot-assessment}
+###### Leitlinien zur Durchführung von Brennpunkt-Bewertungen {-#be23-hotspot-assessment}
 
-To anticipate the negative impacts that its investments could be contributing to - however unintentionally - all investments should be subject to hotspot assessments, to identify any activity that may undermine progress toward the 8 Properties of a Future-Fit Society, namely:[^5#be23-5]
+Um den negativen Auswirkungen vorzubeugen, zu denen Investitionen – wenn auch unbeabsichtigt – beitragen könnten, sollten alle Investitionen einer Brennpunkt-Bewertung unterzogen werden, um alle Aktivitäten zu identifizieren, die den Fortschritt in Richtung der 8 Merkmale einer zukunftsfähigen Gesellschaft untergraben könnten, nämlich:[^5#be23-5]
 
--   **Energy** is renewable and available to all;
--   **Water** is responsibly sourced and available to all;
--   **Natural resources** are managed to safeguard communities, animals and ecosystems;
--   The environment is free from **pollution;**
--   **Waste** does not exist;
--   Our **physical presence** protects the health of ecosystems and communities;
--   **People** have the capacity and opportunity to lead fulfilling lives; and
--   Social norms, global governance and economic growth **drive** the pursuit of future‑fitness.
+-   **Energie** ist erneuerbar und für alle verfügbar.
+-   **Wasser** stammt aus verantwortungsvollen Quellen und ist für alle verfügbar.
+-   **natürliche Ressourcen** werden so bewirtschaftet, dass Gemeinschaften, Tiere und Ökosysteme geschützt werden;
+-   Die Umwelt ist frei von **Verschmutzung;**
+-   es gibt keinen **Abfall**;
+-   Unsere **physische Präsenz** schützt die Gesundheit von Ökosystemen und Gemeinschaften;
+-   **Menschen** haben die Fähigkeit und die Möglichkeit, ein erfülltes Leben zu führen; Und
+-   Soziale Normen, globale Governance und Wirtschaftswachstum treiben das Streben nach Zukunftsfähigkeit voran.
 
-[Figure 1](#be23-figure-1) offers a list of common issues to consider in each area. Particular scrutiny should be given to types of impact whose likelihood is higher depending on industry-specific, geographical, and resource-specific risks. For example, do the assets support finance to:
+[Abbildung 1](#be23-figure-1) enthält eine Liste häufig auftretender Aspekte, die in den einzelnen Bereichen zu berücksichtigen sind. Besondere Aufmerksamkeit sollte den Auswirkungen gewidmet werden, deren Eintreten aufgrund branchenspezifischer, geografischer und ressourcenspezifischer Risiken wahrscheinlicher ist. Unterstützen die Vermögenswerte beispielsweise die Finanzierung von:
 
--   Projects that use a highly water-intensive agricultural manufacturing process occurring in a water-stressed region?
--   Companies that outsource 24-hour customer services functions to countries with limited regulatory protection for employee rights?
--   Funds investing in resources like wood pulp or palm oil, which may contribute to deforestation if purchased from uncertified sources?
+-   Projekten, bei denen ein sehr wasserintensiver landwirtschaftlicher Produktionsprozess in einer Region mit Wasserknappheit zum Einsatz kommt?
+-   Unternehmen, die 24-Stunden-Kundendienstfunktionen in Länder auslagern, in denen der gesetzliche Schutz der Arbeitnehmerrechte begrenzt ist?
+-   Fonds, die in Ressourcen wie Zellstoff oder Palmöl investieren, die zur Abholzung der Wälder beitragen können, wenn sie aus nicht zertifizierten Quellen stammen?
 
 <div class="callout-note">
-**Resources for hotspot assessments**
+**Ressourcen für die Brennpunkt-Bewertung**
 
-Companies should use information available from government and industry bodies, as well as their own desk research. For physical products, Life-Cycle Assessment (LCA) databases can prove useful. For social impacts, the [Social Hotspot Database](http://socialhotspot.org/) is a good starting point, as is [OpenLCA](http://www.openlca.org/) for environmental impacts.
+Unternehmen sollten Informationen von staatlichen und branchenbezogenen Stellen sowie ihre eigenen Sekundärrecherchen nutzen. Bei physischen Produkten können Datenbanken zur Ökobilanz (Life-Cycle-Assessment, LCA) hilfreich sein. Für soziale Auswirkungen ist die [Social Hotspot Database](http://socialhotspot.org/) ein guter Ausgangspunkt, ebenso wie [OpenLCA](http://www.openlca.org/) für Umweltauswirkungen.
 </div>
 
-####### Assessments for financial assets owned by the company: {-}
+####### Bewertungen für Finanzanlagen im Besitz des Unternehmens: {-}
 
-For all financial assets it owns, the company should seek to:
+Für alle finanziellen Vermögenswerte, die das Unternehmen besitzt, sollte das Unternehmen Folgendes anstreben:
 
--   Identify exactly how its capital has been deployed (e.g. through bank deposits, direct investments, funds, etc.);
--   Determine the end recipients of each investment (e.g. the constituent companies within a fund); and,
--   Consider which negative impacts might be reasonably expected to occur as a result of those investments.
+-   Identifizieren Sie genau, wie das Kapital eingesetzt wurde (z. B. durch Bankeinlagen, Direktinvestitionen, Fonds usw.);
+-   Bestimmen Sie die Endempfänger:in jeder Investition (z. B. die Unternehmen, aus denen ein Fonds besteht); Und,
+-   Prüfen Sie, welche negativen Auswirkungen aufgrund dieser Investitionen nach vernünftigen Ermessen zu erwarten sind.
 
-Note that many investment vehicles are opaque with regard to where they invest. However, without this information asset owners cannot be sure that they are not contributing to negative impacts.
+Beachten Sie, dass bei vielen Anlagevehikeln unklar ist, wo sie investieren. Ohne diese Informationen können Vermögenseigentümer:innen jedoch nicht sicher sein, dass sie nicht zu negativen Auswirkungen beitragen.
 
 <div class="ff-figure" id="be23-figure-1">
-Figure 1: A list of common hotspot issues by area of impact.
+Abbildung 1: Eine Liste häufiger Brennpunkt-Aspekte nach betroffenen Bereichen.
 </div>
 
 <div class="table-20 table-blue">
-| Issue area | Common hotspots |
+| Themenbereich | häufig auftretende Brennpunkte |
 |:---:|:---|
-| **Energy** | Energy-intensive processes which are likely to:<br/>- Rely on non-renewable energy<br/>- Prevent others from meeting energy needs |
-| **Water** | Water-intensive processes which are likely to:<br/>- Rely on water from water-stressed sources<br/>- Prevent others from meeting water needs |
-| **Natural resources** | Reliance on natural resources, whose sourcing contributes to the following:<br/>- Loss of biodiversity<br/>- Depletion of renewable resources<br/>- Armed conflicts<br/>- Poor treatment of animals<br/>- Physical degradation of the environment<br/>- Diversion of agricultural crops to energy feedstock |
-| **Pollution: GHGs** | GHG-intensive processes |
-| **Pollution: Other harmful emissions** | Harmful emissions into air, land and water, including:<br/>- Gaseous toxins and air pollutants (e.g. VOCs, NOx)<br/>- Ozone depleting substances<br/>- Substances that build up in nature<br/>- Scarce metals (e.g. Cadmium and lead)<br/>- Untreated or insufficiently treated wastewater<br/>- Harmful chemicals (e.g. fertilizer run-off, harmful pesticides) |
-| **Waste** | Processes which result in large amounts of waste generation |
-| **Physical presence** | Harmful uses of land, including:<br/>- Encroachment into areas of importance to local communities<br/>- Conversion of pristine ecosystems (e.g. conversion of primary forests and wetlands)<br/>- Lack of respect for community rights (e.g. land-grabbing practices) |
-| **People** | Poor labor practices, including:<br/>- Child Labor<br/>- Excessive overtime<br/>- Forced Labor<br/>- Hazardous working conditions<br/>- Irresponsible use of agency labor<br/>- Underpayment or non-payment of wages and benefits<br/>- Undisclosed subcontracting<br/>- Discriminatory practices<br/>- Lack of representation (e.g. the right to bargain collectively) |
-| **Drivers** | Operational activities which are driven by unethical business conduct (e.g. bribery practices) |
+| **Energie** | Energieintensive Prozesse, die voraussichtlich:<br/>- auf nicht erneuerbare Energiequellen angewiesen sind<br/>- andere daran hindern, ihren Energiebedarf zu decken |
+| **Wasser** | Wasserintensive Prozesse, bei denen davon auszugehen ist, dass sie:<br/>- auf Wasser aus wasserarmen Quellen angewiesen sind<br/>- andere daran hindern, ihren Wasserbedarf zu decken |
+| **Natürliche Ressourcen** | Die Abhängigkeit von natürlichen Ressourcen, deren Gewinnung zu Folgendem beiträgt:<br/>- Verlust der biologischen Vielfalt<br/>- Erschöpfung erneuerbarer Ressourcen<br/>- Bewaffnete Konflikte<br/>- Misshandlung von Tieren<br/>- Physische Schädigung der Umwelt<br/>- Umwidmung landwirtschaftlicher Nutzflächen für die Energiegewinnung |
+| **Verschmutzung: Treibhausgase** | Treibhausgasintensive Prozesse |
+| **Verschmutzung: Sonstige schädliche Emissionen** | Schädliche Emissionen in Luft, Boden und Wasser, darunter:<br/>- Gasförmige Giftstoffe und Luftschadstoffe (z. B. VOCs, NOx)<br/>- Ozonabbauende Stoffe<br/>- Stoffe, die sich in der Natur anreichern<br/>- Seltene Metalle (z. B. Cadmium und Blei)<br/>- Unbehandeltes oder unzureichend behandeltes Abwasser<br/>- Schädliche Chemikalien (z. B. Düngemittelauswaschungen, schädliche Pestizide) |
+| **Abfall** | Prozesse, bei denen große Mengen an Abfall anfallen |
+| **Physische Präsenz** | Schädliche Landnutzung, darunter:<br/>- Eingriffe in Gebiete, die für lokale Gemeinschaften von Bedeutung sind<br/>- Umwandlung unberührter Ökosysteme (z. B. Umwandlung von Primärwäldern und Feuchtgebieten)<br/>- Missachtung der Rechte lokaler Gemeinschaften (z. B. Landraub) |
+| **Menschen** | Mangelhafte Arbeitspraktiken, darunter:<br/>- Kinderarbeit<br/>- Übermäßige Überstunden<br/>- Zwangsarbeit<br/>- Gefährliche Arbeitsbedingungen<br/>- Verantwortungsloser Einsatz von Leiharbeitenden<br/>- Unterbezahlung oder Nichtzahlung von Löhnen und Sozialleistungen<br/>- Nicht offengelegte Vergabe von Unteraufträgen<br/>- Diskriminierende Praktiken<br/>- Fehlende Arbeitnehmervertretung (z. B. das Recht auf Tarifverhandlungen) |
+| **Treibende Faktoren** | Betriebliche Aktivitäten, die durch unethisches Geschäftsgebaren (z. B. Bestechung) motiviert sind |
 </div>
 
-####### Assessments for financial assets managed by the company on behalf of others: {-}
+####### Bewertungen für Finanzanlagen, die das Unternehmen im Auftrag Dritter verwaltet: {-}
 
-For all financial assets it manages, the company should seek to:
+Für alle von ihm verwalteten finanziellen Vermögenswerte sollte das Unternehmen Folgendes anstreben:
 
--   Determine the end recipients of each investment (e.g. the constituent companies within a fund); and,
--   Consider which negative impacts might be reasonably expected to occur as a result of those investments.
+-   Bestimmen Sie die Endempfänger:in jeder Investition (z. B. die Unternehmen, aus denen ein Fonds besteht); Und,
+-   Prüfen Sie, welche negativen Auswirkungen aufgrund dieser Investitionen nach vernünftigen Ermessen zu erwarten sind.
 
-####### Assessments for financial assets offered as products: {-}
+####### Bewertungen für als Produkte angebotene finanzielle Vermögenswerte: {-}
 
-For all financial assets offered as products, the company should seek to:
+Für alle als Produkte angebotenen finanziellen Vermögenswerte sollte das Unternehmen Folgendes anstreben:
 
--   Identify exactly how the capital has been deployed within each product;
--   Determine the end recipients of each underlying investment (e.g. the constituent companies within a fund); and,
--   Consider which negative impacts might be reasonably expected to occur as a result of those investments.
+-   Identifizieren Sie genau, wie das Kapital in jedem Produkt eingesetzt wurde;
+-   Bestimmen Sie die Endempfänger:in jeder zugrunde liegenden Investition (z. B. die konstituierenden Unternehmen innerhalb eines Fonds); Und,
+-   Prüfen Sie, welche negativen Auswirkungen aufgrund dieser Investitionen nach vernünftigen Ermessen zu erwarten sind.
 
-###### Guidance on how to categorize hotspots {-}
+###### Leitlinien zur Kategorisierung von Brennpunkten {-}
 
-To prioritize action with respect to each hotspot, a company should look at both the *likelihood* of a negative impact occurring, and the *severity* of the consequences if it does occur. Any impact of medium to high severity should be considered a hotspot unless there is good reason to believe that the impact will not occur (see [Figure 2](#be23-figure-2)).
+Um Maßnahmen in Bezug auf jeden Brennpunkt zu priorisieren, sollte ein Unternehmen sowohl die *Wahrscheinlichkeit* des Auftretens einer negativen Auswirkung als auch die *Schwere* der Folgen prüfen, wenn sie tatsächlich eintreten. Jede Auswirkung mittlerer bis hoher Schwere sollte als Brennpunkt betrachtet werden, es sei denn, es gibt triftige Gründe zu der Annahme, dass die Auswirkung nicht eintreten wird (siehe [Abbildung 2](#be23-figure-2)).
 
 <div class="ff-figure" id="be23-figure-2">
-Figure 2: Guidance on identifying hotspot intensity, by considering both likelihood and severity. Issues toward the top right of the matrix deserve the most attention.[^6#be23-6]
+Abbildung 2: Leitlinien zur Ermittlung der Intensität von Brennpunkten unter Berücksichtigung von Wahrscheinlichkeit und Schweregrad. Probleme im oberen rechten Bereich der Matrix verdienen die größte Aufmerksamkeit.[^6#be23-6]
 
 ![](assets/figures/hotspot.svg){width=100%}
 </div>
 
-###### Guidance on how to address hotspots {-#be23-address-hotspots}
+###### Leitlinien zum Handeln bei Brennpunkten {-#be23-address-hotspots}
 
-A company must ensure it is effective in generating meaningful action to avoid and address hotspots. This requires the adoption of a _No use, No excuse, Commitment to reduce_ approach, as follows:
+ Ein Unternehmen muss sicherstellen, dass es wirksame und substanzielle Maßnahmen ergreift, um Brennpunkte zu vermeiden und zu bewältigen. Dies erfordert die Umsetzung eines Ansatzes nach dem Motto _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_, wie folgt:
 
-####### No use... {-}
+####### Kein Nutzen... {-}
 
-Companies must commit to screening, avoiding, and where possible divesting current holdings in, any financial assets where the core business model of the investee depends on, or is inextricably linked to, propagating outcomes that intrinsically undermine society's progress toward future-fitness. This mean products or services where a likely, foreseeable and ongoing consequence of the core business model would be to cause or prolong a breach to one or more system conditions[^7#be23-7] - and which no amount of product / service redesign or engagement activity can prevent.
+Unternehmen müssen sich verpflichten, alle Finanzanlagen zu prüfen, zu meiden und, soweit möglich, ihre bestehenden Beteiligungen daran abzubauen, bei denen das Kerngeschäftsmodell des Beteiligungsunternehmens davon abhängt oder untrennbar damit verbunden ist, Ergebnisse zu fördern, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit von Grund auf untergraben. Dies betrifft Produkte oder Dienstleistungen, bei denen eine wahrscheinliche, vorhersehbare und anhaltende Folge des Kerngeschäftsmodells darin besteht, einen Verstoß gegen eine oder mehrere Systembedingungen zu verursachen oder zu verlängern[^7#be23-7] - und die durch keine noch so umfassende Neugestaltung der Produkte/Dienstleistungen oder Engagementmaßnahmen verhindert werden können.
 
-Examples include:
+Beispiele hierfür sind:
 
--   Financial assets whose core business model depends on or is inseparable from the physical degradation of the environment (e.g. companies engaged in open-cast mining, fisheries using bottom-trawling nets).
--   Financial assets whose core business model depends on or is inseparable from pollution of the environment (e.g. coal-fired power stations).
--   Financial assets whose core business model depends on or is inseparable from harming people (e.g. manufacturers of landmines, cigarette producers).
+-   Finanzielle Vermögenswerte, deren Kerngeschäftsmodell von der physischen Schädigung der Umwelt abhängt oder untrennbar damit verbunden ist (z. B. Unternehmen, die Tagebau betreiben, Fischerei mit Grundschleppnetzen).
+-   Finanzielle Vermögenswerte, deren Kerngeschäftsmodell von Umweltverschmutzung abhängt oder untrennbar damit verbunden ist (z. B. Kohlekraftwerke).
+-   Finanzielle Vermögenswerte, deren Kerngeschäftsmodell davon abhängt oder untrennbar mit der Gefährdung von Menschen verbunden ist (z. B. Hersteller von Landminen, Zigarettenhersteller).
 
-Companies should also set up conditional screening criteria around topics that are known to be particularly problematic (e.g. palm oil, whose production is often linked to deforestation), and only invest where those problems are being addressed (e.g. [RSPO-certified palm oil](https://www.rspo.org/certification)[^8#be23-8]). @Rou17
+Unternehmen sollten außerdem bedingte Überprüfungskriterien für Themen festlegen, die bekanntermaßen besonders problematisch sind (z. B. Palmöl, dessen Produktion oft mit der Abholzung von Wäldern verbunden ist) und nur dort investieren, wo diese Probleme angegangen werden (z. B. [RSPO-zertifiziertes Palmöl](https://www.rspo.org/certification)[^8#be23-8]). @Rou17
 
-####### No excuse... {-}
+####### Keine Ausreden... {-}
 
-Challenges in obtaining information on investments do not excuse the company from its mutual accountability for the fitness implications of those investments. When an assessment of an investee's fitness is theoretically possible to complete, this step must be taken even if it is difficult. Examples include:
+Schwierigkeiten bei der Beschaffung von Informationen über Investitionen entbinden das Unternehmen nicht von seiner gegenseitigen Rechenschaftspflicht hinsichtlich der Auswirkungen der Fitness dieser Investitionen. Wenn eine Bewertung der Fitness eines Beteiligungsunternehmens theoretisch möglich ist, muss dieser Schritt unternommen werden, auch wenn er schwierig ist. Beispiele hierfür sind:
 
--   Where managers buy and sell financial assets as opportunities arise, meaning that the company would need to assess numerous transactions on a regular basis to understand its fitness.
--   High-frequency trading strategies -- especially algorithmic or fully automated ones -- which trade multiple assets based on statistical data, irrespective of the nature of the underlying businesses, making it extremely difficult to create an accurate picture of which investees an investor is effectively financing at any point in time.
--   Investment in a privately held company which refuses to give fitness information to its shareholders.
+-   Wenn Manager Finanzanlagen kaufen und verkaufen, wenn sich Gelegenheiten ergeben, sodass das Unternehmen regelmäßig zahlreiche Transaktionen bewerten müsste, um deren Fitness zu beurteilen.
+-   Hochfrequenzhandelsstrategien – insbesondere algorithmische oder vollautomatische – bei denen mehrere Vermögenswerte auf der Grundlage statistischer Daten gehandelt werden, unabhängig von der Art der zugrunde liegenden Geschäfte, was es äußerst schwierig macht, ein genaues Bild davon zu erstellen, welche Beteiligungsunternehmen ein Investor tatsächlich finanziert Zeitpunkt.
+-   Investition in ein privat geführtes Unternehmen, das sich weigert, seinen Aktionären Informationen zur Fitness der Investition zur Verfügung zu stellen.
 
-While companies can reasonably anticipate the use of capital when investing in businesses or project-based financing, characteristics of some other types of financial asset mean that companies are not in a position to assess the fitness of their investments. For example, personal loans such as lines of credit, overdrafts, payday loans, credit cards or mortgages extended to an individual borrower typically have no reporting requirements, and information on the use of this capital is often appropriately protected by consumer privacy
-laws. In these cases, companies are _not_ considered mutually accountable for the fitness of these financial assets.
+Während Unternehmen die Verwendung von Kapital bei Investitionen in Unternehmen oder projektbasierter Finanzierung nach vernünftigen Ermessen vorhersehen können, sind Unternehmen aufgrund der Merkmale einiger anderer Arten von Finanzanlagen nicht in der Lage, die Fitness ihrer Investitionen zu beurteilen. Beispielsweise unterliegen Privatkredite wie Kreditlinien, Überziehungskredite, Kurzzeitkredite, Kreditkarten oder Hypotheken, die einem einzelnen Kreditnehmer gewährt werden, in der Regel keiner Meldepflicht, und Informationen über die Verwendung dieses Kapitals werden häufig durch Verbraucherschutzgesetze angemessen geschützt. In diesen Fällen gelten die Unternehmen nicht gegenseitig für die Fitness dieser finanziellen Vermögenswerte rechenschaftspflichtig.
 
-####### Commitment to reduce... {-}
+####### Verpflichtung zur Reduzierung... {-}
 
-When a non-compliant investment has been identified, and substitution is not immediately possible (e.g. due to market illiquidity, or the investor being in the midst of a multi-year Limited Partnership commitment), the company must seek to reduce its impact through other means. This may include:
+Wurde eine nicht konforme Anlage identifiziert und ist eine Substitution nicht sofort möglich (z. B. aufgrund von Marktilliquidität oder weil der Investor sich mitten in einer mehrjährigen Verpflichtung im Rahmen einer Kommanditgesellschaft befindet), muss das Unternehmen versuchen, deren Auswirkungen durch andere Mittel zu mindern. Dies kann Folgendes umfassen:
 
--   Engaging with the manager or underlying investee - either directly or through specialist service providers - to encourage greater alignment with Future-Fit requirements.
--   Ensuring that any income or returned capital is not reinvested in the same non-compliant investee.
+-   Den Dialog mit dem Manager oder dem zugrunde liegenden Beteiligungsunternehmen – entweder direkt oder über spezialisierte Dienstleister – suchen, um eine stärkere Ausrichtung auf die „Future-Fit“-Anforderungen zu fördern.
+-   Sicherstellen, dass Erträge oder zurückgegebenes Kapital nicht in dasselbe nicht konforme Beteiligungsunternehmen reinvestiert werden.
 
-Additionally, where alternative financial assets exist that are more aligned with the pursuit of future-fitness and offer the required financial risk-reward profile, companies should seek to transition to these. Examples include:
+Darüber hinaus sollten Unternehmen, sofern alternative Finanzanlagen vorhanden sind, die besser auf die Zukunftsfähigkeit ausgerichtet sind und das erforderliche Risiko-Rendite-Profil aufweisen, eine Umstellung auf diese anstreben. Beispiele hierfür sind:
 
--   Investing in a green bond fund, as opposed to a conventional bond fund.
--   Investing in an ethically-screened or low-carbon equity tracker fund, as opposed to a conventional index tracker fund.
--   Investing in an active, sustainability-focused thematic listed equity fund, as opposed to an active sector-focused listed equity fund.
--   Investing in a private equity fund that supports emerging clean energy technologies, as opposed to an unconstrained private equity fund.
+-   Investieren Sie in einen Green-Bond-Fonds im Gegensatz zu einem herkömmlichen Rentenfonds.
+-   Investition in einen ethisch geprüften oder kohlenstoffarmen Aktienindexfonds im Gegensatz zu einem herkömmlichen Aktienindexfonds.
+-   Investition in einen aktiven, auf Nachhaltigkeit ausgerichteten thematischen börsennotierten Aktienfonds, im Gegensatz zu einem aktiven, sektororientierten börsennotierten Aktienfonds.
+-   Investition in einen Private-Equity-Fonds, der neue saubere Energietechnologien unterstützt, im Gegensatz zu einem uneingeschränkten Private-Equity-Fonds.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-The company must ensure that all hotspots are identified and managed consistently and in a way that is aligned with the [_No use, No excuse, Commitment to reduce approach_](#be23-address-hotspots) described above.
+Das Unternehmen muss sicherstellen, dass alle Brennpunkte identifiziert und einheitlich sowie im Einklang mit dem oben beschriebenen Ansatz [_Kein Nutzen, Keine Ausreden, Verpflichtung zur Reduzierung_](#be23-address-hotspots) behandelt werden.
 
-In addition, each financial asset owned, managed or offered as a product by the company, must be subject to screening processes and efforts to improve fitness outcomes, as described below.
+Darüber hinaus muss jeder Finanzwert, der sich im Besitz des Unternehmens befindet, von diesem verwaltet oder als Produkt angeboten wird, den nachstehend beschriebenen Überprüfungsverfahren und Maßnahmen zur Verbesserung der Fitnessergebnisse unterzogen werden.
 
--   The company must perform a [**hotspot assessment**](#be23-hotspot-assessment) applicable to each financial asset which achieves the following:
-    -   The identification of hotspots for each issue area (see [Figure 1](#be23-figure-1)).
-    -   An assessment of hotspot intensity (see [Figure 2](#be23-figure-2)).
-    -   An informed prioritization of which impacts to address first.
--   When a hotspot has been identified, it must be addressed through actions in line with the [_No use, No excuse, Commitment to reduce_](#be23-address-hotspots) approach.
+-   Das Unternehmen muss für jeden Finanzwert eine [**Brennpunkt-Bewertung durchführen**](#be23-hotspot-assessment) durchführen, die Folgendes gewährleistet:
+    -   Die Identifizierung von Brennpunkten für jeden Problembereich (siehe [Abbildung 1](#be23-figure-1)).
+    -   Eine Bewertung der Intensität der Brennpunkten (siehe [Abbildung 2](#be23-figure-2)).
+    -   Eine fundierte Priorisierung, welche Auswirkungen zuerst angegangen werden sollten.
+-   Wenn ein Hotspot identifiziert wurde, muss er durch Maßnahmen im Einklang mit dem Ansatz [_Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_](#be23-address-hotspots) angegangen werden.
 
 <div class="callout-note">
-**How often should hotspot assessments be performed?**
+**Wie oft sollten Brennpunkt-Bewertungen durchgeführt werden?**
 
-Given sufficient time, a company should succeed in eliminating the most intense hotspots from its investments, but this is no cause for complacency. Investing is a dynamic activity, so new problems might appear periodically, and less‑problematic impacts must still be addressed. Because of this, hotspot assessments should be seen as an iterative and ongoing process.
+Bei ausreichender Zeit sollte es einem Unternehmen gelingen, die gravierendsten Brennpunkte aus seinen Investitionen zu beseitigen, doch dies ist kein Grund zur Selbstzufriedenheit. Investitionen sind eine dynamische Angelegenheit, sodass regelmäßig neue Probleme auftreten können und auch weniger problematische Auswirkungen weiterhin angegangen werden müssen. Aus diesem Grund sollten Brennpunkt-Bewertungen als iterativer und fortlaufender Prozess betrachtet werden.
 
-Practically, hotspot assessments should be reviewed and updated on an appropriate periodic basis, or if the provenance of specific investments changes substantially.
+In der Praxis sollten Brennpunkt-Bewertungen regelmäßig überprüft und aktualisiert werden, oder wenn sich die Herkunft bestimmter Investitionen erheblich ändert.
 </div>
 
-### 3. Assessment {-#be23-assessment}
+### 3. Bewertung {-#be23-assessment}
 
-#### 3.1 Progress indicators {-#be23-progress}
+#### 3.1 Fortschrittsindikatoren {-#be23-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [** Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has _nine_ progress indicators, corresponding to the specific issue areas identified in [Figure 2](#be23-figure-2), namely: _Energy, Water, Natural resources, GHG emissions, Harmful emissions, Waste, Physical presence, People_, and _Drivers_. To calculate progress, the following steps are required:
+Dieses Ziel umfasst neun Fortschrittsindikatoren, die den in [Abbildung 2](#be23-figure-2), identifizierten spezifischen Themenbereichen entsprechen, nämlich: _Energie, Wasser, natürliche Ressourcen, Treibhausgasemissionen, Schadstoffemissionen, Abfall, physische Präsenz, Menschen_ und _Treibenden Faktoren_. Zur Berechnung des Fortschritts sind folgende Schritte erforderlich:
 
-**For each of the nine issue areas:**
+**Für jeden der neun Themenbereiche:**
 
--   Assess the fitness of each financial asset held at any point throughout the reporting period, according to the guidance below.
--   Determine how many days each asset was held for during the reporting period.
--   Calculate progress as the time-and-value-weighted sum of the fitness scores of all financial assets.
+-   Bewerten Sie die Fitness jedes einzelnen finanziellen Vermögenswert, der zu einem beliebigen Zeitpunkt während des Berichtszeitraums gehalten wurde, gemäß den nachstehenden Leitlinien.
+-   Bestimmen Sie, wie viele Tage jeder Vermögenswert während des Berichtszeitraums gehalten wurde.
+-   Berechnen Sie den Fortschritt als zeit- und wertgewichtete Summe der Fitnesswerte aller Vermögenswerte.
 
-##### Assessing the fitness of a financial asset {-}
+##### Beurteilung der Fitness eines finanziellen Vermögenswerts {-}
 
-The company must assess each financial asset as described in [Figure 3](#be23-figure-3).
+Das Unternehmen muss jeden finanziellen Vermögenswert wie in [Abbildung 3](#be23-figure-3) beschrieben bewerten.
 
 <div class="ff-figure" id="be23-figure-3">
-Figure 3: How to assess the fitness of financial assets.
+Abbildung 3: So bewerten Sie die Fitness von Finanzanlagen.
 </div>
 
 <div class="table-20 table-blue">
-| Fitness Score | Fitness Criteria |
+| Fitness-Wert | Fitness-Kriterien |
 |:-:|:-|
-| 0% | - No hotspot assessment has been performed<br/>_or_<br/>- The financial asset falls into the _No use_ category of the _No use, No excuse, Commitment to reduce_ approach |
-| 25% | - An appropriate hotspot assessment has been undertaken<br/>- The assessment identifies that _potential_ hotspots _may_ exist<br/>- No further action has been taken<br/>_Note: if analysis confirms there are **no potential hotspots**, check criteria to score 100% (below)_ |
-| 50% | - A detailed analysis of all potential hotspots has been undertaken<br/>- The analysis confirms that _actual_ hotspots _do_ exist<br/>- Steps are being taken to address identified hotspots<br/>_Note: if analysis confirms there are **no actual hotspots**, check criteria to score 100% (below)_ |
-| 75% | - All high-intensity hotspots have been addressed<br/>- Company is taking appropriate steps toward addressing remaining hotspots, in line with the _No use, No excuse, Commitment to reduce_ approach |
-| 100% | - All hotspots have been avoided or eliminated |
+| 0 % | - Es wurde keine Brennpunkt-Bewertung durchgeführt oder<br/>_or_<br/>- Der Finanzwert fällt unter die Kategorie _Kein Nutzen_ des Ansatzes _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_ |
+| 25 % | - Es wurde eine angemessene Brennpunkt-Bewertung durchgeführt<br/>- Die Bewertung ergab, dass potenzielle Brennpunkt bestehen könnten<br/>- Es wurden keine weiteren Maßnahmen ergriffen<br/> Hinweis: Wenn die Analyse bestätigt, dass keine potenziellen Hotspots vorliegen, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten) |
+| 50 % | - Es wurde eine detaillierte Analyse aller potenziellen Brennpunkten durchgeführt<br/>- Die Analyse bestätigt, dass tatsächlich Brennpunkte vorhanden sind<br/>- Es werden Maßnahmen ergriffen, um die identifizierten Brennpunkte zu beheben<br/> Hinweis: Wenn die Analyse bestätigt, dass keine tatsächlichen Brennpunkte vorhanden sind, überprüfen Sie die Kriterien für eine Bewertung von 100 % (siehe unten) |
+| 75 % | - Alle kritische Brennpunkte wurden behoben<br/>- Das Unternehmen ergreift geeignete Maßnahmen zur Behebung der verbleibenden Brennpunkten im Einklang mit dem Ansatz _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_ |
+| 100 % | - Alle Brennpunkte wurden vermieden oder beseitigt |
 </div>
 
-##### Calculating company progress for a specific issue area {-}
+##### Berechnung des Unternehmensfortschritts für einen bestimmten Themenbereich {-}
 
-The company's aggregate Future-Fit progress with respect to issue area "X" (for each issue area shown in [Figure 2](#be23-figure-2)) is the time-and-value-weighted sum of the future-fitness scores of all financial assets.
+Der aggregierte „Future-Fit“-Fortschritt des Unternehmens in Bezug auf den Themenbereich „X“ (für jeden in [Abbildung 2](#be23-figure-2)) dargestellten Themenbereich) ist die zeit- und wertgewichtete Summe der „Future-Fit“-Werte aller finanziellen Vermögenswerte.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$F^X=\frac{\sum_{i=1}^If_i^X*C_i*D_i}{\sum_{i=1}^IC_i*D_i}$$
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F^{X}$$ | Is the progress toward future-fitness for issue area X, expressed as a percentage. |
-| $$X$$ | Is the issue area: _Energy, Water, Natural resources, GHG emissions, Harmful emissions, Waste, Physical presence, People,_ or _Drivers_. |
-| $$f_{i}^{X}$$ | Is the fitness of financial asset _i_. |
-| $$C_{i}$$ | Is the monetary value of financial asset _i_.[^9#be23-9] |
-| $$D_{i}$$ | Is the number of days that financial asset _i_ was held during the reporting period. |
-| $$I$$ | Is the total number of financial assets in the company's portfolio. |
+| $$F^{X}$$ | ist der Fortschritt in Richtung Zukunftsfähigkeit für den Themenbereich X, ausgedrückt in Prozent. |
+| $$X$$ | ist der Themenbereich: _Energie, Wasser, Natürliche Ressourcen, Treibhausgasemissionen, Schadstoffemissionen, Abfall, Physische Präsenz, Menschen_ oder _Treibende Faktoren_. |
+| $$f_{i}^{X}$$ | ist die Zukunftsfähigkeit des Finanzvermögenswerts _i_. |
+| $$C_{i}$$ | ist der Geldwert des Finanzvermögenswerts _i_.[^9#be23-9] |
+| $$D_{i}$$ | ist die Anzahl der Tage, an denen der Finanzvermögenswert _i_ während des Berichtszeitraums gehalten wurde. |
+| $$I$$ | ist die Gesamtzahl der Finanzvermögenswerte im Portfolio des Unternehmens. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be23-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be23-example).
 
-#### 3.2 Context indicators {-#be23-context}
+#### 3.2 Kontextindikatoren {-#be23-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total Assets Under Management {-}
+####### Gesamtes verwaltetes Vermögen {-}
 
-The company must report the total value of assets under management held, controlled and/or offered during the reporting period.[^10#be23-10]
+Das Unternehmen muss den Gesamtwert der verwalteten Vermögenswerte angeben, die während des Berichtszeitraums gehalten, kontrolliert und/oder angeboten wurden.[^10#be23-10]
 
-####### Challenging hotspots {-}
+####### Anspruchsvolle Brennpunkte {-}
 
-A brief description of any high-intensity hotspots that have not been fully addressed within the reporting period, and for each:
+Eine kurze Beschreibung aller besonders kritischen Brennpunkte, die im Berichtszeitraum nicht vollständig angegangen wurden, sowie für jeden einzelnen:
 
--   A short description of the hotspot.
--   Actions taken to date to avoid or address hotspot.
--   If applicable, additional actions planned.
+-   Eine kurze Beschreibung des Brennpunkts.
+-   Bisher ergriffene Maßnahmen zur Vermeidung oder Behebung von Brennpunkten.
+-   Gegebenenfalls geplante zusätzliche Maßnahmen.
 
-For an example of how context indicators can be reported, see [here](#be23-example).
+Ein Beispiel dafür, wie Kontextindikatoren berichtet werden können, finden Sie [hier](#be23-example).
 
-### 4. Assurance {-#be23-assurance}
+### 4. Zuverlässigkeitserklärung {-#be23-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be23-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be23-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be23-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be23-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
--   Document the methods and frequency through which the company assesses its investments. This can help assurers to assess whether the company's approach is likely to be sufficient for identifying all hotspots.
--   Document the method used to determine whether financial assets are aligned with the _No use, No Excuse, Commitment to reduce_ approach. This can help assurers to assess whether the company's approach is in line with the requirements of this goal.
--   In cases where the company has decided to continue holding financial assets categorized as having a high-intensity hotspot, document the methods used by the company to engage with the manager of the financial asset it has invested in, or the underlying investee itself, to encourage them to increase their fitness over time. This can help assurers to verify that the approach taken by the company is in line with the requirements of the goal.
--   Retain any working notes or information used for the calculation of the progress indicator, including support for the evaluation of individual financial assets, or groups of assets where appropriate, as well as evidence of asset value and time held during the reporting period for the weighting calculation. Assurers may use this information to verify the accuracy of the calculated indicator.
+-   Dokumentieren Sie die Methoden und die Häufigkeit, mit der das Unternehmen seine Investitionen bewertet. Dies kann den Prüfern dabei helfen, zu beurteilen, ob der Ansatz des Unternehmens voraussichtlich ausreicht, um alle Brennpunkte zu identifizieren.
+-   Dokumentieren Sie die Methode, mit der festgestellt wird, ob finanzielle Vermögenswerte dem Ansatz _Kein Nutzen, keine Ausreden, Verpflichtung zur Reduzierung_ entsprechen. Dies kann den Prüfern helfen zu beurteilen, ob der Ansatz des Unternehmens mit den Anforderungen dieses Ziels übereinstimmt.
+-   In Fällen, in denen das Unternehmen beschlossen hat, weiterhin finanzielle Vermögenswerte zu halten, die als „kritischer Brennpunkt“ eingestuft sind, dokumentieren Sie die Methoden, die das Unternehmen verwendet, um mit dem Manager des finanziellen Vermögenswerts, in den es investiert hat, oder mit dem zugrunde liegenden Beteiligungsunternehmen selbst zusammenzuarbeiten, um Anreize zu schaffen ihnen, ihre Fitness im Laufe der Zeit zu steigern. Dies kann den Prüfern dabei helfen, zu kontrollieren, ob der vom Unternehmen gewählte Ansatz mit den Anforderungen des Ziels übereinstimmt.
+-   Bewahren Sie alle Arbeitsnotizen oder Informationen auf, die für die Berechnung des Fortschrittsindikators verwendet wurden, einschließlich Unterstützung für die Bewertung einzelner finanzieller Vermögenswerte oder gegebenenfalls Gruppen von Vermögenswerten sowie Nachweise über den Vermögenswert und die Zeit, die während des Berichtszeitraums für die Gewichtungsberechnung aufbewahrt wurden. Die Prüfer:innen können diese Informationen verwenden, um die Genauigkeit des berechneten Indikators zu kontrollieren.
 
-For a more general explanation of how to design and document internal controls, see the section *Pursuing future-fitness in a systematic way* in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt *Zukunftsfitness systematisch anstreben* im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be23-additional}
+### 5. Zusätzliche Informationen {-#be23-additional}
 
-#### 5.1 Example {-#be23-example}
+#### 5.1 Beispiel {-#be23-example}
 
-ACME Inc. sells lemonade products, and has accumulated a significant amount of financial reserves which it has invested in different types of financial assets.
+ACME Inc. verkauft Limonadenprodukte und hat erhebliche finanzielle Rücklagen angesammelt, die in verschiedene Arten von Finanzanlagen investiert wurden.
 
-ACME decides to do an initial assessment to identify potential _greenhouse gas emissions_ hotspots across its financial assets.
+ACME beschließt, eine erste Bestandsaufnahme durchzuführen, um potenzielle Brennpunkte für _Treibhausgasemissionen_ in seinen Finanzanlagen zu identifizieren.
 
-ACME Inc. had $100,000 on deposit with Ethical Bank at the start of the reporting period. Ethical Bank has extensive controls in place to ensure that it only lends to businesses that are actively aligned with the pursuit of future-fitness. These controls have effectively screened out significant greenhouse gas emitters, and so since no hotspots exists, the deposit is considered 100% fit.
+ACME Inc. hatte zu Beginn des Berichtszeitraums 100.000 US-Dollar bei der Ethical Bank hinterlegt. Die Ethical Bank verfügt über umfassende Kontrollmechanismen, um sicherzustellen, dass sie Kredite nur an Unternehmen vergibt, die sich aktiv für das Streben nach Zukunftsfähigkeit einsetzen. Diese Kontrollen haben bedeutende Treibhausgasemittenten wirksam aussortiert, und da keine Brennpunkte bestehen, gilt die Einlage als zu 100 % zukunftsfähig.
 
-Halfway through the period, the company receives $50,000 and decides to invest it in an index-tracking equity fund. The fund manager states that it has reviewed the companies within the fund and identified a number of potential issues, but is not doing anything about these. The fund is therefore considered 25% fit.
+Zur Mitte des Berichtszeitraums erhält das Unternehmen 50.000 $ und beschließt, diese in einen indexgebundenen Aktienfonds zu investieren. Der Fondsmanager gibt an, dass er die im Fonds enthaltenen Unternehmen überprüft und eine Reihe potenzieller Probleme identifiziert hat, jedoch keine Maßnahmen dagegen ergreift. Der Fonds gilt daher als zu 25 % zukunftsfähig.
 
-####### Progress indicators {-}
+####### Fortschrittsindikatoren {-}
 
-The company can now calculate its progress as:
+Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
 $$F^{GHGs}=\frac{\sum_{i=1}^If_i^{GHGs}*C_i*D_i}{\sum_{i=1}^IC_i*D_i}$$
 $$=\frac{100\%*100,000*365+25\%*50,000*182}{100,000*365+50,000*182}\approx85\%$$
 <br/>
-$$F^{Energy}=F^{Water}=F^{N.resources}=F^{Harmful-emissions}=F^{Waste}=F^{Presence}$$
-$$=F^{People}=F^{Drivers}=0\%$$
+$$F^{Energie}=F^{Wasser}=F^{Natürliche Ressourcen}=F^{Treibhausgasemissionen}=F^{Abfall}=F^{Physische Präsenz}$$
+$$=F^{Menschen}=F^{Treibende Faktoren}=0\%$$
 
-####### Context indicators {-}
+####### Kontextindikatoren {-}
 
-Total Assets Under Management during the period: $150,000.
+Gesamtverwaltetes Vermögen im Berichtszeitraum: 150.000 $.
 
-Challenging hotspots: Several high-intensity hotspots were identified:
+Anspruchsvolle Brennpunkte: Es wurden mehrere kritische Brennpunkte identifiziert:
 
--   Exposure to several oil and gas producing companies.
--   Exposure to a cement producer.
+-   Engagement bei mehreren Öl- und Gasförderunternehmen.
+-   Engagement in einem Zementhersteller.
 
-Steps taken: No actions taken.
+Durchgeführte Schritte: Es wurden keine Maßnahmen ergriffen.
 
-#### 5.3 Useful links {-#be23-useful-links}
+#### 5.3 Nützliche Links {-#be23-useful-links}
 
-##### The Principles for Responsible Investment (PRI) {-}
+##### Die Grundsätze für verantwortungsvolles Investieren (PRI) {-}
 
-In 2005, the UN assembled the [PRI](https://www.unpri.org/) as a group of the world's largest institutional investors to develop a set of Principles for Responsible Investment. The group believes that an economically efficient, sustainable financial system is a necessity for long-term value creation. The six Principles outlined by the group are a voluntary, aspirational set of investment guidelines that offer a broad range of possible actions for the inclusion of environmental, social and governance (ESG) factors into investment practice. The Principles were developed for investors, by investors, in the hope of developing a more sustainable global financial system. As of April 2018, there are more than 1,950 signatories from over 50 countries, representing over US$80 trillion in assets under management.
+Im Jahr 2005 berief die UNO die [PRI](https://www.unpri.org/) als eine Gruppe der weltweit größten institutionellen Investoren ein, um eine Reihe von Grundsätzen für verantwortungsbewusstes Investieren zu entwickeln. Die Gruppe ist der Ansicht, dass ein wirtschaftlich effizientes, nachhaltiges Finanzsystem eine Voraussetzung für langfristige Wertschöpfung ist. Die sechs von der Gruppe formulierten Grundsätze sind freiwillige, anstrebenwerte Investitionsrichtlinien, die ein breites Spektrum möglicher Maßnahmen zur Einbeziehung von Umwelt-, Sozial- und Governance-Faktoren (ESG) in die Investitionspraxis bieten. Die Prinzipien wurden von Investoren für Investoren entwickelt, in der Hoffnung, ein nachhaltigeres globales Finanzsystem zu schaffen. Im April 2018 gab es mehr als 1.950 Unterzeichner:innen aus über 50 Ländern, die ein verwaltetes Vermögen von über 80 Billionen US-Dollar repräsentieren.
 
-##### United Nations Environment Programme -- Finance Initiative (UNEP FI) {-}
+##### Umweltprogramm der Vereinten Nationen – Finanzinitiative (UNEP FI) {-}
 
-[UNEP FI](http://www.unepfi.org/) is a partnership between United Nations Environment Programme and the global financial sector created in the context of the 1992 Earth Summit with a mission to promote sustainable finance. Over 200 financial institutions, including banks, insurers and investors, work with UNEP to understand today's environmental challenges, why they matter to finance, and how to actively participate in addressing them.
+Die [UNEP FI](http://www.unepfi.org/) ist eine Partnerschaft zwischen dem Umweltprogramm der Vereinten Nationen und dem globalen Finanzsektor, die im Rahmen des Erdgipfels 1992 ins Leben gerufen wurde und deren Aufgabe darin besteht, nachhaltige Finanzierungen zu fördern. Über 200 Finanzinstitute, darunter Banken, Versicherungen und Investoren, arbeiten mit dem UNEP zusammen, um die aktuellen ökologischen Herausforderungen zu verstehen, zu erkennen, warum diese für die Finanzwelt von Bedeutung sind, und um herauszufinden, wie sie aktiv zu deren Bewältigung beitragen können.
 
-UNEP FI has conducted research, and subsequently published its findings, on the debate about whether fiduciary duty is a legitimate barrier to investors integrating environmental, social and governance issues into their investment processes. The report, available [here](http://www.unepfi.org/fileadmin/documents/fiduciary_duty_21st_century.pdf), is useful to inform conversations on the way fiduciary duty and the pursuit of future-fitness interact.
+UNEP FI hat Untersuchungen durchgeführt und anschließend seine Ergebnisse zur Debatte darüber veröffentlicht, ob die Treuepflicht ein legitimes Hindernis für Investoren darstellt, Umwelt-, Sozial- und Governance-Themen in ihre Anlageprozesse zu integrieren. Der [hier](http://www.unepfi.org/fileadmin/documents/fiduciary_duty_21st_century.pdf), verfügbare Bericht ist nützlich, um Diskussionen darüber anzuregen, wie die Treuepflicht und das Streben nach Zukunftsfähigkeit zusammenwirken.
 
 ##### Divest-Invest {-}
 
-[Divest-Invest](http://divestinvest.org/) is a diverse, global network of individuals and organizations united in the belief that by using their collective influence as investors to divest from fossil fuels, and invest in climate solutions, they can accelerate the transition to a zero-carbon economy. In this way, they are supporting the agreement made by governments in Paris at COP21 and protecting their own investment returns. As of January 2019, the movement has catalysed $7.2 trillion of commitments.
+[Divest-Invest](http://divestinvest.org/) ist ein vielfältiges, globales Netzwerk von Einzelpersonen und Organisationen, die in der Überzeugung vereint sind, dass sie durch den Einsatz ihres kollektiven Einflusses als Investoren – indem sie sich aus fossilen Brennstoffen zurückziehen und in Klimalösungen investieren – den Übergang zu einer CO2-freien Wirtschaft beschleunigen können. Auf diese Weise unterstützen sie das von den Regierungen in Paris auf der COP21 geschlossene Abkommen und sichern ihre eigenen Investitionsrenditen. Bis Januar 2019 hat die Bewegung Verpflichtungen in Höhe von 7,2 Billionen US-Dollar mobilisiert.
 
 ##### Triodos Bank {-}
 
-Triodos Bank is a leading expert in sustainable banking with a mission to make money work for positive change. The bank has outlined a [set of business principles](https://www.triodos.com/governance) and lending criteria that clearly define how its employees can assess business qualities of prospective investment opportunities and credit agreements and determine if they are in line with the company's mission and vision. These are manifested in part via a list of minimum requirements and exclusions which outline the standards that must be met before any further assessment on the potential investment / credit agreement is warranted. Triodos outlines industries and products for which it has 'zero tolerance', and others in which it has set a maximum threshold for involvement.
+Die Triodos Bank ist ein führender Experte für nachhaltiges Bankwesen mit dem Ziel, Geld für positive Veränderungen einzusetzen. Die Bank hat eine Reihe von [Geschäftsgrundsätzen](https://www.triodos.com/governance) und Kreditvergabekriterien festgelegt, die klar definieren, wie ihre Mitarbeiter:innen die wirtschaftlichen Qualitäten potenzieller Investitionsmöglichkeiten und Kreditverträge bewerten und feststellen können, ob diese mit der Mission und Vision des Unternehmens im Einklang stehen. Diese kommen unter anderem in einer Liste von Mindestanforderungen und Ausschlusskriterien zum Ausdruck, die die Standards festlegen, die erfüllt sein müssen, bevor eine weitere Bewertung der potenziellen Investition oder des Kreditvertrags gerechtfertigt ist. Triodos nennt Branchen und Produkte, für die sie eine „Null-Toleranz-Politik“ verfolgt, sowie andere, für die sie eine maximale Beteiligungsgrenze festgelegt hat.
 
-#### 5.2 Frequently asked questions {-#be23-faq}
+#### 5.2 Häufig gestellte Fragen {-#be23-faq}
 
-##### What type of investments are covered by this goal? {-#be23-faq-1}
+##### Welche Arten von Investitionen fallen unter dieses Ziel? {-#be23-faq-1}
 
-This goal is focused explicitly on financial assets, and not in the more general sense of "investing in the business" (e.g. building a new factory, spending on R&D innovation). Examples of financial assets which should be covered include, but are not limited to:
+Dieses Ziel konzentriert sich ausdrücklich auf finanzielle Vermögenswerte und nicht im allgemeineren Sinne einer „Investition in das Unternehmen“ (z. B. Bau einer neuen Fabrik, Ausgaben für F&E-Innovationen). Beispiele für finanzielle Vermögenswerte, die abgedeckt werden sollten, sind unter anderem:
 
--   **Debt finance and equity investment (and hybrids thereof)** in a business or specific corporate project.
--   **Project finance** for capital projects, infrastructure, or public services.
--   **Cash deposits** in banks or financial institutions, where the company can be reasonably expected to scrutinize the investment policies of the deposit-taker.
--   **Investment funds** whose underlying asset pools are composed of one or more of the above types, and hence the company (or the fund manager acting on its behalf) can be reasonably expected to apply similar levels of scrutiny.
+-   **Fremdkapitalfinanzierung und Kapitalbeteiligungen (sowie Mischformen davon)** an einem Unternehmen oder einem bestimmten Unternehmensprojekt.
+-   **Projektfinanzierung** für Investitionsvorhaben, Infrastruktur oder öffentliche Dienstleistungen.
+-   **Bareinlagen** bei Banken oder Finanzinstituten, wobei nach vernüftigen Ermessen davon ausgegangen werden kann, dass das Unternehmen die Anlagepolitik des Einlagennehmers prüft.
+-   **Investmentfonds** deren zugrunde liegende Vermögenspools aus einer oder mehreren der oben genannten Arten bestehen, und daher kann nach vernünftigen Ermessen davon ausgegangen werden, dass das Unternehmen (oder der in seinem Namen handelnde Fondsmanager) ein vergleichbares Maß an Kontrolle anwendet.
 
-This goal does not cover personal loans such as lines of credit, overdrafts, payday loans, credit cards or mortgages extended to an individual borrower. Such investments typically have no reporting requirements, and information on the use of this capital is often appropriately protected by consumer privacy laws. In these cases, companies are _not_ considered mutually accountable for the fitness of these financial assets.
+Dieses Ziel gilt nicht für Privatkredite wie Kreditlinien, Überziehungskredite, Kurzzeitkredite, Kreditkarten oder Hypotheken, die einem einzelnen Kreditnehmer gewährt werden. Für solche Investitionen gelten in der Regel keine Meldepflichten, und Informationen über die Verwendung dieses Kapitals werden häufig durch Verbraucherschutzgesetze angemessen geschützt. In diesen Fällen gelten die Unternehmen nicht gegenseitig für die Funktionsfähigkeit dieser finanziellen Vermögenswerte verantwortlich.
 
 <div class="callout-note">
-**Investment funds**
+**Investmentfonds**
 
-The investment policy may be applied at a fund level if the fund manager can show that at least the same minimum criteria have been applied to all of the fund's investment decisions. Many funds are opaque with regards to their underlying investments, but ignorance is no excuse: if a fund manager is unwilling to satisfactorily demonstrate the fund's alignment with the company's policy, the company should seek to invest elsewhere.
+Die Anlagepolitik kann auf Fondsebene angewendet werden, wenn die Fondsmanagerin bzw. der Fondsmanager nachweisen kann, dass bei allen Anlageentscheidungen des Fonds mindestens dieselben Mindestkriterien angewendet wurden. Viele Fonds sind in Bezug auf ihre zugrunde liegenden Investitionen undurchsichtig, aber Unwissenheit ist keine Entschuldigung: Wenn ein:e Fondsmanager:in nicht bereit ist, die Übereinstimmung des Fonds mit der Unternehmenspolitik zufriedenstellend nachzuweisen, sollte das Unternehmen versuchen, woanders zu investieren.
 </div>
 
 <div class="callout-note">
-**Pension funds**
+**Pensionsfonds**
 
-In most jurisdictions, the financial assets of a company's pension scheme are legally separated from the control of the company and it is unable to dictate how the assets are invested. In these cases, the employee pension funds sit outside the scope of this goal. However, companies should still actively engage their pension scheme trustees and managers and encourage them to invest in line with the pursuit of future-fitness. This will speed up society's progress toward a Future-Fit Society and therefore fall within the [**Positive Pursuits**](#pp-social-norms). For the avoidance of doubt, in situations where the company _is_ able to directly control the investments of a scheme's financial assets, the pension _would_ fall within the scope of this goal.
+In den meisten Rechtsordnungen sind die finanziellen Vermögenswerte der betrieblichen Altersvorsorge eines Unternehmens rechtlich von der Kontrolle des Unternehmens getrennt, und dieses kann nicht vorschreiben, wie die Vermögenswerte angelegt werden. In diesen Fällen fallen die betrieblichen Pensionsfonds nicht in den Anwendungsbereich dieses Ziels. Unternehmen sollten jedoch weiterhin aktiv mit den Treuhändern und Verwaltern ihrer Pensionskassen zusammenarbeiten und diese dazu ermutigen, im Einklang mit dem Streben nach Zukunftsfähigkeit zu investieren. Dies wird den gesellschaftlichen Fortschritt hin zu einer zukunftsfähigen Gesellschaft beschleunigen und fällt somit unter die [**Positive Pursuits**](#pp-social-norms). Zur Klarstellung: In Situationen, in denen das Unternehmen die Anlagen der finanziellen Vermögenswerte einer Pensionskasse direkt kontrollieren kann, fällt die Pensionskasse in den Geltungsbereich dieses Ziels.
 </div>
 
-##### How should I assess my financial asset if it changes in value over the time it is held? {-}
+##### Wie soll ich meinen finanziellen Vermögenswert bewerten, wenn sich sein Wert während der Haltedauer ändert? {-}
 
-For debt and related assets, the notional amount of the asset owned should be used. For equity and related assets, the value at the start of the reporting period, or the value when purchased if acquired during the reporting period, should be used. Hence for these asset types, intra-period changes in value are ignored.
+Bei Schuldtiteln und ähnlichen Vermögenswerten ist der Nominalwert des gehaltenen Vermögenswerts heranzuziehen. Bei Eigenkapitaltiteln und ähnlichen Vermögenswerten ist der Wert zu Beginn der Berichtsperiode oder, falls der Vermögenswert während der Berichtsperiode erworben wurde, der Wert zum Zeitpunkt des Erwerbs heranzuziehen. Daher werden bei diesen Arten von Vermögenswerten Wertänderungen innerhalb der Berichtsperiode unberücksichtigt gelassen.
 
-For bank accounts and cash deposits, the daily closing values should be used to calculate the average cash value over the relevant time period.
+Bei Bankkonten und Bareinlagen sollten die Tagesschlusswerte zur Berechnung des durchschnittlichen Barwerts über den jeweiligen Zeitraum herangezogen werden.
 
-Note that calculating the average value of any cash assets is only relevant if a company has more than one financial asset. For example, if a company only has one bank account, the progress indicator will simply be the fitness score attributed to that bank - i.e. 0%, 25%, 50%, 75% or 100%.
+Beachten Sie, dass die Berechnung des Durchschnittswerts aller Barmittel nur dann relevant ist, wenn ein Unternehmen über mehr als einen finanziellen Vermögenswert verfügt. Wenn ein Unternehmen beispielsweise nur ein Bankkonto hat, ist der Fortschrittsindikator einfach der dieser Bank zugeordnete Fitness-Score, also 0 %, 25 %, 50 %, 75 % oder 100 %.
 
 
-[^1#be23-1]: Note for financial professionals: we consider this statement to be true for both “primary” and “secondary” market investments. Although secondary market purchases do not provide the investee with new capital, the investor assumes the corresponding risk-reward profile of the investee’s business, and its purchase enables the recycling of capital around the financial system for use elsewhere.
+[^1#be23-1]: Hinweis für Finanzexpertinnen und Finanzexperten: Wir betrachten diese Aussage sowohl für Investitionen am „Primärmarkt“ als auch am „Sekundärmarkt“ als zutreffend. Auch wenn Käufe am Sekundärmarkt dem Beteiligungsunternehmen kein neues Kapital zuführen, übernimmt der Investor das entsprechende Risiko-Rendite-Profil des Unternehmens, und sein Kauf ermöglicht die Wiederverwendung von Kapital im Finanzsystem für andere Zwecke.
 
-[^2#be23-2]: Note that we use the terminology investor/investee throughout this text for simplicity, but it should be noted that when it comes to loans, the terms lender/borrower are typically used.
+[^2#be23-2]: Beachten Sie, dass wir im gesamten Text der Einfachheit halber die Begriffe „Investor“ und „Beteiligungsunternehmen“ verwenden; es sei jedoch darauf hingewiesen, dass im Zusammenhang mit Krediten üblicherweise die Begriffe „Kreditgeber“ und „Kreditnehmer“ verwendet werden.
 
-[^3#be23-3]: For detail on what should be covered, see [this](#be23-faq-1) frequently asked question.
+[^3#be23-3]: Einzelheiten dazu, was berücksichtigt werden sollte, finden Sie in [dieser](#be23-faq-1) häufig gestellten Frage.
 
-[^4#be23-4]: This is one of the eight Properties of a Future-Fit Society – for more details see the [Methodology Guide](#mg-figure-4-2).
+[^4#be23-4]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [Methodischer Leitfaden](#mg-figure-4-2).
 
-[^5#be23-5]: See the [Methodology Guide](#mg-requirement-for-society) for details on how these Properties of a Future-Fit Society were derived.
+[^5#be23-5]: Einzelheiten dazu, wie diese Eigenschaften einer zukunftsfähigen Gesellschaft abgeleitet wurden, finden Sie im [methodischen Leitfaden](#mg-requirement-for-society).
 
-[^6#be23-6]: This guidance is a generalized adaptation of that in the [GHG Protocol’s Policy and Action Standard](https://ghgprotocol.org/sites/default/files/standards/Policy%20and%20Action%20Standard.pdf).
+[^6#be23-6]: Diese Leitlinien sind eine allgemeine Anpassung der Vorgaben aus dem [Policy and Action Standard“ des GHG Protocol](https://ghgprotocol.org/sites/default/files/standards/Policy%20and%20Action%20Standard.pdf).
 
-[^7#be23-7]: The [Methodology Guide](#mg-figure-4-1) details the system conditions describing how a Future-Fit Society must operate.
+[^7#be23-7]: Der [Methodischer Leitfaden](#mg-figure-4-1) beschreibt detailliert die Systembedingungen, die beschreiben, wie eine zukunftsfähige Gesellschaft funktionieren muss.
 
-[^8#be23-8]: For more information on and examples of investor coalitions created to tackle systemic issues, see the [Useful links](#be23-useful-links) section.
+[^8#be23-8]: Weitere Informationen und Beispiele zu Investorenkoalitionen, die zur Bewältigung systemischer Probleme gegründet wurden, finden Sie im Abschnitt [Nützliche Links](#be23-useful-links).
 
-[^9#be23-9]: For debt and related assets, this is the notional amount of the asset owned. For equity and related assets, this is the value at the start of the reporting period or the value when purchased if acquired in the period.
+[^9#be23-9]: Bei Schuldtiteln und damit verbundenen Vermögenswerten ist dies der Nominalwert des gehaltenen Vermögenswerts. Bei Eigenkapital und damit verbundenen Vermögenswerten ist dies der Wert zu Beginn des Berichtszeitraums oder der Wert zum Zeitpunkt des Erwerbs, falls dieser im Berichtszeitraum erfolgte.
 
-[^10#be23-10]: Note that any financial assets that have been determined not to be appropriate for inclusion in the progress indicator calculation, as described in the No excuse section, should also be reported separately as part of this context indicator.
+[^10#be23-10]: Beachten Sie, dass alle finanziellen Vermögenswerte, die gemäß dem Abschnitt „Keine Ausreden“ als ungeeignet für die Berechnung des Fortschrittsindikators eingestuft wurden, ebenfalls separat als Teil dieses Kontextindikators ausgewiesen werden sollten.

@@ -2,348 +2,348 @@
 output: github_document
 ---
 
-# Key Terms & Definitions {-#def}
+# Schlüsselbegriffe und Definitionen {-#def}
 
-<div class="subtitle">Terminology used across the Future-Fit Business Benchmark.
+<div class="subtitle">Im gesamten Future-Fit Business Benchmark verwendete Terminologie.
 </div>
 
-##### Biodegradable {-#def-biodegradable}
+##### Biologisch abbaubar {-#def-biodegradable}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
 
-_A material is biodegradable if it can, with the help of micro-organisms, break down into natural elements (e.g. water, carbon dioxide, biomass)._
+_Ein Material ist biologisch abbaubar, wenn es mit Hilfe von Mikroorganismen in natürliche Elemente (z. B. Wasser, Kohlendioxid, Biomasse) zerfallen kann._
 
-##### Bio-based {-#def-bio-based}
+##### Biobasiert {-#def-bio-based}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/EllenMacArthurFoundation_TheNewPlasticsEconomy_19012016.pdf): @Wor16
 
-_A material is bio-based if it is wholly or partly derived from biomass._
+_Ein Material ist biobasiert, wenn es ganz oder teilweise aus Biomasse gewonnen wird._
 
-##### Community {-#def-community}
+##### Gemeinschaft {-#def-community}
 
-We use [Global Reporting Initiative's](https://www.globalreporting.org/standards/gri-standards-download-center/gri-413-local-communities-2016/) definition of a (local) _community_:
+Wir verwenden [Global Reporting Initiative](https://www.globalreporting.org/standards/gri-standards-download-center/gri-413-local-communities-2016/) Definition einer (lokalen) _Gemeinschaft_:
 
-_**Community**: Persons or groups of persons living and/or working in any areas that are economically, socially or environmentally impacted (positively or negatively) by an organization's operations._
+_**Gemeinschaft**: Personen oder Personengruppen, die in Bereichen leben und/oder arbeiten, die durch die Geschäftstätigkeit einer Organisation wirtschaftlich, sozial oder ökologisch (positiv oder negativ) beeinflusst werden._
 
-##### Ecosystem {-#def-ecosystem}
+##### Ökosystem {-#def-ecosystem}
 
-We use the definition from the [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/en/Index-2.html): @Mil05
+Wir verwenden die Definition aus dem [Millennium-Ökosystembewertung](https://www.millenniumassessment.org/en/Index-2.html): @Mil05
 
-_A dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit._
+_Ein dynamischer Komplex aus Pflanzen-, Tier- und Mikroorganismengemeinschaften und ihrer unbelebten Umgebung, die als funktionale Einheit interagieren._
 
-##### Effluent {-#def-effluent}
+##### Abwasser {-#def-effluent}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_A subset of discharge, **effluent** is the wastewater (treated or untreated) from a production process that is discharged._
+_Eine Teilmenge der Einleitung, **Abwasser**, ist das Abwasser (behandelt oder unbehandelt) aus einem Produktionsprozess, das eingeleitet wird._
 
-For simplicity, in the text of this goal the term is meant to include relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+Der Einfachheit halber soll der Begriff im Text dieses Ziels relevante Flüssigkeiten umfassen, die als _Abwasser_ und _Abwasser_ als Unterkategorien der Wassereinleitung gekennzeichnet sind.
 
-##### Emission factor {-#def-emission-factor}
+##### Emissionsfaktor {-#def-emission-factor}
 
-We use the definition from the [UN Framework Convention on Climate Change](https://unfccc.int/resource/docs/publications/09_resource_guide3.pdf): @Unf141
+Wir verwenden die Definition aus dem [UN-Rahmenübereinkommen zum Klimawandel](https://unfccc.int/resource/docs/publications/09_resource_guide3.pdf): @Unf141
 
-_An emission factor is defined as the average emission rate of a given GHG for a given source, relative to units of activity._
+_Ein Emissionsfaktor ist definiert als die durchschnittliche Emissionsrate eines bestimmten Treibhausgases für eine bestimmte Quelle im Verhältnis zu Aktivitätseinheiten._
 
-##### Employee {-#def-employee}
+##### Mitarbeiter {-#def-employee}
 
-For Break-Even Goals relating to employee wellbeing, it is necessary to determine which types of worker should be included. This is not always as straightforward as it may seem: see [_Determining who is an 'employee'_](#ig-determining-employee) for detailed guidance on how to do this.
+Für Break-Even-Ziele im Zusammenhang mit dem Wohlbefinden der Mitarbeiter muss festgelegt werden, welche Arten von Arbeitnehmern einbezogen werden sollen. Das ist nicht immer so einfach, wie es scheint: Sehen Sie [_Bestimmen, wer ein „Mitarbeiter“ ist_](#ig-determining-employee) Ausführliche Anleitung dazu finden Sie hier.
 
-##### Endangered species {-#def-endangered-species}
+##### Gefährdete Arten {-#def-endangered-species}
 
-We use the definition from [WWF](https://www.worldwildlife.org/pages/what-does-endangered-species-mean): @Wwf21
+Wir verwenden die Definition von [WWF](https://www.worldwildlife.org/pages/what-does-endangered-species-mean): @Wwf21
 
-_The term ‘endangered’ refers specifically to species that are considered to be facing a high risk of extinction in the wild. Species can be listed as Critically Endangered, Endangered and Vulnerable._
+_Der Begriff „gefährdet“ bezieht sich insbesondere auf Arten, bei denen in freier Wildbahn ein hohes Risiko des Aussterbens besteht. Arten können als vom Aussterben bedroht, gefährdet und gefährdet eingestuft werden._
 
-A full list of Critically Endangered, Endangered and Vulnerable species can be found on the [IUCN Red List](https://www.iucnredlist.org/).
+Eine vollständige Liste der vom Aussterben bedrohten, gefährdeten und gefährdeten Arten finden Sie auf der Website [Rote Liste der IUCN](https://www.iucnredlist.org/).
 
 
-##### Energy recovery {-#def-energy-recovery}
+##### Energierückgewinnung {-#def-energy-recovery}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
 
-_The conversion of non-recyclable waste materials into useable heat, electricity, or fuel through a variety of so-called waste-to-energy processes, including combustion, gasification, pyrolysis, anaerobic digestion, and landfill gas recovery._
+_Die Umwandlung nicht wiederverwertbarer Abfallstoffe in nutzbare Wärme, Strom oder Brennstoff durch eine Vielzahl sogenannter Abfall-zu-Energie-Prozesse, darunter Verbrennung, Vergasung, Pyrolyse, anaerobe Vergärung und Deponiegasrückgewinnung._
 
-##### Environmental flows {-#def-environmental-flows}
+##### Umweltströme {-#def-environmental-flows}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/), as established by [The Brisbane Declaration](https://riversymposium.com/about/brisbane-declaration/) from the 10th International River<em>symposium</em>: @Int07
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/), wie festgestellt von [Die Brisbane-Erklärung](https://riversymposium.com/about/brisbane-declaration/) vom 10. Internationalen Fluss<em>symposium</em>: @Int07
 
-_**Environmental flows** describe the quantity, timing and quality of water flows required to sustain freshwater and estuarine ecosystems and the human livelihoods and well-being that depend upon these systems._
+_**Umweltströme** beschreiben die Menge, den Zeitpunkt und die Qualität der Wasserströme, die erforderlich sind, um Süßwasser- und Flussmündungsökosysteme sowie den Lebensunterhalt und das Wohlbefinden der Menschen, die von diesen Systemen abhängen, zu erhalten._
 
-##### The Five Freedoms {-#def-five-freedoms}
+##### Die fünf Freiheiten {-#def-five-freedoms}
 
-The [Farm Animal Welfare Committee (FAWC)](https://www.gov.uk/government/groups/farm-animal-welfare-committee-fawc), a UK government initiative, proposes that good animal welfare implies both physical fitness _and_ a sense of wellbeing for the animal. As guiding principles, FAWC formulated the following five freedoms: @Far09
+Der [Ausschuss für den Schutz landwirtschaftlicher Nutztiere (FAWC)](https://www.gov.uk/government/groups/farm-animal-welfare-committee-fawc), eine Initiative der britischen Regierung, geht davon aus, dass guter Tierschutz sowohl körperliche Fitness _als auch_ Wohlbefinden des Tieres voraussetzt. Als Leitprinzipien formulierte FAWC die folgenden fünf Freiheiten: @Far09
 
-- Animals must have freedom from thirst, hunger and malnutrition.
-- Animals must have freedom from discomfort.
-- Animals must have freedom from pain, injury and disease.
-- Animals must have freedom to express normal behavior.
-- Animals must have freedom from fear and distress.
+- Tiere müssen frei von Durst, Hunger und Unterernährung sein.
+- Tiere müssen frei von Beschwerden sein.
+- Tiere müssen frei von Schmerzen, Verletzungen und Krankheiten sein.
+- Tiere müssen die Freiheit haben, normales Verhalten auszudrücken.
+- Tiere müssen frei von Angst und Stress sein.
 
-##### Hazardous waste {-#def-hazardous-waste}
+##### Gefährlicher Abfall {-#def-hazardous-waste}
 
-We use the definition from the [US Environmental Protection Agency](https://www.epa.gov/hw/learn-basics-hazardous-waste#hwid): @Use17
+Wir verwenden die Definition aus dem [US-Umweltschutzbehörde](https://www.epa.gov/hw/learn-basics-hazardous-waste#hwid): @Use17
 
-_Hazardous waste is a waste with properties that make it dangerous or capable of having a harmful effect on human health or the environment._
+_Gefährlicher Abfall ist ein Abfall mit Eigenschaften, die ihn gefährlich machen oder schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt haben können._
 
-[Annex III of the Basel Convention](http://archive.basel.int/text/con-e.pdf) offers a list of these properties.
+[Anhang III des Basler Übereinkommens](http://archive.basel.int/text/con-e.pdf) bietet eine Liste dieser Eigenschaften.
 
-'Non-hazardous waste' is any waste not classified as hazardous.
+„Ungefährlicher Abfall“ ist jeder Abfall, der nicht als gefährlich eingestuft ist.
 
-##### Health {-#def-health}
+##### Gesundheit {-#def-health}
 
-We use the definition provided by the WHO: @Wor10
+Wir verwenden die Definition der WHO: @Wor10
 
-_**Health** is a state of complete physical, mental and social well-being, and not merely the absence of disease._
+_**Gesundheit** ist ein Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens und nicht nur das Fehlen von Krankheiten._
 
-##### High Conservation Value (HCV) Area {-#def-hcv}
+##### Gebiet mit hohem Schutzwert (HCV). {-#def-hcv}
 
-We use the definition from the [HCV Resource Network](https://hcvnetwork.org/): @Higwn
+Wir verwenden die Definition aus dem [HCV-Ressourcennetzwerk](https://hcvnetwork.org/): @Higwn
 
-_HCVs are biological, ecological, social or cultural values which are considered outstandingly significant or critically important, at the national, regional or global level._
+_HCVs sind biologische, ökologische, soziale oder kulturelle Werte, die auf nationaler, regionaler oder globaler Ebene als außerordentlich bedeutsam oder von entscheidender Bedeutung gelten._
 
-The HCV Resource Network lists six categories of HCVs:
+Das HCV Resource Network listet sechs Kategorien von HCVs auf:
 
 ###### HCV 1 {-}
 
-- _Concentrations of biological diversity including endemic species, and rare, threatened or endangered species, that are significant at global, regional or national levels._
+- _Konzentrationen der biologischen Vielfalt, einschließlich endemischer Arten und seltener, bedrohter oder gefährdeter Arten, die auf globaler, regionaler oder nationaler Ebene von Bedeutung sind._
 
 ###### HCV 2 {-}
 
-- _Intact forest landscapes and large landscape-level ecosystems and ecosystem mosaics that are significant at global, regional or national levels, and that contain viable populations of the great majority of the naturally occurring species in natural patterns of distribution and abundance._
+- _Intakte Waldlandschaften und große Ökosysteme und Ökosystemmosaike auf Landschaftsebene, die auf globaler, regionaler oder nationaler Ebene von Bedeutung sind und lebensfähige Populationen der großen Mehrheit der natürlich vorkommenden Arten in natürlichen Verteilungs- und Häufigkeitsmustern enthalten._
 
 ###### HCV 3 {-}
 
-- _Rare, threatened, or endangered ecosystems, habitats or refugia._
+- _Seltene, bedrohte oder gefährdete Ökosysteme, Lebensräume oder Refugien._
 
 ###### HCV 4 {-}
 
-- _Basic ecosystem services in critical situations, including protection of water catchments and control of erosion of vulnerable soils and slopes. _
+- _Grundlegende Ökosystemleistungen in kritischen Situationen, einschließlich Schutz von Wassereinzugsgebieten und Kontrolle der Erosion gefährdeter Böden und Hänge. _
 
 ###### HCV 5 {-}
 
-- _Sites and resources fundamental for satisfying the basic necessities of local communities or indigenous peoples (for livelihoods, health, nutrition, water, etc.), identified through engagement with these communities or indigenous peoples._
+- _Orte und Ressourcen, die für die Befriedigung der Grundbedürfnisse lokaler Gemeinschaften oder indigener Völker (für Lebensunterhalt, Gesundheit, Ernährung, Wasser usw.) von wesentlicher Bedeutung sind und durch die Zusammenarbeit mit diesen Gemeinschaften oder indigenen Völkern identifiziert werden._
 
 ###### HCV 6 {-}
 
-- _Sites, resources, habitats and landscapes of global or national cultural, archaeological or historical significance, and/or of critical cultural, ecological, economic or religious/sacred importance for the traditional cultures of local communities or indigenous peoples, identified through engagement with these local communities or indigenous peoples._
+- _Stätten, Ressourcen, Lebensräume und Landschaften von globaler oder nationaler kultureller, archäologischer oder historischer Bedeutung und/oder von entscheidender kultureller, ökologischer, wirtschaftlicher oder religiöser/sakraler Bedeutung für die traditionellen Kulturen lokaler Gemeinschaften oder indigener Völker, identifiziert durch die Auseinandersetzung mit diesen Einheimischen Gemeinschaften oder indigene Völker._
 
-For further guidance see [Common Guidance for the Identification of HCV](https://hcvnetwork.org/library/common-guidance-for-the-identification-of-high-conservation-values/) @Hig131 and [Common Guidance for the Management & Monitoring of HCV](https://hcvnetwork.org/library/common-guidance-for-the-management-and-monitoring-of-hcv/) @Hig13, which are available freely online via the [HCV Network](https://www.hcvnetwork.org/resources/folder.2006-09-29.6584228415).
+Weitere Hinweise finden Sie unter [Gemeinsame Leitlinien zur Identifizierung von HCV](https://hcvnetwork.org/library/common-guidance-for-the-identification-of-high-conservation-values/) @Hig131 Und [Gemeinsame Leitlinien für das Management und die Überwachung von HCV](https://hcvnetwork.org/library/common-guidance-for-the-management-and-monitoring-of-hcv/) @Hig13, die kostenlos online verfügbar sind über die [HCV-Netzwerk](https://www.hcvnetwork.org/resources/folder.2006-09-29.6584228415).
 
-##### Homogenous material {-#def-homogenous-material}
+##### Homogenes Material {-#def-homogenous-material}
 
-We use the definition from [The Cradle to Cradle Products Innovation Institute](http://s3.amazonaws.com/c2c-website/resources/certification/guidance/GUI_HomogeneousMaterialsGuidance_v1.0_030316.pdf): @Cra16
+Wir verwenden die Definition von [Das Cradle to Cradle Products Innovation Institute](http://s3.amazonaws.com/c2c-website/resources/certification/guidance/GUI_HomogeneousMaterialsGuidance_v1.0_030316.pdf): @Cra16
 
-_Homogeneous materials are defined as materials of uniform composition throughout that cannot be mechanically disjointed, in principle, into different materials. Examples of homogeneous materials are polypropylene, steel, shampoo, glass cleaner, nylon yarn, finish, and coating. Examples of non-homogeneous materials are powder-coated steel, a printed bottle label, plywood, laminate, and chair casters._
+_Als homogene Materialien werden Materialien definiert, die eine einheitliche Zusammensetzung aufweisen und grundsätzlich nicht mechanisch in verschiedene Materialien zerlegt werden können. Beispiele für homogene Materialien sind Polypropylen, Stahl, Shampoo, Glasreiniger, Nylongarn, Finish und Beschichtung. Beispiele für inhomogene Materialien sind pulverbeschichteter Stahl, ein bedrucktes Flaschenetikett, Sperrholz, Laminat und Stuhlrollen._
 
-##### Living wage {-#def-living-wage}
+##### Existenzsichernder Lohn {-#def-living-wage}
 
-We use the definition proposed by the [Global Living Wage Coalition](https://www.globallivingwage.org/about/anker-methodology/): @Liv17
+Wir verwenden die von der vorgeschlagene Definition [Globale Koalition für existenzsichernde Löhne](https://www.globallivingwage.org/about/anker-methodology/): @Liv17
 
-_**Living wage** is: Remuneration received for a standard work week by a worker in a particular place sufficient to afford a decent standard of living for the worker and her or his family. Elements of a decent standard of living include food, water, housing, education, health care, transport, clothing, and other essential needs, including provision for unexpected events._
+_**Existenzsichernder Lohn** ist: Das Entgelt, das ein Arbeitnehmer an einem bestimmten Ort für eine Standardarbeitswoche erhält und der ausreicht, um dem Arbeitnehmer und seiner Familie einen angemessenen Lebensstandard zu ermöglichen. Zu den Elementen eines angemessenen Lebensstandards gehören Nahrung, Wasser, Unterkunft, Bildung, Gesundheitsversorgung, Transport, Kleidung und andere lebenswichtige Bedürfnisse, einschließlich der Vorsorge für unerwartete Ereignisse._
 
-##### Major greenhouse gases {-#def-major-ghgs}
+##### Wichtige Treibhausgase {-#def-major-ghgs}
 
-The Kyoto Protocol identifies seven major greenhouse gases: carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), hydrofluorocarbons (HFCs), nitrous oxide (N<sub>2</sub>O), perfluorocarbons (PFCs), sulphur hexafluoride (SF<sub>6</sub>), nitrogen triflouride (NF<sub>3</sub>). @Unf12 These GHGs are called 'major' because they make up a large percentage of the total impact on climate caused by humans.
+Das Kyoto-Protokoll identifiziert sieben große Treibhausgase: Kohlendioxid (CO).<sub>2</sub>), Methan (CH<sub>4</sub>), Fluorkohlenwasserstoffe (HFC), Lachgas (N<sub>2</sub>O), Perfluorkohlenstoffe (PFCs), Schwefelhexafluorid (SF<sub>6</sub>), Stickstofftrifluorid (NF<sub>3</sub>). @Unf12 Diese Treibhausgase werden als „groß“ bezeichnet, weil sie einen großen Prozentsatz der gesamten vom Menschen verursachten Auswirkungen auf das Klima ausmachen.
 
-##### Mutual Accountability {-#def-mutual-accountability}
+##### Gegenseitige Verantwortung {-#def-mutual-accountability}
 
-A company is _wholly accountable_ for impacts within its direct control, such as those related to its operational activities and the design of its products. However, a business is _mutually accountable_ for certain impacts outside its direct control, defined as follows:
+Ein Unternehmen trägt _die volle Verantwortung_ für die Auswirkungen, die seiner direkten Kontrolle unterliegen, beispielsweise im Zusammenhang mit seinen betrieblichen Aktivitäten und der Gestaltung seiner Produkte. Allerdings ist ein Unternehmen _gegenseitig_ für bestimmte Auswirkungen _verantwortlich_, die außerhalb seiner direkten Kontrolle liegen und wie folgt definiert sind:
 
-_A company is **mutually accountable** for any impact beyond its own four walls, to the degree to which that impact is a consequence of the company's existence._
+_Ein Unternehmen ist **gegenseitig** für alle Auswirkungen **verantwortlich**, die über seine eigenen vier Wände hinausgehen, sofern diese Auswirkungen eine Folge der Existenz des Unternehmens sind._
 
-See [_Business responsibility for negative impacts across the value web_](#mg-mutually-accountable) in the Methodology Guide for further information.
+Sehen [_Unternehmerische Verantwortung für negative Auswirkungen im gesamten Wertschöpfungsnetz_](#mg-mutually-accountable) Weitere Informationen finden Sie im Methodenleitfaden.
 
-##### Natural resources {-#def-natural-resources}
+##### Natürliche Ressourcen {-#def-natural-resources}
 
-We use the definition from the [Organisation for Economic Co-operation and Development](https://stats.oecd.org/glossary/detail.asp?ID=1740): @Oec971
+Wir verwenden die Definition aus dem [Organisation für wirtschaftliche Zusammenarbeit und Entwicklung](https://stats.oecd.org/glossary/detail.asp?ID=1740): @Oec971
 
-_Natural resources are natural assets (raw materials) occurring in nature that can be used for economic production or consumption._
+_Natürliche Ressourcen sind in der Natur vorkommende Naturgüter (Rohstoffe), die für wirtschaftliche Produktion oder Konsum genutzt werden können._
 
-##### Operations {-#def-operations}
+##### Operationen {-#def-operations}
 
-We define a company's _operations_ as follows:
+Wir definieren die _Geschäftstätigkeit_ eines Unternehmens wie folgt:
 
-_A company's **operations** encompass any and all activities that the company undertakes itself._
+_Die **Geschäftstätigkeit** eines Unternehmens umfasst alle Aktivitäten, die das Unternehmen selbst durchführt._
 
-When it comes to environmental and social performance, what exactly constitutes the boundary of a company is debated. See [_Setting the right company boundary_](#ig-boundary-setting) for more information.
+Wenn es um ökologische und soziale Leistung geht, wird darüber debattiert, was genau die Grenzen eines Unternehmens ausmacht. Sehen [_Die richtigen Unternehmensgrenzen setzen_](#ig-boundary-setting) für weitere Informationen.
 
-##### Plain language {-#def-plain-language}
+##### Einfache Sprache {-#def-plain-language}
 
-We use the definition recommended by the [International Plain Language Federation](https://www.iplfederation.org/plain-language/): @Int19
+Wir verwenden die von der empfohlene Definition [Internationale Föderation für einfache Sprache](https://www.iplfederation.org/plain-language/): @Int19
 
-_A communication is in **plain language** if its wording, structure and design are so clear that the intended readers can easily find what they need, understand what they find, and use that information._
+_Eine Mitteilung ist in **einfacher Sprache** gehalten, wenn ihr Wortlaut, ihre Struktur und ihr Design so klar sind, dass die beabsichtigten Leser leicht finden können, was sie brauchen, verstehen, was sie finden, und diese Informationen verwenden können._
 
-Among other aspects, plain language includes the use of "you" and other pronouns, short sentences, the active voice, common and everyday words and logical organization with the reader in mind.
+Zur einfachen Sprache gehören unter anderem die Verwendung von „Sie“ und anderen Pronomen, kurze Sätze, die aktive Stimme, gebräuchliche und alltägliche Wörter sowie eine logische Organisation mit Blick auf den Leser.
 
-##### Primary forest {-#def-primary-forest}
+##### Primärwald {-#def-primary-forest}
 
-We use the definition from the [UN Food and Agriculture Organization](http://www.fao.org/docrep/014/am665e/am665e00.pdf): @Unf10
+Wir verwenden die Definition aus dem [UN-Ernährungs- und Landwirtschaftsorganisation](http://www.fao.org/docrep/014/am665e/am665e00.pdf): @Unf10
 
-_Naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed._
+_Natürlich regenerierter Wald mit einheimischen Arten, in dem es keine deutlich sichtbaren Anzeichen menschlicher Aktivitäten gibt und die ökologischen Prozesse nicht wesentlich gestört sind._
 
-##### Pristine ecosystem {-#def-pristine-ecosystems}
+##### Unberührtes Ökosystem {-#def-pristine-ecosystems}
 
-We use the definition from the [Union for Ethical BioTrade](https://static1.squarespace.com/static/58bfcaf22994ca36885f063e/t/5c6e8cbb9b747a469b09d32e/1550748860577/std01+-+ethical+biotrade+standard+-+2012-04-11_ENG_new+logo.pdf): @Uni12
+Wir verwenden die Definition aus dem [Union für ethischen Biohandel](https://static1.squarespace.com/static/58bfcaf22994ca36885f063e/t/5c6e8cbb9b747a469b09d32e/1550748860577/std01+-+ethical+biotrade+standard+-+2012-04-11_ENG_new+logo.pdf): @Uni12
 
-_Pristine ecosystem: An ecosystem in its original condition, not disturbed by human beings._
+_Unberührtes Ökosystem: Ein Ökosystem in seinem ursprünglichen Zustand, das nicht durch Menschen gestört wurde._
 
-##### Products {-#def-products}
+##### Produkte {-#def-products}
 
-We define _products_ as follows:
+Wir definieren _Produkte_ wie folgt:
 
-_**Products** are the revenue-generating goods and services offered by a company, together with any other items provided to others in support of its commercial activities (e.g. packaging and marketing materials)._
+_**Produkte** sind die umsatzgenerierenden Waren und Dienstleistungen, die ein Unternehmen zusammen mit allen anderen Artikeln anbietet, die es anderen zur Unterstützung seiner kommerziellen Aktivitäten zur Verfügung stellt (z. B. Verpackungen und Marketingmaterialien)._
 
-##### Product Inputs {-#def-product-input}
+##### Produkteingaben {-#def-product-input}
 
-We define a _product input_ as follows:
+Wir definieren eine _Produkteingabe_ wie folgt:
 
-_A **product input** is any substance which is necessarily consumed in the creation of goods and the delivery of services. This includes:_
+_Ein **Produktinput** ist jeder Stoff, der notwendigerweise bei der Herstellung von Waren und der Erbringung von Dienstleistungen verbraucht wird. Dazu gehört:_
 
-_1. Ingredients or components required to manufacture a physical good, which either end up embedded in it or are used up (e.g. a catalyst) during its production._
+_1. Zutaten oder Komponenten, die zur Herstellung eines physischen Gutes erforderlich sind und entweder darin eingebettet werden oder bei der Herstellung verbraucht werden (z. B. ein Katalysator)._
 
-_2. Consumable substances which are required to provide a service (e.g. detergents and paints used by a commercial decorator)._
+_2. Verbrauchsstoffe, die zur Erbringung einer Dienstleistung erforderlich sind (z. B. Reinigungsmittel und Farben, die von einem gewerblichen Dekorateur verwendet werden)._
 
-##### Project {-#def-project}
+##### Projekt {-#def-project}
 
-We define a _project_ as follows:
+Wir definieren ein _Projekt_ wie folgt:
 
-_A **project** is a non-revenue generating activity. These range from single targeted interventions through to ongoing programs of work, either led or supported by the company._
+_Ein **Projekt** ist eine Aktivität, die keinen Umsatz generiert. Diese reichen von einzelnen gezielten Interventionen bis hin zu laufenden Arbeitsprogrammen, die entweder vom Unternehmen geleitet oder unterstützt werden._
 
 ##### Recycling {-#def-recycle}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
 
-_Recycling is the process of recovering materials for the original purpose or for other purposes. The materials recovered feed back into the process as crude feedstock. Recycling excludes energy recovery._
+_Unter Recycling versteht man den Prozess der Rückgewinnung von Materialien für den ursprünglichen Zweck oder für andere Zwecke. Die zurückgewonnenen Materialien fließen als Rohrohstoff in den Prozess zurück. Beim Recycling ist die energetische Verwertung ausgeschlossen._
 
-This definition describes recycling of technical materials only (as opposed to biological materials) which is why energy recovery is excluded.
+Diese Definition beschreibt nur das Recycling technischer Materialien (im Gegensatz zu biologischen Materialien), weshalb eine energetische Verwertung ausgeschlossen ist.
 
-##### Refurbishment {-#def-refurbishment}
+##### Sanierung {-#def-refurbishment}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
 
-_A process of returning a product to good working condition by replacing or repairing major components that are faulty or close to failure, and making 'cosmetic' changes to update the appearance of a product, such as cleaning, changing fabric, painting or refinishing._
+_Ein Prozess, bei dem ein Produkt wieder in einen funktionstüchtigen Zustand versetzt wird, indem wichtige Komponenten ausgetauscht oder repariert werden, die fehlerhaft sind oder kurz vor dem Ausfall stehen, und „kosmetische“ Änderungen vorgenommen werden, um das Erscheinungsbild eines Produkts auf den neuesten Stand zu bringen, z. B. durch Reinigung, Stoffwechsel, Lackierung oder Nachbearbeitung._
 
-##### Remanufacture {-#def-remanufacture}
+##### Wiederaufbereitung {-#def-remanufacture}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
 
-_Remanufacture denotes the process of disassembly and recovery at the sub-assembly or component level. Functioning, reusable parts are taken out of a used product and rebuilt into a new one. This process includes quality assurance and potential enhancements or changes to the components._
+_Unter Wiederaufbereitung versteht man den Prozess der Demontage und Wiederherstellung auf Unterbaugruppen- oder Komponentenebene. Funktionierende, wiederverwendbare Teile werden aus einem gebrauchten Produkt entnommen und in ein neues Produkt eingebaut. Dieser Prozess umfasst die Qualitätssicherung und mögliche Erweiterungen oder Änderungen an den Komponenten._
 
-##### Reuse {-#def-reuse}
+##### Wiederverwendung {-#def-reuse}
 
-We use the definition from [The Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
+Wir verwenden die Definition von [Die Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-Towards-the-Circular-Economy-vol.1.pdf): @Ell13
 
-_The use of a product again for the same purpose in its original form or with little enhancement or change._
+_Die erneute Verwendung eines Produkts für denselben Zweck in seiner ursprünglichen Form oder mit geringfügigen Verbesserungen oder Änderungen._
 
-##### Scope 1 and Scope 2 GHG emissions {-#def-scope-1-2}
+##### Treibhausgasemissionen der Bereiche Scope 1 und Scope 2 {-#def-scope-1-2}
 
-The [Greenhouse Gas Protocol](https://ghgprotocol.org/about-us) defines Scope 1 and Scope 2 GHG emissions as follows:
+Der [Treibhausgasprotokoll](https://ghgprotocol.org/about-us) definiert die Treibhausgasemissionen Scope 1 und Scope 2 wie folgt:
 
-_**Scope 1**: Direct GHG emissions from sources owned or controlled by the company._
+_**Bereich 1**: Direkte Treibhausgasemissionen aus Quellen, die dem Unternehmen gehören oder von ihm kontrolliert werden._
 
-_**Scope 2**: GHG emissions from the generation of purchased electricity consumed by the company._
+_**Scope 2**: Treibhausgasemissionen aus der Erzeugung des vom Unternehmen verbrauchten eingekauften Stroms._
 
-##### Subsidiary {-#def-subsidiary}
+##### Tochtergesellschaft {-#def-subsidiary}
 
-We follow the [OECD](https://stats.oecd.org/glossary/detail.asp?ID=3315) in defining a subsidiary as follows:
+Wir folgen dem [OECD](https://stats.oecd.org/glossary/detail.asp?ID=3315) bei der Definition einer Tochtergesellschaft wie folgt:
 
-_A **subsidiary** is a company controlled by another company. Control occurs when the controlling company owns more than 50 per cent of the common shares. _
+_Eine **Tochtergesellschaft** ist ein Unternehmen, das von einem anderen Unternehmen kontrolliert wird. Kontrolle liegt vor, wenn das beherrschende Unternehmen mehr als 50 Prozent der Stammaktien besitzt. _
 
-_When the parent owns 100 percent of the common shares, the subsidiary is said to be wholly owned. When the subsidiary operates in a different country, it is called a foreign subsidiary. The controlling company is called a holding company or parent. A subsidiary is a corporation with its own charter and is not a division of the controlling company._
+_Wenn die Muttergesellschaft 100 Prozent der Stammaktien besitzt, spricht man von einer hundertprozentigen Beteiligung der Tochtergesellschaft. Wenn die Tochtergesellschaft in einem anderen Land tätig ist, spricht man von einer ausländischen Tochtergesellschaft. Das beherrschende Unternehmen wird Holdinggesellschaft oder Muttergesellschaft genannt. Eine Tochtergesellschaft ist eine Kapitalgesellschaft mit eigener Satzung und kein Geschäftsbereich des beherrschenden Unternehmens._
 
-##### Suppliers {-#def-suppliers}
+##### Lieferanten {-#def-suppliers}
 
-We define a _supplier_ as follows:
+Wir definieren einen _Lieferanten_ wie folgt:
 
-_Any organization whose activities in some way contribute to a company's ability to generate value, even if the company has no direct contractual relationship with that organization, is considered to be a **supplier** to the company._
+_Jede Organisation, deren Aktivitäten in irgendeiner Weise zur Wertschöpfungsfähigkeit eines Unternehmens beitragen, gilt als **Lieferant** des Unternehmens, auch wenn das Unternehmen keine direkte Vertragsbeziehung mit dieser Organisation hat._
 
-And we define a _direct supplier_ as follows:
+Und wir definieren einen _Direktlieferanten_ wie folgt:
 
-_Any supplier with whom a contractual relationship exists and which the company pays directly is referred to as a **direct supplier**._
+_Als **Direktlieferant** wird jeder Lieferant bezeichnet, mit dem ein Vertragsverhältnis besteht und den das Unternehmen direkt bezahlt._
 
-Depending on industry and geography, what we define here as a _direct supplier_ may be referred to as a _tier 1 supplier_ or a _vendor_. A company's supply chains can theoretically be mapped by identifying its direct suppliers, then _their_ direct suppliers, and so on.
+Je nach Branche und Region kann das, was wir hier als _Direktlieferant_ definieren, als _Tier-1-Lieferant_ oder _Anbieter_ bezeichnet werden. Die Lieferketten eines Unternehmens können theoretisch abgebildet werden, indem zunächst seine direkten Lieferanten, dann _deren_ direkte Lieferanten usw. identifiziert werden.
 
-##### Uncertainty {-#def-uncertainty}
+##### Unsicherheit {-#def-uncertainty}
 
-We use the definition from the [IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories](http://www.ipcc-nggip.iges.or.jp/public/gp/english/A3_Glossary.pdf): @Int00
+Wir verwenden die Definition aus dem [IPCC-Leitlinien zu bewährten Verfahren und Unsicherheitsmanagement in nationalen Treibhausgasinventaren](http://www.ipcc-nggip.iges.or.jp/public/gp/english/A3_Glossary.pdf): @Int00
 
-_**Statistical definition**: An uncertainty is a parameter, associated with the result of measurement that characterises the dispersion of the values that could be reasonably attributed to the measured quantity._
+_**Statistische Definition**: Eine Unsicherheit ist ein mit dem Messergebnis verbundener Parameter, der die Streuung der Werte charakterisiert, die vernünftigerweise der gemessenen Größe zugeordnet werden könnten._
 
-_**[Emissions] inventory definition**: A general and imprecise term which refers to the lack of certainty (in inventory components) resulting from any causal factor such as unidentified sources and sinks, lack of transparency, etc._
+_**[Emissions]-Inventardefinition**: Ein allgemeiner und ungenauer Begriff, der sich auf den Mangel an Gewissheit (in den Inventarkomponenten) bezieht, der aus einem ursächlichen Faktor wie nicht identifizierten Quellen und Senken, mangelnder Transparenz usw. resultiert._
 
-##### Wastewater {-#def-wastewater}
+##### Abwasser {-#def-wastewater}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_Water that is of no further immediate value to the purpose for which it was used or in the pursuit of which it was produced because of its quality, quantity or time of occurrence. However, **wastewater** from one user can be a potential supply to a user elsewhere. Cooling water is not considered to be **wastewater**._
+_Wasser, das aufgrund seiner Qualität, Menge oder des Zeitpunkts seines Vorkommens keinen weiteren unmittelbaren Wert für den Zweck hat, für den es verwendet oder für den es hergestellt wurde. Allerdings kann das **Abwasser** eines Nutzers potenziell auch für einen anderen Nutzer genutzt werden. Kühlwasser gilt nicht als **Abwasser**._
 
-For simplicity, in the text of this goal the term _wastewater_ encompasses relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+Der Einfachheit halber umfasst der Begriff _Abwasser_ im Text dieses Ziels relevante Flüssigkeiten, die als _Abwasser_ und _Abwasser_ als Unterkategorien der Wassereinleitung gekennzeichnet sind.
 
-##### Water consumption {-#def-water-consumption}
+##### Wasserverbrauch {-#def-water-consumption}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_Represents water that was used by the operation but not returned to its proximate source. It involves evaporated water; transpired water; water that is incorporated into products, crops or waste; water consumed by man or livestock; or water otherwise removed from the local resource. Water that is polluted to an extent prohibiting its use by others wishing access is termed "consumption"._
+_Stellt Wasser dar, das von der Operation verbraucht, aber nicht zur nächstgelegenen Quelle zurückgeleitet wurde. Dabei handelt es sich um verdunstetes Wasser; transpiriertes Wasser; Wasser, das in Produkte, Pflanzen oder Abfälle eingearbeitet wird; vom Menschen oder Vieh verbrauchtes Wasser; oder Wasser, das auf andere Weise der lokalen Ressource entnommen wird. Wasser, das so stark verschmutzt ist, dass es für andere, die darauf zugreifen möchten, nicht mehr nutzbar ist, wird als „Verbrauch“ bezeichnet._
 
-_**Water consumption** = water lost + water in products, crops or waste + water otherwise removed from the system (e.g. by heavy pollution)._
+_**Wasserverbrauch** = Wasserverlust + Wasser in Produkten, Pflanzen oder Abfällen + Wasser, das anderweitig aus dem System entfernt wird (z. B. durch starke Verschmutzung)._
 
-_Also referred to as consumptive water use._
+_Wird auch als verbrauchender Wasserverbrauch bezeichnet._
 
-##### Water discharge {-#def-water-discharge}
+##### Wasserabfluss {-#def-water-discharge}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_The volume rate of abstracted water, including suspended solids (e.g. sediment), dissolved chemicals (e.g. CaCO<sub>3[aq]</sub>), and/or biologic material (e.g. diatoms), that is returned back to either a water service provider or directly into the catchment's freshwater resources. **Discharge** is typically expressed in the unit of m<sup>3</sup>/s (cubic meters per second). **Discharge** may or may not include effluent._
+_Die Volumenrate des entnommenen Wassers, einschließlich suspendierter Feststoffe (z. B. Sedimente) und gelöster Chemikalien (z. B. CaCO).<sub>3[aq]</sub>) und/oder biologisches Material (z. B. Kieselalgen), das entweder an einen Wasserdienstleister oder direkt in die Süßwasserressourcen des Einzugsgebiets zurückgegeben wird. Der **Abfluss** wird normalerweise in der Einheit m ausgedrückt<sup>3</sup>/s (Kubikmeter pro Sekunde). Die **Entladung** kann Abwasser enthalten oder auch nicht._
 
-For simplicity, in the text of this goal the term _water discharge_ encompasses relevant liquids labelled as _wastewater_ and _effluent_ as sub-categories of water discharge.
+Der Einfachheit halber umfasst der Begriff _Wassereinleitung_ im Text dieses Ziels relevante Flüssigkeiten, die als _Abwasser_ und _Abwasser_ als Unterkategorien der Wassereinleitung gekennzeichnet sind.
 
-##### Water quality {-#def-water-quality}
+##### Wasserqualität {-#def-water-quality}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_A term used to describe the chemical, physical and biological characteristics of water, usually with respect to its suitability for a particular purpose. Put another way, it is a measure of the condition of water relative to the requirements of one or more biotic species and or to any human need or purpose._
+_Ein Begriff zur Beschreibung der chemischen, physikalischen und biologischen Eigenschaften von Wasser, meist im Hinblick auf seine Eignung für einen bestimmten Zweck. Anders ausgedrückt ist es ein Maß für den Zustand des Wassers im Verhältnis zu den Anforderungen einer oder mehrerer lebender Arten und/oder zu jedem menschlichen Bedürfnis oder Zweck._
 
-##### Water scarcity {-#def-water-scarcity}
+##### Wasserknappheit {-#def-water-scarcity}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_The volumetric abundance, or lack thereof, of water supply. **Water scarcity** is typically calculated as a ratio of human water consumption to available water supply in a given area. **Water scarcity** is a physical, objective reality that can be measured consistently across regions and over time. **Water scarcity** reflects the physical abundance of fresh water, rather than its availability for specific needs. For instance, a region may have abundant water supplies (and thus not be considered water scarce), but have such severe pollution that those supplies are unfit for human or ecological uses._
+_Die volumetrische Fülle oder das Fehlen einer Wasserversorgung. **Wasserknappheit** wird typischerweise als Verhältnis des menschlichen Wasserverbrauchs zur verfügbaren Wasserversorgung in einem bestimmten Gebiet berechnet. **Wasserknappheit** ist eine physische, objektive Realität, die über Regionen und im Laufe der Zeit konsistent gemessen werden kann. **Wasserknappheit** spiegelt den physischen Überfluss an Süßwasser wider und nicht dessen Verfügbarkeit für bestimmte Bedürfnisse. Beispielsweise kann eine Region über reichlich Wasservorräte verfügen (und daher nicht als wasserknapp gelten), aber eine so starke Verschmutzung aufweisen, dass diese Vorräte für den menschlichen oder ökologischen Gebrauch unbrauchbar sind._
 
-##### Water stewardship {-#def-water-stewardship}
+##### Wasserverwaltung {-#def-water-stewardship}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_The use of water that is socially equitable, environmentally sustainable and economically beneficial, achieved through a stakeholder-inclusive process that involves site and [watershed]-based actions. Good water stewards understand their own water use, catchment context and shared risk in terms of water governance, water balance, water quality and important water-related areas; and then engage in meaningful individual and collective actions that benefit people and nature._
+_Die Nutzung von Wasser ist sozial gerecht, ökologisch nachhaltig und wirtschaftlich vorteilhaft und wird durch einen Stakeholder-integrierenden Prozess erreicht, der standort- und wassereinzugsgebietsbezogene Maßnahmen umfasst. Gute Wasserverwalter verstehen ihren eigenen Wasserverbrauch, den Einzugsgebietskontext und das gemeinsame Risiko in Bezug auf Wasserverwaltung, Wasserhaushalt, Wasserqualität und wichtige wasserbezogene Bereiche. und sich dann an sinnvollen individuellen und kollektiven Aktionen zu beteiligen, die Mensch und Natur zugute kommen._
 
-##### Water stress {-#def-water-stress}
+##### Wasserstress {-#def-water-stress}
 
-Definitions of water stress vary across organizations. In line with [The Alliance for Water Stewardship](http://a4ws.org/about/), we use the definition from the [CEO Water Mandate's Corporate Water Disclosure Guidelines](http://ceowatermandate.org/disclosure/resources/glossary/): @Ceo14
+Die Definitionen von Wasserstress variieren je nach Unternehmen. Im Einklang mit [Die Allianz für Wasserverwaltung](http://a4ws.org/about/), wir verwenden die Definition aus dem [Corporate Water Disclosure Guidelines des CEO Water Mandate](http://ceowatermandate.org/disclosure/resources/glossary/): @Ceo14
 
-_**Water stress** refers to the ability, or lack thereof, to meet human and ecological demand for freshwater. Compared to scarcity, **water stress** is a more inclusive and broader concept. It considers several physical aspects related to water resources, including water availability, water quality, and the accessibility of water (i.e., whether people can make use of physically available water supplies), which is often a function of the sufficiency of infrastructure and the affordability of water, among other things. Both water consumption and water withdrawals provide useful information that offers insight into relative water stress._
+_Unter **Wasserstress** versteht man die Fähigkeit oder das Fehlen einer solchen, den menschlichen und ökologischen Bedarf an Süßwasser zu decken. Im Vergleich zu Wasserknappheit ist **Wasserstress** ein umfassenderes und umfassenderes Konzept. Dabei werden mehrere physische Aspekte im Zusammenhang mit Wasserressourcen berücksichtigt, darunter die Wasserverfügbarkeit, die Wasserqualität und die Zugänglichkeit von Wasser (d. h. ob Menschen die physisch verfügbaren Wasservorräte nutzen können), was häufig von der ausreichenden Infrastruktur und der Erschwinglichkeit abhängt unter anderem Wasser. Sowohl der Wasserverbrauch als auch die Wasserentnahmen liefern nützliche Informationen, die Aufschluss über den relativen Wasserstress geben._
 
-_**Water stress** has subjective elements and is assessed differently depending on societal values. For example, societies may have different thresholds for what constitutes sufficiently clean drinking water or the appropriate level of environmental water requirements to be afforded to freshwater ecosystems, and thus assess stress differently._
+_**Wasserstress** hat subjektive Elemente und wird je nach gesellschaftlichen Werten unterschiedlich bewertet. Beispielsweise können Gesellschaften unterschiedliche Schwellenwerte dafür haben, was als ausreichend sauberes Trinkwasser gilt, oder für den angemessenen Wasserbedarf der Süßwasserökosysteme und daher Stress unterschiedlich einschätzen._
 
-##### Water withdrawal {-#def-water-withdrawal}
+##### Wasserentnahme {-#def-water-withdrawal}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_Refers to the removal of any form of water from the catchment, groundwater aquifer or adjacent seawater, including surface water (both fresh and salty), groundwater (vadose zone and fossil water), snow, ice and atmospheric water (precipitation, air moisture)._
+_Bezieht sich auf die Entnahme jeglicher Form von Wasser aus dem Einzugsgebiet, Grundwasserleiter oder angrenzendem Meerwasser, einschließlich Oberflächenwasser (sowohl Süß- als auch Salzwasser), Grundwasser (Vadozone und fossiles Wasser), Schnee, Eis und atmosphärischem Wasser (Niederschlag, Luftfeuchtigkeit). ._
 
-##### Watershed (sometimes called 'Catchment' or 'Basin') {-#def-watershed}
+##### Wasserscheide (manchmal auch „Einzugsgebiet“ oder „Becken“ genannt) {-#def-watershed}
 
-We use the definition recommended by [The Alliance for Water Stewardship](http://a4ws.org/about/): @All14
+Wir verwenden die von empfohlene Definition [Die Allianz für Wasserverwaltung](http://a4ws.org/about/): @All14
 
-_The area of land from which all surface runoff and subsurface waters flow through a sequence of streams, rivers, aquifers and lakes into the sea or another outlet at a single river mouth, estuary or delta._
+_Die Landfläche, von der das gesamte Oberflächenabfluss- und Untergrundwasser durch eine Abfolge von Bächen, Flüssen, Grundwasserleitern und Seen ins Meer oder einen anderen Abfluss an einer einzelnen Flussmündung, Mündung oder einem Delta fließt._
 
-##### Work-related accidents {-#def-work-related}
+##### Arbeitsunfälle {-#def-work-related}
 
-We use the definition provided by the UK Health and Safety Executive ([HSE](http://www.hse.gov.uk/riddor/key-definitions.htm)): @Hea17
+Wir verwenden die Definition der britischen Gesundheits- und Sicherheitsbehörde ([HSE](http://www.hse.gov.uk/riddor/key-definitions.htm)): @Hea17
 
-_The fact that there is an accident at work premises does not mean in itself that the accident is work-related– the work activity itself must contribute to the accident. An accident is 'work-related' if any of the following played a significant role:_
+_Die Tatsache, dass es am Arbeitsplatz zu einem Unfall kommt, bedeutet nicht, dass der Unfall arbeitsbedingt ist – die Arbeitstätigkeit selbst muss zum Unfall beitragen. Ein Arbeitsunfall liegt vor, wenn einer der folgenden Umstände eine wesentliche Rolle gespielt hat:_
 
-- _the way the work was carried out;_
-- _any machinery, plant, substances or equipment used for the work, or;_
-- _the condition of the site or premises where the accident happened._
+- _die Art und Weise, wie die Arbeiten ausgeführt wurden;_
+- _alle Maschinen, Anlagen, Stoffe oder Geräte, die für die Arbeit verwendet werden, oder;_
+- _der Zustand des Ortes oder der Räumlichkeiten, an dem sich der Unfall ereignet hat._
 
-Guidance on defining [work-related diseases](http://www.hse.gov.uk/riddor/occupational-diseases.htm) is available on the HSE website.
+Anleitung zur Definition [arbeitsbedingte Krankheiten](http://www.hse.gov.uk/riddor/occupational-diseases.htm) ist auf der HSE-Website verfügbar.

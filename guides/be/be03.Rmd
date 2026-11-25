@@ -246,22 +246,22 @@ Für jede natürliche Ressource, die noch nicht nach Future-Fit-Standards verwal
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be03-example).
 
-### 4. Prüfung und Sicherheit {-#be03-assurance}
+### 4. Zuverlässigkeitserklärung {-#be03-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be03-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be03-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be03-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass das Unternehmen alle relevanten Ressourcen aus jeder Kategorie natürlicher Ressourcen in seine Bewertung einbezogen hat. Diese Informationen können den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass Ressourcen übersehen wurden, was zu falschen Indikatoren in der Berichterstattung führen könnte.
-- Dokumentieren Sie die Methoden, die zur Bewertung des ursprünglichen Gesundheitszustands der Ökosysteme rund um die natürlichen Ressourcen des Unternehmens verwendet wurden. Die Prüfer können diese Informationen nutzen, um zu beurteilen, ob die Bewertung angemessen war, und um sicherzustellen, dass zukünftige Bewertungen auf einer einheitlichen Grundlage durchgeführt werden.
+- Dokumentieren Sie die Methoden, die zur Bewertung des ursprünglichen Gesundheitszustands der Ökosysteme rund um die natürlichen Ressourcen des Unternehmens verwendet wurden. Die Prüfer:innen können diese Informationen nutzen, um zu beurteilen, ob die Bewertung angemessen war, und um sicherzustellen, dass zukünftige Bewertungen auf einer einheitlichen Grundlage durchgeführt werden.
 - Stellen Sie sicher, dass das Unternehmen alle Tiere bewertet hat, die sich in seinem Besitz befinden oder von ihm verwaltet werden, unabhängig davon, ob sie direkt am Betrieb beteiligt sind (z. B. Polizeihunde), zur Herstellung von Konsumgütern verwendet werden (z. B. Hühner, die zur Eierproduktion gezüchtet werden) oder andere Funktionen erfüllen (z. B. Tiere, die für die Prüfung von Arzneimitteln verwendet werden).
-- Dokumentieren Sie die Methode, die zur Bewertung des Wertes der natürlichen Ressourcen verwendet wird, die das Unternehmen besitzt oder verwaltet, und bewahren Sie die Arbeitsnotizen zu diesen Bewertungen auf. Die Prüfer können diese Informationen verwenden, um sicherzustellen, dass eine einheitliche Methode angewendet wurde, und um zu überprüfen, ob das Unternehmen den Wert seiner Ressourcen angemessen dargestellt hat.
+- Dokumentieren Sie die Methode, die zur Bewertung des Wertes der natürlichen Ressourcen verwendet wird, die das Unternehmen besitzt oder verwaltet, und bewahren Sie die Arbeitsnotizen zu diesen Bewertungen auf. Die Prüfer:innen können diese Informationen verwenden, um sicherzustellen, dass eine einheitliche Methode angewendet wurde, und um zu überprüfen, ob das Unternehmen den Wert seiner Ressourcen angemessen dargestellt hat.
 
 Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Systematische Zukunftsfähigkeit anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 

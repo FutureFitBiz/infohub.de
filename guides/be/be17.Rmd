@@ -2,461 +2,461 @@
 output: github_document
 ---
 
-## BE17: Product Harm {-#be17}
+## BE17: Produktschaden {-#be17}
 
-<div class="subtitle">Products do not harm people or the environment
+<div class="subtitle">Produkte schaden weder Mensch noch Umwelt
 </div>
 
 ### 1. Ambition {-#be17-ambition}
 
-A Future-Fit Business ensures all of the goods and services it offers are completely benign to people and nature, both as a result of their use and (in the case of physical goods) at their end of life.
+Ein zukunftsfähiges Unternehmen stellt sicher, dass alle von ihm angebotenen Waren und Dienstleistungen sowohl bei der Nutzung als auch (im Fall physischer Güter) am Ende ihrer Lebensdauer völlig harmlos für Mensch und Natur sind.
 
-#### 1.1 What this goal means {-#be17-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be17-what-goal-means}
 
-Although many goods and services _could_ be used in ways that harm people or the environment, the focus here is on three areas: those which are intended to cause harm; those whose use could reasonably be expected to result in harm; and those which instill or reinforce behaviours that undermine society's progress to future-fitness.
+Obwohl viele Waren und Dienstleistungen auf eine Weise genutzt werden könnten, die Menschen oder der Umwelt schadet, liegt der Schwerpunkt hier auf drei Bereichen: solchen, die darauf abzielen, Schaden anzurichten; solchen, bei deren Verwendung nach vernünftigem Ermessen zu einem Schaden führen könnte; und solchen, die Verhaltensweisen fördern oder verstärken, die den Fortschritt der Gesellschaft hin zu Zukunftsfähigkeit untergraben.
 
-A Future-Fit company ensures that any goods and services it provides, when used as intended, do not lead to environmental degradation, ecosystem disruption, or negative impacts on people's physical and mental wellbeing.
+Ein Future-Fit-Unternehmen stellt sicher, dass alle von ihm bereitgestellten Waren und Dienstleistungen bei bestimmungsgemäßer Verwendung nicht zu Umweltschäden, Störungen des Ökosystems oder negativen Auswirkungen auf das körperliche und geistige Wohlbefinden der Menschen führen.
 
-With respect to physical goods, this goal encompasses sold and leased goods, as well as any other items provided to others in support of commercial activities, but which the company does not consider to be revenue-generating. It covers both final end-user products, and intermediate goods which are incorporated or processed into final products by other companies.
+In Bezug auf physische Güter umfasst dieses Ziel verkaufte und vermietete Güter sowie alle anderen Gegenstände, die anderen zur Unterstützung kommerzieller Aktivitäten zur Verfügung gestellt werden, die das Unternehmen jedoch nicht als umsatzgenerierend betrachtet. Es umfasst sowohl Endverbraucherprodukte als auch Zwischenprodukte, die von anderen Unternehmen in Endprodukte eingebaut oder zu diesen verarbeitet werden.
 
-To be Future-Fit, a company must ensure that the goods and services it provides to others are not likely to cause harm to people or the environment through their use and (in the case of physical goods) at their end of life.
+Um zukunftsfähig zu sein, muss ein Unternehmen sicherstellen, dass die Waren und Dienstleistungen, die es anderen zur Verfügung stellt, bei ihrer Nutzung und (im Fall physischer Güter) am Ende ihrer Lebensdauer voraussichtlich keinen Schaden für Menschen oder die Umwelt verursachen.
 
-#### 1.2 Why this goal is needed {-#be17-why-goal-needed}
+#### 1.2. Warum dieses Ziel erforderlich ist {-#be17-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **We are continuously introducing novel substances into circulation**. An estimated 2,000 chemicals are introduced every year for use in everyday items including food, personal care products and prescription drugs. The effects of many of these chemicals remain unknown. @Usd17
-- **A large number of substances are being used that may soon be subject to restrictions.** At the time of publishing, there are more than 1,100 companies in the EU and USA which produce or import hazardous chemicals that are likely to be banned or restricted soon. @Int17
+- **Wir bringen kontinuierlich neue Substanzen in den Verkehr**. Schätzungsweise 2.000 Chemikalien werden jedes Jahr für den Einsatz in Alltagsgegenständen wie Lebensmitteln, Körperpflegeprodukten und verschreibungspflichtigen Medikamenten eingeführt. Die Auswirkungen vieler dieser Chemikalien sind noch unbekannt. @Usd17
+- **Es werden zahlreiche Stoffe eingesetzt, die bald Beschränkungen unterliegen könnten.** Zum Zeitpunkt der Veröffentlichung gibt es mehr als 1.100 Unternehmen in der EU und den USA, die gefährliche Chemikalien produzieren oder importieren, die wahrscheinlich bald verboten oder Beschränkungen unterliegen. @Int17
 
-#### 1.3 How this goal contributes to the SDGs {-#be17-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be17-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by ensuring its products cause no harm, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie sicherstellen, dass ihre Produkte keinen Schaden anrichten, und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 3](assets/sdg/sdg-3.svg) | Support efforts to promote mental health and wellbeing, and efforts to substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution. |
-| ![SDG 6](assets/sdg/sdg-6.svg) | Support efforts to improve water quality by reducing pollution, eliminating dumping and minimizing the release of hazardous chemicals and materials, and to protect water-related ecosystems. |
-| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to reduce the adverse per capita environmental impact of cities. |
-| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, and significantly reduce their release to air, water and soil. |
-| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, and efforts to protect marine and coastal ecosystems. |
+| ![SDG 3](assets/sdg/sdg-3.svg) | Unterstützung von Maßnahmen zur Förderung der psychischen Gesundheit und des Wohlbefindens sowie von Maßnahmen zur erheblichen Verringerung der Zahl der Todesfälle und Erkrankungen aufgrund gefährlicher Chemikalien und der Verschmutzung von Luft, Wasser und Boden. |
+| ![SDG 6](assets/sdg/sdg-6.svg) | Unterstützung von Maßnahmen zur Verbesserung der Wasserqualität durch Verringerung der Verschmutzung, Beendigung der Einleitung von Abfällen und Minimierung der Freisetzung gefährlicher Chemikalien und Stoffe sowie zum Schutz wassergebundener Ökosysteme. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | Unterstützung von Maßnahmen zur Verringerung der negativen Pro-Kopf-Umweltbelastung durch Städte. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Unterstützung von Maßnahmen zur Erreichung einer umweltverträglichen Bewirtschaftung von Chemikalien und allen Abfällen während ihres gesamten Lebenszyklus sowie zur erheblichen Verringerung ihrer Freisetzung in Luft, Wasser und Boden. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Unterstützung von Maßnahmen zur Verhinderung und erheblichen Verringerung jeglicher Art von Meeresverschmutzung, insbesondere durch landseitige Aktivitäten, sowie von Maßnahmen zum Schutz der Meeres- und Küstenökosysteme. |
 </div>
 
-#### 1.4 Related goals {-#be17-related-goals}
+#### 1.4 Verwandte Ziele {-#be17-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Operational emissions do not harm people or the environment:**](#be05) One way products can cause harm during their use is through emissions, which are covered by this _Products do not harm_ goal. Emissions that occur as a result of the way products are created, rather than as a result of their use or disposal, are covered separately by the _Operational emissions_ goal.
-- [**Operations do not encroach on ecosystems or communities:**](#be08) Another way products can cause harm during their use is by physically damaging the environment, which is covered by this _Products do not harm_ goal. Any physical degradation that occurs as a result of the way products are created, rather than as a result of their use or disposal, is covered separately by the _Operations do not encroach_ goal.
-- [**Products can be repurposed:**](#be19) The _Products can be repurposed_ goal gives guidance on reducing product waste through end-of-life recovery of product materials. The _Products do not harm_ goal includes complementary criteria relating to the harm that goods may cause as a result of substances contained in them, which may also be an issue at their end of life.
-- [**Product concerns are actively solicited, impartially judged and transparently addressed:**](#be16) The _Product concerns_ goal gives guidance on managing and responding to concerns raised by users of a company's products. Such concerns should be monitored to identify any pattern which may indicate that a product can cause harm in an unexpected way. If such an issue comes to a company's attention and is found to be valid, it should adjust its fitness score for the _Product harm_ goal, accordingly.
+- [**Betriebsemissionen schaden weder Menschen noch der Umwelt:**](#be05) Eine Möglichkeit, wie Produkte während ihrer Nutzung Schaden anrichten können, sind Emissionen, die unter dieses Ziel _Produkte schaden nicht_ fallen. Emissionen, die durch die Art und Weise der Herstellung von Produkten entstehen und nicht durch deren Nutzung oder Entsorgung, werden separat durch das Ziel _Betriebliche Emissionen_ abgedeckt.
+- [**Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden:**](#be08) Eine weitere Möglichkeit, wie Produkte während ihrer Nutzung Schaden anrichten können, besteht in der physischen Schädigung der Umwelt, die durch dieses Ziel _Produkte schaden nicht_ abgedeckt ist. Jede physische Beeinträchtigung, die durch die Art und Weise der Herstellung von Produkten und nicht durch deren Nutzung oder Entsorgung entsteht, wird separat durch das Ziel _Betriebsaktivitäten beeinträchtigen nicht_ abgedeckt.
+- [**Produkte können wiederverwendet werden:**](#be19) Das Ziel _Produkte können wiederverwendet werden_ gibt Hinweise zur Reduzierung von Produktabfällen durch die Rückgewinnung von Produktmaterialien am Ende ihrer Lebensdauer. Das Ziel _Produkte schaden nicht_ umfasst ergänzende Kriterien in Bezug auf den Schaden, den Waren aufgrund der in ihnen enthaltenen Stoffe verursachen können, was auch am Ende ihrer Lebensdauer ein Problem darstellen kann.
+- [**Produktbezogene Anliegen werden aktiv eingeholt, unvoreingenommen bewertet und transparent behandelt:**](#be16) Das Ziel _Produktbezogene Anliegen_ gibt Leitlinien für den Umgang mit und die Reaktion auf Anliegen vor, die von Nutzern der Produkte eines Unternehmens geäußert werden. Solche Bedenken sollten überwacht werden, um Muster zu erkennen, die darauf hindeuten könnten, dass ein Produkt auf unerwartete Weise Schaden anrichten kann. Wenn ein Unternehmen auf ein solches Problem aufmerksam wird und sich dieses als berechtigt erweist, sollte es seine Fitness-Score für das Ziel _Produkte schaden nicht_ entsprechend anpassen.
 
-### 2. Action {-#be17-action}
+### 2. Aktion {-#be17-action}
 
-#### 2.1 Getting started {-#be17-getting-started}
+#### 2.1 Erste Schritte {-#be17-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-This goal relates to both goods and services. Some services may cause harm –inadvertently or otherwise – for example by undermining people's physical or mental wellbeing through prolonged use, or by instilling or reinforcing behaviours that undermine society's progress to future-fitness.
+Dieses Ziel bezieht sich sowohl auf Waren als auch auf Dienstleistungen. Einige Dienste können – unbeabsichtigt oder auf andere Weise – Schaden anrichten, beispielsweise indem sie das körperliche oder geistige Wohlbefinden von Menschen durch längere Nutzung beeinträchtigen oder indem sie Verhaltensweisen einflößen oder verstärken, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit untergraben.
 
-When it comes to physical goods, a wide range of products which at first glance appear harmless can cause significant harm due to the ways they are used and the substances they contain. Many physical goods are made up of a complex mixture of chemical substances, which may go through multiple stages of interim processing before ending up in the hands of the final user. Even if a company that manufactures goods knows every intentionally added substance contained within them, it might still struggle to evaluate whether these substances are dangerous or benign. A lack of supply chain transparency and gaps in our understanding of chemical hazards pose major systemic challenges. As a result, progress toward this goal will likely require sustained effort by the company and its partners.
+Bei physischen Gütern gibt es eine Vielzahl von Produkten, die auf den ersten Blick harmlos erscheinen und aufgrund ihrer Verwendung und der darin enthaltenen Stoffe erhebliche Schäden anrichten können. Viele physische Güter bestehen aus einer komplexen Mischung chemischer Substanzen, die mehrere Zwischenverarbeitungsstufen durchlaufen können, bevor sie in die Hände des Endverbrauchers gelangen. Selbst wenn ein Unternehmen, das Waren herstellt, alle darin enthaltenen absichtlich zugesetzten Stoffe kennt, könnte es schwierig sein, zu beurteilen, ob diese Stoffe gefährlich oder harmlos sind. Mangelnde Transparenz in der Lieferkette und Lücken in unserem Verständnis chemischer Gefahren stellen große systemische Herausforderungen dar. Daher wird der Fortschritt in Richtung dieses Ziels wahrscheinlich nachhaltige Anstrengungen des Unternehmens und seiner Partner erfordern.
 
-A company's first step toward future-fitness should be to examine the services it offers, and the modes of use and composition of any goods it provides. Having this data in hand will allow the business to pursue opportunities for improvement, through product and/or business model innovation, as well as collaboration with others across the value web.
+Der erste Schritt zur Zukunftsfähigkeit eines Unternehmens sollte darin bestehen, die von ihm angebotenen Dienstleistungen sowie die Nutzungsarten und Zusammensetzung der bereitgestellten Güter zu prüfen. Wenn das Unternehmen über diese Daten verfügt, kann es Verbesserungsmöglichkeiten durch Produkt- und/oder Geschäftsmodellinnovationen sowie die Zusammenarbeit mit anderen im gesamten Wertschöpfungsnetz verfolgen.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company's commercial activity result in goods changing hands? {-}
+###### Führt die Geschäftstätigkeit des Unternehmens dazu, dass Waren den Besitz wechseln? {-}
 
-- Does the company sell physical goods? What packaging is used to transport, protect and display these products?
-- Does the company provide any form of commercial service which results in goods or materials ending up in the hands of customers or other people?
-- Are any other physical goods supplied to third parties in support of the company's core activities, such as point of sale display materials, customer giveaways, or as supplementary services?
+- Verkauft das Unternehmen physische Waren? Welche Verpackung wird für den Transport, den Schutz und die Präsentation dieser Produkte verwendet?
+- Bietet das Unternehmen kommerzielle Dienstleistungen an, die dazu führen, dass Waren oder Materialien in die Hände von Kundinnen und Kunden oder anderen Personen gelangen?
+- Werden zur Unterstützung der Kernaktivitäten des Unternehmens andere physische Güter an Dritte geliefert, z. B. als Verkaufspräsentationsmaterialien, Kundengeschenke oder als ergänzende Dienstleistungen?
 
-###### How do others interact with goods that the company provides? {-}
+###### Wie gehen andere mit den vom Unternehmen bereitgestellten Produkten um? {-}
 
-- Could people be exposed to potentially harmful substances as a result of such use (e.g. through contact with the skin, ingestion, inhalation)?
-- Could potentially harmful substances be emitted into air, land or water as a result of the use of such goods?
-- Might such harm be caused if goods are _misused_ in predictable ways (e.g. infants interacting with household products)?
+- Könnten Menschen durch eine solche Verwendung potenziell schädlichen Substanzen ausgesetzt sein (z. B. durch Hautkontakt, Verschlucken, Einatmen)?
+- Könnten durch die Verwendung solcher Produkte potenziell schädliche Stoffe in die Luft, den Boden oder das Wasser gelangen?
+- Könnten solche Schäden entstehen, wenn Produkte auf vorhersehbare Weise missbraucht werden (z. B. wenn Kleinkinder mit Haushaltsprodukten in Kontakt kommen)?
 
-###### What is the composition of company-provided goods? {-}
+###### Wie ist die Zusammensetzung der vom Unternehmen bereitgestellten Waren? {-}
 
-- What materials and/or components are used as inputs to create these physical goods? Do they contain multiple substances? If so, are those substances tracked by the company?
-- Does the company or its suppliers use chemicals that are identified as hazardous? Are any of the substances used subject to market regulations, or disclosure requirements? Have any substances been flagged as potentially problematic by one or more industry authorities?
-- How far back up the supply chain can the company confidently trace the inputs to its products? Does this visibility extend all the way back to the harvesting or extraction of raw materials? Are there any crucial gaps in the company's knowledge?
+- Welche Materialien und/oder Komponenten werden als Vorleistungen zur Herstellung dieser physischen Waren verwendet? Enthalten sie mehrere Stoffe? Wenn ja, werden diese Stoffe vom Unternehmen nachverfolgt?
+- Verwendet das Unternehmen oder seine Lieferanten Chemikalien, die als gefährlich eingestuft sind? Unterliegen die verwendeten Stoffe Marktvorschriften oder Offenlegungspflichten? Wurden Stoffe von einer oder mehreren Branchenbehörden als potenziell problematisch gekennzeichnet?
+- Wie weit zurück in der Lieferkette kann das Unternehmen die Vorleistungen für seine Produkte zuverlässig zurückverfolgen? Reicht diese Nachvollziehbarkeit bis zur Ernte oder Förderung der Rohstoffe zurück? Gibt es wesentliche Wissenslücken im Unternehmen?
 
-###### Does the company provide services which are likely to cause harm? {-}
+###### Bietet das Unternehmen Dienstleistungen an, die Schaden verursachen könnten? {-}
 
-- Does the company offer services which increase human activity in or around natural ecosystems (e.g. tourism excursions into vulnerable habitats)?
-- Could the company's services negatively impact people's physical and mental wellbeing, for example by reinforcing addictive behaviours (e.g. gambling services) or by failing to protect privacy (e.g. social media platforms with insufficient data controls)?
-- Does the company perform or deliver services that are intended or likely to influence people's behaviour (e.g. news media)? Could that influence be reasonably expected to instill or reinforce behaviours that might undermine society's pursuit of future-fitness?
-- Could the company's services perpetuate or expand reliance on infrastructure which effectively locks in negative impacts (e.g. searching for new thermal coal reserves)?
+- Bietet das Unternehmen Dienstleistungen an, die die menschliche Aktivität in oder um natürliche Ökosysteme steigern (z. B. touristische Ausflüge in gefährdete Lebensräume)?
+- Könnten sich die Dienstleistungen des Unternehmens negativ auf das körperliche und geistige Wohlbefinden der Menschen auswirken, indem sie beispielsweise Suchtverhalten verstärken (z. B. Glücksspieldienste) oder die Privatsphäre nicht schützen (z. B. Social-Media-Plattformen mit unzureichenden Datenkontrollen)?
+- Erbringt das Unternehmen Dienstleistungen, die darauf abzielen oder geeignet sind, das Verhalten von Menschen zu beeinflussen (z. B. Nachrichtenmedien)? Ist davon auszugehen, dass dieser Einfluss Verhaltensweisen hervorrufen oder verstärken könnte, die das Streben der Gesellschaft nach Zukunftsfähigkeit untergraben?
+- Könnten die Dienstleistungen des Unternehmens die Abhängigkeit von einer Infrastruktur aufrechterhalten oder ausweiten, die negative Auswirkungen effektiv eindämmt (z. B. die Suche nach neuen Kraftwerkskohlereserven)?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### What are the best opportunities for making progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Which of the company's goods or services are most likely to cause harm to users or their surroundings? Which are most likely to negatively impact the environment?
-- Which of the company's goods or services are most vulnerable to changes in regulation (e.g. substances that may be banned), or to negative coverage by consumer advocacy groups?
-- If the company relies on any materials that are harmful or potentially harmful, which of these are used or purchased in the highest quantities? Do any such materials have benign or less harmful alternatives? Would a substitution present an opportunity to differentiate in the market? What are the likely trade-offs?
+- Welche Waren oder Dienstleistungen des Unternehmens bergen das größte Risiko, den Nutzenden oder ihrer Umgebung Schaden zuzufügen? Welche haben die größten negativen Auswirkungen auf die Umwelt?
+- Welche Waren oder Dienstleistungen des Unternehmens sind am anfälligsten für regulatorische Änderungen (z. B. möglicherweise verbotene Stoffe) oder für negative Berichterstattung durch Verbraucherschutzorganisationen?
+- Wenn das Unternehmen auf schädliche oder potenziell schädliche Materialien angewiesen ist, welche davon werden in den größten Mengen verwendet oder eingekauft? Gibt es für solche Materialien harmlose oder weniger schädliche Alternativen? Würde eine Ersatzlösung eine Möglichkeit zur Differenzierung auf dem Markt bieten? Was sind die wahrscheinlichen Kompromisse?
 
-###### Does the company have targets in place to reduce the concentration or presence of harmful components or product characteristics? {-}
+###### Verfügt das Unternehmen über Ziele zur Reduzierung der Konzentration oder des Vorhandenseins schädlicher Bestandteile oder Produkteigenschaften? {-}
 
-- Has the company made public commitments or set internal targets to significantly reduce or eliminate the harmful properties of the goods and services it provides? If so, are the related action plans sufficient to achieve future-fitness over time?
-- If the company hasn't set targets yet, how might they be put in place? Whose authorization would be needed, and who would need to be involved to design and implement adequate procedures and incentives to ensure their successful adoption?
-- If current action plans are not likely to get the company to future-fitness, how can they be supplemented or adjusted?
+- Hat sich das Unternehmen öffentlich dazu verpflichtet oder sich interne Ziele gesetzt, um die schädlichen Eigenschaften der von ihm angebotenen Waren und Dienstleistungen deutlich zu reduzieren oder zu beseitigen? Wenn ja, reichen die entsprechenden Aktionspläne aus, um im Laufe der Zeit Zukunftsfähigkeit zu erreichen?
+- Falls das Unternehmen noch keine Ziele festgelegt hat, wie könnten diese eingeführt werden? Wessen Genehmigung wäre erforderlich, und wer müsste einbezogen werden, um angemessene Verfahren und Anreize zu entwerfen und umzusetzen, die eine erfolgreiche Akzeptanz sicherstellen?
+- Wenn die aktuellen Aktionspläne das Unternehmen wahrscheinlich nicht zukunftsfähig machen, wie können sie ergänzt oder angepasst werden?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to offer products that serve to speed up society's progress to future-fitness?[^1#be17-1] For further details see the [**Positive Pursuit Guide**](#pp-people-capacity).
+- Ist das Unternehmen in der Lage, über das zur Erreichung dieses Ziels erforderliche Maß hinaus Produkte anzubieten, die dazu dienen, den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit zu beschleunigen?[^1#be17-1] Weitere Einzelheiten finden Sie in der [**Positive Pursuit Guide**](#pp-people-capacity).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be17-pursuing}
+#### 2.2 Zukunftsfähigkeit anstreben {-#be17-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-To be Future-Fit, a company must ensure that the goods and services it provides to others are not likely to cause harm to people or the environment through their use and (in the case of physical goods) at their end of life.
+Um zukunftsfähig zu sein, muss ein Unternehmen sicherstellen, dass die Waren und Dienstleistungen, die es anderen zur Verfügung stellt, bei ihrer Nutzung und (im Fall physischer Güter) am Ende ihrer Lebensdauer voraussichtlich keinen Schaden für Menschen oder die Umwelt verursachen.
 
-###### Guidance on what needs to be assessed {-}
+###### Leitlinien zur Bewertung {-}
 
-Progress is weighted by revenue (for sold or leased goods and services) and by cost for supplementary goods:
+Die Fortschritte werden anhand des Umsatzes (für verkaufte oder vermietete Waren und Dienstleistungen) und anhand der Kosten für ergänzende Produkte gewichtet:
 
-####### Sold or leased goods and services {-}
+####### Verkaufte oder geleaste Waren und Dienstleistungen {-}
 
-This category encompasses all goods and services offered to customers in exchange for revenue.
+Diese Kategorie umfasst alle Waren und Dienstleistungen, die Kunden als Gegenleistung für Einnahmen angeboten werden.
 
-####### Supplementary goods {-}
+####### Ergänzende Waren {-}
 
-This category encompasses any items provided to others in support of commercial activities, but which the company does not consider to be revenue-generating, including:
+Diese Kategorie umfasst alle Artikel, die anderen zur Unterstützung kommerzieller Aktivitäten zur Verfügung gestellt werden, die das Unternehmen jedoch nicht als umsatzgenerierend betrachtet, einschließlich:
 
-- Packaging that ends up in the hands of customers (e.g. boxes, carrier bags).
-- Marketing materials and giveaways, including items offered with the purchase of a product (e.g. toys with children's meals).
-- Goods the company transfers to other organizations before the products are sold (e.g. point of sale displays provided to third-party retail partners, shipping materials such as pallets and wrapping provided to external transportation partners).
-- Any goods or materials used to deliver a service which end up in the hands of customers (e.g. travel tickets, receipts, internet routers).
+- Verpackungen, die in die Hände von Kunden gelangen (z. B. Kartons, Tragetaschen).
+- Marketingmaterialien und Werbegeschenke, einschließlich Artikel, die beim Kauf eines Produkts angeboten werden (z. B. Spielzeug zu Kindermahlzeiten).
+- Waren, die das Unternehmen an andere Organisationen weitergibt, bevor die Produkte verkauft werden (z. B. Point-of-Sale-Displays, die an dritte Einzelhandelspartner bereitgestellt werden, Versandmaterialien wie Paletten und Verpackungen, die an externe Transportpartner bereitgestellt werden).
+- Alle Waren oder Materialien, die zur Erbringung einer Dienstleistung verwendet werden und in die Hände von Kunden gelangen (z. B. Reisetickets, Quittungen, Internet-Router).
 
 <div class="callout-note">
-**Categorizing goods**
+**Waren kategorisieren**
 
-A company may provide some goods which it is unsure whether to designate as revenue-generating or not (e.g. product packaging). Whatever approach is taken, companies are encouraged to apply the same rationale consistently to categorize all physical goods. Once a designation has been made, it should not be changed in future years except in rare cases where doing so would result in the reported data providing more reliable and relevant information.[^2#be17-2]
+Ein Unternehmen kann bestimmte Waren bereitstellen, bei denen es sich nicht sicher ist, ob sie als umsatzgenerierend einzustufen sind oder nicht (z. B. Produktverpackungen). Unabhängig davon, welcher Ansatz gewählt wird, wird den Unternehmen empfohlen, bei der Kategorisierung aller physischen Waren konsequent dieselbe Logik anzuwenden. Sobald eine Einstufung vorgenommen wurde, sollte sie in den Folgejahren nicht mehr geändert werden, außer in seltenen Fällen, in denen dies dazu führen würde, dass die gemeldeten Daten zuverlässigere und relevantere Informationen liefern.[^2#be17-2]
 </div>
 
-###### Guidance on assessing goods for harmful substances {-#be17-guidance-harmful-substances}
+###### Leitfaden zur Schadstoffbewertung von Waren {-#be17-guidance-harmful-substances}
 
-When it comes to physical goods, a wide range of products which are intended to be benign might inadvertently cause problems if they expose people or the environment to harmful substances embedded within them.
+Bei physischen Waren kann eine Vielzahl von Produkten, die eigentlich unbedenklich sein sollen, unbeabsichtigt Probleme verursachen, wenn sie Menschen oder die Umwelt den darin enthaltenen Schadstoffen aussetzen.
 
-The onus is on the company to determine whether this is the case. In particular, the following questions should be considered:
+Es liegt in der Verantwortung des Unternehmens, festzustellen, ob dies der Fall ist. Insbesondere sollten folgende Fragen berücksichtigt werden:
 
-- Is the use (or any reasonably expected form of misuse) of a good likely to result in any substance coming into contact with a person's skin, being ingested or being inhaled?
-- Is the use (or any reasonably expected form of misuse) of a good likely to result in the emission of any substance into air, land or water?
-- At its end of life is what remains of a good likely to result in the emission of any substance into air, land or water?[^3#be17-3]
+- Ist es wahrscheinlich, dass bei der bestimmungsgemäßen Verwendung (oder bei einer zumutbar zu erwartenden Fehlverwendung) eines Produkts eine Substanz mit der Haut einer Person in Kontakt kommt, verschluckt oder eingeatmet wird?
+- Ist es wahrscheinlich, dass bei der bestimmungsgemäßen Verwendung (oder bei einer zumutbar zu erwartenden Fehlverwendung) eines Produkts eine Substanz in die Luft, den Boden oder das Wasser gelangt?
+- Bleiben am Ende der Lebensdauer eines Produkts Rückstände zurück, die zur Freisetzung von Stoffen in Luft, Boden oder Wasser führen könnten?[^3#be17-3]
 
-If the answer to any of these questions is yes, the company must investigate further.[^4#be17-4] For more guidance see the following frequently asked questions: [_What is a substance of concern?_](#be17-faq-1) and [_How should goods be checked for substances of concern?_](#be17-faq-2)
+Wenn eine dieser Fragen mit „Ja“ beantwortet wird, muss das Unternehmen weitere Untersuchungen durchführen.[^4#be17-4] Weitere Hinweise finden Sie in den folgenden häufig gestellten Fragen: [_Was ist ein besorgniserregender Stoff?_](#be17-faq-1) und [_Wie sollten Produkte auf besorgniserregende Stoffe überprüft werden?_](#be17-faq-2)
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-Fitness is assessed differently for final goods, intermediate goods and services, as follows.
+Die Zukunftsfähigkeit wird für Endprodukte, Zwischenprodukte und Dienstleistungen wie folgt unterschiedlich bewertet.
 
-###### Assessing final goods for future-fitness {-}
+###### Bewertung der Zukunftsfähigkeit von Endprodukten {-}
 
-A final good is one that is ready to be used or consumed by an end user without further processing. Any such goods are assigned a progress score of 100% _unless_ they fall into one of the following categories, in which case they are assigned a score of 0%:
+Ein Endprodukt ist ein Produkt, das ohne weitere Verarbeitung für die Nutzung oder den Verbrauch durch eine:n Endverbraucher:in bereit ist. Solchen Produkten wird ein Fortschrittswert von 100 % zugewiesen, es sei denn, sie fallen unter eine der folgenden Kategorien; in diesem Fall erhalten sie einen Wert von 0 %:
 
-- Goods that are banned from use in one or more markets, due to hazardous characteristics (e.g. chemicals identified as a Substance of Very High Concern and restricted by the EU Commission).
-- Weapons designed to kill or permanently maim people (e.g. landmines, bombs, assault rifles).
-- Environmentally destructive technologies (e.g. bottom-trawling fishing nets which damage aquatic ecosystems, plastic microbeads which accumulate in waterbodies).
-- Goods that are designed for human consumption or ingestion and whose use even at moderate levels is likely to increase long-term health risks (e.g. cigarettes).
-- Goods that force the user to pollute the environment (e.g. diesel-powered equipment that emits nitrous oxide, lead or other air pollutants).
-- Goods that contain [substances of concern](#be17-faq-1) which – through the good's intended use or likely misuse, or at their end of life – can be reasonably expected to undermine people's health.
-- Goods that contain [substances of concern](#be17-faq-1) which – through the good's intended use or likely misuse, or at their end of life – can be reasonably expected to be emitted into the environment.[^5#be17-5]
+- Waren, deren Verwendung in einem oder mehreren Märkten aufgrund gefährlicher Eigenschaften verboten ist (z. B. Chemikalien, die als besonders besorgniserregende Stoffe eingestuft und von der EU-Kommission beschränkt wurden).
+- Waffen, die darauf abzielen, Menschen zu töten oder dauerhaft zu verstümmeln (z. B. Landminen, Bomben, Sturmgewehre).
+- Umweltzerstörerische Technologien (z. B. Grundschleppnetze, die aquatische Ökosysteme schädigen, Mikroplastikkügelchen, die sich in Gewässern ansammeln).
+- Waren, die für den menschlichen Verzehr oder die Einnahme bestimmt sind und deren Verwendung selbst in moderaten Mengen wahrscheinlich zu einem erhöhten langfristigen Gesundheitsrisiko führt (z. B. Zigaretten).
+- Waren, die den Nutzenden zwingen, die Umwelt zu belasten (z. B. dieselbetriebene Geräte, die Stickoxide, Blei oder andere Luftschadstoffe ausstoßen).
+- Waren, die besorgniserregende [Stoffe enthalten](#be17-faq-1) von denen aufgrund ihrer bestimmungsgemäßen Verwendung, ihrer wahrscheinlichen missbräuchlichen Verwendung oder am Ende ihrer Lebensdauer vernünftigerweise anzunehmen ist, dass sie die Gesundheit von Menschen beeinträchtigen können.
+- Waren, die besorgniserregende [Stoffe enthalten](#be17-faq-1) von denen aufgrund ihrer bestimmungsgemäßen Verwendung, ihrer wahrscheinlichen missbräuchlichen Verwendung oder am Ende ihrer Lebensdauer vernünftigerweise anzunehmen ist, dass sie in die Umwelt freigesetzt werden.[^5#be17-5]
 
-###### Assessing intermediate goods for future-fitness {-}
+###### Bewertung von Zwischenprodukten auf ihre Zukunftstauglichkeit {-}
 
-An intermediate good is one that is used by another business as an input to deliver its own goods or services. Typical examples include ingredients (e.g. dyes, flavourings), processed materials (e.g. steel, plastic pellets, paints) or technical parts (e.g. electronic components).
+Ein Zwischenprodukt ist ein Produkt, das von einem anderen Unternehmen als Vorleistung zur Erbringung seiner eigenen Waren oder Dienstleistungen verwendet wird. Typische Beispiele hierfür sind Zutaten (z. B. Farbstoffe, Aromastoffe), verarbeitete Materialien (z. B. Stahl, Kunststoffgranulat, Farben) oder technische Teile (z. B. elektronische Bauteile).
 
-To assess whether an intermediate good is likely to cause harm, the company should first consider all of the fitness criteria for final goods, as specified above. If the good still appears benign, the company must also then do the following:
+Um zu beurteilen, ob ein Zwischenprodukt wahrscheinlich Schaden verursacht, sollte das Unternehmen zunächst alle oben genannten Fitnesskriterien für Endprodukte berücksichtigen. Wenn das Produkt weiterhin unbedenklich erscheint, muss das Unternehmen außerdem Folgendes tun:
 
-- Identify the characteristics of a representative user[^6#be17-6] of the intermediate good, to understand what purpose it serves to them; and
-- Identify whether that purpose is likely to lead to the creation of final goods or services that fall into any of the categories outlined above.
+- die Merkmale einer/eines repräsentativen Nutzerin/Nutzers[^6#be17-6] des Zwischenprodukts ermitteln, um zu verstehen, welchem Zweck es für diesen dient; und
+- Stellen Sie fest, ob dieser Zweck wahrscheinlich zur Schaffung von endgültigen Waren oder Dienstleistungen führt, die in eine der oben genannten Kategorien fallen.
 
-If the company finds that a representative user of the intermediate good is likely to use it to deliver a product which would _itself_ score 0% for this goal, then the company should also score the intermediate good as 0% fit.
+Stellt das Unternehmen fest, dass ein:e typische:r Nutzer:in des Zwischenprodukts dieses voraussichtlich zur Herstellung eines Produkts verwendet, das für dieses Ziel selbst eine Bewertung von 0 % erhalten würde, sollte das Unternehmen auch das Zwischenprodukt mit einer Fitnessübereinstimmung von 0 % bewerten.
 
-Note that many intermediate goods – such as sheet plastics, rubber washers, metal screws, and a wide range of industrial chemicals – can be used in a vast number of ways, many of which are totally benign. Unless the company is serving a specific market niche, there is likely to be no 'representative user' for such products, in which case this additional guidance will not apply.
+Beachten Sie, dass viele Zwischenprodukte – wie etwa Kunststoffplatten, Gummischeiben, Metallschrauben und eine Vielzahl von Industriechemikalien – auf vielfältige Weise verwendet werden können, von denen viele völlig harmlos sind. Sofern das Unternehmen keine bestimmte Marktnische bedient, gibt es wahrscheinlich keine:n „repräsentative:n Nutzer:in“ für solche Produkte. In diesem Fall gelten diese zusätzlichen Leitlinien nicht.
 
-###### Assessing services for future-fitness {-}
+###### Bewertung der Zukunftsfähigkeit von Dienstleistungen {-}
 
-Services are assigned a progress score of 100% _unless_ they fall into one of the following categories, in which case they are assigned a score of 0%:
+Dienstleistungen erhalten eine Fortschrittsbewertung von 100 %, es sei denn, sie fallen unter eine der folgenden Kategorien; in diesem Fall erhalten sie eine Bewertung von 0 %:
 
-- Their delivery results in negative impacts similar to those identified for unfit goods.[^7#be17-7]
-- Their delivery could be reasonably expected to cause harm to natural ecosystems, for example due to an increase in human activity in and around them (e.g. tourism excursions into vulnerable habitats with insufficient protection for native species).[^8#be17-8]
-- Their delivery could be reasonably expected to negatively impact people's physical and mental wellbeing, for example by reinforcing addictive behaviours (e.g. gambling services) or by failing to protect privacy (e.g. social media platforms with insufficient data controls).
-- Their delivery is intended or likely to influence people's behaviour in ways that could be reasonably expected to instill or reinforce behaviours that might undermine society's pursuit of future-fitness (e.g. news services with a consistent editorial bias against established science, such as the existence of human-caused global warming).
-- Their delivery perpetuates or expands reliance on infrastructure which effectively locks in negative impacts (e.g. searching for new thermal coal reserves).
+- Ihre Erbringung führt zu negativen Auswirkungen, die denen von nicht zukunftsfähigen Produkten ähneln.[^7#be17-7]
+- Es ist davon auszugehen, dass ihre Erbringung Schäden an natürlichen Ökosystemen verursacht, beispielsweise durch eine Zunahme menschlicher Aktivitäten in und um diese herum (z. B. touristische Ausflüge in empfindliche Lebensräume mit unzureichendem Schutz für einheimische Arten).[^8#be17-8]
+- Es ist angemessen zu erwarten, dass sich ihre Bereitstellung negativ auf das körperliche und geistige Wohlbefinden der Menschen auswirkt, beispielsweise durch die Verstärkung von Suchtverhalten (z. B. Glücksspielangebote) oder durch den mangelnden Schutz der Privatsphäre (z. B. Social-Media-Plattformen mit unzureichenden Datenkontrollen).
+- Ihre Bereitstellung zielt darauf ab oder ist in der Lage, das Verhalten der Menschen in einer Weise zu beeinflussen, von der angemessen zu erwarten ist, dass sie Verhaltensweisen hervorruft oder verstärkt, die das Streben der Gesellschaft nach Zukunftsfähigkeit untergraben könnten (z. B. Nachrichtendienste mit einer konsequenten redaktionellen Voreingenommenheit gegenüber etablierten wissenschaftlichen Erkenntnissen, wie der Existenz der vom Menschen verursachten globalen Erwärmung).
+- Ihre Bereitstellung hält die Abhängigkeit von der Infrastruktur aufrecht oder verstärkt sie, wodurch negative Auswirkungen effektiv eingedämmt werden (z. B. die Suche nach neuen Kraftwerkskohlereserven).
 
-### 3. Assessment {-#be17-assessment}
+### 3. Bewertung {-#be17-assessment}
 
-#### 3.1 Progress indicators {-#be17-progress}
+#### 3.1 Fortschrittsbewertung {-#be17-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has four progress indicators. To calculate them the following steps are required:
+Dieses Ziel verfügt über vier Fortschrittsindikatoren. Um sie zu berechnen, sind folgende Schritte erforderlich:
 
-- Assess the fitness of each physical good or service, separately for its use phase and (in the case of physical goods) at its end of life.
-- For both use phase and end of life, calculate the company's progress with respect to sold or leased goods and services, and for any supplementary goods.
+- Bewerten Sie die Fitness jedes physischen Produkts oder jeder Dienstleistung, getrennt nach Nutzungsphase und (im Falle von physischen Produkten) am Ende der Lebensdauer.
+- Berechnen Sie sowohl für die Nutzungsphase als auch für das Lebensende den Fortschritt des Unternehmens in Bezug auf verkaufte oder geleaste Waren und Dienstleistungen sowie für etwaige Zusatzgüter.
 
-The resulting four indicators capture company progress as follows:
+Die daraus resultierenden vier Indikatoren erfassen den Unternehmensfortschritt wie folgt:
 
-- Sold or leased goods and services – Use phase
-- Sold or leased goods and services – End of life
-- Supplementary goods – Use phase
-- Supplementary goods – End of life
+- Verkaufte oder geleaste Waren und Dienstleistungen – Nutzungsphase
+- Verkaufte oder geleaste Waren und Dienstleistungen – Ende der Lebensdauer
+- Ergänzende Waren – Nutzungsphase
+- Ergänzende Waren – Ende der Lebensdauer
 
-##### Assessing the fitness of a good or service {-}
+##### Bewertung der Fitness einer Ware oder Dienstleistung {-}
 
-A good or service is **100% fit** if it has been assessed and meets the stated fitness criteria. Products that have not yet been assessed, or which do not meet all of the stated fitness criteria are **0% fit**.
+Eine Ware oder Dienstleistung gilt als zu **100 % fit** wenn sie geprüft wurde und die festgelegten Fitnesskriterien erfüllt. Produkte, die noch nicht geprüft wurden oder nicht alle festgelegten Fitnesskriterien erfüllen, gelten als zu **0 % fit**.
 
-##### Calculating company progress {-}
+##### Berechnung des Unternehmensfortschritts {-}
 
-The company's overall progress towards this goal can now be calculated, for each of the four indicators, as a weighted average:
+Der Gesamtfortschritt des Unternehmens in Richtung dieses Ziels kann nun für jeden der vier Indikatoren als gewichteter Durchschnitt berechnet werden:
 
-- For sold or leased goods and services, use the revenue generated as a weighting factor.
-- For supplementary goods, use the cost incurred to produce those goods as a weighting factor.
+- Für verkaufte oder geleaste Waren und Dienstleistungen verwenden Sie den erzielten Umsatz als Gewichtungsfaktor.
+- Bei ergänzenden Waren verwenden Sie die für deren Herstellung angefallenen Kosten als Gewichtungsfaktor.
 
-These calculations can be expressed mathematically as:
+Diese Berechnungen können mathematisch ausgedrückt werden als:
 
 $$F^G=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F^G$$ | Is the progress toward future-fitness across a category of physical goods (or services), expressed as a percentage. |
-| $$f_p$$ | Is the fitness of physical good (or service) _p_. |
-| $$R_p$$ | Is the total revenue generated by (or cost associated with) _p_. |
-| $$P$$ | Is the total number of goods (or services) in the company's portfolio. |
+| $$F^G$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit innerhalb einer Kategorie physischer Waren (oder Dienstleistungen), ausgedrückt als Prozentsatz. |
+| $$f_p$$ | Ist die Zukunftsfähigkeit der physischen Ware (oder Dienstleistung) _p_. |
+| $$R_p$$ | Ist der durch _p_ erzielte Gesamtumsatz (oder die mit p verbundenen Kosten). |
+| $$P$$ | Dies ist die Gesamtzahl der Waren (oder Dienstleistungen) im Portfolio des Unternehmens. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be17-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be17-example).
 
-#### 3.2 Context indicators {-#be17-context}
+#### 3.2 Kontextindikatoren {-#be17-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total revenue/costs {-}
+####### Gesamtumsatz/Kosten {-}
 
-In addition to the four progress indicators, companies must report the total revenue and cost amounts as follows:
+Zusätzlich zu den vier Fortschrittsindikatoren müssen Unternehmen die Gesamtumsatz- und Gesamtkostenbeträge wie folgt ausweisen:
 
-- Total revenue from sold or leased goods and services.
-- Total cost of supplementary goods delivered to customers.
+- Gesamtumsatz aus verkauften oder geleasten Waren und Dienstleistungen.
+- Gesamtkosten für an Kunden gelieferte ergänzende Waren.
 
-The total revenue/costs of each category are equivalent to the summed values of _R<sub>p</sub>_ in the equation above, and so no additional data or effort is required to calculate them.
+Die Gesamteinnahmen/-kosten jeder Kategorie entsprechen den summierten Werten von _R<sub>p</sub>_ in der Gleichung oben, und daher sind keine zusätzlichen Daten oder Aufwand erforderlich, um sie zu berechnen.
 
-For an example of how context indicators can be reported, see [here](#be17-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be17-example).
 
-### 4. Assurance {-#be17-assurance}
+### 4. Zuverlässigkeitserklärung {-#be17-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be17-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be17-assurance-why}
 
-Any company pursuing future-fitness will instill more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be17-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be17-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to identify all materials included by the company in the _Sold or leased goods_ and related _Supplementary goods_ categories. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify harmful materials present in the goods it produces.
-- Document the methods used to check whether materials used in the company's products are "[substances of concern](#be17-guidance-harmful-substances)". This can demonstrate to assurers that the company has understood the requirements in this Action Guide and that the assessment performed by the company was sufficient.
-- Document the methods used to determine and evaluate the end-of-life implications for the company's products. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify any substances of concern involved in end-of-life processes.[^9#be17-9]
-- Retain references to data sources used to determine the costs and revenues of products. This can help assurers to understand and verify the weighting calculations performed for the company's progress indicators.
+- Dokumentieren Sie die Methoden, mit denen alle Materialien identifiziert wurden, die das Unternehmen in die Kategorien _Verkaufte oder geleaste Waren_ und zugehörige _ergänzende Waren_ aufgenommen hat. Eine Beschreibung der Identifizierungsmethode kann den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens das Risiko besteht, dass in den von ihm hergestellten Waren enthaltene schädliche Materialien nicht erkannt werden.
+- Dokumentieren Sie die Methoden, mit denen überprüft wurde, ob es sich bei den in den Produkten des Unternehmens verwendeten Materialien um "[besorgniserregende Stoffe](#be17-guidance-harmful-substances)" handelt. Dies kann den Prüfern zeigen, dass das Unternehmen die Anforderungen dieses Leitfadens verstanden hat und dass die vom Unternehmen durchgeführte Bewertung ausreichend war.
+- Dokumentieren Sie die Methoden, mit denen die Auswirkungen am Ende der Lebensdauer der Produkte des Unternehmens ermittelt und bewertet wurden. Eine Beschreibung der Identifizierungsverfahren kann den Prüfern dabei helfen, zu beurteilen, ob der Ansatz des Unternehmens das Risiko birgt, dass besorgniserregende Stoffe, die in Prozessen am Ende der Lebensdauer eine Rolle spielen, nicht identifiziert werden.[^9#be17-9]
+- Bewahren Sie Verweise auf die Datenquellen auf, die zur Ermittlung der Kosten und Erlöse der Produkte herangezogen wurden. Dies kann den Prüfern helfen, die für die Fortschrittsindikatoren des Unternehmens durchgeführten Gewichtungsberechnungen nachzuvollziehen und zu überprüfen.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be17-additional}
+### 5. Zusätzliche Informationen {-#be17-additional}
 
-#### 5.1 Example {-#be17-example}
+#### 5.1 Beispiel {-#be17-example}
 
-ACME Inc. sells three lemonade products. Traditional lemonade in a glass bottle, traditional lemonade in a plastic bottle and sugar-free lemonade in a plastic bottle. Both types of product (traditional and sugar-free) contain water and lemons, but whereas the first contains sugar, the latter contains an artificial sweetener.
+ACME Inc. verkauft drei Limonadenprodukte. Traditionelle Limonade in einer Glasflasche, traditionelle Limonade in einer Plastikflasche und zuckerfreie Limonade in einer Plastikflasche. Beide Produktarten (traditionell und zuckerfrei) enthalten Wasser und Zitronen, aber während die erstere Zucker enthält, enthält die letztere einen künstlichen Süßstoff.
 
-ACME Inc. has already worked closely with its lemon and sugar suppliers to make sure each input is free of problematic pesticides. However, it has not yet analyzed the artificial sweetener. It can assess the fitness of each product as:
+ACME Inc. hat bereits eng mit seinen Zitronen- und Zuckerlieferanten zusammengearbeitet, um sicherzustellen, dass jeder Input frei von problematischen Pestiziden ist. Der künstliche Süßstoff wurde jedoch noch nicht analysiert. Es kann die Fitness jedes Produkts wie folgt beurteilen:
 
 $$f_{TradPL}=100\%$$
 $$f_{TradGL}=100\%$$
 $$f_{SugFree}=0\%$$
 
-The traditional lemonade in a glass bottle brings in $300,000 of revenue, traditional lemonade in a plastic bottle brings in $430,000 and the sugar-free lemonade brings in $300,000. ACME's fitness for _Sold and leased goods and services_ is therefore:
+Die traditionelle Limonade in einer Glasflasche bringt 300.000 US-Dollar Umsatz ein, die traditionelle Limonade in einer Plastikflasche bringt 430.000 US-Dollar ein und die zuckerfreie Limonade bringt 300.000 US-Dollar ein. Die Fitness von ACME für verkaufte und geleaste Waren und Dienstleistungen lautet daher:
 
 $$F^{ProdUse}=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}=\frac{100\%*(300,000+430,000)+0\%*300,000}{1,030,000}\approx71\%$$
 
-ACME assesses the end of life harm of the different types of bottles. The plastic bottles have labels containing toxic dyes, which if discarded will leach into water and soils. Hence:
+ACME bewertet den Schaden am Ende der Lebensdauer der verschiedenen Flaschentypen. Die Etiketten der Plastikflaschen enthalten giftige Farbstoffe, die bei der Entsorgung in Wasser und Böden gelangen. Somit:
 
 $$F^{ProdEoL}=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}=\frac{100\%*300,000+0\%*(430,000+300,000)}{1,030,000}\approx29\%$$
 
-Finally, it confirms that pallets, shrink-wrap used to transport packages of its product, and the branded product packaging it uses are the only _Supplementary goods_ they utilize. The pallets are made of wood and are assessed to be Future-Fit both during use and at their end of life, and cost $15,000 total during the reporting period. The shrink-wrap costs $8,500 and is determined not to meet the fitness criteria for use or end of life. The packaging costs $60,000 annually and meets the fitness criteria for use, but not for end of life. The company performs the following calculations:
+Schließlich bestätigt das Unternehmen, dass Paletten, Schrumpffolie für den Transport der Produktpakete und die verwendeten Markenproduktverpackungen die einzigen ergänzenden Waren sind, die es nutzt. Die Paletten bestehen aus Holz und werden sowohl während der Nutzung als auch am Ende ihrer Lebensdauer als „Future-Fit“ eingestuft; ihre Kosten beliefen sich im Berichtszeitraum auf insgesamt 15.000 $. Die Schrumpffolie kostet 8.500 $ und erfüllt nach Feststellung weder die Fitnesskriterien für die Nutzung noch für das Ende der Lebensdauer. Die Verpackungen kosten jährlich 60.000 $ und erfüllen die Fitnesskriterien für die Nutzung, jedoch nicht für das Ende der Lebensdauer. Das Unternehmen führt folgende Berechnungen durch:
 
 $$F^{SuppUse}=\frac{\sum_{s=1}^Sf_s*C_s}{\sum_{s=1}^SC_s}=\frac{100\%*(15,000+60,000)+0\%*8,500}{83,500}\approx90\%$$
 
 $$F^{SuppEoL}=\frac{\sum_{s=1}^Sf_s*C_s}{\sum_{s=1}^SC_s}=\frac{100\%*15,000+0\%*(8,500+60,000)}{83,500}\approx18\%$$
 
-It reports the progress and context indicators as shown, below:
+Es werden die folgenden Fortschritts- und Kontextindikatoren ausgewiesen:
 
-####### Progress indicators {-}
+####### Fortschrittsindikatoren {-}
 
-Sold or leased goods and services – Use phase: 71%
+Verkaufte oder geleaste Waren und Dienstleistungen – Nutzungsphase: 71 %
 
-Sold or leased goods and services – End of life: 29%
+Verkaufte oder vermietete Waren und Dienstleistungen – Ende der Lebensdauer: 29 %
 
-Supplementary goods – Use phase: 90%
+Ergänzende Waren – Nutzungsphase: 90 %
 
-Supplementary goods – End of life: 18%
+Ergänzende Waren – Ende der Lebensdauer: 18 %
 
-####### Context indicators {-}
+####### Kontextindikatoren {-}
 
-Total revenue from sold or leased goods and services: $1,030,000
+Gesamtumsatz aus verkauften oder geleasten Waren und Dienstleistungen: 1.030.000 $
 
-Total cost of supplementary goods delivered to customers: $83,500
+Gesamtkosten für an Kunden gelieferte ergänzende Waren: 83.500 $
 
-#### 5.3 Useful links {-#be17-useful-links}
+#### 5.3 Nützliche Links {-#be17-useful-links}
 
 ##### Clean Production Action {-#be17-clean-production}
 
-[Clean Production Action](http://www.cleanproduction.org/)'s mission is to design and deliver green chemicals and sustainable materials. The group is the creator or co-creator of a range of programs and initiatives that aim to advance safe, green and sustainable materials in production. These include:
+[Die Mission von Clean Production Action](http://www.cleanproduction.org/) besteht darin, umweltfreundliche Chemikalien und nachhaltige Materialien zu entwickeln und bereitzustellen. Die Organisation ist Initiator oder Mitinitiator einer Reihe von Programmen und Initiativen, die darauf abzielen, sichere, umweltfreundliche und nachhaltige Materialien in der Produktion zu fördern. Dazu gehören:
 
-- [Green Screen® for Safer Chemicals](https://www.greenscreenchemicals.org/) is an open, transparent, and publicly accessible method for chemical hazard assessment to help move our society quickly and effectively toward the use of greener and inherently safer chemicals.
-- [The Chemical Footprint Project](https://www.chemicalfootprint.org/about/overview), which tracks, disseminates, and benchmarks corporate progress toward using safer chemicals in products, manufacturing, and supply chains.
-- [BizNGO](http://www.bizngo.org/), a collaborative initiative involving both companies and environmental groups that works to ensure safer chemicals and sustainable materials in products and production. Its [Guide to Safer Chemicals](http://www.bizngo.org/static/ee_images/uploads/resources/BizNGO-Guide-Principle-1a-v1_0.pdf) provides detail on the level of granularity required when analysing product composition, and for information on residuals of high concern. @Biz12
+- [Green Screen® for Safer Chemicals](https://www.greenscreenchemicals.org/)  ist eine offene, transparente und öffentlich zugängliche Methode zur Bewertung chemischer Gefahren, die dazu beitragen soll, unsere Gesellschaft schnell und effektiv hin zur Verwendung umweltfreundlicherer und von Natur aus sichererer Chemikalien zu führen.
+- [The Chemical Footprint Project](https://www.chemicalfootprint.org/about/overview), das die Fortschritte von Unternehmen bei der Verwendung sicherer Chemikalien in Produkten, in der Fertigung und in Lieferketten verfolgt, verbreitet und vergleicht.
+- [BizNGO](http://www.bizngo.org/), eine gemeinsame Initiative von Unternehmen und Umweltverbänden, die sich für sicherere Chemikalien und nachhaltige Materialien in Produkten und in der Produktion einsetzt. Ihr [Guide to Safer Chemicals](http://www.bizngo.org/static/ee_images/uploads/resources/BizNGO-Guide-Principle-1a-v1_0.pdf) enthält detaillierte Angaben zum erforderlichen Detaillierungsgrad bei der Analyse der Produktzusammensetzung sowie Informationen zu besonders besorgniserregenden Rückständen. @Biz12
 
 ##### Cradle to Cradle Institute {-#be17-cradle-to-cradle}
 
-The Cradle to Cradle Institute administers the publicly available Cradle to Cradle Certified™ [Product Standard](http://www.c2ccertified.org/resources/detail/cradle_to_cradle_certified_product_standard) which provides designers and manufacturers with criteria and requirements for continually improving what products are made of and how they are made. @Cra12
+Das Cradle to Cradle Institute verwaltet den öffentlich zugänglichen [Produktstandard](http://www.c2ccertified.org/resources/detail/cradle_to_cradle_certified_product_standard) „Cradle to Cradle Certified™“, der Designern und Herstellern Kriterien und Anforderungen an die kontinuierliche Verbesserung der Zusammensetzung und der Herstellungsweise von Produkten vorgibt. @Cra12
 
-##### The International Chemical Secretariat {-}
+##### Das Internationale Chemiesekretariat {-}
 
-[The International Chemical Secretariat](http://chemsec.org/) (ChemSec) is a non-profit organization, based in Sweden and founded by four environmental organizations: The Swedish Society for Nature Conservation, WWF Sweden, Nature and Youth, and Friends of the Earth Sweden. ChemSec maintains the following useful resources:
+[Das Internationale Chemiesekretariat](http://chemsec.org/) (ChemSec) ist eine gemeinnützige Organisation mit Sitz in Schweden, die von vier Umweltorganisationen gegründet wurde: der Schwedischen Gesellschaft für Naturschutz, dem WWF Schweden, Natur und Jugend und Friends of the Earth Schweden. ChemSec unterhält die folgenden nützlichen Ressourcen:
 
-- The [SIN](http://sinlist.chemsec.org/) (Substitute It Now!) List, a constantly evolving list of harmful substances that should be phased out of all products, regardless of the industry. @Int121
-- [SINimilarity](http://sinimilarity.chemsec.org/), a free online tool that identifies substances which are structurally similar to SIN List substances. @Intwn1
+- Die [SIN-Liste](http://sinlist.chemsec.org/) (Substitute It Now! Jetzt ersetzen!), eine ständig aktualisierte Liste schädlicher Stoffe, die aus allen Produkten, unabhängig von der Branche, schrittweise entfernt werden sollten. @Int121
+- [SINimilarity](http://sinimilarity.chemsec.org/), ein kostenloses Online-Tool, das Stoffe identifiziert, die strukturell den Stoffen der SIN-Liste ähneln. @Intwn1
 
 ##### The Natural Step {-}
 
-The Natural Step is an international not-for-profit organization which pioneered the development and use of the [Framework for Strategic Sustainable Development](http://www.alliance-ssd.org/framework-for-strategic-sustainable-development-fssd/) (upon which the Future-Fit Business Benchmark is based). For more than two decades The Natural Step has worked with a wide range of companies, industry bodies and others to understand how substances can cause harm to society and the environment by assessing life cycle management practices against system conditions for a sustainable future. Various tools, guides and case studies are available on its website. @Tns16
+The Natural Step ist eine internationale gemeinnützige Organisation, die Pionierarbeit bei der Entwicklung und Anwendung des [Framework for Strategic Sustainable Development](http://www.alliance-ssd.org/framework-for-strategic-sustainable-development-fssd/) (auf dem der Future-Fit Business Benchmark basiert) geleistet hat. Seit mehr als zwei Jahrzehnten arbeitet The Natural Step mit einer Vielzahl von Unternehmen, Branchenverbänden und anderen Akteuren zusammen, um zu ergründen, wie Stoffe der Gesellschaft und der Umwelt schaden können, indem sie Praktiken des Lebenszyklusmanagements anhand von Systembedingungen für eine nachhaltige Zukunft bewertet. Auf der Website der Organisation stehen verschiedene Tools, Leitfäden und Fallstudien zur Verfügung. @Tns16
 
 ##### REACH {-}
 
-[REACH](https://echa.europa.eu/regulations/reach/understanding-reach) is a EU chemical regulation concerning the Registration, Evaluation, Authorization and restriction of Chemicals, which defines criteria for classifying products. It exists principally to provide a high level of protection to human health and the environment from the use of chemicals. @Ukhwn
+[REACH](https://echa.europa.eu/regulations/reach/understanding-reach) ist eine EU-Chemikalienverordnung zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe, die Kriterien für die Einstufung von Produkten festlegt. Ihr Hauptzweck besteht darin, ein hohes Schutzniveau für die menschliche Gesundheit und die Umwelt vor der Verwendung chemischer Stoffe zu gewährleisten. @Ukhwn
 
-##### The Zero Discharge of Hazardous Chemicals Programme {-}
+##### Das Programm „Zero Discharge of Hazardous Chemicals“ {-}
 
-The [ZDHC](http://www.roadmaptozero.com/) Programme, led by a group of leading apparel and footwear companies, has created a list of restricted or problematic substances relevant to the footwear and apparel industry. @Tzd17 This should serve as credible guidance for any company in that industry, even if that company is not actively involved in ZDHC.
+Das [ZDHC](http://www.roadmaptozero.com/) Programm, das von einer Gruppe führender Bekleidungs- und Schuhhersteller geleitet wird, hat eine Liste mit verbotenen oder problematischen Stoffen erstellt, die für die Schuh- und Bekleidungsindustrie relevant sind. @Tzd17 Diese Liste sollte als verlässliche Orientierungshilfe für jedes Unternehmen dieser Branche dienen, auch wenn dieses Unternehmen nicht aktiv am ZDHC-Programm beteiligt ist.
 
-#### 5.2 Frequently asked questions {-#be17-faq}
+#### 5.2 Häufig gestellte Fragen {-#be17-faq}
 
-##### What is a substance of concern? {-#be17-faq-1}
+##### Was ist ein besorgniserregender Stoff? {-#be17-faq-1}
 
-For the purposes of this goal, a substance is considered to be a 'substance of concern' if one or more of the following is true:
+Im Sinne dieses Ziels gilt ein Stoff als „besorgniserregender Stoff“, wenn einer oder mehrere der folgenden Punkte zutreffen:
 
-1. It has properties that make it dangerous to – or capable of having a harmful effect on – human health or the environment.
+1. Es verfügt über Eigenschaften, die es gefährlich für die menschliche Gesundheit oder die Umwelt machen oder schädliche Auswirkungen darauf haben können.
 
-2. The substance is designated as harmful by one of the following sources:
-  a. Credible industry bodies relevant to the industry in question, who recommend the phasing out of the substance.[^10#be17-10]
-  b. Lists of substances which are legally banned in one or more of the company's areas of operations.[^11#be17-11]
-  c. Credible peer-reviewed research, which strongly suggests evidence of harm.
+2. Der Stoff wird von einer der folgenden Quellen als schädlich eingestuft:
+  a. Glaubwürdige Branchenverbände, die für die jeweilige Branche relevant sind und den Ausstieg aus dem Stoff empfehlen.[^10#be17-10]
+  b. Listen von Stoffen, die in einem oder mehreren Geschäftsbereichen des Unternehmens gesetzlich verboten sind.[^11#be17-11]
+  c. Glaubwürdige, von Experten begutachtete Forschungsergebnisse, die eindeutig Hinweise auf einen Schaden geben.
 
-3. The substance is likely to build up in nature if emitted.[^12#be17-12] Categories of substances known to be of concern for this reason include, but are not limited to:
-  a. Human-made synthetics that are novel or foreign to nature @Ste (e.g. persistent organic pollutants (POPs) @Uni04 including endocrine disrupting chemicals (EDCs) @Env13, radioactive materials @Sto, and nanomaterials/micro-plastics @Sto).
-  b. Metals and their compounds that are not naturally abundant in nature (e.g. compounds of heavy metals like mercury, lead, zinc and cadmium). @Aza96
-  c. Stratospheric ozone-depleting chemical substances. @Sto
-  d. Aerosols @Sto
+3. Es ist wahrscheinlich, dass sich der Stoff in der Natur ansammelt, wenn er freigesetzt wird.[^12#be17-12] Zu den Stoffkategorien, die aus diesem Grund bekanntermaßen besorgniserregend sind, gehören unter anderem:
+  a. Vom Menschen hergestellte Kunststoffe, die neuartig oder naturfremd sind @Ste (z. B. persistente organische Schadstoffe (POPs)) @Uni04 einschließlich endokrin wirkender Chemikalien (EDCs) @Env13, radioaktive Stoffe @Sto, und Nanomaterialien/Mikroplastik @Sto).
+  b. Metalle und ihre Verbindungen, die in der Natur nicht häufig vorkommen (z. B. Verbindungen von Schwermetallen wie Quecksilber, Blei, Zink und Cadmium). @Aza96
+  c. Chemische Substanzen, die das stratosphärische Ozon schädigen. @Sto
+  d. Aerosole @Sto
 
-4. The substance is likely to interact with other substances, as a result of its emission, in ways that cause 1, 2 or 3 to be true.
+4. Es ist wahrscheinlich, dass der Stoff aufgrund seiner Freisetzung mit anderen Stoffen in Wechselwirkung tritt, sodass die Punkte 1, 2 oder 3 zutreffen.
 
-##### How should goods be checked for substances of concern? {-#be17-faq-2}
+##### Wie sollen Waren auf besorgniserregende Stoffe überprüft werden? {-#be17-faq-2}
 
-To identify substances of concern in its goods, a company should undertake the following steps:
+Um besorgniserregende Stoffe in seinen Waren zu identifizieren, sollte ein Unternehmen die folgenden Schritte unternehmen:
 
-- Identify the good's composition by breaking it down into a list of its [homogenous materials](#def-homogenous-material).
-- Identify the supplier(s) of each homogenous material, and ascertain whether the supplier has intentionally added any substances of concern at a concentration level of at least 1,000 parts per million (or 0.1% by the supplied material's weight).
-- If substances of concern are identified, the company can either:
-  a. Identify the good as unfit; or
-  b. Identify whether the use of each substance is problematic.
+- Ermitteln Sie die Zusammensetzung der Ware, indem Sie sie in eine Liste ihrer [homogenen Materialien](#def-homogenous-material) aufschlüsseln.
+- Ermitteln Sie den/die Lieferanten jedes homogenen Materials und stellen Sie fest, ob der Lieferant absichtlich besorgniserregende Stoffe in einer Konzentration von mindestens 1.000 ppm (oder 0,1 % des Gewichts des gelieferten Materials) zugesetzt hat.
+- Wenn besorgniserregende Stoffe identifiziert werden, kann das Unternehmen entweder:
+  a. Die Ware als ungeeignet einstufen; oder
+  b. Prüfen, ob die Verwendung der einzelnen Substanzen problematisch ist.
 
 <div class="callout-note">
-**Cradle to Cradle certification**
+**Cradle to Cradle-Zertifizierung**
 
-Note that these steps are closely aligned with key steps required to attain a basic-level Cradle to Cradle Certified™ product certification. If a product is Cradle to Cradle Certified™ at any level, it can therefore be assumed to be Future-Fit.
+Es ist zu beachten, dass diese Schritte eng mit den wesentlichen Schritten abgestimmt sind, die für eine „Cradle to Cradle Certified™“-Produktzertifizierung auf Basisebene erforderlich sind. Ist ein Produkt auf irgendeiner Stufe „Cradle to Cradle Certified™“, kann daher davon ausgegangen werden, dass es „Future-Fit“ ist.
 </div>
 
-Guidance for each of these steps is provided below.
+Leitlinien für jeden dieser Schritte finden Sie weiter unten.
 
-###### Identify the good's composition {-}
+###### Ermittlung der Zusammensetzung der Ware {-}
 
-The good must be characterized in terms of its individual components, and each component described in terms of the homogenous materials from which it is made. At the end of this process, the identified materials should be of uniform composition throughout, such as polypropylene, steel, shampoo, glass cleaner, nylon yarn, glue or paint. @Cra16
+Die Ware muss anhand ihrer einzelnen Bestandteile charakterisiert werden, wobei jeder Bestandteil anhand der homogenen Materialien beschrieben wird, aus denen er besteht. Am Ende dieses Prozesses sollten die ermittelten Materialien durchgehend eine einheitliche Zusammensetzung aufweisen, wie beispielsweise Polypropylen, Stahl, Shampoo, Glasreiniger, Nylongarn, Klebstoff oder Farbe. @Cra16
 
-Note that it is possible for this analysis to be conducted for a group of products, in cases where those products all share the same materials in the same concentrations, except for one or more chemical components which can be readily substituted into the product _without altering its core composition_ (e.g. a shampoo that comes in different fragrances).[^13#be17-13]
+Beachten Sie, dass diese Analyse auch für eine Gruppe von Produkten durchgeführt werden kann, sofern diese Produkte alle dieselben Materialien in denselben Konzentrationen enthalten, mit Ausnahme einer oder mehrerer chemischer Komponenten, die ohne Änderung der Kernzusammensetzung des Produkts leicht ausgetauscht werden können (z. B. ein Shampoo, das in verschiedenen Duftvarianten erhältlich ist).[^13#be17-13]
 
-###### Engage with product input suppliers {-}
+###### Zusammenarbeit mit Lieferanten von Produktbestandteilen {-}
 
-The next step is to identify the suppliers who produce each homogenous component. Here it may be necessary to work with direct suppliers to identify the relevant sub-suppliers.
+Der nächste Schritt besteht darin, die Lieferanten zu identifizieren, die die einzelnen homogenen Komponenten herstellen. Hier kann es erforderlich sein, mit Direktlieferanten zusammenzuarbeiten, um die entsprechenden Unterlieferanten zu identifizieren.
 
-Once a supplier has been identified the company must attain a written declaration stating whether the supplier has intentionally added any substances of concern.
+Sobald ein Lieferant ermittelt wurde, muss das Unternehmen eine schriftliche Erklärung einholen, aus der hervorgeht, ob der Lieferant absichtlich besorgniserregende Stoffe zugesetzt hat.
 
-###### When necessary, investigate further {-}
+###### Falls erforderlich, weitere Untersuchungen durchführen {-}
 
-If a substance of concern has been found, the company can either conclude that the good is currently unfit, or it can undertake further analysis to identify whether that substance is acceptable given the particular context within which it is being used. This requires a full assessment, equivalent in scope to the one specified by the [Cradle to Cradle Certified™ _Material Health Assessment Methodology_](https://www.c2ccertified.org/resources/detail/material_assessment_methodology) or the [_GreenScreen® for Safer Chemicals Hazard Assessment Guidance_](#be17-clean-production).
+Falls erforderlich, weitere Untersuchungen durchführen Wurde ein bedenklicher Stoff festgestellt, kann das Unternehmen entweder zu dem Schluss kommen, dass das Produkt derzeit ungeeignet ist, oder es kann weitere Analysen durchführen, um festzustellen, ob dieser Stoff unter den konkreten Verwendungsbedingungen akzeptabel ist. Dies erfordert eine umfassende Bewertung, deren Umfang derjenigen entspricht, die in der [Cradle to Cradle Certified™ _Material Health Assessment Methodology_](https://www.c2ccertified.org/resources/detail/material_assessment_methodology) oder den [_GreenScreen® for Safer Chemicals Hazard Assessment Guidance_](#be17-clean-production) festgelegt ist.
 
-For a substance's presence to be considered Future-Fit, it must be assigned a score at least equivalent to a "C" on Cradle to Cradle's Material Health Assessment rating.[^14#be17-14]
+Damit das Vorhandensein eines Stoffes als zukunftsfähig gilt, muss ihm eine Bewertung zugewiesen werden, die mindestens einem „C“ in der Bewertung der Materialgesundheitsbewertung von Cradle to Cradle entspricht.[^14#be17-14]
 
-##### Why is a substance considered harmful if it can build up in the environment? {-#be17-faq-3}
+##### Warum gilt ein Stoff als schädlich, wenn er sich in der Umwelt anreichern kann? {-#be17-faq-3}
 
-As our understanding of the effects of chemicals increases, international bodies, NGOs and regulators will continue to identify substances whose use should be eliminated. This is typically due to their inherent characteristics, toxicity classification and resultant effects on people and the environment.
+Da unser Verständnis der Auswirkungen von Chemikalien zunimmt, werden internationale Gremien, Nichtregierungsorganisationen und Aufsichtsbehörden weiterhin Stoffe identifizieren, deren Verwendung eingestellt werden sollte. Dies liegt in der Regel an ihren inhärenten Eigenschaften, ihrer toxikologischen Einstufung und den daraus resultierenden Auswirkungen auf Mensch und Umwelt.
 
-However, harm to the environment cannot always be known in advance. For example, substances such as CFCs were hailed as a modern wonder due to their stable state and long life. It was not understood that CFCs build up in the atmosphere, resulting in the destruction of the ozone layer. Allowing substances to systematically increase in concentration in the environment is fundamentally at odds with system conditions for a sustainable society (see the [**Methodology Guide**](#mg-requirement-for-society) and will eventually lead to harm when systemic thresholds are surpassed. @Bro15
+Allerdings lassen sich Umweltschäden nicht immer im Voraus erkennen. So wurden beispielsweise Stoffe wie FCKW aufgrund ihrer Stabilität und langen Lebensdauer als Wunder der Moderne gefeiert. Damals war noch nicht bekannt, dass sich FCKW in der Atmosphäre anreichern und zur Zerstörung der Ozonschicht führen. Eine systematische Zunahme der Konzentration von Stoffen in der Umwelt steht im grundlegenden Widerspruch zu den Systemvoraussetzungen einer nachhaltigen Gesellschaft (siehe [**methodischer Leitfaden**](#mg-requirement-for-society) und führt letztendlich zu Schäden, wenn systemische Schwellenwerte überschritten werden. @Bro15
 
-Many of the compounds on the [SIN list](http://sinlist.chemsec.org/) went through the same stages. They were known to increase in concentration but were allowed to be used until damaging thresholds were exceeded, and correlations were effectively demonstrated. A Future-Fit company should err on the side of caution in such cases.
+Viele der Verbindungen auf der [SIN-Liste](http://sinlist.chemsec.org/) durchlief die gleichen Phasen. Es war bekannt, dass ihre Konzentration zunahm, sie durften jedoch verwendet werden, bis die schädlichen Schwellenwerte überschritten wurden und Korrelationen effektiv nachgewiesen wurden. In solchen Fällen sollte ein Future-Fit-Unternehmen auf der sicheren Seite sein.
 
-##### Is revenue-weighting always appropriate? {-}
+##### Ist die Umsatzgewichtung immer angemessen? {-}
 
-Some organizations – such as early-stage companies, some charities, divisions of companies operating as cost-centres, or companies working on pre-production development – may determine that using revenue as a weighting approach to assess progress might paint a misleading picture.
+Einige Organisationen – etwa junge Unternehmen, einige Wohltätigkeitsorganisationen, Unternehmensbereiche, die als Kostenstellen fungieren, oder Unternehmen, die an der Vorproduktionsentwicklung arbeiten – kommen möglicherweise zu dem Schluss, dass die Verwendung des Umsatzes als Gewichtungsansatz zur Bewertung des Fortschritts ein irreführendes Bild zeichnen könnte.
 
-Such cases are likely to be rare, because even companies that do not directly sell goods or services still need to meet their costs, and therefore receive some form of monetary capital or in-kind services and labour. These inputs are directed at operational work-streams, which in turn lead to meeting customer needs, so in many cases it is possible to connect indirect funding (as a proxy for revenue) to appropriate downstream user groups.
+Solche Fälle dürften selten sein, da auch Unternehmen, die Waren oder Dienstleistungen nicht direkt verkaufen, dennoch für ihre Kosten aufkommen müssen und daher in irgendeiner Form Geldkapital oder Sachleistungen und Arbeitsleistungen erhalten. Diese Eingaben richten sich an betriebliche Arbeitsabläufe, die wiederum zur Erfüllung von Kundenbedürfnissen führen. Daher ist es in vielen Fällen möglich, indirekte Finanzierung (als Stellvertreter für Einnahmen) mit entsprechenden nachgelagerten Nutzergruppen zu verbinden.
 
-When this is not possible, or if it is determined that this technique may mislead stakeholders, companies should consider using cost instead of revenue to determine the completeness of their assessment, and as a method for weighting their progress scores.
+Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle der Einnahmen zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
 
 
-[^1#be17-1]: For information on the eight Properties of a Future-Fit Society which a company's products may help to deliver, see the [**Methodology Guide**](#mg-figure-4-2).
+[^1#be17-1]: Informationen zu den acht Eigenschaften einer zukunftsfähigen Gesellschaft, zu deren Umsetzung die Produkte eines Unternehmens beitragen können, finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^2#be17-2]: The company should approach the way it sorts goods into these categories in the same manner as it approaches applying an accounting policy. For this reason, the wording used here reflects that used in International Accounting Standard 8.14. @Int05
+[^2#be17-2]: Das Unternehmen sollte bei der Sortierung der Waren in diese Kategorien genauso vorgehen wie bei der Anwendung einer Rechnungslegungsrichtlinie. Aus diesem Grund spiegelt der hier verwendete Wortlaut den im International Accounting Standard 8.14 verwendeten wider. @Int05
 
-[^3#be17-3]: For goods that may emit harmful substances, progress is calculated separately for the good's use phase and at its end of life. This is because some types of good are harmless during use, but whatever remains after use (e.g. packaging) may cause harm if it escapes into nature.
+[^3#be17-3]: Bei Waren, die Schadstoffe ausstoßen können, wird der Fortschritt separat für die Nutzungsphase und am Ende der Lebensdauer des Gutes berechnet. Dies liegt daran, dass einige Arten von Waren während des Gebrauchs harmlos sind, aber was nach dem Gebrauch übrig bleibt (z. B. Verpackungen), kann Schaden anrichten, wenn es in die Natur gelangt.
 
-[^4#be17-4]: A company may be unsure whether to capture a certain type of substance emission here, or via goal [**BE05: Operational emissions do not harm people or the environment**](#be05) (e.g. a gardening service which uses potentially harmful pesticides). Where such uncertainties arise, see _Differentiating between operational and product impacts_ in the [**Implementation Guide**](#ig-differentiating-impacts).
+[^4#be17-4]: Ein Unternehmen ist sich möglicherweise unsicher, ob es eine bestimmte Art von Stoffemission hier oder über das Ziel [**BE05: erfassen soll: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) (z. B. ein Gärtnerdienst, der potenziell schädliche Pestizide einsetzt). Bei solchen Unsicherheiten siehe _Unterscheidung zwischen betrieblichen und produktbezogenen Auswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
 
-[^5#be17-5]: For goods that may emit harmful substances, progress is calculated separately for the good's use phase and post-use phase. This is because some types of good are harmless during use, but may cause harm if they are not responsibly processed at the end of their useful life (e.g. batteries which end up in landfill).
+[^5#be17-5]: Bei Waren, die schädliche Stoffe ausstoßen können, wird der Fortschritt separat für die Nutzungsphase und die Nachnutzungsphase der Ware berechnet. Dies liegt daran, dass manche Arten von Produkten während ihrer Nutzung unbedenklich sind, aber Schaden anrichten können, wenn sie am Ende ihrer Nutzungsdauer nicht verantwortungsvoll entsorgt werden (z. B. Batterien, die auf Deponien landen).
 
-[^6#be17-6]: A 'representative user' is a typical business that will purchase or lease an intermediate good, as an input required to deliver its own goods or services. The representative user of a good is not the same as the final end user. Only intermediate goods which fulfil a specific market niche are likely to have a representative user. For example, a company that produces the filters for cigarettes will have a representative user of a cigarette company, given there is no other likely use for a cigarette filter. Since the cigarette company will ultimately only use the interim good to produce final products that score 0% for this goal, the filter company should also score its cigarette filters as 0%.
+[^6#be17-6]: Ein „repräsentativer Nutzer“ ist ein typisches Unternehmen, das ein Zwischenprodukt kauft oder least, da es als Input für die Bereitstellung seiner eigenen Waren oder Dienstleistungen benötigt wird. Der repräsentative Nutzer eines Produkts ist nicht mit der Endverbraucherin oder dem Endverbraucher identisch. Nur Zwischenprodukte, die eine bestimmte Marktnische bedienen, haben wahrscheinlich einen repräsentativen Nutzer. Beispielsweise hat ein Unternehmen, das Filter für Zigaretten herstellt, als repräsentativen Nutzer ein Zigarettenunternehmen, da es keine andere wahrscheinliche Verwendung für einen Zigarettenfilter gibt. Da das Zigarettenunternehmen den Zwischenprodukt letztendlich nur zur Herstellung von Endprodukten verwendet, die für dieses Ziel 0 % erreichen, sollte das Filterunternehmen seine Zigarettenfilter ebenfalls mit 0 % bewerten.
 
-[^7#be17-7]: If the company delivers a service using a good containing a harmful substance, that service could still be Future-Fit if the good concerned is used in a way that prevents harm from occurring.
+[^7#be17-7]: Wenn das Unternehmen eine Dienstleistung unter Verwendung eines Produkts erbringt, das einen Schadstoff enthält, kann diese Dienstleistung dennoch „Future-Fit“ sein, sofern das betreffende Produkt so verwendet wird, dass keine Schäden entstehen.
 
-[^8#be17-8]: See the goal [**Operations do not encroach on ecosystems or communities**](#be08) for further information on activities that can disrupt ecosystems.
+[^8#be17-8]: Weitere Informationen zu Aktivitäten, die Ökosysteme stören können, finden Sie unter dem Ziel [**Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinschaften**](#be08).
 
-[^9#be17-9]: This is also relevant for BE19: [**Products can be repurposed**](#be19).
+[^9#be17-9]: Dies gilt auch für [**BE19: Produkte können wiederverwendet werden**](#be19).
 
-[^10#be17-10]: For example, the Zero Discharge of Hazardous Chemicals (ZDHC) initiative, the US EPA's listing of [six criteria pollutants](https://www.epa.gov/criteria-air-pollutants) and [187 air pollutants](https://www.epa.gov/haps/initial-list-hazardous-air-pollutants-modifications), or ChemSec's [SIN](http://sinlist.chemsec.org/) and [SINimilarity](http://sinimilarity.chemsec.org/) lists. @Int121
+[^10#be17-10]: Beispielsweise die Initiative „Zero Discharge of Hazardous Chemicals“ (ZDHC), die Liste der US-Umweltschutzbehörde EPA mit [sechs Kriterien-Schadstoffen](https://www.epa.gov/criteria-air-pollutants) und [187 Luftschadstoffen](https://www.epa.gov/haps/initial-list-hazardous-air-pollutants-modifications), oder die ChemSec's [SIN](http://sinlist.chemsec.org/) und [SINimilarity-Listen von ChemSec ](http://sinimilarity.chemsec.org/). @Int121
 
-[^11#be17-11]: In this case the substance should be banned from production across all company operations.
+[^11#be17-11]: In diesem Fall sollte die Produktion des Stoffes in allen Unternehmensbereichen verboten werden.
 
-[^12#be17-12]: For further guidance on why the build-up of substances in the environment is considered problematic, see this [_frequently asked question_](#be17-faq-3).
+[^12#be17-12]: Weitere Hinweise dazu, warum die Anreicherung von Substanzen in der Umwelt als problematisch angesehen wird, finden Sie in [_dieser häufig gestellten Frage_](#be17-faq-3).
 
-[^13#be17-13]: This follows the guidance offered by the [Cradle to Cradle Certified™ Product Standard](#be17-cradle-to-cradle).
+[^13#be17-13]: Dies folgt den Leitlinien des [Cradle to Cradle Certified™ Produktstandards](#be17-cradle-to-cradle).
 
-[^14#be17-14]: Note that Cradle to Cradle's Material Health Assessment Rating is a separate process to their Product Certification.
+[^14#be17-14]: Beachten Sie, dass die Material Health Assessment Rating (Materialgesundheitsbewertung) von Cradle to Cradle ein von der Produktzertifizierung getrennter Prozess ist.

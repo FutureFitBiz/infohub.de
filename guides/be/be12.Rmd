@@ -208,17 +208,17 @@ Beachten Sie, dass es für diesen Indikator nicht angemessen ist, die durchschni
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be12-example).
 
-### 4. Prüfung und Sicherheit {-#be12-assurance}
+### 4. Zuverlässigkeitserklärung {-#be12-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be12-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be12-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be12-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen die Anzahl der Mitarbeiter:innen des Unternehmens im Berichtszeitraum ermittelt wurde, sowie die Art und Weise, wie diese Mitarbeiter:innen für die Zwecke der Bewertung in Gruppen eingeteilt werden. Die Prüfer:innen können diese Informationen nutzen, um die Richtigkeit des berechneten Indikators zu überprüfen.[^10#be12-10]
 - Erstellen Sie einen Vergleich der Vertragsbedingungen für Teilzeit- und Vollzeitbeschäftigte, aus dem hervorgeht, inwieweit die Vergütung und die Vertragsbedingungen für Teilzeitbeschäftigte denen der Vollzeitbeschäftigten entsprechen. Dies kann den Prüfern helfen, sicherzustellen, dass dieses Kriterium erfüllt wird.

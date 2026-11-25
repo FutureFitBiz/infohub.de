@@ -163,7 +163,7 @@ Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie 
 
 Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [** Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Bewertung des Fortschritts {-}
+##### Fortschrittsbewertung {-}
 
 Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
@@ -233,24 +233,24 @@ Es wird anerkannt, dass selbst in den sicherheitsbewusstesten Organisationen Jah
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be10-example).
 
-### 4. Prüfung und Sicherheit {-#be10-assurance}
+### 4. Zuverlässigkeitserklärung {-#be10-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be10-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be10-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be10-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen die Anzahl der Mitarbeiter:innen des Unternehmens im Berichtszeitraum ermittelt wurde, und wie diese Mitarbeiter:innen für die Zwecke der Bewertung in Gruppen eingeteilt werden. Die Prüfer:innen können diese Informationen verwenden, um die Genauigkeit des berechneten Indikators zu überprüfen.[^14#be10-14]
 - Dokumentieren Sie die Methoden und die Häufigkeit, mit denen das Unternehmen Gefahren an seinen Arbeitsplätzen identifiziert und bewertet. Bewahren Sie für jede durch diesen Prozess identifizierte Gefahr alle Nachweise über die vom Unternehmen ergriffenen Maßnahmen zur Beseitigung oder Minderung auf. Dies kann den Prüfern helfen, den Ansatz des Unternehmens zu verstehen, um sicherzustellen, dass potenziell schädliche Zustände erkannt und behoben werden.
 - Dokumentieren Sie die Methoden und die Häufigkeit, mit denen das Unternehmen die Wirksamkeit der Kontrollen bewertet, die zur Bewertung von Gefahren an seinen Arbeitsstätten eingesetzt werden. Wenn bei diesen Bewertungen Verbesserungsmöglichkeiten festgestellt werden, bewahren Sie alle Nachweise über die vom Unternehmen ergriffenen Maßnahmen zur Umsetzung von Kontrollen auf, die diese Probleme beheben. Dies kann den Prüfern helfen, zu verifizieren, dass ein geeigneter Bewertungsprozess vorhanden ist und vom Unternehmen angewendet wird.
 - Dokumentieren Sie, auf welche Weise das Unternehmen seinen Mitarbeitenden die Richtlinien zu Mobbing und Belästigung vermittelt, sowie alle Bestätigungen, die es von den Mitarbeitenden einholt, in denen diese bestätigen, dass sie die Richtlinien gelesen und verstanden haben. Bewahren Sie alle Notizen oder Unterlagen zu Fällen auf, in denen das Unternehmen auf Verstöße gegen die Richtlinien reagiert hat. Dies kann den Prüfern helfen, zu verifizieren, ob die Mitarbeiter:innen die Richtlinien kennen und ob diese bei Bedarf durchgesetzt werden.
 - Bewahren Sie alle Arbeitsnotizen und Quellenangaben auf, die bei der Ermittlung regional angemessener Ernährungsrichtlinien für das Verpflegungsangebot an jedem Arbeitsort verwendet wurden, und führen Sie Unterlagen, aus denen hervorgeht, wie diesen Anforderungen an jedem Standort Rechnung getragen wird. Die Prüfer:innen können diese Informationen nutzen, um die Bewertung dieses Kriteriums gemäß den Angaben in diesem Leitfaden zu überprüfen.
-- Dokumentieren Sie die Richtlinien für die Unterstützung und/oder finanzielle Entschädigung von Mitarbeitenden, deren Arbeitsfähigkeit durch ein arbeitsbedingtes Gesundheitsproblem oder einen Arbeitsunfall beeinträchtigt ist. Mithilfe dieser Dokumentation können Prüfer:innen die Existenz der Systeme zur Unterstützung der Mitarbeiter verstehen und überprüfen.
+- Dokumentieren Sie die Richtlinien für die Unterstützung und/oder finanzielle Entschädigung von Mitarbeitenden, deren Arbeitsfähigkeit durch ein arbeitsbedingtes Gesundheitsproblem oder einen Arbeitsunfall beeinträchtigt ist. Mithilfe dieser Dokumentation können Prüfer:innen die Existenz der Systeme zur Unterstützung der Mitarbeiter:innen verstehen und überprüfen.
 
 Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 

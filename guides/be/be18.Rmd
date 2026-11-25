@@ -2,304 +2,304 @@
 output: github_document
 ---
 
-## BE18: Product GHGs {-#be18}
+## BE18: Produkt-THGs {-#be18}
 
-<div class="subtitle">Products emit no greenhouse gases
+<div class="subtitle">Die Produkte verursachen keine Treibhausgasemissionen
 </div>
 
 ### 1. Ambition {-#be18-ambition}
 
-A Future-Fit Business sells no goods or services that emit greenhouse gases as a direct consequence of their use.
+Ein zukunftsfähiges Unternehmen verkauft keine Waren oder Dienstleistungen, die als direkte Folge ihrer Nutzung Treibhausgase ausstoßen.
 
-#### 1.1 What this goal means {-#be18-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be18-what-goal-means}
 
-There is no longer any doubt that the systematically increasing concentration of greenhouse gases (GHGs) in the atmosphere resulting from combustion and other human-caused processes is contributing to climate change and ocean acidification. Companies should respond accordingly, to ensure that their products cause no GHG emissions when used as intended.
+Es besteht kein Zweifel mehr daran, dass die systematisch zunehmende Konzentration von Treibhausgasen (THGs) in der Atmosphäre, die durch Verbrennung und andere vom Menschen verursachte Prozesse entstehen, zum Klimawandel und zur Versauerung der Ozeane beiträgt. Unternehmen sollten entsprechend reagieren, um sicherzustellen, dass ihre Produkte bei bestimmungsgemäßer Verwendung keine Treibhausgasemissionen verursachen.
 
-Nature can safely absorb some human-made GHGs every year, but the imperative is for companies to eliminate all product-related GHG emissions. That's because we are dangerously close to reaching atmospheric GHG levels that will be catastrophic for society, and any attempt to divide up the remaining carbon budget across companies is likely to be too complex, contentious and/or time-consuming to result in the scale and speed of reduction that is now needed.
+Die Natur kann jedes Jahr einen Teil der vom Menschen verursachten Treibhausgase sicher absorbieren, doch für Unternehmen ist es unerlässlich, alle produktbezogenen Treibhausgasemissionen zu eliminieren. Denn wir stehen kurz davor, Treibhausgaswerte in der Atmosphäre zu erreichen, die katastrophale Folgen für die Gesellschaft haben werden, und jeder Versuch, das verbleibende Kohlenstoffbudget auf die Unternehmen aufzuteilen, dürfte zu komplex, umstritten und/oder zeitaufwendig sein, um die Reduktionsziele in dem Umfang und Tempo zu erreichen, die jetzt erforderlich sind.
 
-Products powered by electricity may indirectly cause GHG emissions if the electricity derives from fossil fuels, but the products are not themselves forcing that. The focus here is on products that emit GHGs as a direct consequence of their use.
+Mit Strom betriebene Produkte können indirekt Treibhausgasemissionen verursachen, wenn der Strom aus fossilen Brennstoffen stammt, doch die Produkte selbst sind nicht der Auslöser dafür. Der Fokus liegt hier auf Produkten, die als direkte Folge ihrer Nutzung Treibhausgase ausstoßen.
 
-To be Future-Fit, a company must ensure that none of its products emit greenhouse gases.
+Um zukunftsfähig zu sein, muss ein Unternehmen sicherstellen, dass keines seiner Produkte Treibhausgase ausstößt.
 
-#### 1.2 Why this goal is needed {-#be18-why-goal-needed}
+#### 1.2. Warum dieses Ziel erforderlich ist {-#be18-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Products whose operation requires combustible fuels contribute significantly to total GHG emissions.** The transport sector produced 7 billion tonnes CO<sub>2</sub>e of direct GHG emissions in 2010 – almost a quarter global energy-related emissions. @Sim14
-- **Even at the end of their useful life some products emit large amounts of GHGs**. More than 7 billion tonnes CO<sub>2</sub>e of refrigerant gases are contained in equipment that is currently in use, 99% of which will be released during the life cycle of that equipment. @Can13
+- **Produkte, deren Betrieb brennbare Brennstoffe erfordert, tragen erheblich zu den gesamten Treibhausgasemissionen bei.** Der Verkehrssektor verursachte 7 Milliarden Tonnen CO2e der direkten Treibhausgasemissionen im Jahr 2010 – fast ein Viertel der weltweiten energiebedingten Emissionen. @Sim14
+- **Selbst am Ende ihrer Nutzungsdauer stoßen manche Produkte große Mengen an Treibhausgasen aus**. Mehr als 7 Milliarden Tonnen CO2e der Kältemittelgase sind in derzeit verwendeten Geräten enthalten, 99 % davon werden während des Lebenszyklus dieser Geräte freigesetzt. @Can13
 
-#### 1.3 How this goal contributes to the SDGs {-#be18-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be18-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by eliminating products that emit greenhouse gases, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie Produkte, die Treibhausgase ausstoßen, eliminieren und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 13](assets/sdg/sdg-13.svg) | Support efforts to strengthen resilience and adaptive capacity to climate-related hazards and natural disasters, and to integrate climate change measures into company policies, strategy and planning. |
+| ![SDG 13](assets/sdg/sdg-13.svg) | Unterstützung von Maßnahmen zur Stärkung der Widerstandsfähigkeit und Anpassungsfähigkeit gegenüber klimabedingten Gefahren und Naturkatastrophen sowie zur Einbindung von Klimaschutzmaßnahmen in die Unternehmenspolitik, -strategie und -planung. |
 </div>
 
-#### 1.4 Related goals {-#be18-related-goals}
+#### 1.4 Verwandte Ziele {-#be18-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Procurement safeguards the pursuit of future-fitness:**](#be04) The _Products emit no GHGs_ goal addresses emissions generated by the company's own products. GHGs emitted by suppliers are not covered by this goal, but instead are a factor in determining the fitness of the company's supply chain, and are therefore covered by the _Procurement_ goal. Note that any components purchased by the company and incorporated into its products which cause those products to emit GHGs during use or disposal (e.g. third-party diesel engines integrated into company-made vehicles) _are_ covered by this goal. The key question here is whether the company's products emit GHGs, irrespective of who fabricated whichever parts cause the emissions.
-- [**Operations emit no greenhouse gases:**](#be06) The _Products emit no GHGs_ goal covers only that subset of GHG emissions caused by the use and disposal of the company's products. The _Operations emit no GHGs_ goal covers emissions relating to operational activities (including manufacturing and transport).
-- [**Products do not harm people or the environment:**](#be17) Products which emit substances not identified as GHGs (during use or as a likely consequence of their post-use processing) are covered by the _Product harm_ goal.
-- [**Products can be repurposed:**](#be19) The _Products emit no GHGs_ goal does not cover those physical goods which emit GHGs only if they are burned or (in the case of biogenic materials) decompose at the end of their useful life. Issues relating to post-use processing are covered by the _Products can be repurposed_ goal.
+- [**Beschaffung sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Ziel _Produkte emittieren keine Treibhausgase_ befasst sich mit den Emissionen, die durch die eigenen Produkte des Unternehmens entstehen. Von Lieferanten emittierte Treibhausgasemissionen fallen nicht unter dieses Ziel, sondern sind ein Faktor bei der Bestimmung der Eignung der Lieferkette des Unternehmens und fallen daher unter das Beschaffungsziel. Beachten Sie, dass alle vom Unternehmen gekauften und in seine Produkte eingebauten Komponenten, die dazu führen, dass diese Produkte bei der Verwendung oder Entsorgung Treibhausgase ausstoßen (z. B. Dieselmotoren von Drittanbietern, die in vom Unternehmen hergestellte Fahrzeuge integriert sind), von diesem Ziel abgedeckt sind. Die entscheidende Frage hierbei ist, ob die Produkte des Unternehmens Treibhausgase ausstoßen, unabhängig davon, wer welche Teile hergestellt hat, die die Emissionen verursachen.
+- [**Der Betrieb stößt keine Treibhausgase aus:**](#be06) Das Ziel _Produkte verursachen keine Treibhausgasemissionen_ umfasst nur jene Treibhausgasemissionen, die durch die Nutzung und Entsorgung der Produkte des Unternehmens verursacht werden. Das Ziel _Der Betrieb stößt keine Treibhausgase aus_ umfasst Emissionen im Zusammenhang mit betrieblichen Aktivitäten (einschließlich Herstellung und Transport).
+- [**Produkte schaden weder Menschen noch der Umwelt:**](#be17) Produkte, die (während der Nutzung oder als wahrscheinliche Folge ihrer Verarbeitung nach der Nutzung) Stoffe freisetzen, die nicht als Treibhausgase identifiziert wurden, fallen unter das Ziel _Produkte schaden_.
+- [**Produkte können wiederverwendet werden:**](#be19) Das Ziel _Produkte verursachen keine Treibhausgasemissionen_ umfasst keine physischen Güter, die nur dann Treibhausgase emittieren, wenn sie verbrannt werden oder (im Falle biogener Materialien) am Ende ihrer Nutzungsdauer zerfallen. Fragen im Zusammenhang mit der Verarbeitung nach der Nutzung fallen unter das Ziel _Produkte können wiederverwendet werden_.
 
-### 2. Action {-#be18-action}
+### 2. Aktion {-#be18-action}
 
-#### 2.1 Getting started {-#be18-getting-started}
+#### 2.1 Erste Schritte {-#be18-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Goods and services whose use results in GHG emissions include[^1#be18-1]:
+Zu den Waren und Dienstleistungen, deren Nutzung zu Treibhausgasemissionen führt, gehören[^1#be18-1]:
 
-- Combustible fuels (e.g. diesel, coal, end-of-life tires when sold for energy recovery).
-- Equipment powered by combustion (e.g. cars, ships and trains containing internal combustion engines, kerosene lanterns, diesel-powered generators).
-- GHGs which are themselves sold as products (e.g. refrigerants).
-- Manufactured products that contain GHGs which may be emitted during use or which (without specialist processing) will be released after use (e.g. air conditioners or refrigerators containing hydrofluorocarbons).
+- Brennbare Brennstoffe (z. B. Diesel, Kohle, Altreifen bei Verkauf zur Energierückgewinnung).
+- Durch Verbrennung betriebene Geräte (z. B. Autos, Schiffe und Züge mit Verbrennungsmotoren, Kerosinlaternen, dieselbetriebene Generatoren).
+- Treibhausgase, die selbst als Produkte verkauft werden (z. B. Kältemittel).
+- Hergestellte Produkte, die Treibhausgase enthalten, die während des Gebrauchs freigesetzt werden können oder (ohne spezielle Verarbeitung) nach dem Gebrauch freigesetzt werden (z. B. Klimaanlagen oder Kühlschränke, die Fluorkohlenwasserstoffe enthalten).
 
-- Services whose provision causes GHG emissions which do not fall under the definition of a [Scope 1 or Scope 2](#def-scope-1-2) emission (e.g. leased machinery that runs on fossil fuels).
+- Dienstleistungen, deren Erbringung Treibhausgasemissionen verursacht, die nicht unter die Definition von [Scope 1 oder Scope 2](#def-scope-1-2) Emissionen fallen (z. B. gemietete Maschinen, die mit fossilen Brennstoffen betrieben werden).
 
-Eliminating the emissions of all such products (or phasing out products that cannot be redesigned) is a major systemic challenge, which in some cases will require the transformation of entire sectors. Any company whose goods or services emit GHGs must rise to this challenge, through its own research and development efforts, and through collaboration with partners across its value web.
+Die Eliminierung der Emissionen all dieser Produkte (oder die schrittweise Abschaffung von Produkten, die nicht neu gestaltet werden können) stellt eine große systemische Herausforderung dar, die in einigen Fällen die Umgestaltung ganzer Sektoren erfordern wird. Jedes Unternehmen, dessen Waren oder Dienstleistungen Treibhausgase verursachen, muss sich dieser Herausforderung stellen – durch eigene Forschungs- und Entwicklungsbemühungen und durch die Zusammenarbeit mit Partnern in seinem gesamten Wertschöpfungsnetzwerk.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### How might the company's products cause GHG emissions? {-}
+###### Wie könnten die Produkte des Unternehmens Treibhausgasemissionen verursachen? {-}
 
-- Do issues relating to use-phase GHG emissions enter into the company's research and development processes?
-- Does the company sell combustion fuels, or equipment that is designed to be powered by such fuels?
-- Does the company sell greenhouse gases (for example as refrigerants), or substances, components and/or equipment from which greenhouse gases could escape?
+- Werden Aspekte im Zusammenhang mit Treibhausgasemissionen in der Nutzungsphase in die Forschungs- und Entwicklungsprozesse des Unternehmens einbezogen?
+- Verkauft das Unternehmen Verbrennungsbrennstoffe oder Geräte, die für den Betrieb mit solchen Brennstoffen ausgelegt sind?
+- Vertreibt das Unternehmen Treibhausgase (z. B. als Kältemittel) oder Stoffe, Komponenten und/oder Geräte, aus denen Treibhausgase entweichen könnten?
 
-###### What opportunities exist to reduce or eliminate such GHG emissions? {-}
+###### Welche Möglichkeiten gibt es, solche Treibhausgasemissionen zu reduzieren oder zu eliminieren? {-}
 
-- Could products powered by combustion fuels be redesigned to use electricity instead, so that renewable energy sources may be used?
-- Could products with embedded greenhouse gases be redesigned, or could equivalent functionality be delivered in alternative ways?
-- If there are no currently available alternatives, what technical or regulatory changes would be needed to make a solution possible in the future? What might the company do to pursue such changes?
+- Könnten mit Verbrennungskraftstoffen betriebene Produkte so umgestaltet werden, dass sie stattdessen Strom nutzen, sodass erneuerbare Energiequellen genutzt werden können?
+- Könnten Produkte mit eingebetteten Treibhausgasen neu gestaltet werden oder könnten gleichwertige Funktionen auf alternative Weise bereitgestellt werden?
+- Wenn es derzeit keine Alternativen gibt, welche technischen oder regulatorischen Änderungen wären nötig, um eine Lösung in der Zukunft zu ermöglichen? Was könnte das Unternehmen tun, um solche Veränderungen voranzutreiben?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### What are the best opportunities for making progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Which products are likely to emit the greatest amounts of GHGs over their lifetime? Improvements to these products are likely to have the greatest absolute impact.
-- Which products are most vulnerable to changing societal pressures (e.g. changing customer demands and behaviours)?
-- Which products are most vulnerable to regulatory changes (e.g. upcoming climate legislation)?
-- Which GHG-emitting products address a societal need which could technically be met in a different, non-GHG-emitting way? Are other companies already pursuing such alternative solutions?
-- The IPCC has identified [seven major GHGs](#def-major-ghgs) that make up the vast majority of human-caused climate change. Countries that have signed up to the Kyoto Protocol are responsible for reporting on emissions of these gases at a minimum. When starting to assess their products, companies might start with these gases as they are the most globally significant, and will help companies align with global reporting.
+- Welche Produkte verursachen über ihre gesamte Lebensdauer hinweg voraussichtlich die größten Mengen an Treibhausgasen? Verbesserungen an diesen Produkten dürften die größte absolute Wirkung erzielen.
+- Welche Produkte sind am anfälligsten für veränderte gesellschaftliche Zwänge (z. B. veränderte Kundenanforderungen und -verhalten)?
+- Welche Produkte sind am anfälligsten für regulatorische Änderungen (z. B. bevorstehende Klimagesetzgebung)?
+- Welche Produkte, die Treibhausgase ausstoßen, erfüllen ein gesellschaftliches Bedürfnis, das technisch auf andere, nicht treibhausgasemittierende Weise erfüllt werden könnte? Verfolgen andere Unternehmen bereits solche Alternativlösungen?
+- Der Weltklimarat (IPCC) hat [sieben wichtige Treibhausgase](#def-major-ghgs) identifiziert, die für den Großteil des vom Menschen verursachten Klimawandels verantwortlich sind. Länder, die das Kyoto-Protokoll unterzeichnet haben, sind verpflichtet, zumindest über die Emissionen dieser Gase Bericht zu erstatten. Bei der Bewertung ihrer Produkte könnten Unternehmen zunächst mit diesen Gasen beginnen, da sie weltweit die größte Bedeutung haben und den Unternehmen dabei helfen, sich an den globalen Berichterstattungsstandards auszurichten.
 
-###### Is the company actively working to reduce the use-phase GHG emissions of its products? {-}
+###### Arbeitet das Unternehmen aktiv daran, die Treibhausgasemissionen seiner Produkte in der Nutzungsphase zu reduzieren? {-}
 
-- Has any commitment been made to reduce or eradicate GHG emissions arising from product use? If so, are plans to achieve those commitments sufficient to significantly reduce and eventually eliminate those GHG emissions over time?
-- If current targets are insufficient, how might they be amended? Whose authorization would be needed, and who must be involved in the design and implementation of adequate controls and incentives? If no targets exist, how might they be put in place?
+- Wurde eine Verpflichtung eingegangen, die durch die Produktnutzung entstehenden Treibhausgasemissionen zu reduzieren oder zu beseitigen? Wenn ja, reichen die Pläne zur Erfüllung dieser Verpflichtungen aus, um diese Treibhausgasemissionen im Laufe der Zeit deutlich zu reduzieren und schließlich zu beseitigen?
+- Falls die aktuellen Ziele unzureichend sind, wie könnten sie angepasst werden? Wessen Genehmigung wäre erforderlich, und wer muss an der Konzeption und Umsetzung angemessener Kontrollmaßnahmen und Anreize beteiligt werden? Falls keine Ziele existieren, wie könnten diese eingeführt werden?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _the environment is free from pollution_?[^2#be18-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-environment-pollution).
+- Über das hinaus, was zur Erreichung dieses Ziels erforderlich ist: Kann das Unternehmen etwas tun, um sicherzustellen, dass die Umwelt frei von Verschmutzung bleibt?[^2#be18-2] Jede derartige Maßnahme kann den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-environment-pollution).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be18-pursuing}
+#### 2.2 Zukunftsfähigkeit anstreben {-#be18-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-Progress toward future-fitness is assessed in terms of the percentage of revenue that is generated from products which _do not_ emit GHGs.
+Der Fortschritt in Richtung Zukunftsfähigkeit wird anhand des Prozentsatzes des Umsatzes bewertet, der mit Produkten erzielt wird, die keine Treibhausgase ausstoßen.
 
-If any product _does_ emit GHGs, the company must also consider the extent of those emissions across the expected lifetime of that product.
+Wenn ein Produkt tatsächlich Treibhausgase ausstößt, muss das Unternehmen auch das Ausmaß dieser Emissionen über die erwartete Lebensdauer dieses Produkts berücksichtigen.
 
-###### General guidance on estimating lifetime use-phase GHG emissions {-#be18-lifetime-emissions}
+###### Allgemeine Leitlinien zur Schätzung der Treibhausgasemissionen während der Nutzungsphase {-#be18-lifetime-emissions}
 
-For existing products or product lines, companies can leverage historical information to estimate the lifespan of their products. Repair or warranty claim rates, sales data from repeat customers, and results from quality testing or product certification procedures may contribute to an understanding of a product's life expectancy and usage rate. If more specific data is unavailable, amortization rates for asset classes the product belongs to (from accounting or tax regulations) may be used to estimate lifespan. For more information on how to calculate lifetime use-phase GHG emissions see these [helpful tools](#be18-helpful-tools).
+Allgemeine Leitlinien zur Schätzung der Treibhausgasemissionen während der Nutzungsphase Bei bestehenden Produkten oder Produktlinien können Unternehmen historische Daten heranziehen, um die Lebensdauer ihrer Produkte zu schätzen. Reparatur- oder Garantiefallquoten, Verkaufsdaten von Stammkunden sowie Ergebnisse aus Qualitätsprüfungen oder Produktzertifizierungsverfahren können dazu beitragen, die Lebenserwartung und die Nutzungsrate eines Produkts zu ermitteln. Wenn keine spezifischeren Daten verfügbar sind, können die Abschreibungssätze für die Anlageklassen, zu denen das Produkt gehört (aus Buchhaltungs- oder Steuervorschriften), zur Schätzung der Lebensdauer herangezogen werden. Weitere Informationen zur Berechnung der Treibhausgasemissionen während der Nutzungsphase finden Sie in diesen [hilfreichen Tools](#be18-helpful-tools).
 
-In all cases, the company should document the method used, along with a brief explanation of why this choice was made.
+In jedem Fall sollte das Unternehmen die verwendete Methode dokumentieren und kurz erläutern, warum diese Wahl getroffen wurde.
 
-###### Guidance on applying Global Warming Potentials {-}
+###### Leitfaden zur Anwendung des Treibhauspotenzials {-}
 
-If a product releases more than one type of greenhouse gas the company should convert each amount to derive a total CO<sub>2</sub> equivalent figure.
+Wenn ein Produkt mehr als eine Art von Treibhausgas freisetzt, sollte das Unternehmen jede Menge umrechnen, um einen Gesamtwert in CO<sub>2</sub> Äquivalenten zu ermitteln.
 
-The [GHG Protocol](#be18-ghg-protocol) defines a Global Warming Potential (GWP) as "_a factor describing the radiative forcing impact (degree of harm to the atmosphere) of one unit of a given GHG relative to one unit of CO<sub>2</sub>_". GWPs are used to calculate the CO<sub>2</sub> equivalent of known greenhouse gases[^3#be18-3]
-@Myh13. Consistent with the GHG Protocol, companies must use the 100-year GWP values from the latest Intergovernmental Panel on Climate Change (IPCC) Assessment Report[^4#be18-4] as conversion factors when measuring their GHG footprint.
+Das [GHG Protocol](#be18-ghg-protocol) definiert das Treibhauspotenzial (GWP) als _einen Faktor, der die Strahlungsantriebswirkung (den Grad der Schädigung der Atmosphäre) einer Einheit eines bestimmten Treibhausgases im Verhältnis zu einer Einheit CO<sub>2</sub> beschreibt_. GWPs werden verwendet, um das CO<sub>2</sub> Äquivalent bekannter Treibhausgase zu berechnen[^3#be18-3]
+@Myh13. In Übereinstimmung mit dem GHG Protocol müssen Unternehmen bei der Messung ihres Treibhausgas-Fußabdrucks die 100-Jahres-GWP-Werte aus dem aktuellen Sachstandsbericht des Weltklimatrats (IPCC)[^4#be18-4] als Umrechnungsfaktoren verwenden.
 
-As an example, the IPCC identifies the Global Warming Potential of one unit of methane (CH<sub>4</sub>) over 100 years is 28 times greater than one unit of carbon dioxide (CO<sub>2</sub>), so methane's GWP is 28. Carbon dioxide has a GWP of 1 as it is the standard against which all other GHGs are measured.
+Als Beispiel führt der IPCC an, dass das Treibhauspotenzial einer Einheit Methan (CH<sub>4</sub>) über einen Zeitraum von 100 Jahren 28-mal höher ist als das einer Einheit Kohlendioxid (CO<sub>2</sub>), sodass das GWP von Methan 28 beträgt. Kohlendioxid hat ein GWP von 1, da es als Standard dient, an dem alle anderen Treibhausgase gemessen werden.
 
-###### Guidance on identifying emissions factors {-}
+###### Leitfaden zur Identifizierung von Emissionsfaktoren {-}
 
-As noted in the GHG Protocol, _"direct measurement of GHG emissions by monitoring concentration and flow rate is not common."_ Normally, direct measurement takes place only in facilities with Continuous Emission Monitoring Systems (CEMS), such as power plants. Instead of direct measurement, many companies calculate GHG emissions by applying documented emission factors to activity data (e.g. tonnes of coal consumed or cubic meters of natural gas burnt).
+Wie im GHG-Protokoll erwähnt, ist _die direkte Messung von Treibhausgasemissionen durch Überwachung von Konzentration und Durchflussrate nicht üblich._ Normalerweise erfolgt die direkte Messung nur in Anlagen mit kontinuierlichen Emissionsüberwachungssystemen (CEMS), wie beispielsweise Kraftwerken. Anstelle einer direkten Messung berechnen viele Unternehmen Treibhausgasemissionen, indem sie dokumentierte Emissionsfaktoren auf Aktivitätsdaten anwenden (z. B. verbrauchte Tonnen Kohle oder verbrannte Kubikmeter Erdgas).
 
-Identifying the right emissions factors is challenging and varies according to the substances and equipment involved. As an example, emissions will vary based on the type of diesel combusted and type of generator used.
+Die Ermittlung der richtigen Emissionsfaktoren ist eine Herausforderung und hängt von den jeweiligen Stoffen und Anlagen ab. So variieren die Emissionen beispielsweise je nach Art des verbrannten Diesels und des eingesetzten Generators.
 
-Where questions exist, companies should refer to emissions factors published by official government bodies, including the EPA in the US, DEFRA in the UK and the IEA internationally.
+Bei Fragen sollten sich Unternehmen auf die von offiziellen Regierungsstellen veröffentlichten Emissionsfaktoren beziehen, darunter die EPA in den USA, die DEFRA im Vereinigten Königreich und die IEA auf internationaler Ebene.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-A company must verify that its goods and services do not cause the emission of GHGs, and – until it reaches this point – it must estimate the extent of any such emissions caused as a result of its sales.
+Ein Unternehmen muss sicherstellen, dass seine Waren und Dienstleistungen keine Treibhausgasemissionen verursachen, und – bis zu diesem Punkt – das Ausmaß der durch seine Verkäufe verursachten Emissionen abschätzen.
 
-Companies can measure their company-wide progress towards future-fitness on this goal using the steps described in the _Assessment_ section below.
+Unternehmen können ihren unternehmensweiten Fortschritt in Richtung Zukunftsfähigkeit in Bezug auf dieses Ziel mithilfe der im Abschnitt _Bewertung_ unten beschriebenen Schritte messen.
 
-### 3. Assessment {-#be18-assessment}
+### 3. Bewertung {-#be18-assessment}
 
-#### 3.1 Progress indicators {-#be18-progress}
+#### 3.1 Fortschrittsindikatoren {-#be18-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has one progress indicator. To calculate it the following steps are required:
+Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Assess the fitness of individuals products.
-- Calculate the company's fitness across all products.
+- Bewerten Sie die Fitness einzelner Produkte.
+- Berechnen Sie die Fitness des Unternehmens über alle Produkte hinweg.
 
-##### Assessing the fitness of individual products {-}
+##### Bewertung der Fitness einzelner {-}
 
-A product is **100% fit** only if it does not force the user to emit GHGs, otherwise it is **0% fit**. If a product has not been assessed and if it is not clear whether it emits GHGs or not, it is **0% fit**.
+Ein Produkt gilt nur dann als zu **100 % fit** wenn es den Nutzer nicht dazu zwingt, Treibhausgase zu emittieren; andernfalls gilt es als zu **0 % fit**. Wenn ein Produkt nicht bewertet wurde und unklar ist, ob es Treibhausgase emittiert oder nicht, gilt es als zu **0 % fit**.
 
-##### Calculating company progress {-}
+##### Den Unternehmensfortschritt berechnen {-}
 
-The company's aggregated progress can be calculated as a revenue-weighted sum of the fitness of each product.
+Der aggregierte Fortschritt des Unternehmens lässt sich als umsatzgewichtete Summe der Fitness jedes einzelnen Produkts berechnen.
 
-This can be expressed mathematically as:
+Rechnerisch lässt sich dies wie folgt ausdrücken:
 
 $$F=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness across a category of physical goods (or services), expressed as a percentage. |
-| $$f_p$$ | Is the fitness of product _p_. |
-| $$R_p$$ | Is the revenue generated by product _p_. |
-| $$P$$ | Is the total number of products in the company's portfolio. |
+| $$F$$ | Gibt den Fortschritt in Bezug auf die Zukunftsfähigkeit einer Kategorie von physischen Gütern (oder Dienstleistungen) als Prozentsatz an. |
+| $$f_p$$ | Ist die Fitness des Produkts _p_. |
+| $$R_p$$ | Entspricht der durch das Produkt _p_ erzielte Umsatz. |
+| $$P$$ | ist die Gesamtzahl der Produkte im Portfolio des Unternehmens. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be18-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be18-example).
 
-#### 3.2 Context indicators {-#be18-context}
+#### 3.2 Kontextindikatoren {-#be18-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total estimated lifetime use-phase GHG emissions from products sold {-}
+####### Geschätzte Gesamtmenge der Treibhausgasemissionen während der Nutzungsphase der verkauften Produkte über deren gesamte Lebensdauer {-}
 
-In addition to the progress indicator, to reflect the full extent of its products' GHG impacts, the company must report the total estimated lifetime use-phase GHG emissions that are expected to accrue from the products sold during the reporting period.[^5#be18-5]
+Um das volle Ausmaß der Treibhausgasauswirkungen seiner Produkte widerzuspiegeln, muss das Unternehmen zusätzlich zum Fortschrittsindikator die gesamten geschätzten Treibhausgasemissionen während der Nutzungsphase angeben, die voraussichtlich aus den im Berichtszeitraum verkauften Produkten entstehen.[^5#be18-5]
 
-The lifetime use-phase GHG emissions must be estimated for each product, and then multiplied by the number of units sold. Finally, these per-product totals should be summed to derive the company-wide use-phase GHG emission footprint.
+Die Treibhausgasemissionen während der gesamten Nutzungsphase müssen für jedes Produkt geschätzt und dann mit der Anzahl der verkauften Einheiten multipliziert werden. Abschließend sollten diese Gesamtwerte pro Produkt summiert werden, um den unternehmensweiten Treibhausgasemissions-Fußabdruck in der Nutzungsphase abzuleiten.
 
-This context Indicator can help demonstrate how the company is making its products more emission-efficient over time, even if it is not yet able to shift sales towards emission-free products.
+Dieser Kontextindikator kann dabei helfen, aufzuzeigen, wie das Unternehmen seine Produkte im Laufe der Zeit emissionseffizienter macht, auch wenn es noch nicht in der Lage ist, den Umsatz auf emissionsfreie Produkte umzustellen.
 
-For an example of how context indicators can be reported, see [here](#be18-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be18-example).
 
-### 4. Assurance {-#be18-assurance}
+### 4. Zuverlässigkeitserklärung {-#be18-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be18-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be18-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be18-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be18-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to assess whether the company's products emit GHGs during the use phase or at end-of-life. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify product GHG emissions.
-- Retain references to data sources used to determine revenues generated by each product or product category. This can help assurers to understand and verify the weighting calculations performed to obtain the company's progress indicator.[^6#be18-6]
-- For products which do emit GHGs, document the method used to calculate lifetime emissions, including the GWP and emissions factor values used, and their sources. This can help assurers to understand and verify the calculations performed to determine the company's context indicator.
+- Dokumentieren Sie die Methoden, mit denen bewertet wird, ob die Produkte des Unternehmens während der Nutzungsphase oder am Ende ihrer Lebensdauer Treibhausgase emittieren.  Eine Beschreibung, wie diese ermittelt wurden, kann den Prüfern dabei helfen zu beurteilen, ob bei dem Ansatz des Unternehmens das Risiko besteht, dass Produkt-Treibhausgasemissionen nicht erfasst werden.
+- Bewahren Sie Verweise auf die Datenquellen auf, die zur Ermittlung der mit jedem Produkt oder jeder Produktkategorie erzielten Umsätze verwendet wurden. Dies kann den Prüfern helfen, die zur Ermittlung des Fortschrittsindikators des Unternehmens durchgeführten Gewichtsberechnungen nachzuvollziehen und zu verifizieren.[^6#be18-6]
+- Dokumentieren Sie für Produkte, die Treibhausgase ausstoßen, die Methode zur Berechnung der Lebenszyklusemissionen, einschließlich der verwendeten GWP- und Emissionsfaktorwerte sowie deren Quellen. Dies kann den Prüfern helfen, die zur Ermittlung des Kontextindikators des Unternehmens durchgeführten Berechnungen nachzuvollziehen und zu verifizieren.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be18-additional}
+### 5. Zusätzliche Informationen {-#be18-additional}
 
-#### 5.1 Example {-#be18-example}
+#### 5.1 Beispiel {-#be18-example}
 
-ACME Inc. sells lemonade products. It supplies to large retail companies and to small independent kiosks, which sell the lemonade on to consumers. As part of its strategy, ACME begins selling branded coolers to its high-volume customers to display products in their stores. To date it has sold 100 coolers to customers, earning a total of $100,000 in revenue. The total revenue of the company in the reporting period is $1,130,000.
+Die ACME Inc. vertreibt Limonadenprodukte. Sie beliefert sowohl große Einzelhandelsunternehmen als auch kleine unabhängige Kioske, die die Limonade an Verbraucher:innen weiterverkaufen. Im Rahmen ihrer Strategie beginnt ACME, ihren Großkunden Kühlschränke mit Markenlogo zu verkaufen, um die Produkte in deren Geschäften zu präsentieren. Bislang hat das Unternehmen 100 Kühlschränke an Kunden verkauft und damit insgesamt 100.000 $ Umsatz erzielt. Der Gesamtumsatz des Unternehmens im Berichtszeitraum beträgt 1.130.000 $.
 
-However, ACME discovers that the coolers use hydrofluorocarbons (HFCs) as a refrigerant, a potent greenhouse gas with very high Global Warming Potential. While the refrigerators are powered by electricity, which allows users to run them using clean power, ACME finds out from the manufacturer that each unit is likely to emit an average of 1,000 tCO<sub>2</sub>e on disposal, based on the recycling facilities available in its sales regions.
+ACME stellt jedoch fest, dass die Kühlschränke Fluorkohlenwasserstoffe (HFC) als Kältemittel verwenden, ein starkes Treibhausgas mit sehr hohem Treibhauspotenzial. Zwar werden die Kühlschränke mit Strom betrieben, was es den Nutzenden ermöglicht, sie mit sauberem Strom zu betreiben, doch erfährt ACME vom Hersteller, dass jedes Gerät bei der Entsorgung durchschnittlich 1.000 tCO2e ausstoßen dürfte, basierend auf den in den Absatzregionen verfügbaren Recyclinganlagen.
 
-It calculates its progress as:
+Es berechnet seinen Fortschritt als:
 
 $$F=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}=\frac{100\%*1,030,000+0\%*100,000}{1,130,000}\approx91\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total estimated lifetime use-phase GHG emissions from products sold: 100,000 tCO<sub>2</sub>e.
+Geschätzte Gesamt-Treibhausgasemissionen während der Nutzungsphase der verkauften Produkte: 100.000 tCO<sub>2</sub>e.
 
-The next year, one of the two sales regions ACME works in implements a hazardous waste pickup service, which collects and safely disposes of end-of-life coolers such that the HFCs don't escape into the environment. During that reporting period ACME sells 75 refrigerators to customers in the pickup zone, generating $75,000 in revenue, and 75 to customers in a region not covered by the service, also for $75,000. The company again sells $1,030,000 of lemonade in the period, bringing total revenues to $1,180,000.
+Im folgenden Jahr führt eine der beiden Vertriebsregionen, in denen ACME tätig ist, einen Abholservice für Sondermüll ein, der ausgediente Kühlschränke sicher entsorgt, sodass die HFKW nicht in die Umwelt gelangen. In diesem Berichtszeitraum verkauft ACME 75 Kühlschränke an Kunden in der Abholzone und erzielt damit einen Umsatz von 75.000 $ sowie 75 an Kunden in einer Region, die nicht von diesem Service abgedeckt ist, ebenfalls für 75.000 $. Das Unternehmen verkauft in diesem Zeitraum erneut Limonade im Wert von 1.030.000 $, wodurch sich der Gesamtumsatz auf 1.180.000 $ beläuft.
 
-It can now calculate company-wide progress as:
+Es kann nun den unternehmensweiten Fortschritt wie folgt berechnen:
 
 $$F=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}=\frac{100\%*(1,030,000+75,000)+0\%*100,000}{1,180,000}\approx94\%$$
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total estimated lifetime use-phase GHG emissions from products sold: 75,000 tCO<sub>2</sub>e.
+Geschätzte gesamte Treibhausgasemissionen der verkauften Produkte während der Nutzungsphase: 75.000 tCO<sub>2</sub>e.
 
-#### 5.3 Useful links {-#be18-useful-links}
+#### 5.3 Nützliche Links {-#be18-useful-links}
 
-##### The Greenhouse Gas Protocol {-#be18-ghg-protocol}
+##### Das Treibhausgasprotokoll {-#be18-ghg-protocol}
 
-The Greenhouse Gas Protocol is a global standard accounting tool for quantifying greenhouse gas emissions. See in particular [Required Greenhouse Gases in Inventories: Accounting and Reporting Standard Amendment](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Required%20gases%20and%20GWP%20values.pdf) for further guidance on Emissions Factors and Global Warming Potentials, and [Category 11: Use of Sold Products](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf) for further information regarding how to calculate emissions from the use of goods.
+Das Greenhouse Gas Protocol ist ein weltweit anerkanntes Standardinstrument zur Quantifizierung von Treibhausgasemissionen. Weitere Hinweise zu Emissionsfaktoren und Treibhauspotenzialen finden Sie insbesondere im Dokument [Required Greenhouse Gases in Inventories: Accounting and Reporting Standard Amendment](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Required%20gases%20and%20GWP%20values.pdf) (Erforderliche Treibhausgase in Inventaren: Ergänzung zum Standard für Bilanzierung und Berichterstattung), und weitere Informationen zur Berechnung von Emissionen aus der Nutzung von Waren finden Sie unter [Kategorie 11: Nutzung verkaufter Produkte](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf).
 
 ##### PAS 2050 {-}
 
-[PAS 2050](https://shop.bsigroup.com/Browse-By-Subject/Environmental-Management-and-Sustainability/PAS-2050/) is a publicly available specification (PAS) produced by the British Standards Institute, providing a method for assessing the lifecycle greenhouse gas emissions of goods and services (referred to as "products"). It can be used by organizations of all sizes and types, in any location, to assess the climate change impact of the products they offer. It is free to download.
+[PAS 2050](https://shop.bsigroup.com/Browse-By-Subject/Environmental-Management-and-Sustainability/PAS-2050/) ist eine vom British Standards Institute herausgegebene öffentlich zugängliche Spezifikation (PAS), die eine Methode zur Bewertung der Lebenszyklus-Treibhausgasemissionen von Waren und Dienstleistungen (als _Produkte_ bezeichnet) bereitstellt. Sie kann von Organisationen jeder Größe und Art an jedem Standort genutzt werden, um die Auswirkungen ihrer angebotenen Produkte auf den Klimawandel zu bewerten. Der Download ist kostenlos.
 
-##### Other tools to measure product use-phase GHG emissions {-#be18-helpful-tools}
+##### Weitere Tools zur Messung der Treibhausgasemissionen der Produktnutzungsphase {-#be18-helpful-tools}
 
-In addition to the Greenhouse Gas Protocol's [guidance](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf), the following free tools and databases may be useful:
+Neben den Leitlinien des Greenhouse Gas Protocol [können](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf), die folgenden kostenlosen Instrumente und Datenbanken hilfreich sein:
 
-- [**BEES 4.0**](https://www.nist.gov/services-resources/software/bees) from the National Institute of Standards and Technology.
-- [**OpenLCA**](http://www.openlca.org/) from GreenDelta.
-<!-- Link doesn't exist - [**TEAM(TM)**](https://ecobilan.pwc.fr/en/boite-a-outils/team.html.html) from Ecobilan and PwC.-->
-- [**Umberto**](https://www.ifu.com/en/umberto/) from ifu Hamburg.
-- [**CCalC**](http://www.ccalc.org.uk/index.php) from the University of Manchester.
+- [**BEES 4.0**](https://www.nist.gov/services-resources/software/bees) vom National Institute of Standards and Technology.
+- [**OpenLCA**](http://www.openlca.org/) von GreenDelta.
+<!-- Link doesn't exist - [**TEAM(TM)**](https://ecobilan.pwc.fr/en/boite-a-outils/team.html.html) vom Ecobilan und PwC.-->
+- [**Umberto**](https://www.ifu.com/en/umberto/) vom ifu Hamburg.
+- [**CCalC**](http://www.ccalc.org.uk/index.php) von der University of Manchester.
 
-#### 5.2 Frequently asked questions {-#be18-faq}
+#### 5.2 Häufig gestellte Fragen {-#be18-faq}
 
-##### What types of product are _not_ covered by this goal? {-#be18-faq-1}
+##### Welche Arten von Produkten fallen nicht unter dieses Ziel? {-#be18-faq-1}
 
-In some regions, incineration is a commonly-used way to dispose of post-use goods. Combustion leads to GHGs which (unless captured and sequestered or otherwise utilized) are unavoidably emitted into the environment. In these cases, GHG emissions are due to shortcomings in waste processing, rather than the goods being processed. Hence any physical good that only emits GHGs if it is incinerated _after_ use is _not_ considered within the scope of this goal.
+In manchen Regionen ist die Verbrennung eine gängige Methode zur Entsorgung von Altwaren. Bei der Verbrennung entstehen Treibhausgase, die (sofern sie nicht aufgefangen und sequestriert oder anderweitig genutzt werden) unvermeidlich in die Umwelt abgegeben werden. In diesen Fällen sind die Treibhausgasemissionen auf Mängel bei der Abfallverarbeitung und nicht auf die verarbeiteten Waren zurückzuführen. Daher fallen physische Waren, die nur dann Treibhausgasemissionen ausstoßen, wenn sie nach der Verwendung verbrannt werden, nicht in den Geltungsbereich dieses Ziels.
 
-It should be stressed, however, that some goods are sold with the _intention_ of being incinerated, such as fossil fuels or post-use tires that are collected and sold for the purpose of burning in furnaces as a source of energy. Such goods (and any services dependent upon them) _are_ covered by this goal.
+Es sollte jedoch betont werden, dass einige Waren mit der Absicht verkauft werden, verbrannt zu werden, beispielsweise fossile Brennstoffe oder Altreifen, die gesammelt und verkauft werden, um sie in Öfen als Energiequelle zu verbrennen. Solche Waren (und alle davon abhängigen Dienstleistungen) fallen unter dieses Ziel.
 
-Some goods contain only biogenic carbon, produced by living organisms (e.g. wooden furniture or food), which could be released over time through decomposition. These goods are also _not_ considered to be within the scope of this goal.
+Einige Waren enthalten nur biogenen Kohlenstoff, der von lebenden Organismen produziert wird (z. B. Holzmöbel oder Lebensmittel), der im Laufe der Zeit durch Zersetzung freigesetzt werden kann. Auch diese Waren fallen nicht unter dieses Ziel.
 
-##### Is revenue-weighting always appropriate? {-}
+##### Ist die Umsatzgewichtung immer angemessen? {-}
 
-Some organizations – such as early-stage companies, some charities, divisions of companies operating as cost-centres, or companies working on pre-production development – may determine that using revenue as a weighting approach to assess progress might paint a misleading picture.
+Einige Organisationen – etwa junge Unternehmen, einige Wohltätigkeitsorganisationen, Unternehmensbereiche, die als Kostenstellen fungieren, oder Unternehmen, die an der Vorproduktionsentwicklung arbeiten – kommen möglicherweise zu dem Schluss, dass die Verwendung des Umsatzes als Gewichtungsansatz zur Bewertung des Fortschritts ein irreführendes Bild zeichnen könnte.
 
-Such cases are likely to be rare, because even companies that do not directly sell goods or services still need to meet their costs, and therefore receive some form of monetary capital or in-kind services and labour. These inputs are directed at operational work-streams, which in turn lead to meeting customer needs, so in many cases it is possible to connect indirect funding (as a proxy for revenue) to appropriate downstream user groups.
+Solche Fälle dürften selten sein, da selbst Unternehmen, die keine Waren oder Dienstleistungen direkt verkaufen, dennoch ihre Kosten decken müssen und daher in irgendeiner Form Geldkapital oder Sachleistungen und Arbeitsleistungen erhalten. Diese Inputs fließen in operative Arbeitsabläufe, die wiederum zur Erfüllung von Kundenbedürfnissen führen; daher ist es in vielen Fällen möglich, indirekte Finanzierung (als Stellvertreter für Einnahmen) mit den entsprechenden nachgelagerten Nutzergruppen in Verbindung zu bringen.
 
-When this is not possible, or if it is determined that this technique may mislead stakeholders, companies should consider using cost instead of revenue to determine the completeness of their assessment, and as a method for weighting their progress scores.
+Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle der Einnahmen zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
 
-##### How do I differentiate between a product impact and an operational impact? {-}
+##### Wie unterscheide ich zwischen einer produktbezogenen und einer betrieblichen Auswirkung? {-}
 
-Greenhouse gases are considered a product impact rather than an operational impact when:
+Treibhausgase gelten als Produktwirkung und nicht als betriebliche Wirkung, wenn:
 
--	Control of the product has passed into the hands of a third party before the impact occurs;
--	The extent of the impact is no longer modifiable by the company; or
--	The impact accrues from physical goods which are not directly revenue-generating but which are provided to third parties in support of the company's commercial activities.
+-	die Kontrolle über das Produkt vor dem Eintreten der Wirkung an einen Dritten übergegangen ist;
+-	das Ausmaß der Wirkung vom Unternehmen nicht mehr beeinflusst werden kann; oder
+-	die Wirkung von physischen Waren ausgeht, die zwar nicht direkt umsatzgenerierend sind, aber Dritten zur Unterstützung der geschäftlichen Aktivitäten des Unternehmens zur Verfügung gestellt werden.
 
-Consider the example of the sale of fossil fuel-derived energy. The greenhouse gases associated with this product occur during the generation of the energy, rather than the use of the energy. The impact occurs before the energy is purchased by the third party, and is modifiable by the company. Therefore, the greenhouse gas emissions would be captured by [**BE06: Operations emit no greenhouse gases**](#be06) rather than [**BE18: Products emit no greenhouse gases**](#be18).
+Als Beispiel dient der Verkauf von Energie aus fossilen Brennstoffen. Die mit diesem Produkt verbundenen Treibhausgasemissionen entstehen bei der Erzeugung der Energie und nicht bei deren Nutzung. Die Auswirkungen treten ein, bevor die Energie von einem Dritten gekauft wird, und können vom Unternehmen geändert werden. Daher würden die Treibhausgasemissionen unter [**BE06: Der Betrieb stoßt keine Treibhausgase aus**](#be06) erfasst und nicht unter [**BE18: Produkte verursachen keine Treibhausgasemissionen**](#be18).
 
-For more information, see _Differentiating between operational and product impacts_ in the [**Implementation Guide**](#ig-differentiating-impacts).
+Weitere Informationen finden Sie unter _Unterscheidung zwischen Betriebs- und Produktauswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
 
-[^1#be18-1]: See this [frequently asked question](#be18-faq-1) for goods which are _not_ considered in scope for this goal. Some companies may be unsure whether to capture a specific source of GHG emissions here, or via goal [**BE06: Operations emit no greenhouse gases**](#be06) (e.g. a shipping company which occasionally leases vessels to other businesses). Where such uncertainties arise, see _Differentiating between operational and product impacts_ in the [**Implementation Guide**](#ig-differentiating-impacts).
+[^1#be18-1]: In dieser häufig gestellten [Frage finden Sie Informationen zu Gütern](#be18-faq-1) die nicht in den Anwendungsbereich dieses Ziels fallen. Manche Unternehmen sind sich möglicherweise unsicher, ob sie eine bestimmte Quelle von Treibhausgasemissionen hier oder über das Ziel [**BE06: Der Betrieb stoßt keine Treibhausgase aus**](#be06) erfassen sollen (z. B. eine Reederei, die gelegentlich Schiffe an andere Unternehmen vermietet). Bei solchen Unsicherheiten lesen Sie bitte den Abschnitt _Unterscheidung zwischen betrieblichen und produktbezogenen Auswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
 
-[^2#be18-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^2#be18-2]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^3#be18-3]: This includes GHGs regulated by [The Montreal Protocol](https://www.state.gov/e/oes/eqt/chemicalpollution/83007.htm) on Substances that Deplete the Ozone Layer. @Une17
+[^3#be18-3]: Dies umfasst Treibhausgase, die durch das [Montrealer Protokoll](https://www.state.gov/e/oes/eqt/chemicalpollution/83007.htm) über Stoffe, die zum Abbau der Ozonschicht führen, geregelt sind. @Une17
 
-[^4#be18-4]: The latest GWP tables are available via the [IPCC website](https://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-2.html). Companies are encouraged to draw all of their GWP values from the same Assessment Report version, wherever possible.
+[^4#be18-4]: Die aktuellen GWP-Tabellen sind auf der [IPCC website](https://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-2.html) verfügbar. Unternehmen werden dazu angehalten, ihre GWP-Werte nach Möglichkeit aus derselben Version des Bewertungsberichts zu entnehmen.
 
-[^5#be18-5]: See [_Guidance on estimating lifetime emissions from products_](#be18-lifetime-emissions).
+[^5#be18-5]: Siehe [_Leitfaden zur Schätzung der Lebenszyklusemissionen von Produkten_](#be18-lifetime-emissions).
 
-[^6#be18-6]: This is relevant for several Product-related Break-Even Goals.
+[^6#be18-6]: Dies ist für mehrere produktbezogene Break-Even-Ziele relevant.s

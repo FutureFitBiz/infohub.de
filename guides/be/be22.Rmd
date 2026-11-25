@@ -2,241 +2,241 @@
 output: github_document
 ---
 
-## BE22: Lobbying {-#be22}
+## BE22: Lobbyarbeit {-#be22}
 
-<div class="subtitle">Lobbying and advocacy safeguard the pursuit of future-fitness
+<div class="subtitle">Lobbyarbeit und Interessenvertretung behüten das Streben nach Zukunftsfähigkeit
 </div>
 
 ### 1. Ambition {-#be22-ambition}
 
-A Future-Fit Business never seeks to influence market dynamics in ways that may contribute to hindering society's progress toward future-fitness.
+Ein zukunftsfähiges Unternehmen versucht niemals, die Marktdynamik in einer Weise zu beeinflussen, die dazu beitragen könnte, den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit zu behindern.
 
-#### 1.1 What this goal means {-#be22-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be22-what-goal-means}
 
-Companies often seek to influence the markets within which they operate, by pressuring and persuading those with the power to change them.
+Unternehmen versuchen oft, die Märkte, in denen sie tätig sind, zu beeinflussen, indem sie diejenigen unter Druck setzen und überzeugen, die die Macht haben, sie zu verändern.
 
-This goal recognizes that any attempt to influence market dynamics in favour of the business must not in any way contribute to hindering progress toward future-fitness, in or beyond the company. For example, a Future-Fit company would never knowingly fund any organization that protests against more stringent toxic emissions laws.
+Dieses Ziel erkennt an, dass jeder Versuch, die Marktdynamik zugunsten des Unternehmens zu beeinflussen, in keiner Weise dazu beitragen darf, den Fortschritt in Richtung Zukunftsfähigkeit innerhalb oder außerhalb des Unternehmens zu behindern. Beispielsweise würde ein Future-Fit-Unternehmen niemals wissentlich eine Organisation finanzieren, die gegen strengere Gesetze zu giftigen Emissionen protestiert.
 
-The requirement here is not to proactively lobby or advocate _in favour_ of Future-Fit outcomes[^1#be22-1], but rather to ensure that the company does not use its influence to _undermine_ such outcomes. This includes any direct effort by the company to sway public opinion (e.g. consumer campaigns), and also extends to cover contributions (e.g. membership fees or donations) to any third party which may influence on the company's behalf.[^2#be22-2]
+Die Anforderung besteht hier nicht darin, gezielt Lobbyarbeit zu betreiben oder sich für zukunftsfähige Ergebnisse einzusetzen[^1#be22-1], sondern vielmehr sicherzustellen, dass das Unternehmen seinen Einfluss nicht dazu nutzt, solche Ergebnisse zu untergraben. Dies umfasst alle direkten Bemühungen des Unternehmens, die öffentliche Meinung zu beeinflussen (z. B. Verbraucherkampagnen), und erstreckt sich auch auf Beiträge (z. B. Mitgliedsbeiträge oder Spenden) an Dritte, die im Namen des Unternehmens Einfluss nehmen könnten.[^2#be22-2]
 
-To be Future-Fit, a company must: (a) implement internal controls to ensure that the organization does not lobby or advocate against Future-Fit outcomes; and (b) disclose details of the contributions[^3#be22-3] it makes to third-party influencers.
+Um „Future-Fit“-konform zu sein, muss ein Unternehmen: (a) interne Kontrollmechanismen einführen, um sicherzustellen, dass die Organisation keine Lobbyarbeit betreibt oder sich gegen „Future-Fit“-Ziele einsetzt; und (b) Einzelheiten zu den Zahlungen offenlegen, die es an externe Meinungsbildner leistet.
 
-#### 1.2 Why this goal is needed {-#be22-why-goal-needed}
+####  1.2. Warum dieses Ziel erforderlich ist {-#be22-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Declarations concerning lobbying activity are mostly voluntary, allowing information to be kept hidden from stakeholders and the wider public.** Less than 0.1% of money spent on lobbying the EU by FTSE 100 companies in 2015-16 was declared to shareholders. @Ral17
-- **Current lobbying practices largely seek to maintain the status quo.** In 2013, the fossil fuel industry spent $213m lobbying US and EU decision makers to prevent action against climate change. @Oxf14
-- **Weak regulation around lobbying allows for continued opacity into corporate activities.** Only 7 EU countries have any form of lobbying regulation. @Tra131
+- **Angaben zu Lobbyaktivitäten erfolgen meist auf freiwilliger Basis, wodurch Informationen vor den Interessengruppen und der breiten Öffentlichkeit verborgen bleiben können.** Weniger als 0,1 % der Gelder, die FTSE-100-Unternehmen in den Jahren 2015–2016 für Lobbyarbeit bei der EU ausgegeben haben, wurden den Aktionären offengelegt. @Ral17
+- **Aktuelle Lobbypraktiken zielen größtenteils darauf ab, den Status quo aufrechtzuerhalten.** Im Jahr 2013 gab die Industrie für fossile Brennstoffe 213 Millionen US-Dollar aus, um bei Entscheidungsträgern in den USA und der EU Lobbyarbeit zu betreiben, um Maßnahmen gegen den Klimawandel zu verhindern. @Oxf14
+- **Eine schwache Regulierung im Bereich Lobbying ermöglicht eine anhaltende Undurchsichtigkeit der Unternehmensaktivitäten.** Lediglich in sieben EU-Ländern gibt es irgendeine Form von Lobbying-Regulierung. @Tra131
 
-#### 1.3 How this goal contributes to the SDGs {-#be22-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be22-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may help to drive progress with respect to all SDGs by only seeking to lobby or otherwise exert their corporate influence in ways that safeguard the pursuit of future‑fitness. But the most direct link with respect to this goal is:
+Unternehmen können dazu beitragen, Fortschritte bei allen SDGs voranzutreiben, indem sie ihre Lobbyarbeit oder ihren unternehmerischen Einfluss nur in einer Weise ausüben, die die Zukunftsfähigkeit sicherstellt. Der unmittelbarste Zusammenhang mit diesem Ziel besteht jedoch darin, dass:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 16](assets/sdg/sdg-16.svg) | Do not undermine broader efforts to improve the effectiveness, accountability or transparency of institutions at any level, or efforts to foster responsive, inclusive, participatory and representative decision-making at all levels. |
+| ![SDG 16](assets/sdg/sdg-16.svg) | Untergraben Sie keinesfalls die umfassenderen Bemühungen zur Verbesserung der Wirksamkeit, Rechenschaftspflicht oder Transparenz von Institutionen auf allen Ebenen oder die Bemühungen zur Förderung einer bürgernahen, inklusiven, partizipativen und repräsentativen Entscheidungsfindung auf allen Ebenen. |
 </div>
 
-#### 1.4 Related goals {-#be22-related-goals}
+#### 1.4 Verwandte Ziele {-#be22-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Dieser Abschnitt soll dazu beitragen, den Anwendungsbereich dieses Ziels zu verdeutlichen. Er hilft Ihnen zu verstehen, welche Themen unter dieses Ziel fallen und in welchen Fällen stattdessen andere Ziele gelten.
 
-The _Lobbying_ goal has the potential to touch on any of the topics that are the focus of the other goals, but the criteria guiding progress toward those other goals do not apply here. Instead, the _Lobbying_ goal focuses on the company's efforts to influence the broader socioeconomic system – for example by supporting a particular legislative outcome – which could hamper progress toward future-fitness beyond the company's own business.
+Das Ziel _Lobbying_ hat das Potenzial, Themen zu berühren, die im Mittelpunkt der anderen Ziele stehen, aber die Kriterien, die den Fortschritt in Richtung dieser anderen Ziele steuern, gelten hier nicht. Stattdessen konzentriert sich das Lobbying-Ziel auf die Bemühungen des Unternehmens, Einfluss auf das breitere sozioökonomische System zu nehmen – beispielsweise durch die Unterstützung eines bestimmten Gesetzesergebnisses –, was den Fortschritt in Richtung Zukunftsfähigkeit über das eigene Geschäft hinaus behindern könnte.
 
-### 2. Action {-#be22-action}
+### 2. Aktion {-#be22-action}
 
-#### 2.1 Getting started {-#be22-getting-started}
+#### 2.1 Erste Schritte {-#be22-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Many companies take an active interest in – and seek to influence – changes in policy and legislation that affect their business. This influence extends beyond actions normally associated with the word "lobbying" @Inf17 and includes efforts to shape the public discourse through activities such as advertising, public relations, social media, and participation in influential forums, including trade associations and advocacy groups.
+Viele Unternehmen interessieren sich aktiv für Änderungen in der Politik und Gesetzgebung, die sich auf ihr Geschäft auswirken, und versuchen, Einfluss darauf zu nehmen. Dieser Einfluss geht über Handlungen hinaus, die normalerweise mit dem Wort „Lobbying“ in Verbindung gebracht werden. @Inf17 Dazu gehören Bemühungen, den öffentlichen Diskurs durch Aktivitäten wie Werbung, Öffentlichkeitsarbeit, soziale Medien und die Teilnahme an einflussreichen Foren, einschließlich Handelsverbänden und Interessengruppen, zu gestalten.
 
-Lobbying is a complex issue. On the positive side, it can help governments to make more informed policy decisions, by furnishing them with leading knowledge or concrete data on a given topic. It is also a way for constituents and those who will be impacted by government action to voice their opinions. On the other hand, lobbying is often a 'pay-to-play' activity, granting wealthy individuals and corporations a disproportionate share of influence, the results of which may not align with the best interests of other individuals or society as a whole. This imbalance, combined with a lack of transparency around lobbying activities, can degrade trust in both companies and legislative or regulatory bodies.
+Lobbying ist ein komplexes Thema. Positiv ist, dass es Regierungen dabei helfen kann, fundiertere politische Entscheidungen zu treffen, indem es ihnen führendes Wissen oder konkrete Daten zu einem bestimmten Thema liefert. Es ist auch eine Möglichkeit für Wähler und diejenigen, die von Regierungsmaßnahmen betroffen sein werden, ihre Meinung zu äußern. Andererseits handelt es sich bei Lobbying oft um eine „Pay-to-Play“-Aktivität, die wohlhabenden Privatpersonen und Unternehmen einen unverhältnismäßig großen Einfluss gewährt, dessen Ergebnisse möglicherweise nicht mit den besten Interessen anderer Einzelpersonen oder der Gesellschaft als Ganzes im Einklang stehen. Dieses Ungleichgewicht, gepaart mit einem Mangel an Transparenz bei Lobbying-Aktivitäten, kann das Vertrauen sowohl in Unternehmen als auch in Gesetzgebungs- oder Regulierungsbehörden beeinträchtigen.
 
-Companies should therefore identify and disclose details of their lobbying and advocacy contributions, and implement controls to assess the potential impacts of the causes they support.
+Unternehmen sollten daher ihre Lobby- und Interessenvertretungsbeiträge ermitteln und offenlegen sowie Kontrollmechanismen einführen, um die potenziellen Auswirkungen der von ihnen unterstützten Anliegen zu bewerten.
 
 <div class="callout-note">
-Note that "contributions" are discussed throughout this goal in the context of dollar spend and value, but they could also take the form of non-cash support, such as employee time, granting the use of company facilities, or other in-kind donations. See this [frequently asked question](#be22-determining-value) for further information.
+Beachten Sie, dass „Beiträge“ im Rahmen dieses Ziels durchgehend im Zusammenhang mit Dollarbeträgen und -werten diskutiert werden, jedoch auch in Form von Sachleistungen erfolgen können, wie z. B. in Form von Arbeitszeit der Mitarbeiter:innen, der Überlassung von Unternehmenseinrichtungen oder anderer Sachspenden. Weitere Informationen finden Sie in dieser [häufig gestellten Frage](#be22-determining-value).
 </div>
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company take part in activities that are explicitly defined as lobbying, undertake other actions which seek to change public policy or public opinion, or contribute to third parties who do the same? [^4#be22-4] {-}
+###### Beteiligt sich das Unternehmen an Aktivitäten, die ausdrücklich als Lobbyarbeit definiert sind, ergreift es andere Maßnahmen, die darauf abzielen, die öffentliche Politik oder die öffentliche Meinung zu beeinflussen, oder leistet es Beiträge an Dritte, die dies tun?[^4#be22-4] {-}
 
-- If so, what are the company's objectives? Could any of the issues the company is advocating for directly cause – or unavoidably lead to – outcomes that undermine society's progress toward future-fitness?
-- How does the company discuss these activities with its shareholders, and with the general public? Is the senior management team or the board of directors explicitly aware of the various causes and contributions that the company makes? Or does decentralization of approval processes, or inconsistency in where they are recorded, make it difficult for management to understand the overall picture?
+- Wenn ja, welche Ziele verfolgt das Unternehmen dabei? Könnten die Themen, für die sich das Unternehmen einsetzt, direkt Ergebnisse verursachen – oder unweigerlich dazu führen –, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit untergraben?
+- Wie kommuniziert das Unternehmen diese Aktivitäten gegenüber seinen Aktionären und der Öffentlichkeit? Ist sich die Geschäftsleitung oder der Verwaltungsrat der verschiedenen Anliegen und Beiträge des Unternehmens ausdrücklich bewusst? Oder erschweren dezentrale Genehmigungsprozesse oder uneinheitliche Erfassungsstellen es dem Management, sich einen Überblick zu verschaffen?
 
-###### Does the company belong to any bodies which influence on its behalf? {-}
+###### Gehört das Unternehmen irgendwelchen Verbänden an, die in seinem Namen Einfluss nehmen? {-}
 
-- Does the company contribute to any external organization(s) which represent its interests (either individually or as part of a broader group) to government or other regulatory bodies? Does the company know what positions those organizations advocate for? Do they align with the values of the company? Could lobbying for those positions directly cause – or unavoidably lead to – outcomes that undermine society's progress toward future-fitness?
+- Leistet das Unternehmen Beiträge zu externen Organisationen, die seine Interessen (entweder einzeln oder als Teil einer größeren Gruppe) gegenüber der Regierung oder anderen Regulierungsbehörden vertreten? Weiß das Unternehmen, welche Positionen diese Organisationen vertreten? Stimmen sie mit den Werten des Unternehmens überein? Könnte Lobbyarbeit für diese Positionen direkt zu Ergebnissen führen – oder zwangsläufig dazu führen – die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit untergraben?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### In what areas can the company make the most significant progress? {-}
+###### Was sind die besten Möglichkeiten, um Fortschritte zu erzielen? {-}
 
-- Where does the company spend the largest portion of its lobbying or advocacy money? Which projects or organizations does it most contribute employees' time to? A change to these areas could make a large difference to the company's impact.
-- Which groups or topics does the company contribute to that have (or risk having) the most significant negative impact on society's progress toward future-fitness?
-- Which groups or topics that the company supports have the potential to be damaging to the company's reputation?
-- Does the company disclose the amounts, nature, timing or recipients of its influencing contributions? If not, is there a person or department who is responsible for – or aware of – the full extent of the company's various lobbying and advocacy spends? What reporting vehicles are available to the company to communicate this information to management, the board, shareholders, and/or the general public?
+- Wofür gibt das Unternehmen den größten Teil seiner Mittel für Lobbyarbeit oder Interessenvertretung aus? Für welche Projekte oder Organisationen stellen die Mitarbeiter:innen den größten Teil ihrer Arbeitszeit zur Verfügung? Eine Veränderung in diesen Bereichen könnte einen großen Einfluß auf die Wirkung des Unternehmens haben.
+- Für welche Gruppen oder Themen engagiert sich das Unternehmen, die den größten negativen Einfluss auf den gesellschaftlichen Fortschritt in Richtung Zukunftsfähigkeit haben (oder haben könnten)?
+- Welche von dem Unternehmen unterstützten Gruppen oder Themen könnten dem Ruf des Unternehmens schaden?
+- Offenlegt das Unternehmen die Höhe, Art, den Zeitpunkt oder die Empfänger:innen seiner Einflussnahmen? Falls nicht, gibt es eine Person oder Abteilung, die für den gesamten Umfang der verschiedenen Lobby- und Interessenvertretungsausgaben des Unternehmens verantwortlich ist oder darüber informiert ist? Welche Berichtswege stehen dem Unternehmen zur Verfügung, um diese Informationen an die Geschäftsleitung, den Vorstand, die Aktionäre und/oder die Öffentlichkeit weiterzugeben?
 
-###### Which potential improvements would be the easiest to implement? {-}
+###### Welche potenziellen Verbesserungen wären am einfachsten umzusetzen? {-}
 
-- Does the company have its own public relations, lobbying or advocacy departments? Their interactions are likely easier to control or adapt than those of groups in which the company is just one of a number of contributing members.
-- Does the company have systems in place within some parts of its operations, or at specific subsidiaries, that it uses to disclose third-party contributions? Could such systems be adopted more widely?
-- Would the inclusion of lobbying and advocacy information in existing company reports be an appropriate and useful addition? Whose approval would be needed to include such information? Which teams and systems would be involved in gathering and preparing this information?
+-  Verfügt das Unternehmen über eigene Abteilungen für Öffentlichkeitsarbeit, Lobbyarbeit oder Interessenvertretung? Deren Aktivitäten lassen sich wahrscheinlich leichter kontrollieren oder anpassen als die von Gruppen, in denen das Unternehmen nur eines von vielen beteiligten Mitgliedern ist.
+- Verfügt das Unternehmen in einigen Betriebsbereichen oder in bestimmten Tochtergesellschaften über Systeme, die es zur Offenlegung von Beiträgen Dritter nutzt? Könnten solche Systeme in größerem Umfang übernommen werden?
+- Wäre die Aufnahme von Informationen zu Lobbyarbeit und Interessenvertretung in bestehende Unternehmensberichte eine angemessene und sinnvolle Ergänzung? Wessen Zustimmung wäre für die Aufnahme solcher Informationen erforderlich? Welche Teams und Systeme wären an der Erhebung und Aufbereitung dieser Informationen beteiligt?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _social norms, global governance and economic growth drive the pursuit of future-fitness_?[^5#be22-5] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-social-norms).
+- Ist das Unternehmen in der Lage, über das zur Erreichung dieses Ziels erforderliche Maß hinaus etwas zu tun, um sicherzustellen, dass soziale Normen, globale Governance und Wirtschaftswachstum das Streben nach Zukunftsfähigkeit vorantreiben?[^5#be22-5] Jede derartige Maßnahme kann den gesellschaftlichen Fortschritt in Richtung Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-social-norms).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be22-pursuing}
+#### 2.2 Zukunftsfähigkeiten anstreben {-#be22-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-Companies must continuously work to ensure that they – and others acting on their behalf – do not lobby or otherwise exert their influence to pursue outcomes that could undermine society's progress toward future-fitness.
+Unternehmen müssen kontinuierlich dafür sorgen, dass sie – und andere, die in ihrem Auftrag handeln – keine Lobbyarbeit betreiben oder auf andere Weise Einfluss ausüben, um Ziele zu verwirklichen, die den Fortschritt der Gesellschaft auf dem Weg zu einer zukunftsfähigen Gesellschaft untergraben könnten.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-To be Future-Fit, the company must have effective controls in place[^6#be22-6] to guide its lobbying and advocacy activities, and must be transparent about them. To do this, the company should ensure it has satisfied the criteria in each of the three categories below:
+Um zukunftsfähig zu sein, muss das Unternehmen über wirksame Kontrollmechanismen verfügen[^6#be22-6] die seine Lobby- und Interessenvertretungsaktivitäten regeln, und diese transparent gestalten. Zu diesem Zweck sollte das Unternehmen sicherstellen, dass es die Kriterien in jeder der drei folgenden Kategorien erfüllt:
 
-###### Lobbying and advocacy policy requirements {-}
+###### Anforderungen an die Lobbyarbeit- und Interessensvertretungspolitik {-}
 
-The company must adopt and publicly document a policy which includes the following components:
+Das Unternehmen muss eine Richtlinie einführen und öffentlich dokumentieren, die die folgenden Komponenten umfasst:
 
-- The company states that it will not seek to influence public policy or public opinion in ways that could undermine society's progress toward future-fitness.
-  - This includes not campaigning for – or supporting individuals or organizations who actively campaign for – policies or behaviours that seek to put in place or preserve conditions that either directly, or due to unavoidable consequences, lead to outcomes that undermine society's progress toward future-fitness.
-  - This also includes setting out any specific positions that the company will _not_ support, under any circumstances (e.g. not contributing to any political campaign which actively seeks to promote the continued use of fossil fuels).
-- The policy applies across all regions, and to all departments and individuals in the company with the opportunity either to influence people directly (e.g. by running consumer campaigns) or to make cash disbursements and non-cash contributions to third parties.
+- Das Unternehmen erklärt, dass es nicht versuchen wird, die öffentliche Ordnung oder die öffentliche Meinung in einer Weise zu beeinflussen, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit gefährden könnte.
+  - Dies schließt ein, sich nicht für politische Maßnahmen oder Verhaltensweisen einzusetzen – oder Personen oder Organisationen zu unterstützen, die sich aktiv dafür einsetzen –, die darauf abzielen, Bedingungen zu schaffen oder aufrechtzuerhalten, die entweder direkt oder aufgrund unvermeidbarer Folgen zu Ergebnissen führen, die den Fortschritt der Gesellschaft in Richtung Zukunftsfähigkeit untergraben.
+  - Dazu gehört auch die Darlegung spezifischer Positionen, die das Unternehmen unter keinen Umständen unterstützen wird (z. B. keine Beteiligung an einer politischen Kampagne, die sich aktiv für die weitere Nutzung fossiler Brennstoffe einsetzt).
+- Die Richtlinie gilt in allen Regionen und für alle Abteilungen und Personen im Unternehmen mit der Möglichkeit, entweder direkt Einfluss auf Menschen zu nehmen (z. B. durch die Durchführung von Verbraucherkampagnen) oder Barauszahlungen und Sachspenden an Dritte zu leisten.
 
-###### Control processes for contributions {-}
+###### Kontrollprozesse für Spenden {-}
 
-Further, the company must have controls in place to ensure that it lives up to its policy. These must include:
+ Darüber hinaus muss das Unternehmen über Kontrollmechanismen verfügen, um sicherzustellen, dass es seine Richtlinien einhält. Dazu gehören:
 
-- Controls to ensure the company itself does not directly undertake any lobbying or advocacy that is at odds with the policy.
-- Controls to ensure the company exercises due diligence before making contributions to third-party influencers, ensuring it is well informed about the objectives or platforms and activities of prospective recipients.
-  - When a contribution recipient engages in multiple activities, where some activities are at odds with the company's policy and others are aligned, the company must formally alert the recipient to the aspects of their platform which it does not support and for which its funding must not be used.
-- Controls to ensure that the due diligence process is performed at appropriate times, including before non-cash contributions are made, and before participating in events that seek to influence public policy or public opinion.
-- Controls that schedule the regular review of lobbying and advocacy activity undertaken by the company itself, and by individuals and groups that it supports.
-  - The aim of this control is to ensure the company remains aware of its own influencing efforts, and to identify any shifts in the platforms of supported third parties which are at odds with the company's policy.
-- Clear guidance for action in cases where a current or potential recipient's influencing activity is found to be at odds with the company's policy.
+- Kontrollmechanismen, die gewährleisten, dass das Unternehmen selbst keine Lobbyarbeit oder Interessenvertretung betreibt, die im Widerspruch zu den Richtlinien steht.
+- Kontrollmechanismen, die sicherstellen, dass das Unternehmen vor der Gewährung von Spenden an externe Einflussnehmer eine Sorgfaltsprüfung durchführt, um sich umfassend über die Ziele, Plattformen und Aktivitäten der potenziellen Empfänger:innen zu informieren.
+  - Wenn ein:e Empfänger:in von Beiträgen mehrere Aktivitäten ausübt, von denen einige im Widerspruch zur Richtlinie des Unternehmens stehen und andere mit ihr im Einklang sind, muss das Unternehmen die/den Empfänger:in formell auf die Aspekte seiner Plattform hinweisen, die es nicht unterstützt und für die seine Mittel nicht verwendet werden dürfen.
+- Kontrollmechanismen, die sicherstellen, dass der Sorgfaltsprüfungsprozess zu geeigneten Zeitpunkten durchgeführt wird, einschließlich vor der Leistung von Sachspenden und vor der Teilnahme an Veranstaltungen, die darauf abzielen, die öffentliche Politik oder die öffentliche Meinung zu beeinflussen.
+- Kontrollmechanismen, die eine regelmäßige Überprüfung der Lobby- und Interessenvertretungsaktivitäten vorsehen, die vom Unternehmen selbst sowie von den von ihm unterstützten Personen und Gruppen durchgeführt werden.
+  - Ziel dieser Kontrollmaßnahme ist es, sicherzustellen, dass sich das Unternehmen seiner eigenen Einflussnahme bewusst bleibt, und etwaige Veränderungen auf den Plattformen der unterstützten Dritten zu erkennen, die im Widerspruch zur Unternehmensrichtlinie stehen.
+- Klare Handlungsanweisungen für den Fall, dass sich herausstellt, dass die Einflussnahme eines aktuellen oder potenziellen Empfängers im Widerspruch zur Unternehmenspolitik steht.
 
-###### Disclosure requirements for third-party contributions {-}
+###### Offenlegungspflichten für Beiträge an Dritte {-}
 
-For each contribution made to third-party influencers, the following must be disclosed:
+Für jeden Beitrag an Einflussnehmer:innen, die Drittparteien angehören, muss Folgendes offengelegt werden:
 
-- Recipient name(s).
-- Amount of contribution.
-- Date of contribution.
-- A summary of any concerns the company raised with the recipient about aspects of their platform or activities which it does not support.
+- Name(n) des/der Empfänger(s).
+- Beitragshöhe.
+- Datum des Beitrags.
+- Eine Zusammenfassung aller Bedenken, die das Unternehmen gegenüber dem Empfänger bezüglich Aspekten seiner Plattform oder Aktivitäten geäußert hat, die es nicht unterstützt.
 
-### 3. Assessment {-#be22-assessment}
+### 3. Bewertung {-#be22-assessment}
 
-#### 3.1 Progress indicators {-#be22-progress}
+#### 3.1 Fortschrittsindikatoren {-#be22-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Bewertung des Fortschritts {-}
 
-If the company _has not_ adopted and documented a policy on influencing that satisfies the criteria in the _Lobbying and advocacy policy_ category, or if it has not yet assessed whether its policy satisfies the criteria, it is **0% fit** with respect to this goal. If the company _has_ adopted and documented such a policy, then its score is calculated as follows:
+Wenn das Unternehmen keine Richtlinie zur Einflussnahme verabschiedet und dokumentiert hat, die die Kriterien der Kategorie „Richtlinien zu Lobbyarbeit und Interessenvertretung“ erfüllt, oder wenn es noch nicht geprüft hat, ob seine Richtlinie die Kriterien erfüllt, beträgt die Übereinstimmung in Bezug auf dieses Ziel **0 %**. Wenn das Unternehmen eine solche Richtlinie verabschiedet und dokumentiert hat, wird seine Punktzahl wie folgt berechnet:
 
-- **33% fit**: If only the _Lobbying and advocacy policy_ criteria category is satisfied.
-- **66% fit**: If in addition the _Control_ criteria category is satisfied.
-- **100% fit**: If in addition the _Disclosure_ criteria category is satisfied.
+- **33 % fit**: Wenn nur die Kriterienkategorie _Richtlinien zu Lobbyarbeit und Interessenvertretung_ erfüllt ist.
+- **66 % fit**: Wenn zusätzlich die Kategorie _Kontrollkriterien_ erfüllt ist.
+- **100 % fit**: Wenn zusätzlich die Kategorie _Offenlegungskriterien_ erfüllt ist.
 
-For an example of how this progress indicator can be calculated, see [here](#be22-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be22-example).
 
-#### 3.2 Context indicators {-#be22-context}
+#### 3.2 Kontextindikatoren {-#be22-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Rolle der Kontextindikatoren besteht darin, den Stakeholdern die zusätzlichen Informationen zu liefern, die sie benötigen, um das volle Ausmaß des Fortschritts eines Unternehmens zu beurteilen.
 
-####### Total expenditure with third-party influencers {-}
+####### Gesamtausgaben für externe Einflussnehmer:innen {-}
 
-In addition to the progress indicator, the company must disclose the total amount spent on contributions to third-party influencers (including political donations, fees for industry and advocacy groups, the value of in-kind contributions, etc.) during the reporting period.
+Zusätzlich zum Fortschrittsindikator muss das Unternehmen den Gesamtbetrag offenlegen, der im Berichtszeitraum für Zuwendungen an externe Einflussnehmer:innen aufgewendet wurde (einschließlich politischer Spenden, Honorare für Branchen- und Interessenverbände, des Werts von Sachleistungen usw.).
 
-For an example of how context indicators can be reported, see [here](#be22-example).
+Ein Beispiel dafür, wie Kontextindikatoren berichtet werden können, finden Sie [hier](#be22-example).
 
-### 4. Assurance {-#be22-assurance}
+### 4. Zuverlässigkeitserklärung {-#be22-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be22-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be22-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be22-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be22-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Provide a copy of the document where the company has published its policy regarding lobbying and advocacy. This can help assurers to verify that it has been made public, and that the policy is compliant with the fitness criteria.
-- Document the methods used to determine whether expenditures, industry group memberships or other advocacy positions held by the company are applicable for screening against the policy. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify instances of lobbying or public influence efforts.
-- Document the methods and frequency through which the company reviews the details of its stated policy and assesses the corresponding performance of the control mechanisms for lobbying and advocacy. Where these assessments identify opportunities for potential improvement or expansion, retain any evidence of actions taken by the company to implement or update the controls. This can help assurers to verify that appropriate controls are in place and being used by the company.
-- Retain supporting documentation (e.g. invoices, receipts) for documented lobbying contributions and other outlays applicable to the company's lobbying and advocacy policy. This can help assurers to verify the accuracy of the company's disclosures, and facilitate any work needed to confirm that there are no missing disclosures.
+- Legen Sie eine Kopie des Dokuments vor, in dem das Unternehmen seine Richtlinien zu Lobbyarbeit und Interessenvertretung veröffentlicht hat. Dies kann den Prüfern dabei helfen, zu bestätigen, dass diese veröffentlicht wurden und dass die Richtlinien den Fitnesskriterien entsprechen.
+- Dokumentieren Sie die Methoden, mit denen festgestellt wird, ob Ausgaben, Mitgliedschaften in Branchenverbänden oder andere Positionen des Unternehmens im Bereich der Interessenvertretung für eine Überprüfung anhand der Richtlinien relevant sind.  Eine Beschreibung, wie diese ermittelt wurden, kann den Prüfern helfen zu beurteilen, ob der Ansatz des Unternehmens das Risiko birgt, Fälle von Lobbyarbeit oder Bemühungen zur Beeinflussung der Öffentlichkeit zu übersehen.
+- Dokumentieren Sie die Methoden und die Häufigkeit, mit der das Unternehmen die Einzelheiten seiner erklärten Richtlinie überprüft und die entsprechende Wirksamkeit der Kontrollmechanismen für Lobbyarbeit und Interessenvertretung bewertet. Wenn diese Bewertungen Möglichkeiten für potenzielle Verbesserungen oder Erweiterungen aufzeigen, bewahren Sie alle Nachweise über Maßnahmen auf, die das Unternehmen zur Umsetzung oder Aktualisierung der Kontrollen ergriffen hat. Dies kann den Prüfern helfen, zu überprüfen, ob angemessene Kontrollen vorhanden sind und vom Unternehmen angewendet werden.
+- Bewahren Sie Belege (z. B. Rechnungen, Quittungen) für dokumentierte Lobbying-Beiträge und sonstige Ausgaben auf, die im Rahmen der Lobbyarbeit- und Interessenvertretungsrichtlinie des Unternehmens anfallen. Dies kann den Prüfern dabei helfen, die Richtigkeit der Angaben des Unternehmens zu überprüfen, und erleichtert die erforderlichen Arbeiten zur Sicherstellung, dass keine Angaben fehlen.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be22-additional}
+### 5. Zusätzliche Informationen {-#be22-additional}
 
-#### 5.1 Example {-#be22-example}
+#### 5.1 Beispiel {-#be22-example}
 
-ACME Inc. sells lemonade products. It has adopted a Future-Fit lobbying and advocacy policy and is a member of the International Beverage Council (IBC) as well as the Association of General Trade (AGT). The IBC has acknowledged the links between increasing obesity rates and the intake of sugared beverages, and it is working with authorities to come up with the best industry-wide solutions.
+ACME Inc. vertreibt Limonadenprodukte. Das Unternehmen hat eine „Future-Fit“-Richtlinie für Lobbyarbeit und Interessenvertretung verabschiedet und ist Mitglied des International Beverage Council (IBC) sowie der Association of General Trade (AGT). Der IBC hat den Zusammenhang zwischen steigenden Adipositasraten und dem Konsum zuckerhaltiger Getränke anerkannt und arbeitet mit den Behörden zusammen, um die besten branchenweiten Lösungen zu erarbeiten.
 
-AGT actively lobbies against a minimum wage increase in a range of countries where the current minimum wage is far below the estimated living wage.
+Die AGT setzt sich in einer Reihe von Ländern, in denen der derzeitige Mindestlohn weit unter dem geschätzten existenzsichernden Lohn liegt, aktiv gegen eine Erhöhung des Mindestlohns ein.
 
-ACME pays an annual fee of $20,000 to IBC and $30,000 to AGT.
+ACME zahlt eine jährliche Gebühr von 20.000 US-Dollar an IBC und 30.000 US-Dollar an AGT.
 
-After a review of AGT's activities, ACME decides that its activity is undermining future-fitness in regard to paying a living wage, and should therefore not be considered fit.
+Nach einer Überprüfung der Aktivitäten von AGT kommt ACME zu dem Schluss, dass seine Aktivität die Zukunftsfähigkeit im Hinblick auf die Zahlung eines existenzsichernden Lohns untergräbt und daher nicht als geeignet angesehen werden sollte.
 
-ACME has an official lobbying and advocacy policy in place, but had not informed AGT that the company did not support its living wage position. ACME did not live up to the _Control_ category of the fitness criteria during the period, and decides that it must actively engage AGT on this issue before disclosing its contributions. ACME therefore measures its progress as 33%, and discloses the total amount spent with third-party influencers.
+ACME verfügt über eine offizielle Lobby- und Interessenvertretungsrichtlinie, hatte AGT jedoch nicht darüber informiert, dass das Unternehmen dessen Position zum existenzsichernden Lohn nicht unterstützt. ACME hat die Anforderungen der Kategorie _Kontrolle_ der Fitnesskriterien während des Berichtszeitraums nicht erfüllt und beschließt, AGT aktiv in diese Angelegenheit einzubeziehen, bevor es seine Beiträge offenlegt. ACME bewertet seinen Fortschritt daher mit 33 % und legt den Gesamtbetrag offen, der für externe Einflussnehmer ausgegeben wurde.
 
-####### Context indicator {-}
+####### Kontextindikator {-}
 
-Total expenditure with third-party influencers = $50,000
+Gesamtausgaben für externe Einflussnehmer = 50.000 $
 
-#### 5.3 Useful links {-#be22-useful-links}
+#### 5.3 Nützliche Links {-#be22-useful-links}
 
 ##### InfluenceMap {-}
 
-[InfluenceMap](https://influencemap.org/) measures and scores corporate influence on climate change policy, through a comprehensive process of examining publicly available information (e.g. legislative consultations, respected press, CDP responses). @Inf17
+[InfluenceMap](https://influencemap.org/) misst und bewertet den Einfluss von Unternehmen auf die Klimapolitik anhand eines umfassenden Verfahrens zur Auswertung öffentlich zugänglicher Informationen (z. B. Gesetzgebungskonsultationen, renommierte Presse, CDP-Antworten). @Inf17
 
-##### The Robert Zicklin Center for Corporate Integrity (ZCCI) {-}
+##### Das Robert Zicklin Center for Corporate Integrity (ZCCI) {-}
 
-The [CPA-Zicklin Index of Corporate Political Disclosure and Accountability](https://politicalaccountability.net/hifi/files/index/2016CPAZicklinIndex.pdf) measures a company's willingness to disclose and be transparent about its corporate political activity. The Index measures the ease with which someone can find the relevant materials on company websites; what policies, procedures, and corporate governance structures are in place and disclosed; and what the company says about who and what it gives to, and how those donations are made.
+Der [CPA-Zicklin-Index für politische Offenlegung und Rechenschaftspflicht](https://politicalaccountability.net/hifi/files/index/2016CPAZicklinIndex.pdf) von Unternehmen misst die Bereitschaft eines Unternehmens, seine politischen Aktivitäten offenzulegen und transparent darzulegen. Der Index erfasst, wie leicht relevante Informationen auf den Unternehmenswebsites zu finden sind, welche Richtlinien, Verfahren und Corporate-Governance-Strukturen vorhanden sind und offengelegt werden sowie welche Angaben das Unternehmen darüber macht, an wen und wofür es spendet und wie diese Spenden getätigt werden.
 
 ##### Transparency International {-}
 
-The UK chapter of [Transparency International](https://www.transparency.org.uk/), has released the [2018 Corporate Political Engagement Index](https://www.transparency.org.uk/publications/cpei2018/), which assesses businesses on how transparent they are in their political engagement. @Tra19
+Die britische Sektion von [Transparency International](https://www.transparency.org.uk/), hat den [2018 Corporate Political Engagement Index](https://www.transparency.org.uk/publications/cpei2018/), veröffentlicht, der Unternehmen danach bewertet, wie transparent sie bei ihrem politischen Engagement sind. @Tra19
 
-#### 5.2 Frequently asked questions {-#be22-faq}
+#### 5.2 Häufig gestellte Fragen {-#be22-faq}
 
-##### Determining the value of non-cash donations {-#be22-determining-value}
+##### Ermittlung des Wertes von Sachspenden {-#be22-determining-value}
 
-A dollar weighting should be applied to non-cash contributions in order to assess them in the context of the broader, company-wide fitness calculation. Wherever possible, the valuation of these contributions should mirror the way that these contributions are valued by the company for tax purposes.
+Sachspenden sollten mit einem Dollarwert gewichtet werden, um sie im Rahmen der umfassenderen, unternehmensweiten Fitnessberechnung zu bewerten. Soweit möglich sollte die Bewertung dieser Beiträge der Art und Weise entsprechen, wie das Unternehmen diese Beiträge für steuerliche Zwecke bewertet.
 
-If for some reason that is not applicable, the company should determine the monetary value of the contribution by using a comparable market price and briefly explaining how the calculation was made. For example, providing free use of company facilities as a venue for a political campaign might be assigned a value equivalent to the commercial price of hiring a comparable venue in the same area.
+Wenn dies aus irgendeinem Grund nicht zutrifft, sollte das Unternehmen den Geldwert des Beitrags anhand eines vergleichbaren Marktpreises ermitteln und kurz erläutern, wie die Berechnung durchgeführt wurde. Beispielsweise könnte der Bereitstellung einer kostenlosen Nutzung von Unternehmenseinrichtungen als Veranstaltungsort für eine politische Kampagne ein Wert zugewiesen werden, der dem kommerziellen Preis für die Anmietung eines vergleichbaren Veranstaltungsortes in derselben Gegend entspricht.
 
 
-[^1#be22-1]: Lobbying or advocating _in favour_ of Future-Fit outcomes could potentially _speed up_ society's progress to future-fitness, which would fall under the Positive Pursuits. For more information, see the [**Positive Pursuit Guide**](#pp-social-norms).
+[^1#be22-1]: Lobbyarbeit oder das Eintreten für „Future-Fit“ -Ergebnisse könnte den Fortschritt der Gesellschaft hin zur Zukunftsfähigkeit potenziell beschleunigen, was unter die „Positive Pursuits“ fallen würde. Weitere Informationen finden Sie im [**Positive Pursuit Guide**](#pp-social-norms).
 
-[^2#be22-2]: Third-party influencers include: lobbying firms; trade associations; trade unions; interest groups; professional bodies; think tanks; charities; and the media. @Han07
+[^2#be22-2]: Zu den Einflussnehmern aus dem Umfeld Dritter zählen: Lobbying-Unternehmen, Wirtschaftsverbände, Gewerkschaften, Interessengruppen, Berufsverbände, Thinktanks, Wohltätigkeitsorganisationen und die Medien. @Han07
 
-[^3#be22-3]: 'Contributions' in the context of this goal refers to the transfer of cash or in-kind assets or services.
+[^3#be22-3]: _Beiträge_ im Sinne dieses Ziels beziehen sich auf die Übertragung von Bargeld oder Sachwerten oder Dienstleistungen.
 
-[^4#be22-4]: Expenses for activities that are functionally equivalent to lobbying may be described as 'public relations', 'political contributions', 'industry advocacy', or similar.
+[^4#be22-4]: Ausgaben für Aktivitäten, die funktional mit Lobbyarbeit gleichzusetzen sind, können als „Öffentlichkeitsarbeit“, „politische Spenden“, „Industrievertretung“ oder ähnliches beschrieben werden.
 
-[^5#be22-5]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^5#be22-5]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^6#be22-6]: See the [**Implementation Guide**](#ig-internal-controls) for details on how to design effective controls.
+[^6#be22-6]: Einzelheiten zur Gestaltung wirksamer Kontrollmechanismen finden Sie im [**Umsetzungsleitfaden**](#ig-internal-controls).

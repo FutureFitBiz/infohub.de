@@ -154,7 +154,7 @@ Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie 
 
 Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Beurteilung des Fortschritts {-}
+##### Fortschrittsbewertung {-}
 
 Dieses Ziel hat einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
@@ -188,17 +188,17 @@ Für die Ermittlung der Firmenfitness wird die absolute Menge an verbrauchter En
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be01-example).
 
-### 4. Prüfung und Sicherheit {-#be01-assurance}
+### 4. Zuverlässigkeitserklärung {-#be01-assurance}
 
-#### 4.1  4.1. Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be01-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be01-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be01-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass der gesamte betriebliche Energieverbrauch ermittelt wurde. Hierzu zählen örtlich bezogener und selbst erzeugter Strom sowie Kraftstoffe (z. B. für Heizung und Firmenwagen). Anhand dieser Informationen können Prüfer:innen beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass Energieverbräuche nicht erfasst werden, was wiederum zu einer fehlerhaften Berechnung des Indikators führen könnte.
 - Dokumentieren Sie die verwendeten Methoden und die herangezogenen Quellen zur Berechnung des Anteils erneuerbarer Energien der Anbieter, damit die Prüfer:innen die Eingaben für die Indikatorberechnungen nachvollziehen und überprüfen können.

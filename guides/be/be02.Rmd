@@ -193,7 +193,7 @@ Unterschiede zwischen dem eingeleiteten Wasser und dem aufnehmenden Wasserkörpe
 
 Unternehmen sollten bei der Aufbereitung ihres eingeleiteten Wassers anerkannte allgemeine Standards für eine einwandfreie Wasserqualität anwenden.
 
-Die US-EPA [Kriterien für die Wasserqualität](https://www.epa.gov/wqc/national-recommended-water-quality-criteria) bietet drei Kategorienlisten an – Wasserlebewesen, menschliche Gesundheit und organoleptische Auswirkungen (z. B. Geschmack und Geruch) – und definiert Akzeptanzschwellen, um sicherzustellen, dass eingeleitetes Abwasser keinen negativen Einfluss auf einen dieser Bereiche hat. @Usewn
+Die US-EPA [Kriterien für die Wasserqualität](https://www.epa.gov/wqc/national-recommended-water-quality-criteria) bietet drei Kategorienlisten an – Wasserlebewesen, menschliche Gesundheit und organoleptische Auswirkungen (z. B. Geschmack und Geruch) – und definiert Akzeptanzschwellen, um sicherzustellen, dass eingeleitetes Abwasser keinen negativen Einfluss auf einen dieser Bereiche hat. @Usewn
 
 Die EPA-Wasserqualitätskriterien bieten einen empfohlenen Mindeststandard, den die Unternehmen erreichen sollten.[^12#be02-12] Da die Merkmale und Probleme der Wasserqualität jedoch stark vom jeweiligen Standort abhängen, wird den Unternehmen empfohlen, mit lokalen Experten, öffentlichen Einrichtungen, Nichtregierungsorganisationen oder der Bevölkerung zusammenzuarbeiten, um die besonderen Probleme in den spezifischen Wassereinzugsgebieten, in denen sie arbeiten, zu verstehen. Um einen Einblick in diese standortspezifischen Unterschiede zu erhalten, sollten die Unternehmen die folgenden Schritte unternehmen:
 
@@ -240,7 +240,7 @@ Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie 
 
 Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementation Guide**](#ig-incomplete-data).
 
-##### Beurteilung des Fortschritts {-}
+##### Fortschrittsbewertung {-}
 
 Dieses Ziel hat zwei Fortschrittsindikatoren: einen für den Wasserverbrauch und einen für den Ableitung.
 
@@ -313,22 +313,22 @@ Die Wasserentnahme- und -ableitungsmengen während des Berichtszeitraums sind f�
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be02-example).
 
-### 4. Prüfung und Sicherheit {-#be02-assurance}
+### 4. Zuverlässigkeitserklärung {-#be02-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be02-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be02-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be02-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Dokumentieren Sie die Methoden, mit denen das Unternehmen sicherstellt, dass alle von ihm genutzten Wasserquellen erfasst wurden. Anhand dieser Informationen können Prüfer beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass der Wasserverbrauch in Gebieten mit Wasserstress nicht erfasst wird, was wiederum zu einer fehlerhaften Berechnung des Indikators führen könnte.
+- Dokumentieren Sie die Methoden, mit denen das Unternehmen sicherstellt, dass alle von ihm genutzten Wasserquellen erfasst wurden. Anhand dieser Informationen können Prüfer:innen beurteilen, ob bei dem Ansatz des Unternehmens die Gefahr besteht, dass der Wasserverbrauch in Gebieten mit Wasserstress nicht erfasst wird, was wiederum zu einer fehlerhaften Berechnung des Indikators führen könnte.
 - Dokumentieren Sie die entsprechenden Schritte, mit denen sichergestellt wird, dass das Unternehmen alle Wasserableitungsstellen des Unternehmens identifiziert hat. Diese Informationen können den Prüfern dabei helfen, zu beurteilen, ob der Ansatz des Unternehmens das Risiko birgt, dass Wasserableitungen nicht identifiziert werden.
-- Dokumentieren Sie die Methoden, mit denen festgestellt wird, ob Wasserquellen in wasserarmen Gebieten liegen, und bewahren Sie die Arbeitsunterlagen zu diesen Bewertungen auf. Die Prüfer können den verwendeten Ansatz bewerten, um zu überprüfen, ob das Unternehmen das Risiko der unwissentlichen Entnahme von Wasser aus gefährdeten Gebieten ausreichend berücksichtigt hat.
-- Dokumentieren Sie die Methode, die zur Berechnung des persönlichen Wasserverbrauchs der Mitarbeiter:innen verwendet wurde. Die Einzelheiten der Berechnungen - einschließlich etwaiger Anleitungen aus Drittquellen, auf die verwiesen wird - sollten für Prüfer aufbewahrt werden, die diese Informationen verwenden können, um sicherzustellen, dass die Berechnungen angemessen sind.
+- Dokumentieren Sie die Methoden, mit denen festgestellt wird, ob Wasserquellen in wasserarmen Gebieten liegen, und bewahren Sie die Arbeitsunterlagen zu diesen Bewertungen auf. Die Prüfer:innen können den verwendeten Ansatz bewerten, um zu überprüfen, ob das Unternehmen das Risiko der unwissentlichen Entnahme von Wasser aus gefährdeten Gebieten ausreichend berücksichtigt hat.
+- Dokumentieren Sie die Methode, die zur Berechnung des persönlichen Wasserverbrauchs der Mitarbeiter:innen verwendet wurde. Die Einzelheiten der Berechnungen - einschließlich etwaiger Anleitungen aus Drittquellen, auf die verwiesen wird - sollten für Prüfer:innen aufbewahrt werden, die diese Informationen verwenden können, um sicherzustellen, dass die Berechnungen angemessen sind.
 
 Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 

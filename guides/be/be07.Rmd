@@ -48,7 +48,7 @@ Unternehmen können zu mehreren SDGs beitragen, indem sie Betriebsabfälle verme
 Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
 - [**Die Wassernutzung ist umweltverträglich und sozial gerecht:**](#be02) Das Ziel _Betriebsabfälle_ bezieht sich auf Stoffe, die im Rahmen der betrieblichen Tätigkeiten anfallen und anschließend zurückgehalten werden, damit sie behandelt oder entsorgt werden können. Abwasser, das direkt in die Umwelt eingeleitet wird, fällt unter das Ziel _Wasser_.
-- [**Die Beschaffung gewährleistet die Zukunftsfähigkeit:**](#be04) Das Ziel _Betriebsabfälle_ bezieht sich auf die eigenen betrieblichen Aktivitäten des Unternehmens. Bedenken hinsichtlich der Zukunftsfähigkeit der Betriebsabläufe von Lieferanten werden durch das Ziel _Beschaffung_ abgedeckt.
+- [**Der Einkauf sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Ziel _Betriebsabfälle_ bezieht sich auf die eigenen betrieblichen Aktivitäten des Unternehmens. Bedenken hinsichtlich der Zukunftsfähigkeit der Betriebsabläufe von Lieferanten werden durch das Ziel _Beschaffung_ abgedeckt.
 - [**Betriebsemissionen schaden weder Mensch noch Umwelt:**](#be05) Das Ziel _Betriebsabfälle_ gilt für Stoffe, die im Rahmen betrieblicher Tätigkeiten anfallen und anschließend zurückgehalten werden, damit sie behandelt oder entsorgt werden können. Flüssige, gasförmige oder feste Abfälle, die versehentlich oder absichtlich direkt in die Umwelt gelangen, fallen unter das Ziel _Betriebsemissionen_.
 - [**Produkte können wiederverwendet werden:**](#be19) Das Ziel _Betriebsabfälle_ umfasst Nicht-Produkt-Stoffe (z. B. Verschnitt, Schrott, gebrauchte Lösungsmittel usw.), die infolge betrieblicher Aktivitäten anfallen. Bedenken hinsichtlich Produkten und Zusatzmaterialien wie Verpackungen, die sich in der Natur ansammeln können, fallen unter das Ziel _Produkte können wiederverwendet werden_.
 
@@ -136,7 +136,7 @@ Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie 
 
 Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ [**im Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Bewertung des Fortschritts {-}
+##### Fortschrittsbewertung {-}
 
 Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
@@ -183,17 +183,17 @@ Die absolute Menge des anfallenden Abfalls entspricht dem Wert von _W<sub>C</sub
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be07-example).
 
-### 4. Prüfung und Sicherheit {-#be07-assurance}
+### 4. Zuverlässigkeitserklärung {-#be07-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be07-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be07-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be07-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass das Unternehmen alle Abfälle erfasst hat, die während des Berichtszeitraums an jedem Standort angefallen sind. Eine Beschreibung der Erfassungsmethode kann den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens das Risiko besteht, dass Abfallquellen übersehen werden.
 - Bewahren Sie Nachweise über die Parameter auf, anhand derer das Unternehmen Betriebsabfälle als Abfall oder als Emissionen klassifiziert. Die Prüfer:innen können diese Informationen nutzen, um den verwendeten Ansatz nachzuvollziehen und zu überprüfen sowie sicherzustellen, dass er einheitlich angewendet wurde.

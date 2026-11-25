@@ -45,7 +45,7 @@ Unternehmen können zu mehreren SDGs beitragen, indem sie betriebliche Treibhaus
 
 Dieser Abschnitt soll dazu beitragen, den Geltungsbereich dieses Ziels zu verdeutlichen. Er hilft Ihnen zu verstehen, welche Themen unter dieses Ziel fallen und in welchen Fällen stattdessen andere Ziele gelten.
 
-- [**Beschaffung sichert die Zukunftsfähigkeit:**](#be04) Das Ziel _Betriebliche Treibhausgasemissionen_ befasst sich mit Emissionen, die das Unternehmen entweder direkt oder durch den Einkauf von Energie verursacht. Von Lieferanten ausgestoßene Treibhausgase fallen nicht unter dieses Ziel, sondern sind ein Faktor für die Bestimmung der Zukunftsfähigkeit der Lieferketten des Unternehmens und fallen daher unter das Ziel _Beschaffung_.
+- [**Der Einkauf sichert die Zukunftsfähigkeit:**](#be04) Das Ziel _Betriebliche Treibhausgasemissionen_ befasst sich mit Emissionen, die das Unternehmen entweder direkt oder durch den Einkauf von Energie verursacht. Von Lieferanten ausgestoßene Treibhausgase fallen nicht unter dieses Ziel, sondern sind ein Faktor für die Bestimmung der Zukunftsfähigkeit der Lieferketten des Unternehmens und fallen daher unter das Ziel _Beschaffung_.
 - [**Betriebsbedingte Emissionen schaden weder Mensch noch Umwelt:**](#be05) Emissionen von Nicht-Treibhausgas-Stoffen aus betrieblichen Tätigkeiten fallen unter das Ziel der betrieblichen Emissionen.
 - [**Produkte stoßen keine Treibhausgase aus:**](#be18) Das Ziel _Betriebliche Treibhausgase_ umfasst Treibhausgasemissionen aus betrieblichen Aktivitäten. Treibhausgase, die durch die Nutzung der Produkte eines Unternehmens ausgestoßen werden (oder voraussichtlich ausgestoßen werden), fallen unter das Ziel _Produkt-Treibhausgase_.
 
@@ -133,7 +133,7 @@ Für jede betriebliche Tätigkeit, die Treibhausgasemissionen verursacht, sollte
 - Die für die Bestandsaufnahme gewählte Abgrenzung.
 - Der Name des Standards, Protokolls oder der Methodik, die zur Erfassung von Aktivitätsdaten und zur Berechnung der Scope-1- und Scope-2-Emissionen verwendet wird.
 - Die Quelle für die Werte des globalen Erwärmungspotenzials (GWP), die zur Umrechnung der Zahlen in ein einheitliches Format verwendet werden [siehe Leitlinien zu globalen Erwärmungspotenzialen unten](#be06-gwp-guidance) below).
-- Alle verwendeten Emissionsfaktoren[^4#be06-4] und deren Herkunft.
+- Alle verwendeten Emissionsfaktoren und deren Herkunft.
 - Alle Unsicherheiten, die sich aus dem Erhebungsprozess ergeben.
 - Status der Verifizierung und/oder Zusicherung.
 
@@ -201,7 +201,7 @@ Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie 
 
 Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Bewertung des Fortschritts {-}
+##### Fortschrittsbewertung {-}
 
 Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
@@ -246,17 +246,17 @@ Das Unternehmen muss die Menge der im Berichtszeitraum verursachten Treibhausgas
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be06-example).
 
-### 4. Prüfung und Sicherheit {-#be06-assurance}
+### 4. Zuverlässigkeitserklärung {-#be06-assurance}
 
-#### 4.1 Wozu Prüfung und Sicherheit dienen und warum sie wichtig sind {-#be06-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be06-assurance-why}
 
 Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollen kann ein Unternehmen unabhängigen Prüfern helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Prüfungssicherheit zu geben und/oder Verbesserungen zu empfehlen.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 4.2 Empfehlungen für dieses Ziel {-#be06-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be06-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer versuchen, verschiedene Kontrollen und dokumentierte Nachweise zu bewerten. Die Nutzer sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen sichergestellt wird, dass das Unternehmen an jedem seiner Standorte alle Quellen von Treibhausgasemissionen (sowohl Scope 1 als auch 2) identifiziert hat. Die Beschreibung, wie diese identifiziert wurden, kann den Prüfern helfen zu beurteilen, ob der Ansatz des Unternehmens das Risiko birgt, dass die Quellen von Treibhausgasemissionen nicht identifiziert werden.
 - Bewahren Sie alle Belege auf, die das Ausmaß und die Qualität der dem Unternehmen im Berichtszeitraum zurechenbaren CO₂-Kompensationen (Offsets) bestätigen. Die Prüfer:innen können diese Informationen zur Überprüfung der Nettoemissionen des Unternehmens nutzen.
@@ -280,7 +280,7 @@ $$F=\frac{E_R-E_C}{E_R}=\frac{1,000-800}{1,000}=20\%$$
 
 Gesamtmenge der Treibhausgasemissionen im Berichtszeitraum: 800 tCO<sub>2</sub>e.
 
-#### 5.3 Nützliche Links {-#be06-useful-links}
+#### 5.2 Nützliche Links {-#be06-useful-links}
 
 ##### Das Treibhausgasprotokoll  {-}
 
@@ -297,7 +297,7 @@ Der Leitfaden zur Berichterstattung [Reporting Guidance](https://www.cdp.net/en/
 
 Der Leitfaden zur CO₂-Kompensation [Carbon Offset Guide](https://www.offsetguide.org) ist eine Initiative des Stockholm Environment Institute und des Greenhouse Gas Management Institute und wurde ins Leben gerufen, um Kompensationsprogramme und -strategien zu fördern, die den potenziellen Nutzen maximieren und gleichzeitig mögliche Risiken minimieren. Er enthält Beschreibungen verschiedener Arten von CO₂-Kompensationen und erläutert deren relative Wirksamkeit.
 
-#### 5.2 Häufig gestellte Fragen {-#be06-faq}
+#### 5.3 Häufig gestellte Fragen {-#be06-faq}
 
 ##### In welcher Beziehung steht dieses Ziel zu den Geltungsbereichen des Treibhausgasprotokolls?  {-}
 
@@ -307,7 +307,7 @@ Während das Greenhouse Gas Protocol es Unternehmen erlaubt, sowohl marktbasiert
 
 Darüber hinaus werden Scope-3-Emissionen durch weitere Break-Even-Ziele wie folgt abgedeckt:
 
-- [**Beschaffung sichert die Zukunftsfähigkeit**](#be04), wodurch ein Unternehmen für alle „Cradle-to-Gate“-Treibhausgasemissionen verantwortlich ist, die mit den eingekauften Produktinputs verbunden sind, sowie für diejenigen, die von Lieferanten ausgelagerter Kernfunktionen verursacht werden.
+- [**Der Einkauf sichert die Zukunftsfähigkeit**](#be04), wodurch ein Unternehmen für alle „Cradle-to-Gate“-Treibhausgasemissionen verantwortlich ist, die mit den eingekauften Produktinputs verbunden sind, sowie für diejenigen, die von Lieferanten ausgelagerter Kernfunktionen verursacht werden.
 - [**Produkte emittieren keine Treibhausgase**](#be18), wodurch ein Unternehmen für die Treibhausgase verantwortlich ist, die durch die Nutzung seiner Produkte emittiert werden (oder voraussichtlich emittiert werden).
 
 ##### Wie sieht es mit den Treibhausgasemissionen aus der Tierhaltung aus? {-}

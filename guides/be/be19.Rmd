@@ -2,387 +2,387 @@
 output: github_document
 ---
 
-## BE19: Products Repurposed {-#be19}
+## BE19: Wiederverwendete Produkte {-#be19}
 
-<div class="subtitle">Products can be repurposed
+<div class="subtitle">Produkte können wiederverwendet werden
 </div>
 
 ### 1. Ambition {-#be19-ambition}
 
-A Future-Fit Business does all it can to ensure that the physical goods it provides to others can be repurposed at the end of their useful life.[^1#be19-1]
+Ein zukunftsfähiges Unternehmen tut sein Möglichstes, um sicherzustellen, dass die physischen Güter, die es anderen zur Verfügung stellt, am Ende ihrer Nutzungsdauer wiederverwendet werden können.[^1#be19-1]
 
-#### 1.1 What this goal means {-#be19-what-goal-means}
+#### 1.1 Was dieses Ziel bedeutet {-#be19-what-goal-means}
 
-The world's resources are finite. Many renewable resources are consumed faster than they can regenerate, and as society's most accessible finite resources are used up, extraction methods often become increasingly disruptive. Demand for virgin resources can be mitigated if materials are repurposed, rather than discarded. Repurposing also eliminates costs – financial, environmental and human – that waste disposal incurs.
+Die Ressourcen der Welt sind endlich. Viele erneuerbare Ressourcen werden schneller verbraucht, als sie sich regenerieren können, und da die am besten zugänglichen endlichen Ressourcen der Gesellschaft aufgebraucht sind, werden Gewinnungsmethoden oft zunehmend störend. Die Nachfrage nach neuen Ressourcen kann gemindert werden, wenn Materialien einer anderen Verwendung zugeführt und nicht weggeworfen werden. Durch die Umnutzung entfallen auch die finanziellen, ökologischen und menschlichen Kosten, die durch die Abfallentsorgung entstehen.
 
-This goal encompasses sold and leased goods, as well as any other items provided to customers in support of commercial activities, but which the company does not consider to be revenue-generating.
+Dieses Ziel umfasst verkaufte und geleaste Waren sowie alle anderen Gegenstände, die Kunden zur Unterstützung kommerzieller Aktivitäten zur Verfügung gestellt werden, die das Unternehmen jedoch nicht als umsatzgenerierend ansieht.
 
-A Future-Fit company does all it can to ensure that the physical goods it provides to others can be responsibly repurposed at the end of their useful lives. These requirements cover both final products designed for end users, and intermediate goods which are incorporated or processed into final products by other companies.
+Ein Future-Fit-Unternehmen tut sein Möglichstes, um sicherzustellen, dass die physischen Waren, die es anderen zur Verfügung stellt, am Ende ihrer Nutzungsdauer einer verantwortungsvollen Wiederverwendung zugeführt werden können. Diese Anforderungen gelten sowohl für Endprodukte, die für Endverbraucher:innen bestimmt sind, als auch für Zwischenprodukte, die von anderen Unternehmen in Endprodukte eingearbeitet oder verarbeitet werden.
 
-To be Future-Fit, a company must ensure that: (a) whatever remains of the goods it supplies can be separated at the end of their useful life, to maximize their post-use recovery value, and (b) its customers have ready access to recovery services capable of extracting such value.
+Um zukunftsfähig zu sein, muss ein Unternehmen sicherstellen, dass (a) alle Reste der von ihm gelieferten Waren am Ende ihrer Nutzungsdauer abgetrennt werden können, um ihren Verwertungswert nach der Nutzung zu maximieren, und  (b) seine Kundinnen und Kunden einfachen Zugang zu Verwertungsdiensten haben, die in der Lage sind, diesen Wert zu erschließen.
 
-#### 1.2 Why this goal is needed {-#be19-why-goal-needed}
+####  1.2. Warum dieses Ziel erforderlich ist {-#be19-why-goal-needed}
 
-As with all Future-Fit Break-Even Goals, a company must reach this goal to ensure that it is doing nothing to undermine society's progress toward an environmentally restorative, socially just, and economically inclusive future. To find out more about how these goals were derived based on 30+ years of systems science, see the [**Methodology Guide**](#mg).
+Wie bei allen Future-Fit-Break-Even-Zielen muss ein Unternehmen dieses Ziel erreichen, um sicherzustellen, dass es nichts unternimmt, um den Fortschritt der Gesellschaft in Richtung einer ökologisch regenerativen, sozial gerechten und wirtschaftlich integrativen Zukunft zu untergraben. Weitere Informationen darüber, wie diese Ziele auf der Grundlage von mehr als 30 Jahren Systemwissenschaft abgeleitet wurden, finden Sie im [**Leitfaden zur Methodik**](#mg).
 
-These statistics help to illustrate why it is critical for all companies to reach this goal:
+Diese Statistiken veranschaulichen, warum es für alle Unternehmen von entscheidender Bedeutung ist, dieses Ziel zu erreichen:
 
-- **Though the technology exists to reclaim many used materials, only a small amount are actually repurposed:** 72% of plastic packaging is not recovered at all – 40% is land-filled, and 32% leaks out of the collection system — that is, either it is not collected at all, or it is collected but then illegally dumped or mismanaged. @Wor16
-- **13 million tons of textiles are thrown out each year in the US alone.** The US Environmental Protection Agency (EPA) stated that if this amount was repurposed, the reduction in GHG emissions would equate to removing 7.3 million cars from the road. Today only around 16% of textile products are recycled. @Sou17
-- **Considered to have the best rate of recycling, the paper industry is still far behind where it could be.** The global paper recycling rate stands at only around 58%. @Gfp15
+- **Obwohl die Technologie zur Rückgewinnung vieler gebrauchter Materialien vorhanden ist, wird nur ein geringer Teil tatsächlich wiederverwertet:** 72 % der Kunststoffverpackungen werden überhaupt nicht zurückgewonnen – 40 % landen auf Deponien, und 32 % entweichen aus dem Sammelsystem. Das heißt, sie werden entweder gar nicht erst gesammelt oder nach der Sammlung illegal entsorgt oder unsachgemäß behandelt. @Wor16
+- **Allein in den USA werden jedes Jahr 13 Millionen Tonnen Textilien weggeworfen.** Die US-Umweltschutzbehörde (EPA) gab an, dass die Reduzierung der Treibhausgasemissionen bei einer Wiederverwertung dieser Menge der Stilllegung von 7,3 Millionen Autos entspräche. Heute werden nur etwa 16 % der Textilprodukte recycelt. @Sou17
+- **Die Papierindustrie gilt als die Industrie mit der höchsten Recyclingquote, liegt aber immer noch weit hinter dem, was sie erreichen könnte.** Die weltweite Papierrecyclingquote liegt lediglich bei rund 58 %. @Gfp15
 
-#### 1.3 How this goal contributes to the SDGs {-#be19-goal-to-sdgs}
+#### 1.3 Wie dieses Ziel zu den SDGs beiträgt {-#be19-goal-to-sdgs}
 
-The UN Sustainable Development Goals (SDGs) are a collective response to the world's greatest systemic challenges, so they are naturally interconnected. Any given action may impact some SDGs directly, and others via knock-on effects. A Future-Fit Business can be sure that it is helping – and in no way hindering – progress towards the SDGs.
+Die UN-Ziele für nachhaltige Entwicklung (SDGs) sind eine kollektive Antwort auf die größten systemischen Herausforderungen der Welt und sind daher natürlich miteinander verbunden. Jede einzelne Maßnahme kann sich direkt auf einige SDGs und andere über Folgeeffekte auswirken. Ein zukunftsfähiges Unternehmen kann sicher sein, dass es den Fortschritt in Richtung der SDGs unterstützt – und ihn in keiner Weise behindert.
 
-Companies may contribute to several SDGs by making products that can be repurposed, and actively encouraging their suppliers to do the same. But the most direct links with respect to this goal are:
+Unternehmen können zu mehreren SDGs beitragen, indem sie Produkte herstellen, die wiederverwendet werden können, und ihre Lieferanten aktiv dazu ermutigen, dasselbe zu tun. Die direktesten Links zu diesem Ziel sind jedoch:
 
 <div class="table-sdg table-blue">
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link to this Break-Even Goal |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link zu diesem Break-Even-Ziel |
 |:-:|:-|
-| ![SDG 11](assets/sdg/sdg-11.svg) | Support efforts to reduce the adverse per capita environmental impact of cities, paying special attention to waste management. |
-| ![SDG 12](assets/sdg/sdg-12.svg) | Support efforts to achieve the environmentally sound management of all wastes throughout their life cycle, and efforts to substantially reduce waste generation through prevention, reduction, recycling and reuse. |
-| ![SDG 14](assets/sdg/sdg-14.svg) | Support efforts to prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities. |
+| ![SDG 11](assets/sdg/sdg-11.svg) | Unterstützung von Maßnahmen zur Verringerung der negativen Pro-Kopf-Umweltbelastung durch Städte unter besonderer Berücksichtigung der Abfallwirtschaft. |
+| ![SDG 12](assets/sdg/sdg-12.svg) | Unterstützung von Maßnahmen zur umweltgerechten Bewirtschaftung aller Abfälle während ihres gesamten Lebenszyklus sowie von Maßnahmen zur erheblichen Verringerung des Abfallaufkommens durch Vermeidung, Reduzierung, Recycling und Wiederverwendung. |
+| ![SDG 14](assets/sdg/sdg-14.svg) | Unterstützung von Maßnahmen zur Vermeidung und erheblichen Verringerung jeglicher Art von Meeresverschmutzung, insbesondere durch landseitige Aktivitäten. |
 </div>
 
-#### 1.4 Related goals {-#be19-related-goals}
+#### 1.4 Verwandte Ziele {-#be19-related-goals}
 
-The purpose of this section is to help clarify the scope for this goal. It will help you understand which issues are covered by this goal, and where other goals apply instead.
+Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Operational waste is eliminated:**](#be07) This _Products can be repurposed_ goal deals with the ability of customers and end users to recycle all non-biodegradable product components. Liquid, gaseous, or solid waste generated by the company's operations (during manufacturing or other activities) are covered by the _Operational waste_ goal.
-- [**Products do not harm people or the environment:**](#be17) Harm to people or the environment caused by products, including (in the case of physical goods) any caused by post-use processing, is covered by the _Product harm_ goal.
+- [**Betriebsabfälle werden eliminiert:**](#be07) Das Ziel _Produkte können wiederverwendet werden_ befasst sich mit der Möglichkeit für undinnen und Kunden sowie Endnutzer:innen, alle nicht biologisch abbaubaren Produktkomponenten zu recyceln. Flüssige, gasförmige oder feste Abfälle, die durch den Betrieb des Unternehmens (während der Herstellung oder anderer Aktivitäten) entstehen, fallen unter das Ziel _Betriebsabfälle_.
+- [**Produkte schaden weder Menschen noch der Umwelt:**](#be17) Schäden an Menschen oder der Umwelt, die durch Produkte verursacht werden, einschließlich (im Falle von physischen Waren) solcher, die durch die Verarbeitung nach der Nutzung entstehen, fallen unter das Ziel _Produkte schaden nicht_.
 
-### 2. Action {-#be19-action}
+### 2. Aktion {-#be19-action}
 
-#### 2.1 Getting started {-#be19-getting-started}
+#### 2.1 Erste Schritte {-#be19-getting-started}
 
-##### Background information {-}
+##### Hintergrundinformationen {-}
 
-Materials typically flow through today's economy in a linear way, starting with initial extraction, through processing into goods, purchase, distribution, use, and finally disposal. Few goods are designed with post-use repurposing in mind, and recycling infrastructure in many parts of the world is far from optimal. Because of these challenges, the total elimination of product waste requires systemic change to achieve, and should be seen as a long-term endeavour.
+Materialien fließen in der heutigen Wirtschaft typischerweise linear, beginnend mit der anfänglichen Gewinnung, über die Verarbeitung zu Waren, den Kauf, die Verteilung, die Verwendung und schließlich die Entsorgung. Nur wenige Waren sind im Hinblick auf eine Wiederverwendung nach dem Gebrauch konzipiert und die Recyclinginfrastruktur ist in vielen Teilen der Welt alles andere als optimal. Aufgrund dieser Herausforderungen erfordert die vollständige Eliminierung von Produktabfällen einen systemischen Wandel und sollte als langfristiges Unterfangen betrachtet werden.
 
-A company's first step toward future-fitness should be to identify all of the physical goods it provides to others, and how, where and by whom those goods are used or transformed across their lifecycle. Armed with this knowledge, the business can start to pursue opportunities for improvement, through product innovation, adaptations to their business model, and collaboration with others across the value web.
+Der erste Schritt eines Unternehmens zur Zukunftsfähigkeit sollte darin bestehen, alle physischen Waren zu identifizieren, die es anderen zur Verfügung stellt, und zu ermitteln, wie, wo und von wem diese Waren im Laufe ihres Lebenszyklus genutzt oder umgewandelt werden. Ausgestattet mit diesem Wissen kann das Unternehmen beginnen, Verbesserungsmöglichkeiten durch Produktinnovationen, Anpassungen seines Geschäftsmodells und die Zusammenarbeit mit anderen im gesamten Wertschöpfungsnetzwerk zu verfolgen.
 
-##### Questions to ask {-}
+##### Fragen, die man stellen sollte {-}
 
-These questions should help you identify what information to gather.
+Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln müssen.
 
-###### Does the company's commercial activity result in goods changing hands? {-}
+###### Führt die Geschäftstätigkeit des Unternehmens dazu, dass Waren die Besitzer bzw. den Besitzer wechseln? {-}
 
-- Does the company sell physical goods? What packaging is used to transport, protect and display these products?
-- Does the company provide any form of commercial service which results in goods or materials ending up in the hands of its customers?
-- Are any other physical goods supplied to third parties in support of the company's core activities, such as point of sale display materials, customer giveaways, or as supplementary services?
-- Where and with whom do goods, packaging, and other materials end up when their purpose has been fulfilled? Can they be readily recycled at that point? How does the potential for recycling vary across different regions where the products are sold?
-- Does the company have any direct relationship with, or ability to influence, its immediate customers and (if different) the end users of its products? Does it have touchpoints through its own retail outlets, or those of a partner?
+- Verkauft das Unternehmen physische Waren? Welche Verpackung wird für den Transport, den Schutz und die Präsentation dieser Produkte verwendet?
+- Bietet das Unternehmen irgendeine Form von kommerzieller Dienstleistung an, die dazu führt, dass Waren oder Materialien in die Hände seiner Kundinnen und Kunden gelangen?
+- Werden zur Unterstützung der Kernaktivitäten des Unternehmens weitere physische Waren an Dritte geliefert, wie beispielsweise Verkaufsdisplay-Materialien, Werbegeschenke für Kundinnen und Kunden oder als ergänzende Dienstleistungen?
+- Wo und bei wem landen Waren, Verpackungen und andere Materialien, wenn ihr Zweck erfüllt ist? Können sie zu diesem Zeitpunkt problemlos recycelt werden? Wie unterschiedlich ist das Recyclingpotenzial in den verschiedenen Regionen, in denen die Produkte verkauft werden?
+- Hat das Unternehmen eine direkte Beziehung zu seinen unmittelbaren Kundinnen und Kunden und (falls abweichend) den Endnutzenden seiner Produkte oder hat es die Möglichkeit, diese zu beeinflussen? Verfügt es über Kontaktpunkte über die eigenen Filialen oder die eines Partners?
 
-###### Does the company design or manufacture physical goods itself? {-}
+###### Entwickelt oder produziert das Unternehmen selbst physische Waren? {-}
 
-- Do these goods serve as inputs that are likely to be combined with other materials further down the sales chain? If so, could their use help or hinder the recyclability of final products to which they contribute (e.g. gluing plastic to cardboard in such a way that clean separation is impossible)?
-- Are goods fully consumed during use (e.g. food, chemical catalysts), or do components remain – in whole or in part – once they have served their purpose? Can any leftover parts be easily separated into homogeneous materials to maximize their recovery value?
+- Dienen diese Waren als Inputs, die später in der Vertriebskette wahrscheinlich mit anderen Materialien kombiniert werden? Wenn ja, könnte ihre Verwendung die Recyclingfähigkeit der Endprodukte, zu der sie beitragen, unterstützen oder behindern (z. B. das Kleben von Kunststoff auf Karton so, dass eine saubere Trennung unmöglich ist)?
+- Werden Waren während der Nutzung vollständig verbraucht (z. B. Lebensmittel, chemische Katalysatoren) oder bleiben Bestandteile ganz oder teilweise erhalten, nachdem sie ihren Zweck erfüllt haben? Können übrig gebliebene Teile leicht in homogene Materialien getrennt werden, um ihren Verwertungswert zu maximieren?
 
-##### How to prioritize {-}
+##### Wie man Prioritäten festlegt {-}
 
-These questions should help you identify and prioritize actions for improvement.
+Diese Fragen sollen Ihnen dabei helfen, Verbesserungsmaßnahmen zu identifizieren und zu priorisieren.
 
-###### Has the company committed to targets to decrease waste from products over time? {-}
+###### Hat sich das Unternehmen zu Zielen verpflichtet, um den Produktabfall im Laufe der Zeit zu verringern? {-}
 
-- If so, are existing commitments sufficient to achieve future-fitness eventually – not just for revenue-generating products, but also for packaging and any other physical goods supplied to others in support of commercial activities?
-- Where targets are insufficient, how might they be adjusted or supplemented?
-- If the company has not yet made commitments to reduce product waste, how might targets be set? Whose authorization would be needed? Who would be involved to design and implement procedures and incentives to help adoption of such targets?
+- Wenn ja, reichen die bestehenden Verpflichtungen aus, um langfristig zukunftsfähig zu werden – nicht nur bei umsatzgenerierenden Produkten, sondern auch bei Verpackungen und sonstigen physischen Waren, die zur Unterstützung der Geschäftstätigkeit an Dritte geliefert werden?
+- Wenn die Ziele nicht ausreichen, wie können sie angepasst oder ergänzt werden?
+- Wie könnten Ziele festgelegt werden, wenn das Unternehmen noch keine Zusagen zur Reduzierung von Produktabfällen gemacht hat? Wessen Genehmigung wäre erforderlich? Wer wäre an der Gestaltung und Umsetzung von Verfahren und Anreizen zur Unterstützung der Umsetzung solcher Ziele beteiligt?
 
-###### What are the best opportunities for making progress? {-}
+###### Wo liegen die besten Möglichkeiten, Fortschritte zu erzielen? {-}
 
-- Where would improvements to a single product make the largest impact for the company? Which products have the highest sales? Which are the least widely recyclable at the moment?
-- Could components of physical goods that are not easy to repurpose be replaced with ones that are (e.g. switching a non-recyclable plastic to a recyclable one)? Are there opportunities to make these switches while reducing costs, such as using recycled materials as inputs, instead of purchasing virgin materials? Could a change in packaging coincide with a planned branding or marketing update?
+- Wo würden Verbesserungen an einem einzelnen Produkt die größten Auswirkungen für das Unternehmen haben? Welche Produkte haben die höchsten Umsätze? Welche sind derzeit am wenigsten recycelbar?
+- Könnten Bestandteile physischer Waren, die nicht einfach wiederverwendet werden können, durch solche ersetzt werden, die es sind (z. B. durch die Umstellung eines nicht recycelbaren Kunststoffs auf einen recycelbaren)? Gibt es Möglichkeiten, diese Umstellungen vorzunehmen und gleichzeitig die Kosten zu senken, beispielsweise durch die Verwendung recycelter Materialien als Input anstelle des Kaufs neuer Materialien? Könnte eine Änderung der Verpackung mit einer geplanten Aktualisierung der Marke oder einer Marketingkampagne zusammenfallen?
 
-###### Could the company find ways to _exceed_ the requirements of this goal? {-}
+###### Könnte das Unternehmen Möglichkeiten finden, die Anforderungen dieses Ziels zu übertreffen? {-}
 
-- Beyond what is required to reach this goal, is the company able to do anything to ensure that _waste does not exist_?[^2#be19-2] Any such activity can speed up society's progress to future-fitness. For further details see the [**Positive Pursuit Guide**](#pp-waste).
+- Ist das Unternehmen in der Lage, über das zur Erreichung dieses Ziels erforderliche Maß hinaus Maßnahmen zu ergreifen, um sicherzustellen, dass überhaupt kein Abfall entsteht?[^2#be19-2] Jede derartige Maßnahme kann den Fortschritt der Gesellschaft auf dem Weg zur Zukunftsfähigkeit beschleunigen. Weitere Einzelheiten finden Sie im [**Positive Pursuit Guide**](#pp-waste).
 
-The next section describes the fitness criteria needed to tell whether a specific action will result in progress toward future-fitness.
+Der nächste Abschnitt beschreibt die Eignungskriterien, anhand derer festgestellt werden kann, ob eine bestimmte Maßnahme zu Fortschritten in Richtung Zukunftsfähigkeit führt.
 
-#### 2.2 Pursuing future-fitness {-#be19-pursuing}
+#### 2.2 Zukunftsfähigkeit anstreben {-#be19-pursuing}
 
-##### Introduction {-}
+##### Einführung {-}
 
-To be Future-Fit, all physical goods provided by the company to others must be able to be fully repurposed in the regions or markets they are sold in.
+Um zukunftsfähig zu sein, müssen alle physischen Waren, die das Unternehmen anderen zur Verfügung stellt, in den Regionen oder Märkten, in denen sie verkauft werden, vollständig wiederverwendet werden können.
 
-###### Guidance on what needs to be assessed {-}
+###### Leitlinien zur Bewertung {-}
 
-Progress is weighted by revenue (for sold or leased goods) and by cost for supplementary goods:
+Der Fortschritt wird nach Umsatz (für verkaufte oder geleaste Waren) und nach Kosten für ergänzende Waren gewichtet:
 
-####### Sold or leased goods {-}
+####### Verkaufte oder geleaste Waren {-}
 
-This category encompasses all goods offered to customers in exchange for revenue.
+Diese Kategorie umfasst alle Waren, die Kundinnen und Kunden als Gegenleistung für Entgelt angeboten werden.
 
-####### Supplementary goods {-}
+####### Ergänzende Waren {-}
 
-This category encompasses any items provided to others in support of commercial activities, but which the company does not consider to be revenue-generating, including:
+Diese Kategorie umfasst alle Artikel, die anderen zur Unterstützung kommerzieller Aktivitäten zur Verfügung gestellt werden, die das Unternehmen jedoch nicht als umsatzgenerierend ansieht, einschließlich:
 
-- Packaging that ends up in the hands of customers (e.g. boxes, carrier bags).
-- Marketing materials and giveaways, including items offered with the purchase of a product (e.g. toys with children's meals).
-- Goods the company transfers to other organizations before the products are sold (e.g. point of sale displays provided to third-party retail partners, shipping materials such as pallets and wrapping provided to external transportation partners).
-- Any goods or materials used to deliver a service which end up in the hands of customers (e.g. travel tickets, receipts, internet routers).
+- Verpackungen, die in die Hände von Kundinnen und Kunden gelangen (z. B. Kartons, Tragetaschen).
+- Marketingmaterialien und Werbegeschenke, einschließlich Artikel, die beim Kauf eines Produkts angeboten werden (z. B. Spielzeug in Kindermenüs).
+- Waren, die das Unternehmen vor dem Verkauf der Produkte an andere Organisationen weitergibt (z. B. Verkaufsdisplays, die an dritte Einzelhandelspartner bereitgestellt werden, Versandmaterialien wie Paletten und Verpackungen, die an externe Transportpartner bereitgestellt werden).
+- Alle Waren oder Materialien, die zur Erbringung einer Dienstleistung verwendet werden und in die Hände von Kunden gelangen (z. B. Reisetickets, Quittungen, Internet-Router).
 
 <div class="callout-note">
-**Categorizing goods**
+**Waren kategorisieren**
 
-A company could feasibly designate some goods as either revenue-generating or supplementary. Companies are encouraged to make this judgment during the initial assessment of a material, and apply the same rationale consistently across all physical goods they produce and distribute. Once a designation has been made, it should not be changed in future years except in rare cases where doing so would result in the reported data providing more reliable and relevant information.[^3#be19-3]
+Ein Unternehmen könnte bestimmte Waren als umsatzgenerierend oder als ergänzend einstufen. Unternehmen werden dazu angehalten, diese Entscheidung bereits bei der ersten Bewertung eines Materials zu treffen und dieselbe Logik konsequent auf alle physischen Waren anzuwenden, die sie herstellen und vertreiben. Sobald eine Einstufung vorgenommen wurde, sollte sie in den Folgejahren nicht mehr geändert werden, außer in seltenen Fällen, in denen dies dazu führen würde, dass die gemeldeten Daten zuverlässigere und relevantere Informationen liefern.[^3#be19-3]
 </div>
 
-###### Guidance on analyzing markets {-}
+###### Leitlinien zur Marktanalyse {-}
 
-In order for customers to be able to repurpose materials provided to them, they must have access to facilities that can process those materials. Companies must therefore either provide materials that can be repurposed in any region, or consider the facilities available to their customers. The availability of recovery services should be assessed within each market. These services may vary within countries or regions. When determining which areas – or which proportions of people within areas – have access to recycling services, a company may use available national or regional statistics as guidance.
+Damit Kundinnen und Kunden die ihnen zur Verfügung gestellten Materialien wiederverwenden können, müssen sie Zugang zu Einrichtungen haben, die diese Materialien verarbeiten können. Unternehmen müssen daher entweder Materialien bereitstellen, die in jeder Region wiederverwendet werden können, oder die für ihre Kunden verfügbaren Einrichtungen berücksichtigen. Die Verfügbarkeit von Wiederherstellungsdiensten sollte in jedem Markt geprüft werden. Diese Dienste können je nach Land oder Region variieren. Bei der Bestimmung, welche Gebiete – oder welcher Anteil der Menschen innerhalb dieser Gebiete – Zugang zu Recyclingdiensten haben, kann ein Unternehmen verfügbare nationale oder regionale Statistiken als Orientierungshilfe verwenden.
 
-Ideally, this goal would ensure that there are facilities wherever the product or materials are when they reach the end of their useful lives, but many companies are not able to track where their products are eventually used, nor are they able to influence this. For this reason, the focus of this goal is on where products are _sold_, not where they are _used_.
+Im Idealfall würde dieses Ziel sicherstellen, dass dort, wo sich das Produkt oder die Materialien befinden, Einrichtungen vorhanden sind, wenn sie das Ende ihrer Nutzungsdauer erreichen. Viele Unternehmen können jedoch weder nachverfolgen, wo ihre Produkte letztendlich verwendet werden, noch haben sie die Möglichkeit, dies zu beeinflussen. Aus diesem Grund liegt der Schwerpunkt dieses Ziels darauf, wo Produkte verkauft werden, und nicht darauf, wo sie verwendet werden.
 
-###### Guidance on analyzing components {-}
+###### Leitfaden zur Analyse von Bestandteilen {-}
 
-Post-use goods often contain multiple constituent parts, which may need to be separated and repurposed in very different ways. For this reason, it is necessary to assess physical goods in terms of their individual components.
+Gebrauchte Waren bestehen oft aus mehreren Bestandteilen, die möglicherweise getrennt und auf sehr unterschiedliche Weise wiederverwertet werden müssen. Aus diesem Grund ist es notwendig, physische Waren im Hinblick auf ihre einzelnen Bestandteile zu bewerten.
 
-##### Fitness criteria {-}
+##### Fitnesskriterien {-}
 
-A post-use component of a physical good, provided in a specific market,is fit for repurposing if all of the following are true:
+Ein gebrauchter Bestandteil eines physischen Produkts, die auf einem bestimmten Markt angeboten wird, eignet sich für die Wiederverwendung, wenn alle folgenden Bedingungen erfüllt sind:
 
-- If necessary for recovery, it can be separated from other components:
-  - By available recovery services; or
-  - By the product's user, without third party guidance or tools.
-- The user has ready access to appropriate recovery services, as follows:
-  - The product is delivered to the user at a physical location where local public recycling infrastructure allows the user to repurpose the post-use components;
-  - The product is delivered to the user at a physical location (e.g. retail store) and a take-back service, which incentivizes users to return the post-use components, is available at the same location; or
-  - The product is delivered to the customer by post/courier (e.g. ordered via the Internet) and a mail-in service which incentivizes users to return the post-use components is made available.
-- The provider of the recovery service can recover the component to be reused or recycled as a new raw material (for use by the company or a third party):
-  - Without the release of harmful substances[^4#be19-4]; or
-  - In the case of biodegradable components, the recovery service can ensure that the component biodegrades safely.[^5#be19-5]
+- Falls dies für die Verwertung erforderlich ist, kann sie von anderen Bestandteilen getrennt werden:
+  - durch verfügbare Verwertungsdienste; oder
+  - durch die Nutzerin bzw. den Nutzer des Produkts, ohne Anleitung oder Hilfsmittel durch Dritte.
+- Die Nutzerin bzw. der Nutzer hat wie folgt einfachen Zugang zu geeigneten Verwertungsdiensten:
+  - Das Produkt wird der Nutzerin bzw. dem Nutzer an einem physischen Ort geliefert, an dem die lokale öffentliche Recycling-Infrastruktur es der Nutzerin bzw. dem Nutzer ermöglicht, die Bestandteile nach Gebrauch wiederzuverwenden;
+  - Das Produkt wird der Nutzerin bzw. dem Nutzer an einem physischen Standort (z. B. einem Einzelhandelsgeschäft) ausgeliefert, und an demselben Standort steht ein Rücknahmeservice zur Verfügung, der die Nutzerin bzw. den Nutzer dazu anregt, die gebrauchten Bestandteile zurückzugeben; oder
+  - Das Produkt wird der Kundin bzw. dem Kunden per Post/Kurier zugestellt (z. B. über das Internet bestellt), und es wird ein Rücksendeservice angeboten, der die Nutzerin bzw. den Nutzer dazu anregt, die gebrauchten Bestandteile zurückzugeben.
+- Der Anbieter des Rückgewinnungsdienstes kann den Bestandteil zur Wiederverwendung oder zum Recycling als neuen Rohstoff (zur Nutzung durch das Unternehmen oder einen Dritten) zurückgewinnen:
+  - Ohne Freisetzung von Schadstoffen4[^4#be19-4]; oder
+  - Bei biologisch abbaubaren Bestandteilen kann der Rückgewinnungsdienst dafür sorgen, dass diese Bestandteile sicher biologisch abbaubar sind.[^5#be19-5]
 
 <div class="callout-note">
-**Components that consist entirely of renewable natural materials**
+**Bestandteile, die vollständig aus nachwachsenden natürlichen Rohstoffen bestehen**
 
-Renewably-sourced materials that end up incinerated for energy can be considered Future‑Fit as long as no harmful substances are released in the process. Companies should note that even in such cases, burning materials should be seen as the least-desirable option – reuse or recycling are preferable outcomes. @Eur08
+Erneuerbare Rohstoffe, die zur Energiegewinnung verbrannt werden, können als „Future-Fit“ eingestuft werden, solange dabei keine Schadstoffe freigesetzt werden. Unternehmen sollten beachten, dass selbst in solchen Fällen die Verbrennung von Materialien als die am wenigsten wünschenswerte Option anzusehen ist – Wiederverwendung oder Recycling sind vorzuziehende Lösungen. @Eur08
 </div>
 
-### 3. Assessment {-#be19-assessment}
+### 3. Bewertung {-#be19-assessment}
 
-#### 3.1 Progress indicators {-#be19-progress}
+#### 3.1 Fortschrittsindikatoren {-#be19-progress}
 
-The role of Future-Fit progress indicators is to reflect how far a company is on its journey toward reaching a specific goal. Progress indicators are expressed as simple percentages.
+Die Rolle von Future-Fit-Fortschrittsindikatoren besteht darin, anzuzeigen, wie weit ein Unternehmen auf dem Weg zum Erreichen eines bestimmten Ziels ist. Fortschrittsindikatoren werden als einfache Prozentsätze ausgedrückt.
 
-A company should always seek to assess its future-fitness across the full extent of its activities. In some circumstances this may not be possible. In such cases see the section _Assessing and reporting with incomplete data_ in the [**Implementation Guide**](#ig-incomplete-data).
+Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle seine Aktivitäten hinweg zu bewerten. Unter bestimmten Umständen ist dies möglicherweise nicht möglich. In solchen Fällen lesen Sie bitte den Abschnitt _Bewertung und Berichterstattung mit unvollständigen Daten_ im [**Implementierungsleitfaden**](#ig-incomplete-data).
 
-##### Assessing progress {-}
+##### Fortschrittsbewertung {-}
 
-This goal has two progress indicators. To calculate them the following steps are required:
+Dieses Ziel verfügt über zwei Fortschrittsindikatoren. Um sie zu berechnen, sind folgende Schritte erforderlich:
 
-- Assess the fitness of each post-use component of each physical good, within each market (as described above).
-- Assess the fitness of each physical good within a market.
-- Calculate the fitness of each physical good across all markets in which it is sold.
-- Calculate the company's progress across each of the two categories:
+- Bewerten Sie die Fitness jedes gebrauchten Bestandteils für jedes physische Produkt innerhalb jedes Markts (wie oben beschrieben).
+- Bewerten Sie die Fitness jedes physischen Produkts innerhalb eines Markts.
+- Berechnen Sie die Fitness jedes physischen Produkts über alle Märkte hinweg, in denen es verkauft wird.
+- Berechnen Sie den Fortschritt des Unternehmens in jeder der beiden Kategorien:
 
-1. Sold or leased goods.
-2. Supplementary goods.
+1. Verkaufte oder geleaste Waren.
+2. Ergänzende Waren.
 
-##### Assessing fitness of a component _c_ in market _m_ {-}
+##### Bewertung der Fitness eines Bestandteils _c_ auf dem Markt _m_ {-}
 
-A post-use component _c_ of a physical good sold in market _m_ is X% fit for repurposing if:
+Ein gebrauchter Bestandteil _c_ eines auf dem Markt _m_ verkauften physischen Gutes ist zu X % für eine Wiederverwendung geeignet, wenn:
 
-- The user has ready access to appropriate recovery services, as follows:
-  - The good _is sold at a physical location_ where an appropriate recovery service (as defined in the _Fitness criteria_) is available to X% of people[^6#be19-6]; or
-  - The good _is delivered to a customer in_ a physical location where an appropriate recovery service is available to X% of people.[^7#be19-7]
-- That post-use component can be separated from all other post-use components by that recovery service, or (if no third party guidance or tools are required) by the user.
-- The recovery service can process that post-use component to be reused or recycled as a new raw material (for use by the company or a third party) without the release of harmful substances.[^8#be19-8]
+- Die Nutzerin bzw. der Nutzer wie folgt einfachen Zugang zu geeigneten Rücknahmediensten hat:
+  - Das Produkt wird an einem physischen Standort verkauft, an dem X % der Menschen Zugang zu einem geeigneten Rücknahmedienst (gemäß der Definition in den Eignungskriterien) haben[^6#be19-6]; oder
+  - Die Ware wird an eine Kundin bzw. an einen Kunden an einem physischen Ort geliefert, an dem X % der Menschen ein geeigneter Wiederherstellungsdienst zur Verfügung steht.[^7#be19-7]
+- Dieser gebrauchte Bestandteil kann durch diesen Verwertungsdienst von allen anderen Bestandteilen nach Gebrauch getrennt werden oder (sofern keine Anleitung oder Hilfsmittel von Dritten erforderlich sind) durch die Nutzerin bzw. den Nutzer.
+- Der Verwertungsdienst kann diese gebrauchten Bestandteile so aufbereiten, dass sie wiederverwendet oder als neuer Rohstoff (zur Verwendung durch das Unternehmen oder einen Dritten) recycelt werden kann, ohne dass dabei Schadstoffe freigesetzt werden.[^8#be19-8]
 
-The repurposing fitness X% refers to the percentage of people with ready access to infrastructure capable of collecting, dismantling and recovering that post-use component.[^9#be19-9]
+Die Wiederverwertbarkeit von X % bezieht sich auf den Prozentsatz der Menschen, die einfachen Zugang zu einer Infrastruktur haben, die in der Lage ist, diese nach Gebrauch verbleibenden Bestandsteile zu sammeln, zu zerlegen und zu verwerten.[^9#be19-9]
 
-This is expressed as follows: fitness of post-use component _c_ in market _m_ = _f<sub>c,m</sub>_ = X%.
+Dies wird wie folgt ausgedrückt: Fitness des gebrauchten Bestandteils _c_ auf dem Markt _m_ = _f<sub>c,m</sub>_ = X%.
 
-If components have not been assessed, or if they cannot be repurposed, recycled or safely recovered as energy in the market they are sold, they should be considered **0% fit**.
+Wenn Bestandteile nicht bewertet wurden oder wenn sie auf dem Markt, auf dem sie verkauft werden, nicht wiederverwendet, recycelt oder sicher energetisch verwertet werden können, sollten sie als zu **0 % fit** angesehen werden.
 
-##### Calculating fitness of physical good _p_ in market _m_ {-}
+##### Berechnung der Fitness des physischen Gutes _p_ im Markt _m_ {-}
 
-When at least one post-use component has been assessed and identified as fit for repurposing, the fitness of a physical good _p_ in market _m_ can be calculated as follows:
+Wenn mindestens ein gebrauchter Bestandteil bewertet und als für eine Wiederverwendung geeignet identifiziert wurde, lässt sich die Fitness eines physischen Gutes _p_ im Markt _m_ wie folgt berechnen:
 
-- Calculate the fitness contribution of each of the physical good's post-use components by multiplying its physical weight by its repurposing fitness percentage (as determined in the previous step).
-- Add up the fitness contribution of every assessed post-use component.
-- Add up the weight of all of good _p_'s post-use components to obtain its total weight.
-- Calculate physical good _p_'s fitness in market _m_ as the proportion of its weight that is fit for repurposing.
+- Berechnen Sie den Fitnessbeitrag jeder gebrauchten Bestandteile des physischen Produkts, indem sein physisches Gewicht mit dem Prozentsatz der Wiederverwertbarkeit (wie im vorherigen Schritt ermittelt) multipliziert wird.
+- Summieren Sie den Fitnessbeitrag jeder bewerteten  Bestandteile nach Gebrauch.
+- Summieren Sie das Gewicht aller Bestandteile des physischen Produkts _p_ nach Gebrauch, um dessen Gesamtgewicht zu erhalten.
+- Berechnen Sie die Fitness des physischen Produkts _p_ auf dem Markt _m_ als den Anteil seines Gewichts, der für die Wiederverwendung geeignet ist.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$f_{p,m}=\frac{\sum_{c=1}^CW_c*f_{c,m}}{W_T}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$f_{p,m}$$ | Is the fitness of physical good _p_ in market _m_. |
-| $$f_{c,m}$$ | Is the repurposing fitness of post-use component _c_ in market _m_. |
-| $$C$$ | Is the total number of post-use components making up physical good _p_. |
-| $$W_c$$ | Is the weight of post-use component _c_. |
-| $$W_T$$ | Is the total weight of physical good _p_. |
+| $$f_{p,m}$$ | ist das physische Produkt _p_ auf dem Markt _m_. |
+| $$f_{c,m}$$ | ist die Wiederverwertbarkeit der gebrauchten Bestandteile _c_ auf dem Markt _m_. |
+| $$C$$ | Dies ist die Gesamtzahl der gebrauchten Bestandteile, aus denen sich das physische Produkt _p_ zusammensetzt. |
+| $$W_c$$ | ist das Gewicht der gebrauchten Bestandteil _c_. |
+| $$W_T$$ | Dies ist das Gesamtgewicht des physischen Produkts _p_. |
 </div>
 
-##### Assessing fitness of physical good _p_ across all markets {-}
+##### Bewertung der Fitness eines physischen Produkts _p_ über alle Märkte hinweg {-}
 
-When the future-fitness of a physical good _p_ has been calculated for at least one market, the company can start to calculate the overall repurposing fitness of that good across all markets. This is done by weighting the per-market fitness for that physical good according to the number of units sold in each market.
+Sobald die Zukunftsfähigkeit eines physischen Produkts _p_ für mindestens einen Markt berechnet wurde, kann das Unternehmen damit beginnen, die Gesamt-Wiederverwertbarkeit dieses Produkts über alle Märkte hinweg zu berechnen. Dazu werden die marktbezogenen Fitnesswerte für dieses physische Produkt entsprechend der Anzahl der in jedem Markt verkauften Einheiten gewichtet.
 
-This can be expressed mathematically as:
+Dies kann mathematisch ausgedrückt werden als:
 
 $$f_p=\frac{\sum_{m=1}^Mf_{p,m}*U_{p,m}}{\sum_{m=1}^MU_{p,m}}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$f_{p}$$ | Is the fitness of physical good _p_ across all markets. |
-| $$f_{p,m}$$ | Is the fitness of physical good _p_ in market _m_. |
-| $$U_{p,m}$$ | Is the total number of units of _p_ sold or otherwise distributed in market _m_. |
-| $$M$$ | Is the total number of markets in which _p_ is sold or otherwise distributed. |
+| $$f_{p}$$ | ist die Fitness des physischen Produkts _p_ über alle Märkte hinweg. |
+| $$f_{p,m}$$ | ist die Fitness des physischen Produkts _p_ auf dem Markt _m_. |
+| $$U_{p,m}$$ | ist die Gesamtzahl der Einheiten von _p_, die auf dem Markt _m_ verkauft oder anderweitig vertrieben wurden. |
+| $$M$$ | Dies ist die Gesamtzahl der Märkte, auf denen _p_ verkauft oder anderweitig vertrieben wird. |
 </div>
 
-##### Calculating company progress {-}
+##### Unternehmensfortschritt berechnen {-}
 
-First it is necessary to determine the per-good revenue and cost totals within the reporting period, for each of the goods assessed.
+Zunächst müssen für jede der bewerteten Waren die Umsatz- und Kostensummen pro Produkt innerhalb des Berichtszeitraums ermittelt werden.
 
-The company's overall progress towards this goal can now be calculated, for the two categories, as a weighted average across all physical goods, as follows:
+Der Gesamtfortschritt des Unternehmens in Richtung dieses Ziels kann nun für die beiden Kategorien als gewichteter Durchschnitt über alle physischen Waren wie folgt berechnet werden:
 
-- For sold or leased goods, use the revenue generated as a weighting factor.
-- For supplementary goods, use the cost incurred to produce those goods as a weighting factor.
+- Bei verkauften oder geleasten Waren verwenden Sie den erzielten Umsatz als Gewichtungsfaktor.
+- Verwenden Sie für ergänzende Waren die Kosten, die bei der Herstellung dieser Waren entstanden sind, als Gewichtungsfaktor.
 
-Fitness calculations for each category should be performed and reported separately.
+Fitnessberechnungen für jede Kategorie sollten separat durchgeführt und erfasst werden.
 
-These calculations can be expressed mathematically as:
+Diese Berechnungen können mathematisch ausgedrückt werden als:
 
 $$F=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}$$
 
-Where:
+Wo:
 
 <div class="table-20">
 | | |
 |-|-|
-| $$F$$ | Is the progress toward future-fitness across all categories of physical goods, expressed as a percentage. |
-| $$f_p$$ | Is the fitness of physical good _p_. |
-| $$R_p$$ | Is the total revenue generated by (or cost associated with) _p_. |
-| $$P$$ | Is the total number of physical goods in the company's portfolio. |
+| $$F$$ | ist der Fortschritt in Richtung Zukunftsfähigkeit in allen Kategorien physischer Waren, ausgedrückt in Prozent. |
+| $$f_p$$ | ist die Fitness des physischen Produkts _p_. |
+| $$R_p$$ | ist der Gesamtumsatz, der durch _p_ erzielt wurde (bzw. die mit p verbundenen Kosten). |
+| $$P$$ | ist die Gesamtzahl der physischen Waren im Portfolio des Unternehmens. |
 </div>
 
-For an example of how this progress indicator can be calculated, see [here](#be19-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be19-example).
 
-#### 3.2 Context indicators {-#be19-context}
+#### 3.2 Kontextindikatoren {-#be19-context}
 
-The role of the context indicators is to provide stakeholders with the additional information needed to interpret the full extent of a company's progress.
+Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zur Verfügung zu stellen, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu beurteilen.
 
-####### Total revenue/costs {-}
+####### Gesamtumsatz/-kosten {-}
 
-In addition to the three progress indicators, companies must report the total revenue and cost amounts associated with each of them, as follows:
+Zusätzlich zu den drei Fortschrittsindikatoren müssen Unternehmen die mit jedem dieser Indikatoren verbundenen Gesamtumsatz- und Gesamtkostenbeträge wie folgt angeben:
 
-- Total revenue of sold or leased goods.
-- Total cost of supplementary goods.
+- Gesamtumsatz der verkauften oder geleasten Waren.
+- Gesamtkosten für ergänzende Waren.
 
-The total revenue/costs of each category are equivalent to the summed values of _R<sub>p</sub>_ in the equation above, and so no additional data or effort is required to calculate them.
+Der Gesamtumsatz bzw. die Gesamtkosten jeder Kategorie entsprechen den summierten Werten von _R<sub>p</sub>_ in der obigen Gleichung, sodass für deren Berechnung keine zusätzlichen Daten oder Aufwände erforderlich sind.
 
-For an example of how context indicators can be reported, see [here](#be19-example).
+Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be19-example).
 
-### 4. Assurance {-#be19-assurance}
+### 4. Zuverlässigkeitserklärung {-#be19-assurance}
 
-#### 4.1 What assurance is for and why it matters {-#be19-assurance-why}
+#### 4.1. Wozu eine Zuverlässigkeitserklärung dient und warum sie wichtig ist {-#be19-assurance-why}
 
-Any company pursuing future-fitness will instil more confidence among its key stakeholders (from its CEO and CFO to external investors) if it can demonstrate the quality of its Future-Fit data, and the robustness of the controls which underpin it.
+Jedes Unternehmen, das Zukunftsfähigkeit anstrebt, wird bei seinen wichtigsten Stakeholdern (vom CEO und CFO bis hin zu externen Investoren) mehr Vertrauen schaffen, wenn es die Qualität seiner Zukunftsfähigkeitsdaten und die Robustheit der zugrunde liegenden Kontrollen nachweisen kann.
 
-This is particularly important if a company wishes to report publicly on its progress toward future-fitness, as some companies may require independent assurance before public disclosure. By having effective, well-documented controls in place, a company can help independent assurers to quickly understand how the business functions, aiding their ability to provide assurance and/or recommend improvements.
+Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortschritte in Richtung Zukunftsfähigkeit berichten möchte, da einige Unternehmen vor der Veröffentlichung möglicherweise eine unabhängige Prüfung benötigen. Durch wirksame, gut dokumentierte Kontrollmechanismen kann ein Unternehmen unabhängigen Prüfenden helfen, schnell zu verstehen, wie das Unternehmen funktioniert, und sie so dabei unterstützen, eine Zuverlässigkeitserklärung zu geben und/oder Verbesserungen zu empfehlen.
 
-#### 4.2 Recommendations for this goal {-#be19-assurance-this-goal}
+#### 4.2 Empfehlungen für dieses Ziel {-#be19-assurance-this-goal}
 
-The following points highlight areas for attention with regard to this specific goal. Each company and reporting period is unique, so assurance engagements always vary: in any given situation, assurers may seek to evaluate different controls and documented evidence. Users should therefore see these recommendations as an illustrative list of what may be requested, rather than an exhaustive list of what will be required.
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
-- Document the methods used to identify all materials included by the company in the _Sold or leased goods_ and _Supplementary goods_ categories. Describing how these were identified can help assurers to assess whether the company's approach runs the risk of failing to identify material components.
-- Document the methods used to identify the different markets where the company's products are sold, and the facilities in those markets available to customers to repurpose products. This can help assurers to understand the basis for the company's conclusions, and allow them to verify that the company's assessment of available facilities was sufficient.
-- Document the results of the analysis of the facilities required to repurpose each category of the company's goods at the component level. This information, combined with the assessment of facilities available to customers in each market, can provide the basis for assurers to verify product adherence to the fitness criteria.
-- Retain references to data sources used to determine the costs and revenues of goods evaluated. This can help assurers to understand and verify the weighting calculations performed when obtaining the company's progress indicator.[^10#be19-10]
-- Clearly document the work performed at each step of the progress indicator calculations set out by this Action Guide. This can make it easier for an assurer to verify that calculations are correct.
+- Dokumentieren Sie die Methoden zur Identifizierung aller Materialien, die das Unternehmen in die Kategorien _Verkaufte oder geleaste Waren_ und _Ergänzende Waren_ einbezieht. Die Beschreibung, wie diese identifiziert wurden, kann den Versicherern helfen zu beurteilen, ob der Ansatz des Unternehmens Gefahr läuft, wesentliche Komponenten nicht zu identifizieren.
+- Dokumentieren Sie die Methoden zur Identifizierung der verschiedenen Märkte, in denen die Produkte des Unternehmens verkauft werden, und die Einrichtungen in diesen Märkten, die den Kunden zur Wiederverwendung von Produkten zur Verfügung stehen. Dies kann den Versicherern helfen, die Grundlage für die Schlussfolgerungen des Unternehmens zu verstehen, und es ihnen ermöglichen, zu überprüfen, ob die Bewertung der verfügbaren Einrichtungen durch das Unternehmen ausreichend war.
+- Dokumentieren Sie die Ergebnisse der Analyse der Einrichtungen, die für die Wiederverwendung jeder Warenkategorie des Unternehmens auf Komponentenebene erforderlich sind. Diese Informationen, kombiniert mit der Bewertung der den Kunden in den einzelnen Märkten zur Verfügung stehenden Einrichtungen, können den Versicherern die Grundlage für die Überprüfung der Produktkonformität mit den Eignungskriterien bilden.
+- Behalten Sie Verweise auf Datenquellen bei, die zur Ermittlung der Kosten und Einnahmen der bewerteten Waren verwendet werden. Dies kann den Versicherern helfen, die Gewichtungsberechnungen zu verstehen und zu überprüfen, die bei der Ermittlung des Fortschrittsindikators des Unternehmens durchgeführt wurden.[^10#be19-10]
+- Dokumentieren Sie die Arbeit, die bei jedem Schritt der in diesem Aktionsleitfaden dargelegten Fortschrittsindikatorberechnungen durchgeführt wurde, klar und deutlich. Dies kann es für einen Versicherer einfacher machen, die Richtigkeit der Berechnungen zu überprüfen.
 
-For a more general explanation of how to design and document internal controls, see the section _Pursuing future-fitness in a systematic way_ in the [**Implementation Guide**](#ig-systematic).
+Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrollen finden Sie im Abschnitt _Zukunftsfitness systematisch anstreben_ im [**Implementierungsleitfaden**](#ig-systematic).
 
-### 5. Additional information {-#be19-additional}
+### 5. Zusätzliche Informationen {-#be19-additional}
 
-#### 5.1 Example {-#be19-example}
+#### 5.1 Beispiel {-#be19-example}
 
-ACME Inc. sells lemonade products. It has two revenue-generating products, one which comes in glass bottles (with aluminium lids), and one in plastic bottles, in two markets – A and B. We will refer to the glass-bottled lemonade as product GL, and the plastic-bottled lemonade as product PL.
+ACME Inc. vertreibt Limonadenprodukte. Das Unternehmen verfügt über zwei umsatzgenerierende Produkte: eines wird in Glasflaschen (mit Aluminiumverschlüssen) und das andere in Plastikflaschen angeboten, und zwar auf zwei Märkten – A und B. Wir bezeichnen die Limonade in Glasflaschen als Produkt GL und die Limonade in Plastikflaschen als Produkt PL.
 
-Both products are easily disassembled into their constituent parts – glass, aluminium and plastic. In both markets, the glass bottles can be readily recovered through existing infrastructure, available to everyone. However, the aluminium lids are only currently recyclable in market B – and even then, recycling is only available to an average of 60% of people. The plastic bottles are not currently recyclable in either market. The repurposing fitness of each component within each market can now be identified as follows:
+Beide Produkte lassen sich leicht in ihre Bestandteile – Glas, Aluminium und Kunststoff – zerlegen. In beiden Märkten können die Glasflaschen problemlos über die bestehende, für jedermann zugängliche Infrastruktur zurückgewonnen werden. Allerdings sind die Aluminiumdeckel derzeit nur in Markt B recycelbar – und selbst dann steht Recycling nur durchschnittlich 60 % der Menschen zur Verfügung. Die Plastikflaschen sind derzeit in keinem der Märkte recycelbar. Die Wiederverwertbarkeit jeder Komponente innerhalb jedes Marktes kann nun wie folgt ermittelt werden:
 
 $$f_{Glass,A}=f_{Glass,B}=100\%$$
 $$f_{Alu,A}=0\%$$
 $$f_{Alu,B}=60\%$$
 $$f_{Plastic,A}=f_{Plastic,B}=0\%$$
 
-Since plastic is the only post-use component of plastic bottles, product PL is 0% fit.
+Da Kunststoff der einzige gebrauchte Bestandteil von Plastikflaschen ist, ist das Produkt PL zu 0 % fit.
 
-For every unit of GL, the glass weighs 50g, and the aluminium lid weighs 5g. In market A, the company sells 5,000 units of GL, and in market B it sells 1,000 units.
+Für jede GL-Einheit wiegt das Glas 50 g und der Aluminiumdeckel 5 g. Auf Markt A verkauft das Unternehmen 5.000 GL-Einheiten und auf Markt B 1.000 Einheiten.
 
-The fitness of product GL in the respective markets can now be calculated as:
+Die Fitness des Produkt-GL in den jeweiligen Märkten kann nun wie folgt berechnet werden:
 
 $$f_{GL,A}=\frac{W_{Glass,A}*f_{Glass,A}+W_{Alu,A}*f_{Alu,A}}{W_{Glass,A}+W_{Alu,A}}=\frac{50*100\%+5*0\%}{50+5}\approx91\%$$
 
 $$f_{GL,B}=\frac{W_{Glass,B}*f_{Glass,B}+W_{Alu,B}*f_{Alu,B}}{W_{Glass,B}+W_{Alu,B}}=\frac{50*100\%+5*60\%}{50+5}\approx96\%$$
 
-The repurposing fitness of GL across all markets is then calculated as:
+Die Wiederverwertbarkeit von GL über alle Märkte hinweg wird dann wie folgt berechnet:
 
 $$f_{GL}=\frac{f_{GL,A}*U_{GL,A}+f_{GL,B}*U_{GL,B}}{U_{GL,A}+U_{GL,B}}=\frac{91\%*5,000+96\%*1,000}{6,000}\approx92\%$$
 
-Products GL and PL generate total revenues of $300,000 and $430,000 respectively, across markets A and B. The company's cross-product progress can now be calculated as:
+Die Produkte GL und PL erwirtschaften in den Märkten A und B einen Gesamtumsatz von 300.000 US-Dollar bzw. 430.000 US-Dollar. Der produktübergreifende Fortschritt des Unternehmens kann nun wie folgt berechnet werden:
 
 $$F=\frac{f_{GL}*R_{GL}+f_{PL}*R_{PL}}{R_{GL}+R_{PL}}=\frac{92\%*300,000+0\%*430,000}{730,000}\approx38\%$$
 
-For supplementary goods, the company then performs a similar assessment on the packaging for its 20‑bottle multi-packs costing $4,000, which do not generate additional revenue but which customers receive when they purchase the lemonade in bulk and must later dispose of. ACME aIso assesses its shipping materials (consisting of wooden pallets costing $15,000, shrink wrap costing $8,500 and packaging costing $60,000) which the company uses to transport its products to third party retailers, but which are not passed on to consumers. ACME finds its supplementary goods to be 72% fit on the basis of fitness weighted by percentage of total cost in this category.
+Bei den ergänzenden Waren führt das Unternehmen anschließend eine ähnliche Bewertung der Verpackung für seine 20-Flaschen-Multipacks im Wert von 4.000 $ durch, die zwar keinen zusätzlichen Umsatz generieren, die Kunden jedoch beim Kauf der Limonade in Großmengen erhalten und später entsorgen müssen. ACME bewertet auch seine Versandmaterialien (bestehend aus Holzpaletten im Wert von 15.000 $, Schrumpffolie im Wert von 8.500 $ und Verpackungsmaterial im Wert von 60.000 $), die das Unternehmen für den Transport seiner Produkte an Dritthändler verwendet, die jedoch nicht an die Verbraucher:innen weitergegeben werden. ACME stuft seine ergänzenden Waren auf der Grundlage einer nach dem prozentualen Anteil an den Gesamtkosten in dieser Kategorie gewichteten Fitness als zu 72 % fit ein.
 
-It reports each progress indicator and context indicator as shown, below:
+Es werden alle Fortschritts- und Kontextindikatoren wie unten dargestellt erfasst:
 
-####### Sold or leased goods: {-}
+####### Verkaufte oder geleaste Waren: {-}
 
-Progress score = 38%
+Fortschrittswert = 38 %
 
-Total revenue from sold or leased goods: $730,000
+Gesamtumsatz aus verkauften oder geleasten Waren: 730.000 US-Dollar
 
-####### Supplementary goods: {-}
+####### Ergänzende Waren: {-}
 
-Progress score = 72%
+Fortschrittswert = 72 %
 
-Total cost of supplementary goods: $87,500
+Gesamtkosten der ergänzenden Waren: 87.500 $
 
-#### 5.3 Useful links {-#be19-useful-links}
+#### 5.3 Nützliche Links {-#be19-useful-links}
 
-##### The Ellen MacArthur Foundation {-}
+##### Die Ellen MacArthur Foundation {-}
 
-[The Ellen MacArthur Foundation](http://www.ellenmacarthurfoundation.org/) works with business, government and academia to build a framework for a Circular Economy – an economy that is restorative and regenerative by design. Recent work includes [The Circularity Indicators Project](https://ellenmacarthurfoundation.org/material-circularity-indicator), which presents companies with a methodology and tools to assess the circularity of a product.
+[Die Ellen MacArthur Foundation](http://www.ellenmacarthurfoundation.org/) arbeitet mit Unternehmen, Regierungen und Wissenschaftseinrichtungen zusammen, um einen Rahmen für eine Kreislaufwirtschaft zu schaffen – eine Wirtschaft, die von Grund auf auf Wiederherstellung und Regeneration ausgerichtet ist. Zu den jüngsten Projekten gehört das [The Circularity Indicators Project](https://ellenmacarthurfoundation.org/material-circularity-indicator), das Unternehmen eine Methodik und Instrumente zur Bewertung der Kreislaufwirtschaftlichkeit eines Produkts bereitstellt.
 
-#### 5.2 Frequently asked questions {-#be19-faq}
+#### 5.2 Häufig gestellte Fragen {-#be19-faq}
 
-##### Is revenue-weighting always appropriate? {-}
+##### Ist die Umsatzgewichtung immer angemessen? {-}
 
-Some organizations – such as early-stage companies, some charities, divisions of companies operating as cost-centres, or companies working on pre-production development – may determine that using revenue as a weighting approach to assess progress might paint a misleading picture.
+Einige Organisationen – etwa junge Unternehmen, einige Wohltätigkeitsorganisationen, Unternehmensbereiche, die als Kostenstellen fungieren, oder Unternehmen, die an der Vorproduktionsentwicklung arbeiten – kommen möglicherweise zu dem Schluss, dass die Verwendung des Umsatzes als Gewichtungsansatz zur Bewertung des Fortschritts ein irreführendes Bild zeichnen könnte.
 
-Such cases are likely to be rare, because even companies that do not directly sell goods or services still need to meet their costs, and therefore receive some form of monetary capital or in-kind services and labour. These inputs are directed at operational work-streams, which in turn lead to meeting customer needs, so in many cases it is possible to connect indirect funding (as a proxy for revenue) to appropriate downstream user groups.
+Solche Fälle dürften selten sein, da selbst Unternehmen, die keine Waren oder Dienstleistungen direkt verkaufen, dennoch ihre Kosten decken müssen und daher in irgendeiner Form Geldmittel oder Sachleistungen und Arbeitsleistungen erhalten. Diese Inputs fließen in operative Betriebsabläufe ein, die wiederum dazu führen, dass Kundenbedürfnisse erfüllt werden; daher ist es in vielen Fällen möglich, indirekte Finanzmittel (als Ersatz für den Umsatz) mit den entsprechenden nachgelagerten Nutzergruppen zu verknüpfen.
 
-When this is not possible, or if it is determined that this technique may mislead stakeholders, companies should consider using cost instead of revenue to determine the completeness of their assessment, and as a method for weighting their progress scores.
+Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle des Umsatzes zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
 
 
-[^1#be19-1]: No business can completely control its customers' behaviour, so the onus here is on the company to maximize the likelihood that its products do not end up as waste. The post-use composition of durable products, such as a car or a cell phone, will be the same as when it was new. But for many consumable products, such as foods or shampoos, the packaging might be all that remains.
+[^1#be19-1]: Kein Unternehmen kann das Verhalten seiner Kunden vollständig kontrollieren. Daher liegt es hier in der Verantwortung des Unternehmens, die Wahrscheinlichkeit zu maximieren, dass seine Produkte nicht im Abfall landen. Die Zusammensetzung langlebiger Produkte wie eines Autos oder eines Mobiltelefons ist nach der Verwendung dieselbe wie im Neuzustand. Doch bei vielen Verbrauchsgütern wie Lebensmitteln oder Shampoos kann es sein, dass nur noch die Verpackung übrig bleibt.
 
-[^2#be19-2]: This is one of the eight Properties of a Future-Fit Society – for more details see the [**Methodology Guide**](#mg-figure-4-2).
+[^2#be19-2]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
-[^3#be19-3]: The company should approach the way it sorts goods into these categories in the same manner as it approaches applying an accounting policy. For this reason, the wording used here reflects that used in International Accounting Standard 8.14. @Int05
+[^3#be19-3]: Das Unternehmen sollte bei der Einteilung von Waren in diese Kategorien genauso vorgehen wie bei der Anwendung einer Rechnungslegungsmethode. Aus diesem Grund entspricht der hier verwendete Wortlaut dem des International Accounting Standard 8.14. @Int05
 
-[^4#be19-4]: Note that incineration of a component to extract its energy is _not_ sufficient.
+[^4#be19-4]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.
 
-[^5#be19-5]: If decomposition requires a specialized environment, a biodegradable component is only considered fit if available recovery services can provide that environment (e.g. oxo-biodegradable plastics require oxygen to break down, so do not degrade in the anaerobic environment of a landfill). See the [Definitions](#def) section for additional detail.
+[^5#be19-5]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.↩︎ Wenn der Abbau eine spezielle Umgebung erfordert, gilt ein biologisch abbaubarer Bestandteil nur dann als fit, wenn verfügbare Verwertungsdienste diese Umgebung bereitstellen können (z. B. benötigen oxo-biologisch abbaubare Kunststoffe Sauerstoff, um sich zu zersetzen, und bauen sich daher in der anaeroben Umgebung einer Deponie nicht ab). Weitere Einzelheiten finden Sie im Abschnitt [Definitionen](#def).
 
-[^6#be19-6]: Note that for the purpose of assessing availability of recycling services in markets, a company may use available national or regional statistics as guidance.
+[^6#be19-6]: Beachten Sie, dass ein Unternehmen zur Beurteilung der Verfügbarkeit von Recyclingdiensten auf Märkten verfügbare nationale oder regionale Statistiken als Orientierungshilfe verwenden kann.
 
-[^7#be19-7]: See previous note.
+[^7#be19-7]: Siehe vorherige Anmerkung.
 
-[^8#be19-8]: Note that incineration of a component to extract its energy is _not_ sufficient.
+[^8#be19-8]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.
 
-[^9#be19-9]: For example, in a market where a company relies on an established recycling program that provides adequate recovery services for 60% of people, 'X' will equal 60%.
+[^9#be19-9]: In einem Markt, in dem ein Unternehmen beispielsweise auf ein etabliertes Recyclingprogramm angewiesen ist, das angemessene Verwertungsdienste für 60 % der Menschen bietet, entspricht „X“ 60 %.
 
-[^10#be19-10]: This is relevant for several Product-related Break-Even Goals.
+[^10#be19-10]: Dies ist für mehrere produktbezogene Break-Even-Ziele relevant.
