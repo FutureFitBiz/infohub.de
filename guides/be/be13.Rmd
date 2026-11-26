@@ -150,7 +150,7 @@ Weitere Hinweise zur Bewertung oder Einrichtung wirksamer interner Kontrollen fi
 <div class="callout-note">
 **Positive Maßnahmen am Arbeitsplatz**
 
-Positive Maßnahmen liegen vor, wenn Unternehmen Aktivitäten mit der ausdrücklichen Absicht durchführen, Ungleichgewichte bei den Chancen benachteiligter Personen auszugleichen. @Eac11 Ein Beispiel hierfür wäre die Schaltung von [Stellenanzeigen auf zielgerichteten Websites](#be13-FAQ-hiring-candidate) um Bewerbungen aus unterrepräsentierten Gruppen zu fördern. Positive Maßnahmen sind nicht mit positiver Diskriminierung gleichzusetzen, bei der eine Person aufgrund eines bestimmten Merkmals bevorzugt behandelt wird. Entscheidungen am Arbeitsplatz sollten stets auf der Grundlage von Leistung getroffen werden.
+Positive Maßnahmen liegen vor, wenn Unternehmen Aktivitäten mit der ausdrücklichen Absicht durchführen, Ungleichgewichte bei den Chancen benachteiligter Personen auszugleichen. @Eac11 Ein Beispiel hierfür wäre die Schaltung von [Stellenanzeigen auf zielgerichteten Websites](#be13-faq-hiring-candidate) um Bewerbungen aus unterrepräsentierten Gruppen zu fördern. Positive Maßnahmen sind nicht mit positiver Diskriminierung gleichzusetzen, bei der eine Person aufgrund eines bestimmten Merkmals bevorzugt behandelt wird. Entscheidungen am Arbeitsplatz sollten stets auf der Grundlage von Leistung getroffen werden.
 
 Diskriminierung ist stark kontextabhängig. Die Art und das Ausmaß systemischer Hindernisse variieren je nach Region, Land und sogar Branche. In einigen Fällen sind möglicherweise aktivere Anstrengungen erforderlich, um die tief verwurzelten Auswirkungen historischer Diskriminierung zu neutralisieren. Dies kann in Form einer expliziten Richtlinie auf Regierungsebene erfolgen, oder ein Unternehmen kann beschließen, selbst Richtlinien und Programme zu initiieren. Jede derartige Initiative sollte sehr sorgfältig geprüft werden, um Probleme wie Alibiismus und die Untergrabung der Legitimität bestehender Mitarbeiter aus Minderheitengruppen zu vermeiden. @Rep16
 
@@ -259,35 +259,35 @@ $$F=\frac{0(E_{0\%})+0.25(E_{25\%})...+1(E_{100\%})}{E_T}=\frac{0(50)+0.5(200)}{
 
 Anzahl der Mitarbeiter:innen im Berichtszeitraum: 250
 
-#### 5.2 Häufig gestellte Fragen {-#be13-FAQ}
+#### 5.2 Häufig gestellte Fragen {-#be13-faq}
 
-##### Wie kann ein Unternehmen Antidiskriminierungsmaßnahmen in den Einstellungsprozess integrieren? {-#be13-FAQ-hiring}
+##### Wie kann ein Unternehmen Antidiskriminierungsmaßnahmen in den Einstellungsprozess integrieren? {-#be13-faq-hiring}
 
 Es gibt viele verschiedene Möglichkeiten, wie Unternehmen Antidiskriminierung in die Personalbeschaffung integrieren können. Im Folgenden finden Sie verschiedene Vorschläge. Es ist zu beachten, dass keine dieser Praktiken für sich genommen Diskriminierung beseitigen wird, sie können jedoch zusammen verwendet werden, um einen umfassenden Ansatz zu entwickeln.
 
-###### Stellen Sie sicher, dass Stellenausschreibungen demografisch neutral sind {-#be13-FAQ-hiring-posting}
+###### Stellen Sie sicher, dass Stellenausschreibungen demografisch neutral sind {-#be13-faq-hiring-posting}
 
 Stellenanzeigen sind wahrscheinlich der erste Kontaktpunkt einer Bewerberin oder eines Bewerbers mit einem potenziellen Arbeitgeber. Die darin verwendete Sprache kann Einfluss darauf haben, wen die Stellenausschreibung anspricht. Es wurde beispielsweise festgestellt, dass einige Wörter wie _durchsetzungsfähig_ und _entschlossen_ die Anzahl weiblicher Bewerbungen verringern, während Wörter wie _engagiert_, _sozialkompetent_ und _verantwortungsvoll_ möglicherweise den gegenteiligen Effekt haben. @Gir19 @Mcg17 Durch sorgfältiges Überlegen der Wortwahl, die zur Beschreibung eines Kandidatenprofils verwendet werden, kann ein Unternehmen möglicherweise vielfältigere Bewerber:innen anziehen. Darüber hinaus hat eine Studie ergeben, dass Frauen sich seltener auf eine Stelle bewerben, wenn sie nicht alle erforderlichen Kriterien erfüllen. Daher kann eine klare Unterscheidung zwischen _erforderlichen_ und _wünschenswerten_ Kriterien dazu beitragen, ein geschlechtervielfältigeres Bewerberfeld zu gewährleisten. @Gir19
 
-###### Erweitern Sie die Kandidatensuche {-#be13-FAQ-hiring-candidate}
+###### Erweitern Sie die Kandidatensuche {-#be13-faq-hiring-candidate}
 
 Wo Stellenangebote bekannt gemacht und beworben werden, kann einen erheblichen Einfluss darauf haben, wer sich bewirbt. Bei Einstiegspositionen beispielsweise werden Stellen, die nur mit Spitzenuniversitäten geteilt werden, eine relativ homogene Gruppe anziehen. @Mcg17 Durch die Veröffentlichung von Beiträgen auf einer breiteren Palette von Plattformen, den Einsatz von auf Diversität ausgerichteten Personalvermittlern sowie den Einsatz sozialer Medien und anderer Tools zur Gewinnung unterschiedlicher Talente kann ein Unternehmen möglicherweise die Vielfalt des Kandidatenpools erhöhen.
 
-###### Nutzen Sie geeignete Blind-Recruiting-Praktiken {-#be13-FAQ-hiring-blind}
+###### Nutzen Sie geeignete Blind-Recruiting-Praktiken {-#be13-faq-hiring-blind}
 
 Die _Blind Hiring_-Methode umfasst eine Reihe von Vorgehensweisen, bei denen Informationen ausgeblendet werden, um bewusste oder unbewusste Vorurteile während des Einstellungsprozesses zu minimieren. @Bal15 @Win17 Dies kann so einfach sein wie das Entfernen aller demografischen Angaben (wie Name oder akademischer Hintergrund) aus Bewerbungen und Lebensläufen vor deren Bewertung, bis hin zur Ausrichtung des gesamten Einstellungsprozesses auf kompetenzorientierte Bewertungen. Die am besten geeignete Option hängt vom jeweiligen Unternehmenskontext ab, einschließlich der verfügbaren Ressourcen, der Unternehmensgröße und der aktuellen Einstellungspraktiken.
 
-###### Verwenden Sie geeignete Interviewpraktiken {-#be13-FAQ-hiring-interviews}
+###### Verwenden Sie geeignete Interviewpraktiken {-#be13-faq-hiring-interviews}
 
 Die Einbeziehung verschiedener Personen in den Einstellungsprozess kann Entscheidungsträger:innen helfen, Feedback und Perspektiven zu gewinnen, die andernfalls möglicherweise übersehen worden wären, und kann dazu beitragen, Ähnlichkeitsverzerrungen zu vermeiden. @Mcg17 @Win17 Außerdem kann dies dazu beitragen, dass sich Bewerber:innen während der Vorstellungsgespräche stärker einbezogen fühlen.
 
-##### Sollte ein Unternehmen Schulungen zu den Themen Antidiskriminierung, Diversität oder unbewusste Vorurteile durchführen? {-#be13-FAQ-training}
+##### Sollte ein Unternehmen Schulungen zu den Themen Antidiskriminierung, Diversität oder unbewusste Vorurteile durchführen? {-#be13-faq-training}
 
-Schulungen zu Diskriminierung und Diversität können verschiedene Formen annehmen. Sie zielen in der Regel darauf ab, das Bewusstsein zu schärfen und positive Interaktionen zwischen allen Mitarbeitenden zu fördern. Schulungen zu unbewussten Vorurteilen[^8#be13-8] konzentrieren sich speziell darauf, das Bewusstsein für die Tendenz zu schärfen, bestimmte Personen aufgrund ihrer Merkmale unbewusst zu bevorzugen. Es gibt jedoch kaum Belege dafür, dass Schulungen zu Antidiskriminierung, Diversität oder unbewussten Vorurteilen an sich eine dauerhafte Verhaltensänderung bewirken. @Unc20 
+Schulungen zu Diskriminierung und Diversität können verschiedene Formen annehmen. Sie zielen in der Regel darauf ab, das Bewusstsein zu schärfen und positive Interaktionen zwischen allen Mitarbeitenden zu fördern. Schulungen zu unbewussten Vorurteilen[^8#be13-8] konzentrieren sich speziell darauf, das Bewusstsein für die Tendenz zu schärfen, bestimmte Personen aufgrund ihrer Merkmale unbewusst zu bevorzugen. Es gibt jedoch kaum Belege dafür, dass Schulungen zu Antidiskriminierung, Diversität oder unbewussten Vorurteilen an sich eine dauerhafte Verhaltensänderung bewirken. @Unc20
 
 Daher können Schulungen zwar dazu dienen, das Bewusstsein für die Herausforderung der Diskriminierung zu schärfen, sollten jedoch immer als Teil einer umfassenderen Antidiskriminierungsstrategie durchgeführt werden. Um möglichst wirksam zu sein, sollten Schulungen kontinuierlich und freiwillig stattfinden, anstatt einmalig und verpflichtend zu sein; sie sollten vorrangig für Mitarbeiter:innen angeboten werden, die Einstellungs- oder Beförderungsentscheidungen treffen, und sich auf praktische Prozesse konzentrieren, die die Mitarbeiter:innen umsetzen können. @Mcg17 @Unc20
 
-#### 5.3 Nützliche Links {-#be13-links}
+#### 5.3 Nützliche Links {-#be13-useful-links}
 
 ##### Internationale Arbeitsorganisation (ILO) {-#be13-ilo}
 
@@ -300,7 +300,6 @@ Das [Geschlechtsdecoder](http://gender-decoder.katmatfield.com) ist ein Tool zur
 ##### UN Global Compact {-#be13-ungc}
 
 Eines der zehn Prinzipien des UN Global Compact lautet: "[_Unternehmen sollten sich für die Beseitigung von Diskriminierung bei Beschäftigung und Beruf einsetzen_](https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6)", und es werden Hinweise zu spezifischen Maßnahmen gegeben, die ein Unternehmen ergreifen kann, um diesen Grundsatz einzuhalten.
-
 
 [^1#be13-1]: Geschützte Merkmale sind solche, die durch den internationalen Menschenrechtsrahmen abgedeckt sind. Der Rahmen enthält Instrumente zum Schutz vor Diskriminierung indigener Völker, Migranten, Minderheiten, Menschen mit Behinderungen, Frauen oder aufgrund von Rasse, Religion, sexueller Orientierung oder Geschlechtsidentität. @Un21 Geschützte Merkmale fallen in die breitere Kategorie persönlicher Merkmale, zu denen alle anderen identifizierenden Faktoren wie der sozioökonomische Hintergrund gehören.
 

@@ -282,7 +282,25 @@ Gesamtgewicht der gasförmigen Emissionen im Berichtszeitraum: 300 kg
 
 Anzahl der Gaslecks im Berichtszeitraum: N/A
 
-#### 5.2 Nützliche Links {-#be05-useful-links}
+#### 5.2 Häufig gestellte Fragen {-#be05-faq}
+
+##### WWarum gilt ein Stoff als schädlich, wenn er sich in der Umwelt anreichern kann? {-}
+
+Da unser Verständnis der langfristigen Auswirkungen der Exposition gegenüber Chemikalien zunimmt, werden internationale Gremien, NGOs und Regulierungsbehörden weiterhin Substanzen identifizieren, deren Verwendung vermieden werden sollte. Dies ist typischerweise auf ihre chemischen Eigenschaften, die Toxizitätsklassifizierung und die daraus resultierenden Auswirkungen auf Mensch und Umwelt zurückzuführen.
+
+Umweltschäden lassen sich jedoch nicht immer im Voraus erkennen. So wurden beispielsweise Substanzen wie FCKW aufgrund ihrer Stabilität und langen Lebensdauer als modernes Wunder gepriesen. Damals war noch nicht bekannt, dass sich FCKW in der Atmosphäre anreichern und zur Zerstörung der Ozonschicht führen. Eine systematische Zunahme der Konzentration von Substanzen in der Umwelt steht im grundlegenden Widerspruch zu den Systembedingungen einer nachhaltigen Gesellschaft (siehe [**methodischer Leitfaden**](#mg-figure-4-1)) und führt letztendlich zu Schäden, wenn systemische Schwellenwerte überschritten werden. @Bro15
+
+Viele der Stoffe auf der [SIN-Liste](http://sinlist.chemsec.org/) durchliefen dieselben Phasen. Es war bekannt, dass ihre Konzentration anstieg, doch ihre Verwendung wurde so lange zugelassen, bis schädliche Grenzwerte überschritten wurden und Zusammenhänge eindeutig nachgewiesen wurden. Ein „Future-Fit“-Unternehmen sollte in solchen Fällen lieber auf der sicheren Seite bleiben.
+
+##### Was ist der Unterschied zwischen Abfall und Emissionen? {-#be05-waste-vs-emissions}
+
+[**BE07: Betriebsabfälle werden eliminiert**](#be07) konzentriert sich auf feste, flüssige und gasförmige Stoffe (auch als Nebenprodukte bezeichnet), die vom Unternehmen aufgefangen und zur Behandlung, zum Recycling, zur Wiederverwendung oder zur Entsorgung an Dritte weitergeleitet werden können. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) feste, flüssige und gasförmige Stoffe, die in die Umwelt entweichen. Der Unterschied zwischen Abfällen und Emissionen ist subtil, doch das Ziel ist dasselbe: die Beseitigung von Stoffen, die in die Umwelt gelangen oder sich dort ansammeln. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsequent zu bewerten.
+
+##### Was ist der Unterschied zwischen Wasserableitung und flüssigen Emissionen? {-#be05-discharge-vs-liquid}
+
+[**BE02: Wassernutzung ist umweltverträglich und sozial gerecht**](#be02) konzentriert sich auf wasserbasierte Ableitungen (oft als Abwasser bezeichnet), die nach ausreichender Aufbereitung sicher in Gewässer zurückgeführt werden können. Die Aufbereitung kann durch das Unternehmen selbst oder durch eine abwasserbehandelnde Infrastruktur eines Drittanbieters erfolgen. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) flüssige Substanzen, die selbst Schadstoffe sind – sei es in der Luft, im Boden oder im Wasser. Flüssige Emissionen, die – absichtlich oder versehentlich – in die Umwelt gelangen könnten und nicht wieder in einen flüssigen Zustand zurückgeführt werden können, müssen beseitigt werden. Der Unterschied zwischen Abwasser und flüssigen Emissionen ist subtil, aber das Ziel ist dasselbe: die Neutralisierung der Auswirkungen. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsequent zu bewerten.
+
+#### 5.3 Nützliche Links {-#be05-useful-links}
 
 ##### Das Internationale Chemiesekretariat {-}
 
@@ -321,24 +339,6 @@ Die WHO hat eine empfohlene Klassifizierung von Pestiziden nach [Gefahrenstufen 
 
 Das ZDHC-Programm, das von einer Gruppe führender Bekleidungs- und Schuhhersteller geleitet wird, hat eine Liste verbotener oder problematischer [Substanzen](http://www.roadmaptozero.com/) erstellt, die für die Schuh- und Bekleidungsindustrie relevant sind @Tzd17. Diese Liste sollte als verlässliche Orientierungshilfe für jedes Unternehmen dieser Branche dienen, auch wenn dieses Unternehmen nicht aktiv am ZDHC-Programm beteiligt ist.
 
-#### 5.3 Häufig gestellte Fragen {-#be05-faq}
-
-##### WWarum gilt ein Stoff als schädlich, wenn er sich in der Umwelt anreichern kann? {-}
-
-Da unser Verständnis der langfristigen Auswirkungen der Exposition gegenüber Chemikalien zunimmt, werden internationale Gremien, NGOs und Regulierungsbehörden weiterhin Substanzen identifizieren, deren Verwendung vermieden werden sollte. Dies ist typischerweise auf ihre chemischen Eigenschaften, die Toxizitätsklassifizierung und die daraus resultierenden Auswirkungen auf Mensch und Umwelt zurückzuführen.
-
-Umweltschäden lassen sich jedoch nicht immer im Voraus erkennen. So wurden beispielsweise Substanzen wie FCKW aufgrund ihrer Stabilität und langen Lebensdauer als modernes Wunder gepriesen. Damals war noch nicht bekannt, dass sich FCKW in der Atmosphäre anreichern und zur Zerstörung der Ozonschicht führen. Eine systematische Zunahme der Konzentration von Substanzen in der Umwelt steht im grundlegenden Widerspruch zu den Systembedingungen einer nachhaltigen Gesellschaft (siehe [**methodischer Leitfaden**](#mg-figure-4-1)) und führt letztendlich zu Schäden, wenn systemische Schwellenwerte überschritten werden. @Bro15
-
-Viele der Stoffe auf der [SIN-Liste](http://sinlist.chemsec.org/) durchliefen dieselben Phasen. Es war bekannt, dass ihre Konzentration anstieg, doch ihre Verwendung wurde so lange zugelassen, bis schädliche Grenzwerte überschritten wurden und Zusammenhänge eindeutig nachgewiesen wurden. Ein „Future-Fit“-Unternehmen sollte in solchen Fällen lieber auf der sicheren Seite bleiben.
-
-##### Was ist der Unterschied zwischen Abfall und Emissionen? {-#be05-waste-vs-emissions}
-
-[**BE07: Betriebsabfälle werden eliminiert**](#be07) konzentriert sich auf feste, flüssige und gasförmige Stoffe (auch als Nebenprodukte bezeichnet), die vom Unternehmen aufgefangen und zur Behandlung, zum Recycling, zur Wiederverwendung oder zur Entsorgung an Dritte weitergeleitet werden können. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) feste, flüssige und gasförmige Stoffe, die in die Umwelt entweichen. Der Unterschied zwischen Abfällen und Emissionen ist subtil, doch das Ziel ist dasselbe: die Beseitigung von Stoffen, die in die Umwelt gelangen oder sich dort ansammeln. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsequent zu bewerten.
-
-##### Was ist der Unterschied zwischen Wasserableitung und flüssigen Emissionen? {-#be05-discharge-vs-liquid}
-
-[**BE02: Wassernutzung ist umweltverträglich und sozial gerecht**](#be02) konzentriert sich auf wasserbasierte Ableitungen (oft als Abwasser bezeichnet), die nach ausreichender Aufbereitung sicher in Gewässer zurückgeführt werden können. Die Aufbereitung kann durch das Unternehmen selbst oder durch eine abwasserbehandelnde Infrastruktur eines Drittanbieters erfolgen. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) flüssige Substanzen, die selbst Schadstoffe sind – sei es in der Luft, im Boden oder im Wasser. Flüssige Emissionen, die – absichtlich oder versehentlich – in die Umwelt gelangen könnten und nicht wieder in einen flüssigen Zustand zurückgeführt werden können, müssen beseitigt werden. Der Unterschied zwischen Abwasser und flüssigen Emissionen ist subtil, aber das Ziel ist dasselbe: die Neutralisierung der Auswirkungen. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsequent zu bewerten.
-
 [^1#be05-1]: Die US-Umweltschutzbehörde [EPA](https://www.epa.gov/sites/production/files/2015-12/documents/20110308fefactsheet.pdf) verwendet den Begriff „diffuse Emissionen“, um Emissionen zu beschreiben, „die nicht durch einen Schornstein, eine Abluftöffnung oder eine ähnliche Öffnung austreten“. Anders ausgedrückt: Prozessablaufdiagramme zeigen zwar, wo bestimmte Emissionen absichtlich oder wissentlich in die Umwelt abgegeben werden, diffuse Emissionen sind jedoch solche, die in unregelmäßigen oder seltenen Abständen auftreten, beispielsweise durch Verschüttungen oder Leckagen aus unter Druck stehenden Anlagen.
 
 [^2#be05-2]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**methodischen Leitfaden**](#mg-figure-4-2).
@@ -351,6 +351,6 @@ Viele der Stoffe auf der [SIN-Liste](http://sinlist.chemsec.org/) durchliefen di
 
 [^6#be05-6]: Im Idealfall würde die Aggregation auf der Grundlage der Toxizität des emittierten Stoffes gewichtet, um die Schwere der Auswirkungen jedes Stoffes widerzuspiegeln. Zum Zeitpunkt der Veröffentlichung standen jedoch keine Tools zur Unterstützung dieser Art vergleichbarer Analysen für den allgemeinen Gebrauch zur Verfügung.
 
-[^7#be05-7]: Dieser Schritt belohnt Unternehmen, die seit langem Emissionsdaten erheben. Sobald ein Referenzjahr ausgewählt wurde, sollte es nicht mehr geändert werden. Weitere Einzelheiten zur Festlegung von Referenzwerten finden Sie im︎ [*Implementierungsleitfadene**](#ig-set-reference-point).
+[^7#be05-7]: Dieser Schritt belohnt Unternehmen, die seit langem Emissionsdaten erheben. Sobald ein Referenzjahr ausgewählt wurde, sollte es nicht mehr geändert werden. Weitere Einzelheiten zur Festlegung von Referenzwerten finden Sie im [*Implementierungsleitfadene**](#ig-set-reference-point).
 
 [^8#be05-8]: Um die Konsistenz mit den im gesamten Ziel verwendeten Daten zu gewährleisten, sollte dies nach Möglichkeit nach Gewicht beschrieben werden.

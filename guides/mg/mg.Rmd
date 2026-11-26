@@ -29,8 +29,6 @@ Dieser Leitfaden stellt die Kernkomponenten des Future-Fit Business Benchmark vo
 
 [Anhang 2: Ableitung der Break-Even-Ziele und positiven Ziele](#mg-appendix-2)
 
-
-
 ## 1. Warum zukunftsfit? {-#mg-why-future-fit}
 
 <div class="introquote">
@@ -87,9 +85,7 @@ Die letzten beiden Abschnitte stellen die vor [Break-Even-Ziele](#mg-be) und [Po
 Der Future-Fit Business Benchmark ist ein öffentliches Gut, dessen Nutzung für jedermann kostenlos ist. Wir würden uns freuen, von Ihren Erfahrungen mit dem Tool zu hören, während wir es weiter verbessern. Sie erreichen unser Team unter [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.2%20Methodology%20Guide).
 </div>
 
-
 <!--- Section 3 --->
-
 
 ## 3. Wo wir heute stehen: eine Systemansicht {-#mg-systems-view}
 
@@ -713,7 +709,6 @@ Abbildung 4.4: Das Erreichen der SDGs ist ein Schritt auf dem Weg zu einer zukun
 ![](assets/figures/ff-properties-sdgs.svg)
 </div>
 
-
 <!-- Section 5 -->
 
 ## 5. Umsetzbare Leitlinien für Unternehmen {-#mg-actionable-guidance}
@@ -989,9 +984,7 @@ Die Future-Fit Foundation ist ein beitragender Autor des IMP, und unser Ansatz z
 Zwischen 2016 und 2018 brachte das IMP über 2.000 Praktiker aus verschiedenen Regionen und Disziplinen zusammen, um einen Konsens darüber zu erzielen, wie über Auswirkungen gesprochen, verwaltet und gemessen werden kann – und die Perspektiven von Unternehmen, gemeinnützigen Organisationen, Investitionen, Sozialwissenschaften und Zuschüssen miteinander verbunden werden -Erstellung, Bewertung, Politik, Normungsgremien und Rechnungslegung. Diese vielfältige Gruppe gelangte zu einer gemeinsamen Definition von „Auswirkung“ und einigte sich auf die Arten von Daten, die man in jedem guten Wirkungsrahmen oder Bericht erwarten würde. @Imp19
 </div>
 
-
 <!-- Section 6 -->
-
 
 ## 6. Break-Even-Ziele {-#mg-be}
 
@@ -1343,9 +1336,7 @@ Um zukunftsfähig zu sein, muss ein Unternehmen, das sein Kapital zur Finanzieru
 
 Sehen [**Aktionsleitfaden**](#be23).
 
-
 <!-- Section 7 -->
-
 
 ## 7. Positives Streben {-#mg-pp}
 
@@ -1701,7 +1692,6 @@ Tabelle A2.7: Ableitung positiver Ziele.
 
 ![](assets/figures/derive-pp.svg)
 </div>
-
 
 [^1#mg-1]: Es gibt viele Möglichkeiten, die Funktionsweise von Systemen zu beschreiben. Dieser Abschnitt stützt sich ausführlich auf Donella Meadows‘ Charakterisierung eines Systems aus ihrem 2009 erschienenen Buch _Thinking in Systems: A Primer_. @Don09
 

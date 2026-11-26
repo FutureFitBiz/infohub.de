@@ -255,7 +255,7 @@ $$F=\frac{0(E_{0\%})+0.3(E_{30\%})...+1(E_{100\%})}{E_T}=\frac{0.7(50)+0.6(200)}
 
 Gesamtzahl der Mitarbeiter:innen im Berichtszeitraum = 250
 
-#### 5.2 Nützliche Links {-#be14-links}
+#### 5.2 Nützliche Links {-#be14-useful-links}
 
 ##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-#be14-un-pbhr}
 
@@ -268,7 +268,6 @@ CSR Europe ist ein führendes europäisches Unternehmensnetzwerk für soziale Ve
 ##### The Office of the Compliance Advisor / Ombudsman {-#be14-cao}
 
 CAO ist der unabhängige Beschwerdemechanismus für die Internationale Finanz-Corporation (IFC) und die Multilaterale Investitionsgarantie-Agentur (MIGA). Es hat einen [A Guide to Designing and Implementing Grievance Mechanisms for Development Projects](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf) veröffentlicht.
-
 
 [^1#be14-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 

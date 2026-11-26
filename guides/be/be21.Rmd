@@ -137,7 +137,7 @@ Das Unternehmen sollte darauf hinarbeiten, seine Steuerberichterstattung um die 
 - Das Unternehmen sollte seinen vollständigen Jahresabschluss der Öffentlichkeit frei zugänglich machen, unabhängig von seiner gesetzlichen Verpflichtung dazu.
 - Das Unternehmen sollte die Art seiner Geschäftstätigkeit klar darlegen, entweder im Rahmen seiner veröffentlichten Finanzdaten oder auf einer leicht auffindbaren Unternehmenswebsite.
 - Das Unternehmen sollte seine Geschäftsadresse (oder die Bestätigung, dass es sich um dieselbe Adresse handelt, unter der es offiziell registriert ist) entweder als Teil seiner veröffentlichten Finanzdaten oder auf einer leicht auffindbaren Unternehmenswebsite angeben.
-- Das Unternehmen sollte offenlegen, wer die wirtschaftlichen Eigentümer:innen aller Beteiligungen von 10 % oder mehr am Unternehmen sind, entweder im Rahmen seines veröffentlichten Jahresabschlusses oder auf einer leicht auffindbaren Unternehmenswebsite.[^5#be21-5]
+- Das Unternehmen sollte offenlegen, wer die wirtschaftlichen Eigentümer:innen[^4#be21-4] aller Beteiligungen von 10 % oder mehr am Unternehmen sind, entweder im Rahmen seines veröffentlichten Jahresabschlusses oder auf einer leicht auffindbaren Unternehmenswebsite.[^5#be21-5]
 
 ####### Klarheit hinsichtlich der gezahlten Steuern {-}
 
@@ -309,7 +309,7 @@ Aus diesen Gründen müssen sich Unternehmen, die in mehreren Steuerhoheitsgebie
 
 Beachten Sie, dass das Ziel dieser Kriterien darin besteht, Fälle zu begrenzen, in denen sich Steuervorteile aus Klassifizierungen ergeben, die nicht der wirtschaftlichen Realität entsprechen.
 
-#### 5.3 Nützliche Links {-#be21-links}
+#### 5.3 Nützliche Links {-#be21-useful-links}
 
 ##### BEPS-Aktionsplan der OECD {-#be21-beps}
 
@@ -318,7 +318,6 @@ Der [BEPS-Aktionsplan](http://www.oecd.org/ctp/beps.htm) wurde 2013 von der OECD
 ##### Das Fair Tax Mark {-#be21-fair-tax-mark}
 
 Das [Fair Tax Mark](http://www.fairtaxmark.net/) ist eine britische gemeinnützige Organisation, die einen „Fair Tax“-Benchmark mit entsprechenden [Kriterien](http://www.fairtaxmark.net/criteria/) für multinationale Unternehmen in britischem Besitz sowie für Unternehmen, die ausschließlich im Vereinigten Königreich tätig sind, entwickelt hat.
-
 
 [^1#be21-1]: Weitere Hinweise zur Einstufung von Mitarbeitenden finden Sie im [**Leitfaden zur Umsetzung**](#ig-determining-employee).
 

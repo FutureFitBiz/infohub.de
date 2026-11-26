@@ -148,7 +148,7 @@ Climate resilience – the "ability to anticipate, prepare for, and respond to h
 - Preventing the degradation of ecosystems which act as natural flood defences;
 - Increasing the capacity of farmers to grow drought-resistant crops;
 - Offering insurance to underserved people whose livelihood may be adversely impacted by increases in severe weather events; or
-- Mobilising investment into climate-resilient infrastructure.
+- Mobilizing investment into climate-resilient infrastructure.
 
 These activities are captured by different Positive Pursuits. That said, a company could contribute to those same Positive Pursuits in ways which might _not_ relate to climate resilience. Note that additional guidance for determining when and why there is a specific link between a Positive Pursuit and an SDG target is under development.
 </div>
@@ -601,7 +601,7 @@ Alternatively, a company may choose to form a political pressure group for the p
 
 For everyone to have the opportunity to pursue higher needs, people must be able to form, participate in and rely on social groups. Such social cohesion is crucial to building trust and respect among individuals, communities and institutions:
 
-_[A socially cohesive society] works towards the wellbeing of all its members, minimizing disparities and avoiding marginalization, by building networks of relationships, trust and identity between different groups; fighting discrimination, exclusion and excessive inequalities; and enabling upward social mobility._ @Oec11
+_[A socially cohesive society] works toward the wellbeing of all its members, minimizing disparities and avoiding marginalization, by building networks of relationships, trust and identity between different groups; fighting discrimination, exclusion and excessive inequalities; and enabling upward social mobility._ @Oec11
 
 Social cohesion depends on strong bonds _within_ communities and strong bridges _between_ communities. The emphasis of this Positive Pursuit is therefore not about safeguarding individual wellbeing, but about fostering common ground and closing opportunity gaps between individuals.
 
@@ -1110,7 +1110,7 @@ As described previously, a company can undertake Positive Pursuits in many ways,
 
 ### 4.1 Creating or contributing to positive impact {-}
 
-The path towards positive impact often starts with _intentionality_, whereby a company has a clear purpose to achieve certain outcomes, and is able to state exactly how it will do so. But sometimes a company's activities may lead to positive outcomes by chance.
+The path toward positive impact often starts with _intentionality_, whereby a company has a clear purpose to achieve certain outcomes, and is able to state exactly how it will do so. But sometimes a company's activities may lead to positive outcomes by chance.
 
 In either case, if a company wishes to understand and explain the extent of the results it achieves, it should be able to articulate _why_ it believes there is a link between action and outcome. This articulation is sometimes referred to as a _theory of change_ (see box below).
 
@@ -1518,7 +1518,7 @@ Unavoidable trade-offs that are deemed **acceptable** should be acknowledged, an
 
 Alterations should be made to the proposed project or product so that **negotiable** trade-offs can be moved into the category of acceptable trade-offs, or be eliminated altogether.
 
-**Unacceptable** trade-offs should be avoided at all costs. A trade-off should be considered unacceptable if it introduces a clear threat to people's wellbeing or creates structural obstacles that impair (or even negate) progress towards future-fitness. One way to look at this is to consider the degree to which a trade-off would introduce a barrier to progress with respect to one or more of the Properties of a Future-Fit Society (see [Figure 2](#pp-figure-2)).[^39#pp-39]
+**Unacceptable** trade-offs should be avoided at all costs. A trade-off should be considered unacceptable if it introduces a clear threat to people's wellbeing or creates structural obstacles that impair (or even negate) progress toward future-fitness. One way to look at this is to consider the degree to which a trade-off would introduce a barrier to progress with respect to one or more of the Properties of a Future-Fit Society (see [Figure 2](#pp-figure-2)).[^39#pp-39]
 
 For example, providing access to renewable energy for an underserved community by building a hydro-electric dam, when downstream communities rely on that water source for food production and drinking, could result in a positive outcome for the first group but undermine access to water for the second.
 

@@ -268,7 +268,7 @@ $$F=\frac{E_L}{E_T}=\frac{45+50}{250}=38\%$$
 
 Gesamtzahl der Mitarbeiter:innen: 250.
 
-#### 5.2 Nützliche Links {-#be11-links}
+#### 5.2 Nützliche Links {-#be11-useful-links}
 
 ##### Die Global Living Wage Coalition {-}
 

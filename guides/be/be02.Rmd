@@ -368,6 +368,24 @@ $$F=\frac{W_D}{W_{DT}}=\frac{10,000+305,000}{10,000+350,000}=\frac{315,000}{360,
 
 Gesamtmenge des eingeleiteten Wassers: 360.000 L
 
+#### 5.2 Häufig gestellte Fragen {-#be02-faq}
+
+##### Warum konzentrieren sich die Fitnesskriterien auf den Verbrauch in wasserarmen Gebieten? {-}
+
+Das Ziel erfordert, dass ein Unternehmen den Wasserverbrauch in seinen gewerblichen und industriellen Prozessen in allen Gebieten, die derzeit unter Wasserstress leiden, eliminiert, um sicherzustellen, dass ein Unternehmen nichts unternimmt, was den Fortschritt hin zu einer Zukunft behindert, in der keine Ökosysteme oder Gemeinschaften unter einem Mangel an Zugang zu Wasser leiden. Wenn das Gleichgewicht zwischen Angebot, Nachfrage und Zugänglichkeit so ausgeglichen ist, dass ein Gebiet nicht als wasserarm eingestuft wird, wird der Wasserverbrauch (in einer Weise, die aquatische Ökosysteme nicht beeinträchtigt) an sich nicht als Problem angesehen.
+
+Das bedeutet jedoch nicht, dass Unternehmen in Regionen mit reichlich vorhandenen Wasserressourcen einfach „den Wasserhahn offen lassen“ sollten. Aufgrund der Komplexität der Wassersysteme und der Abhängigkeit von ihnen seitens der Gemeinden und Ökosysteme werden Unternehmen dazu angehalten, [verantwortungsvollen Umgang mit Wasser](#def-water-stewardship) als ganzheitlichen Ansatz zu praktizieren, um die Auswirkungen ihrer Organisation auf die Wassernutzung und ihre damit verbundene Beziehung zu Wasser zu verstehen und zu steuern.
+
+##### Wann können Wasserkompensationsmaßnahmen eingesetzt werden, um Zukunftsfähigkeit zu erreichen? {-#be02-what-is-offset}
+
+Kompensationsmaßnahmen sollten generell als letzter Ausweg betrachtet werden, da sie immer einen Kompromiss in Bezug auf Zeit, Ort oder Art beinhalten. Zum Zeitpunkt der Berichterstellung gibt es keinen allgemein anerkannten Konsens darüber, wie bestimmt werden kann, ob ein bestimmtes Ausgleichsprojekt gut genug ist. Für die Zwecke dieses Ziels wird ein Wasserkompensationsprojekt nur dann als geeignet angesehen, wenn es im gleichen Wassereinzugsgebiet und im gleichen Monat wie der Verbrauch des Unternehmens stattfindet.
+
+Beispiele für geeignete Kompensationsmaßnahmen sind die Verringerung des Verbrauchs anderer Unternehmen im gleichen Wassereinzugsgebiet oder das Auffangen von Wasser zur Wiederauffüllung des gleichen Wassereinzugsgebiets. Wenn ein Unternehmen Kompensationsmaßnahmen einsetzt, muss es die Vorgehensweise dokumentieren, um deren Wirksamkeit zu überprüfen.
+
+##### Was ist der Unterschied zwischen Wassereinleitungen und Flüssigkeitsemissionen? {-#be02-discharge-vs-liquid}
+
+[**BE02: Eine umweltverträgliche und sozial gerechte Wassernutzung**](#be02) konzentriert sich auf Abwässer (oft als Abwasser bezeichnet), die nach ausreichender Behandlung sicher in die Wassereinzugsgebiete zurückgeführt werden können. Die Behandlung kann durch das Unternehmen selbst oder durch eine externe Abwasserbehandlungseinrichtung erfolgen. Im Gegensatz dazu umfasst, [**BE05: Betriebliche Emissionen schaden weder Mensch noch Umwelt flüssige Substanzen,**](#be05) die selbst Schadstoffe sind - sei es in der Luft, im Boden oder im Wasser. Flüssige Emissionen, die - absichtlich oder unabsichtlich - in die Umwelt gelangen können und nicht in den Zustand von Wasser zurückgeführt werden können, müssen beseitigt werden. Der Unterschied zwischen Abwässern und flüssigen Emissionen ist nuanciert, aber das Ziel ist dasselbe: die Neutralisierung der Auswirkungen. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und die Fortschritte Jahr für Jahr konsequent zu bewerten.
+
 #### 5.3 Nützliche Links {-#be02-useful-links}
 
 ##### Alliance for Water Stewardship {-#be02-aws}
@@ -376,7 +394,7 @@ Der [Alliance for Water Stewardship Standard](http://www.allianceforwatersteward
 
 ##### The Global Environmental Management Initiative {-}
 
-GEMI bietet ein kostenloses [Online-Tool](http://gemi.org/localwatertool/) an, das die Schritte zur Durchführung einer Bewertung des Wasserverbrauchs pro Anlage beschreibt. 
+GEMI bietet ein kostenloses [Online-Tool](http://gemi.org/localwatertool/) an, das die Schritte zur Durchführung einer Bewertung des Wasserverbrauchs pro Anlage beschreibt.
 
 ##### The Water Footprint Network {-}
 
@@ -398,24 +416,6 @@ Das 2012 ins Leben gerufene [Wasserrisikofilter](http://waterriskfilter.panda.or
 
 Es ist so konzipiert, dass es auch von Nicht-Wasserexperten einfach verwendet werden kann. Es ist das einzige Tool, mit dem sich Wasserrisiken in Einzugsgebieten und im Betrieb einschätzen lassen und individuelle Anleitungen zur Reaktion gegeben werden können. Branchen- und länderübergreifend wurden mehr als 200.000 Websites von über 3.000 Nutzern bewertet.
 
-#### 5.2 Häufig gestellte Fragen {-#be02-faq}
-
-##### Warum konzentrieren sich die Fitnesskriterien auf den Verbrauch in wasserarmen Gebieten? {-}
-
-Das Ziel erfordert, dass ein Unternehmen den Wasserverbrauch in seinen gewerblichen und industriellen Prozessen in allen Gebieten, die derzeit unter Wasserstress leiden, eliminiert, um sicherzustellen, dass ein Unternehmen nichts unternimmt, was den Fortschritt hin zu einer Zukunft behindert, in der keine Ökosysteme oder Gemeinschaften unter einem Mangel an Zugang zu Wasser leiden. Wenn das Gleichgewicht zwischen Angebot, Nachfrage und Zugänglichkeit so ausgeglichen ist, dass ein Gebiet nicht als wasserarm eingestuft wird, wird der Wasserverbrauch (in einer Weise, die aquatische Ökosysteme nicht beeinträchtigt) an sich nicht als Problem angesehen.
-
-Das bedeutet jedoch nicht, dass Unternehmen in Regionen mit reichlich vorhandenen Wasserressourcen einfach „den Wasserhahn offen lassen“ sollten. Aufgrund der Komplexität der Wassersysteme und der Abhängigkeit von ihnen seitens der Gemeinden und Ökosysteme werden Unternehmen dazu angehalten, [verantwortungsvollen Umgang mit Wasser](#def-water-stewardship) als ganzheitlichen Ansatz zu praktizieren, um die Auswirkungen ihrer Organisation auf die Wassernutzung und ihre damit verbundene Beziehung zu Wasser zu verstehen und zu steuern.
-
-##### Wann können Wasserkompensationsmaßnahmen eingesetzt werden, um Zukunftsfähigkeit zu erreichen? {-#be02-what-is-offset}
-
-Kompensationsmaßnahmen sollten generell als letzter Ausweg betrachtet werden, da sie immer einen Kompromiss in Bezug auf Zeit, Ort oder Art beinhalten. Zum Zeitpunkt der Berichterstellung gibt es keinen allgemein anerkannten Konsens darüber, wie bestimmt werden kann, ob ein bestimmtes Ausgleichsprojekt gut genug ist. Für die Zwecke dieses Ziels wird ein Wasserkompensationsprojekt nur dann als geeignet angesehen, wenn es im gleichen Wassereinzugsgebiet und im gleichen Monat wie der Verbrauch des Unternehmens stattfindet.
-
-Beispiele für geeignete Kompensationsmaßnahmen sind die Verringerung des Verbrauchs anderer Unternehmen im gleichen Wassereinzugsgebiet oder das Auffangen von Wasser zur Wiederauffüllung des gleichen Wassereinzugsgebiets. Wenn ein Unternehmen Kompensationsmaßnahmen einsetzt, muss es die Vorgehensweise dokumentieren, um deren Wirksamkeit zu überprüfen.
-
-##### Was ist der Unterschied zwischen Wassereinleitungen und Flüssigkeitsemissionen? {-#be02-discharge-vs-liquid}
-
-[**BE02: Eine umweltverträgliche und sozial gerechte Wassernutzung**](#be02) konzentriert sich auf Abwässer (oft als Abwasser bezeichnet), die nach ausreichender Behandlung sicher in die Wassereinzugsgebiete zurückgeführt werden können. Die Behandlung kann durch das Unternehmen selbst oder durch eine externe Abwasserbehandlungseinrichtung erfolgen. Im Gegensatz dazu umfasst, [**BE05: Betriebliche Emissionen schaden weder Mensch noch Umwelt flüssige Substanzen,**](#be05) die selbst Schadstoffe sind - sei es in der Luft, im Boden oder im Wasser. Flüssige Emissionen, die - absichtlich oder unabsichtlich - in die Umwelt gelangen können und nicht in den Zustand von Wasser zurückgeführt werden können, müssen beseitigt werden. Der Unterschied zwischen Abwässern und flüssigen Emissionen ist nuanciert, aber das Ziel ist dasselbe: die Neutralisierung der Auswirkungen. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und die Fortschritte Jahr für Jahr konsequent zu bewerten.
-
 [^1#be02-1]: Das bedeutet nicht, dass ein Unternehmen „die Wasserhähne aufgedreht lassen“ sollte, wenn es sich in einem Gebiet mit Wasserreichtum befindet. Ein Unternehmen sollte sich bemühen, verantwortungsvoll mit den Wasserressourcen umzugehen - siehe Abschnitt „Definitionen“ für eine Erläuterung des Begriffs '[water stewardship](#def-water-stewardship)'.
 
 [^2#be02-2]: Zu beachten ist, dass dies alle Arten von Einleitungen umfasst, die entweder als [Wassereinleitungen](#def-water-discharge), [Abwasser](#def-effluent) oder [Abwässer](#def-wastewater) eingestuft werden können.
@@ -430,15 +430,15 @@ Beispiele für geeignete Kompensationsmaßnahmen sind die Verringerung des Verbr
 
 [^7#be02-7]: Beachten Sie, dass diese Mitarbeiter:innen auch außerhalb der Arbeit Wasser für den persönlichen Gebrauch verbrauchen müssten. Obwohl der persönliche Wasserverbrauch nicht in die Berechnung des Fortschrittsindikators einfließt, werden Unternehmen ermutigt, die Effizienz dieser Wassernutzung nach Möglichkeit zu steigern.
 
-[^8#be02-8]: In einigen Regionen wird das Wasser hauptsächlich aus Grundwasser (z. B. Aquiferen) gewonnen, in anderen hauptsächlich aus Oberflächengewässern wie Seen oder Flüssen.︎
+[^8#be02-8]: In einigen Regionen wird das Wasser hauptsächlich aus Grundwasser (z. B. Aquiferen) gewonnen, in anderen hauptsächlich aus Oberflächengewässern wie Seen oder Flüssen.
 
-[^9#be02-9]: Beachten Sie, dass sich die „Gesamtwasserentnahmemengen“ nicht nur auf die eigenen Entnahmemengen des Unternehmens beziehen, sondern auf die gesamte Wassermenge, die der Quelle entnommen wird.︎
+[^9#be02-9]: Beachten Sie, dass sich die „Gesamtwasserentnahmemengen“ nicht nur auf die eigenen Entnahmemengen des Unternehmens beziehen, sondern auf die gesamte Wassermenge, die der Quelle entnommen wird.
 
 [^10#be02-10]: Siehe zum Beispiel das CEO Water Mandate's [Water Stewardship Toolbox](https://ceowatermandate.org/toolbox/).
 
 [^11#be02-11]: Dies entspricht dem Wortlaut der [Alliance for Water Stewardship](http://a4ws.org/wp-content/uploads/2017/04/AWS-Standard-Full-v-1.0-English.pdf), die verlangt, dass ein Unternehmen über _geeignete und glaubwürdig gemessene Daten verfügt, um den physikalischen, chemischen und biologischen Zustand des direkten und ausgelagerten Wasserabflusses des Standorts nach zeitlich relevanten Zeiteinheiten darzustellen._ @All14
 
-[^12#be02-12]: Beachten Sie, dass die in diesen Listen enthaltenen Hinweise zu den Konzentrationen chemischer Substanzen im eingeleiteten Wasser mit dem Ziel [**rodukte schaden weder Mensch noch Umwelt**](#be17) übereinstimmen. Die zusätzlichen Dimensionen, die hier enthalten sind, sind Temperatur, pH-Wert und die Auswirkungen von ansonsten unbedenklichen Aspekten (Zeitpunkt der Einleitung, Klarheit des Wassers, organische Stoffe, die sich auf den Sauerstoffgehalt auswirken können) auf biologische Systeme.︎
+[^12#be02-12]: Beachten Sie, dass die in diesen Listen enthaltenen Hinweise zu den Konzentrationen chemischer Substanzen im eingeleiteten Wasser mit dem Ziel [**rodukte schaden weder Mensch noch Umwelt**](#be17) übereinstimmen. Die zusätzlichen Dimensionen, die hier enthalten sind, sind Temperatur, pH-Wert und die Auswirkungen von ansonsten unbedenklichen Aspekten (Zeitpunkt der Einleitung, Klarheit des Wassers, organische Stoffe, die sich auf den Sauerstoffgehalt auswirken können) auf biologische Systeme.
 
 [^13#be02-13]: Dies ist eine spezifische Anforderung der [Alliance for Water Stewardship](http://a4ws.org/), die besagt: _Wenn die Identifizierung der wichtigsten Wasserqualitätsparameter, die Anlass zur Sorge geben, nicht in gesetzlichen Anforderungen oder Vorschriften festgelegt ist, liegt dies weitgehend im Ermessen des Standorts, wobei lokale Interessengruppen die Entscheidung treffen. Die Einbindung der Interessengruppen ist in dieser Hinsicht von entscheidender Bedeutung. Dieser Ansatz stellt sicher, dass lokale Wasserqualitätsprobleme berücksichtigt werden können und gleichzeitig ein gewisses Maß an Kontrolle bietet._ @All14
 
@@ -448,6 +448,6 @@ Beispiele für geeignete Kompensationsmaßnahmen sind die Verringerung des Verbr
 
 [^16#be02-16]: Kompensationen sollten generell als letzter Ausweg betrachtet werden, da sie immer einen Kompromiss in Bezug auf Zeit, Ort oder Art darstellen. Um das Ausmaß der Ausgleiche zu minimieren, müssen die Kompensationsprojekte am selben Ort und zur selben Zeit wie der ursprüngliche Verbrauch stattfinden. Der Ansatz zur Überprüfung der Wirksamkeit solcher Kompensationen muss dokumentiert werden. Weitere Informationen zu Kompensationsprojekten finden Sie in [_dieser häufig gestellten Frage_](#be02-what-is-offset).
 
-[^17#be02-17]: Dies sollte auch Wasser aus Quellen umfassen, die noch nicht bewertet wurden und bei denen daher nicht überprüft werden kann, ob sie alle Fitnesskriterien erfüllen.︎
+[^17#be02-17]: Dies sollte auch Wasser aus Quellen umfassen, die noch nicht bewertet wurden und bei denen daher nicht überprüft werden kann, ob sie alle Fitnesskriterien erfüllen.
 
 [^18#be02-18]: Dies sollte auch alle Entlassungen umfassen, die noch nicht bewertet wurden und daher nicht überprüft werden können, ob sie alle Fitnesskriterien erfüllen.

@@ -381,26 +381,6 @@ Anspruchsvolle Brennpunkte: Es wurden mehrere kritische Brennpunkte identifizier
 
 Durchgeführte Schritte: Es wurden keine Maßnahmen ergriffen.
 
-#### 5.3 Nützliche Links {-#be23-useful-links}
-
-##### Die Grundsätze für verantwortungsvolles Investieren (PRI) {-}
-
-Im Jahr 2005 berief die UNO die [PRI](https://www.unpri.org/) als eine Gruppe der weltweit größten institutionellen Investoren ein, um eine Reihe von Grundsätzen für verantwortungsbewusstes Investieren zu entwickeln. Die Gruppe ist der Ansicht, dass ein wirtschaftlich effizientes, nachhaltiges Finanzsystem eine Voraussetzung für langfristige Wertschöpfung ist. Die sechs von der Gruppe formulierten Grundsätze sind freiwillige, anstrebenwerte Investitionsrichtlinien, die ein breites Spektrum möglicher Maßnahmen zur Einbeziehung von Umwelt-, Sozial- und Governance-Faktoren (ESG) in die Investitionspraxis bieten. Die Prinzipien wurden von Investoren für Investoren entwickelt, in der Hoffnung, ein nachhaltigeres globales Finanzsystem zu schaffen. Im April 2018 gab es mehr als 1.950 Unterzeichner:innen aus über 50 Ländern, die ein verwaltetes Vermögen von über 80 Billionen US-Dollar repräsentieren.
-
-##### Umweltprogramm der Vereinten Nationen – Finanzinitiative (UNEP FI) {-}
-
-Die [UNEP FI](http://www.unepfi.org/) ist eine Partnerschaft zwischen dem Umweltprogramm der Vereinten Nationen und dem globalen Finanzsektor, die im Rahmen des Erdgipfels 1992 ins Leben gerufen wurde und deren Aufgabe darin besteht, nachhaltige Finanzierungen zu fördern. Über 200 Finanzinstitute, darunter Banken, Versicherungen und Investoren, arbeiten mit dem UNEP zusammen, um die aktuellen ökologischen Herausforderungen zu verstehen, zu erkennen, warum diese für die Finanzwelt von Bedeutung sind, und um herauszufinden, wie sie aktiv zu deren Bewältigung beitragen können.
-
-UNEP FI hat Untersuchungen durchgeführt und anschließend seine Ergebnisse zur Debatte darüber veröffentlicht, ob die Treuepflicht ein legitimes Hindernis für Investoren darstellt, Umwelt-, Sozial- und Governance-Themen in ihre Anlageprozesse zu integrieren. Der [hier](http://www.unepfi.org/fileadmin/documents/fiduciary_duty_21st_century.pdf), verfügbare Bericht ist nützlich, um Diskussionen darüber anzuregen, wie die Treuepflicht und das Streben nach Zukunftsfähigkeit zusammenwirken.
-
-##### Divest-Invest {-}
-
-[Divest-Invest](http://divestinvest.org/) ist ein vielfältiges, globales Netzwerk von Einzelpersonen und Organisationen, die in der Überzeugung vereint sind, dass sie durch den Einsatz ihres kollektiven Einflusses als Investoren – indem sie sich aus fossilen Brennstoffen zurückziehen und in Klimalösungen investieren – den Übergang zu einer CO2-freien Wirtschaft beschleunigen können. Auf diese Weise unterstützen sie das von den Regierungen in Paris auf der COP21 geschlossene Abkommen und sichern ihre eigenen Investitionsrenditen. Bis Januar 2019 hat die Bewegung Verpflichtungen in Höhe von 7,2 Billionen US-Dollar mobilisiert.
-
-##### Triodos Bank {-}
-
-Die Triodos Bank ist ein führender Experte für nachhaltiges Bankwesen mit dem Ziel, Geld für positive Veränderungen einzusetzen. Die Bank hat eine Reihe von [Geschäftsgrundsätzen](https://www.triodos.com/governance) und Kreditvergabekriterien festgelegt, die klar definieren, wie ihre Mitarbeiter:innen die wirtschaftlichen Qualitäten potenzieller Investitionsmöglichkeiten und Kreditverträge bewerten und feststellen können, ob diese mit der Mission und Vision des Unternehmens im Einklang stehen. Diese kommen unter anderem in einer Liste von Mindestanforderungen und Ausschlusskriterien zum Ausdruck, die die Standards festlegen, die erfüllt sein müssen, bevor eine weitere Bewertung der potenziellen Investition oder des Kreditvertrags gerechtfertigt ist. Triodos nennt Branchen und Produkte, für die sie eine „Null-Toleranz-Politik“ verfolgt, sowie andere, für die sie eine maximale Beteiligungsgrenze festgelegt hat.
-
 #### 5.2 Häufig gestellte Fragen {-#be23-faq}
 
 ##### Welche Arten von Investitionen fallen unter dieses Ziel? {-#be23-faq-1}
@@ -434,6 +414,25 @@ Bei Bankkonten und Bareinlagen sollten die Tagesschlusswerte zur Berechnung des 
 
 Beachten Sie, dass die Berechnung des Durchschnittswerts aller Barmittel nur dann relevant ist, wenn ein Unternehmen über mehr als einen finanziellen Vermögenswert verfügt. Wenn ein Unternehmen beispielsweise nur ein Bankkonto hat, ist der Fortschrittsindikator einfach der dieser Bank zugeordnete Fitness-Score, also 0 %, 25 %, 50 %, 75 % oder 100 %.
 
+#### 5.3 Nützliche Links {-#be23-useful-links}
+
+##### Die Grundsätze für verantwortungsvolles Investieren (PRI) {-}
+
+Im Jahr 2005 berief die UNO die [PRI](https://www.unpri.org/) als eine Gruppe der weltweit größten institutionellen Investoren ein, um eine Reihe von Grundsätzen für verantwortungsbewusstes Investieren zu entwickeln. Die Gruppe ist der Ansicht, dass ein wirtschaftlich effizientes, nachhaltiges Finanzsystem eine Voraussetzung für langfristige Wertschöpfung ist. Die sechs von der Gruppe formulierten Grundsätze sind freiwillige, anstrebenwerte Investitionsrichtlinien, die ein breites Spektrum möglicher Maßnahmen zur Einbeziehung von Umwelt-, Sozial- und Governance-Faktoren (ESG) in die Investitionspraxis bieten. Die Prinzipien wurden von Investoren für Investoren entwickelt, in der Hoffnung, ein nachhaltigeres globales Finanzsystem zu schaffen. Im April 2018 gab es mehr als 1.950 Unterzeichner:innen aus über 50 Ländern, die ein verwaltetes Vermögen von über 80 Billionen US-Dollar repräsentieren.
+
+##### Umweltprogramm der Vereinten Nationen – Finanzinitiative (UNEP FI) {-}
+
+Die [UNEP FI](http://www.unepfi.org/) ist eine Partnerschaft zwischen dem Umweltprogramm der Vereinten Nationen und dem globalen Finanzsektor, die im Rahmen des Erdgipfels 1992 ins Leben gerufen wurde und deren Aufgabe darin besteht, nachhaltige Finanzierungen zu fördern. Über 200 Finanzinstitute, darunter Banken, Versicherungen und Investoren, arbeiten mit dem UNEP zusammen, um die aktuellen ökologischen Herausforderungen zu verstehen, zu erkennen, warum diese für die Finanzwelt von Bedeutung sind, und um herauszufinden, wie sie aktiv zu deren Bewältigung beitragen können.
+
+UNEP FI hat Untersuchungen durchgeführt und anschließend seine Ergebnisse zur Debatte darüber veröffentlicht, ob die Treuepflicht ein legitimes Hindernis für Investoren darstellt, Umwelt-, Sozial- und Governance-Themen in ihre Anlageprozesse zu integrieren. Der [hier](http://www.unepfi.org/fileadmin/documents/fiduciary_duty_21st_century.pdf), verfügbare Bericht ist nützlich, um Diskussionen darüber anzuregen, wie die Treuepflicht und das Streben nach Zukunftsfähigkeit zusammenwirken.
+
+##### Divest-Invest {-}
+
+[Divest-Invest](http://divestinvest.org/) ist ein vielfältiges, globales Netzwerk von Einzelpersonen und Organisationen, die in der Überzeugung vereint sind, dass sie durch den Einsatz ihres kollektiven Einflusses als Investoren – indem sie sich aus fossilen Brennstoffen zurückziehen und in Klimalösungen investieren – den Übergang zu einer CO2-freien Wirtschaft beschleunigen können. Auf diese Weise unterstützen sie das von den Regierungen in Paris auf der COP21 geschlossene Abkommen und sichern ihre eigenen Investitionsrenditen. Bis Januar 2019 hat die Bewegung Verpflichtungen in Höhe von 7,2 Billionen US-Dollar mobilisiert.
+
+##### Triodos Bank {-}
+
+Die Triodos Bank ist ein führender Experte für nachhaltiges Bankwesen mit dem Ziel, Geld für positive Veränderungen einzusetzen. Die Bank hat eine Reihe von [Geschäftsgrundsätzen](https://www.triodos.com/governance) und Kreditvergabekriterien festgelegt, die klar definieren, wie ihre Mitarbeiter:innen die wirtschaftlichen Qualitäten potenzieller Investitionsmöglichkeiten und Kreditverträge bewerten und feststellen können, ob diese mit der Mission und Vision des Unternehmens im Einklang stehen. Diese kommen unter anderem in einer Liste von Mindestanforderungen und Ausschlusskriterien zum Ausdruck, die die Standards festlegen, die erfüllt sein müssen, bevor eine weitere Bewertung der potenziellen Investition oder des Kreditvertrags gerechtfertigt ist. Triodos nennt Branchen und Produkte, für die sie eine „Null-Toleranz-Politik“ verfolgt, sowie andere, für die sie eine maximale Beteiligungsgrenze festgelegt hat.
 
 [^1#be23-1]: Hinweis für Finanzexpertinnen und Finanzexperten: Wir betrachten diese Aussage sowohl für Investitionen am „Primärmarkt“ als auch am „Sekundärmarkt“ als zutreffend. Auch wenn Käufe am Sekundärmarkt dem Beteiligungsunternehmen kein neues Kapital zuführen, übernimmt der Investor das entsprechende Risiko-Rendite-Profil des Unternehmens, und sein Kauf ermöglicht die Wiederverwendung von Kapital im Finanzsystem für andere Zwecke.
 

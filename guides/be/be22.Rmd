@@ -19,7 +19,7 @@ Dieses Ziel erkennt an, dass jeder Versuch, die Marktdynamik zugunsten des Unter
 
 Die Anforderung besteht hier nicht darin, gezielt Lobbyarbeit zu betreiben oder sich für zukunftsfähige Ergebnisse einzusetzen[^1#be22-1], sondern vielmehr sicherzustellen, dass das Unternehmen seinen Einfluss nicht dazu nutzt, solche Ergebnisse zu untergraben. Dies umfasst alle direkten Bemühungen des Unternehmens, die öffentliche Meinung zu beeinflussen (z. B. Verbraucherkampagnen), und erstreckt sich auch auf Beiträge (z. B. Mitgliedsbeiträge oder Spenden) an Dritte, die im Namen des Unternehmens Einfluss nehmen könnten.[^2#be22-2]
 
-Um „Future-Fit“-konform zu sein, muss ein Unternehmen: (a) interne Kontrollmechanismen einführen, um sicherzustellen, dass die Organisation keine Lobbyarbeit betreibt oder sich gegen „Future-Fit“-Ziele einsetzt; und (b) Einzelheiten zu den Zahlungen offenlegen, die es an externe Meinungsbildner leistet.
+Um „Future-Fit“-konform zu sein, muss ein Unternehmen: (a) interne Kontrollmechanismen einführen, um sicherzustellen, dass die Organisation keine Lobbyarbeit betreibt oder sich gegen „Future-Fit“-Ziele einsetzt; und (b) Einzelheiten zu den Zahlungen offenlegen, die es an externe Meinungsbildner leistet[^3#be22-3].
 
 ####  1.2. Warum dieses Ziel erforderlich ist {-#be22-why-goal-needed}
 
@@ -206,6 +206,14 @@ ACME verfügt über eine offizielle Lobby- und Interessenvertretungsrichtlinie, 
 
 Gesamtausgaben für externe Einflussnehmer = 50.000 $
 
+#### 5.2 Häufig gestellte Fragen {-#be22-faq}
+
+##### Ermittlung des Wertes von Sachspenden {-#be22-determining-value}
+
+Sachspenden sollten mit einem Dollarwert gewichtet werden, um sie im Rahmen der umfassenderen, unternehmensweiten Fitnessberechnung zu bewerten. Soweit möglich sollte die Bewertung dieser Beiträge der Art und Weise entsprechen, wie das Unternehmen diese Beiträge für steuerliche Zwecke bewertet.
+
+Wenn dies aus irgendeinem Grund nicht zutrifft, sollte das Unternehmen den Geldwert des Beitrags anhand eines vergleichbaren Marktpreises ermitteln und kurz erläutern, wie die Berechnung durchgeführt wurde. Beispielsweise könnte der Bereitstellung einer kostenlosen Nutzung von Unternehmenseinrichtungen als Veranstaltungsort für eine politische Kampagne ein Wert zugewiesen werden, der dem kommerziellen Preis für die Anmietung eines vergleichbaren Veranstaltungsortes in derselben Gegend entspricht.
+
 #### 5.3 Nützliche Links {-#be22-useful-links}
 
 ##### InfluenceMap {-}
@@ -219,15 +227,6 @@ Der [CPA-Zicklin-Index für politische Offenlegung und Rechenschaftspflicht](htt
 ##### Transparency International {-}
 
 Die britische Sektion von [Transparency International](https://www.transparency.org.uk/), hat den [2018 Corporate Political Engagement Index](https://www.transparency.org.uk/publications/cpei2018/), veröffentlicht, der Unternehmen danach bewertet, wie transparent sie bei ihrem politischen Engagement sind. @Tra19
-
-#### 5.2 Häufig gestellte Fragen {-#be22-faq}
-
-##### Ermittlung des Wertes von Sachspenden {-#be22-determining-value}
-
-Sachspenden sollten mit einem Dollarwert gewichtet werden, um sie im Rahmen der umfassenderen, unternehmensweiten Fitnessberechnung zu bewerten. Soweit möglich sollte die Bewertung dieser Beiträge der Art und Weise entsprechen, wie das Unternehmen diese Beiträge für steuerliche Zwecke bewertet.
-
-Wenn dies aus irgendeinem Grund nicht zutrifft, sollte das Unternehmen den Geldwert des Beitrags anhand eines vergleichbaren Marktpreises ermitteln und kurz erläutern, wie die Berechnung durchgeführt wurde. Beispielsweise könnte der Bereitstellung einer kostenlosen Nutzung von Unternehmenseinrichtungen als Veranstaltungsort für eine politische Kampagne ein Wert zugewiesen werden, der dem kommerziellen Preis für die Anmietung eines vergleichbaren Veranstaltungsortes in derselben Gegend entspricht.
-
 
 [^1#be22-1]: Lobbyarbeit oder das Eintreten für „Future-Fit“ -Ergebnisse könnte den Fortschritt der Gesellschaft hin zur Zukunftsfähigkeit potenziell beschleunigen, was unter die „Positive Pursuits“ fallen würde. Weitere Informationen finden Sie im [**Positive Pursuit Guide**](#pp-social-norms).
 

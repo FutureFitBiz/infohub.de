@@ -272,7 +272,7 @@ $$F=\frac{0(E_{0\%})+0.3(E_{30\%})...+1(E_{100\%})}{E_T}=\frac{0.8(50)+0.5(200)}
 
 Das Unternehmen berichtet außerdem, dass es bei insgesamt 250 Mitarbeitenden einen arbeitsbedingten Todesfall bei einem Mitarbeiter einer Abfüllanlage und 15 arbeitsbedingte Vorfälle gab, die zu mindestens einem Ausfalltag führten, wobei durch diese Unfälle insgesamt 48 Ausfalltage entstanden.
 
-#### 5.2 Nützliche Links {-#be10-links}
+#### 5.2 Nützliche Links {-#be10-useful-links}
 
 ##### Health\@Work {-}
 
@@ -281,7 +281,6 @@ Das Unternehmen berichtet außerdem, dass es bei insgesamt 250 Mitarbeitenden ei
 ##### Weltgesundheitsorganisation (WHO) {-}
 
 Im Jahr 2010 veröffentlichte die WHO [Gesunde Arbeitsplätze: Ein Aktionsmodell](http://apps.who.int/iris/bitstream/10665/44307/1/9789241599313_eng.pdf), einen Rahmen, der Unternehmen bei der Schaffung eines gesunden Arbeitsumfelds unterstützen soll. Diese Leitlinien wurden in unsere Kriterien für eine zukunftsfähige Gesundheitspolitik einbezogen.
-
 
 [^1#be10-1]: Der Begriff „Arbeitsplatz“ umfasst alle unternehmenseigenen oder vom Unternehmen kontrollierten Raümlichkeiten.
 

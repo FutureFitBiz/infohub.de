@@ -89,7 +89,7 @@ Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln m
 
 ###### Hat das Unternehmen eine Standortüberprüfung durchgeführt? {-}
 
-- Ist dem Unternehmen das Energieverbrauchsprofil und die Energiebeschaffungsstrategie jedes Standorts bekannt, den es besitzt oder kontrolliert?[^2#be01-2] 
+- Ist dem Unternehmen das Energieverbrauchsprofil und die Energiebeschaffungsstrategie jedes Standorts bekannt, den es besitzt oder kontrolliert?[^2#be01-2]
 - Welche Standorte verbrauchen am meisten Energie? Gibt es Standorte mit Energieverträgen, die erneuert werden müssen? Wenn das Unternehmen über gepachtete Standorte verfügt, hat es dann die Kontrolle über die Energiebeschaffung an diesen Standorten (oder könnte es darauf Einfluss nehmen)?
 - Welche Möglichkeiten gibt es für jeden Standort, den Kauf bzw. die Beschaffung erneuerbarer Energien voranzutreiben? Gibt es Möglichkeiten für bestehende Standorte oder Betriebsabteilungen, erneuerbare Energie selbst zu erzeugen?
 
@@ -209,7 +209,7 @@ Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrol
 
 ### 5. Weitere Informationen {-#be01-additional}
 
-####  5.1. Beispiel {-#be01-example}
+#### 5.1 Beispiel {-#be01-example}
 
 ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten, einer Abfüllanlage und Büroräumen. Das Unternehmen versorgt sein Büro mit erneuerbarer Energie (insgesamt 20.000 kWh pro Jahr) und seine Abfüllanlage mit fossiler Energie (insgesamt 180.000 kWh pro Jahr).
 
@@ -235,7 +235,7 @@ Unter Biomasse versteht man lebende oder kürzlich abgestorbene Organismen oder 
 
 ##### Warum gilt Energie aus Abfall nicht als erneuerbare Energiequelle? {-#be01-energy-from-waste}
 
-Restmüll enthält oft eine Mischung aus biogenen Materialien wie Lebensmittelabfällen und Altholz, aber auch Materialien aus fossilen Quellen wie Kunststoffen. Die aus solchen Abfällen gewonnene Energie gilt nur teilweise als erneuerbar. Angesichts der Komplexität, diesen Prozentsatz für eine bestimmte Quelle zu kennen, wird davon ausgegangen, dass er im Rahmen dieses Ziels nicht erneuerbar ist.
+Restabfall enthält oft eine Mischung aus biogenen Materialien wie Lebensmittelabfällen und Altholz, aber auch Materialien aus fossilen Quellen wie Kunststoffen. Die aus solchem Restabfall gewonnene Energie gilt nur teilweise als erneuerbar. Angesichts der Komplexität, diesen Prozentsatz für eine bestimmte Quelle zu kennen, wird davon ausgegangen, dass er im Rahmen dieses Ziels nicht erneuerbar ist.
 
 ##### Was sind Renewable Energy Certificates (RECs, entbündelte Zertifikate für erneuerbare Energien) und warum sind sie nicht akzeptabel? {-#be01-what-are-unbundled}
 
@@ -275,7 +275,6 @@ Aufgrund der oben genannten Bedenken argumentieren Kritiker der marktbasierten M
 
 Der Hauptzweck des Future-Fit Business Benchmark besteht darin, sinnvolle Veränderungen voranzutreiben. Angesichts der Beweise dafür, dass RECs auf den heutigen Märkten oft keine echten Treibhausgasreduzierungen erzielen, werden sie hier nicht als akzeptable Möglichkeit angesehen, Aussagen zu erneuerbaren Energien zu machen.
 
-
 [^1#be01-1]: Siehe zum Beispiel [The Union for Concerned Scientists'](http://www.ucsusa.org/clean_energy/our-energy-choices/renewable-energy/how-biomass-energy-works.html#.VwJk-BMrK8o) Überlegungen zur Biomasse als Energie.
 
 [^2#be01-2]: Ein Energieverbrauchsprofil zeigt, wie viel Energie in einem bestimmten Zeitraum verbraucht wird, wie die Energie verbraucht wird und woher diese Energie im gesamten Zeitraum stammt.
@@ -286,7 +285,7 @@ Der Hauptzweck des Future-Fit Business Benchmark besteht darin, sinnvolle Verän
 
 [^5#be01-5]: Ein PPA ist ein langfristiger Vertrag zwischen einem Erzeuger erneuerbarer Energien und einem Käufer, bei dem sich der Käufer verpflichtet, während der Vertragslaufzeit Energie zu einem festen Preis zu kaufen.
 
-[^6#be01-6]: So könnte ein Unternehmen beispielsweise Strom von einem Anbieter beziehen, der sich verpflichtet, für jede an das Unternehmen verkaufte Einheit eine Einheit Strom direkt von einem Erzeuger erneuerbarer Energien zu beziehen.︎
+[^6#be01-6]: So könnte ein Unternehmen beispielsweise Strom von einem Anbieter beziehen, der sich verpflichtet, für jede an das Unternehmen verkaufte Einheit eine Einheit Strom direkt von einem Erzeuger erneuerbarer Energien zu beziehen.
 
 [^7#be01-7]: Von der [US EPA](https://www.epa.gov/greenpower/unbundled-renewable-energy-certificates-recs): Unbundled Renewable Energy Certificates (RECs) beziehen sich auf RECs, die getrennt vom Strom verkauft, geliefert oder gekauft werden. RECs bieten keine physische Lieferung von Strom an Kunden an und daher kauft der Kunde Strom von einem anderen Unternehmen als dem, das ihm die REC verkauft. @Uni19
 

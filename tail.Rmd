@@ -1,4 +1,4 @@
-`r if (knitr::is_html_output()) '# Literaturverzeichnis {-#bibliography}'`
+`r if (knitr::is_html_output()) '# Bibliographie {-#bibliography}'`
 
 ```{r, include=FALSE}
 knitr::write_bib(c(.packages(), "bookdown"), file="packages.bib")

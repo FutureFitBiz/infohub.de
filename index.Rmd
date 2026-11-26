@@ -1,6 +1,6 @@
 ---
-title: "Future‑Fit Business Benchmark"
-Xauthor: "Future‑Fit Foundation"
+title: "Future-Fit Business Benchmark"
+Xauthor: "Future-Fit Foundation"
 Xdate: "`r Sys.Date()`"
 output: bookdown::gitbook
 Xoutput: bookdown::html_book
@@ -11,20 +11,37 @@ biblio-style: apalike
 nocite: '@*'
 link-citations: yes
 github-repo: futurefitbiz/infohub
-description: "This is the Future‑Fit Business Benchmark Info Hub."
+description: "This is the Future-Fit Business Benchmark Info Hub."
 ---
 
-# (PART\*) Getting Started {-}
+# (PART\*) Erste Schritte {-}
 
-# Welcome {-#welcome}
+# Willkommen {-#welcome}
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Español / Spanish](https://es.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/spain.svg){width=20px}&emsp;&emsp;&emsp;&emsp;[Português / Portuguese](https://pt.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/portugal.svg){width=20px}
+<div class="callout-note">
+<B>Übersetzungen:</B>
+<div style="display:flex; margin-top:0.5em">
+  <div style="flex:0 0 50%; margin-left:2em">[Vereinfachtes Chinesisch / 简体中文](https://sc.benchmark.futurefitbusiness.org)</div>
+  <div style="flex:0 0 50%">[Traditionelles Chinesisch / 繁體中文](https://zh.benchmark.futurefitbusiness.org)</div>
+</div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[中文 / Chinese](https://cn.benchmark.futurefitbusiness.org)&nbsp;&nbsp;![](assets/flags/china.svg){width=20px}
+<div style="display:flex">
+  <div style="flex:0 0 50%; margin-left:2em">[Englisch / English](https://benchmark.futurefitbusiness.org)</div>
+  <div style="flex:0 0 50%">[Portugiesisch / Português](https://pt.benchmark.futurefitbusiness.org)</div>
+</div>
 
-<div class="subtitle">Release 2.3 - June 2021
+<div style="display:flex; margin-bottom:0.5em">
+  <div style="flex:0 0 50%; margin-left:2em">[Spanisch / Español](https://es.benchmark.futurefitbusiness.org)</div>
+</div>
+</div>
+
+<div class="subtitle">Version 2.3 – Juni 2021
 </div>
 
 <div class="callout-tip">
-This is the first online version of the Future-Fit Business Benchmark. Please let us know if you come across any errors or have any suggestions for improvement. You can reach our team at [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.2%20Methodology%20Guide). Thanks as ever for your help...
+Dies ist die erste Online-Version des Future-Fit Business Benchmark. Bitte beachten Sie, dass sich diese Übersetzung derzeit in der abschließenden Prüfung befindet; einzelne Formulierungen können daher ungewöhnlich erscheinen. Future-Fit arbeitet daran, etwaige Fehler im Text zu korrigieren.
+
+Bitte lassen Sie uns wissen, wenn Ihnen Fehler auffallen oder wenn Sie Verbesserungsvorschläge haben. Sie erreichen unser Team unter [info@futurefitbusiness.org](mailto:info@futurefitbusiness.org?subject=Release%202.3%20Methodology%20Guide). Vielen Dank wie immer für Ihre Unterstützung ...
+
+Für ihre Unterstützung bei der deutschen Übersetzung danken wir insbesondere Hazel Marcks und Bernd Herbert.
 </div>

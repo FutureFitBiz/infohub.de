@@ -218,6 +218,7 @@ Wo:
 </div>
 
 ####### {-#be03-valuing-natural-resources}
+
 <div class="callout-note">
 **Hinweis zur Wertschätzung natürlicher Ressourcen**
 
@@ -290,6 +291,20 @@ Beschreibung und Umfang der natürlichen Ressourcen, die noch nicht als zukunfts
 
 - Zuckerrohrfarm, 15.000m<sup>2</sup>.
 
+#### 5.2 Häufig gestellte Fragen {-#be03-faq}
+
+##### Was ist mit Materialien, die als Brennstoffe zur Energieerzeugung verwendet werden? {-}
+
+Wenn das Unternehmen selbst oder ein Lieferant einer ausgelagerten Kernfunktion ein Material direkt als Brennstoff als notwendigen Teil seiner Produktion verwendet (z.B. Kohle oder Biomasse, die in Hochöfen verbrannt wird), dann gilt dieses Material als Produktinput und sollte daher im Hinblick auf das Ziel [**Beschaffung sichert das Streben nach Zukunftsfähigkeit**](#be04)[^9#be03-9] bewertet werden.
+
+##### Was ist mit dem in der Produktion verwendeten Wasser? {-}
+
+Auswirkungen im Zusammenhang mit der Wassernutzung werden durch das Ziel [**Umweltverträgliche und sozial gerechte Wassernutzung**](#be02), erfasst und sind daher hier nicht enthalten.
+
+##### Wie lässt sich dieser Leitfaden auf Tiere anwenden, die zum Testen von Produkten verwendet werden, die keine systemischen Herausforderungen lösen? {-}
+
+In Fällen, in denen Produkte nicht entwickelt werden, um systemische Probleme zu lösen, können sich einige Unternehmen dennoch dafür entscheiden oder gesetzlich verpflichtet sein, ihre Produkte an Tieren zu testen, bevor sie auf den nationalen Märkten verkauft werden können. Unter bestimmten Umständen können solche Produkte einen erheblichen Nutzen für die Gesellschaft haben, der anerkannt werden sollte (weitere Informationen finden Sie im [**Positive Pursuit Guide**](#pp)). In Fällen, in denen eine oder mehrere der [fünf Freiheiten](#be03-5-freedoms) durch den Testprozess verletzt werden, sollte dies als negative Auswirkung anerkannt werden und wird in die Leistung des Unternehmens in Bezug auf dieses Ziel einfließen.
+
 #### 5.3 Nützliche Links {-#be03-useful-links}
 
 ##### Netzwerk für Ressourcen mit hohem Naturschutzwert {-#be03-hcv}
@@ -336,35 +351,20 @@ Der [Farm Animal Welfare Committee (FAWC)](https://www.gov.uk/government/groups/
 - Tiere müssen die Freiheit haben, normales Verhalten auszudrücken.
 - Tiere müssen frei von Angst und Stress sein.
 
-#### 5.2 Häufig gestellte Fragen {-#be03-faq}
-
-##### Was ist mit Materialien, die als Brennstoffe zur Energieerzeugung verwendet werden? {-}
-
-Wenn das Unternehmen selbst oder ein Lieferant einer ausgelagerten Kernfunktion ein Material direkt als Brennstoff als notwendigen Teil seiner Produktion verwendet (z.B. Kohle oder Biomasse, die in Hochöfen verbrannt wird), dann gilt dieses Material als Produktinput und sollte daher im Hinblick auf das Ziel [**Beschaffung sichert das Streben nach Zukunftsfähigkeit**](#be04)[^9#be03-9] bewertet werden. 
-
-##### Was ist mit dem in der Produktion verwendeten Wasser? {-}
-
-Auswirkungen im Zusammenhang mit der Wassernutzung werden durch das Ziel [**Umweltverträgliche und sozial gerechte Wassernutzung**](#be02), erfasst und sind daher hier nicht enthalten.
-
-##### Wie lässt sich dieser Leitfaden auf Tiere anwenden, die zum Testen von Produkten verwendet werden, die keine systemischen Herausforderungen lösen? {-}
-
-In Fällen, in denen Produkte nicht entwickelt werden, um systemische Probleme zu lösen, können sich einige Unternehmen dennoch dafür entscheiden oder gesetzlich verpflichtet sein, ihre Produkte an Tieren zu testen, bevor sie auf den nationalen Märkten verkauft werden können. Unter bestimmten Umständen können solche Produkte einen erheblichen Nutzen für die Gesellschaft haben, der anerkannt werden sollte (weitere Informationen finden Sie im [**Positive Pursuit Guide**](#pp)). In Fällen, in denen eine oder mehrere der [fünf Freiheiten](#be03-5-freedoms) durch den Testprozess verletzt werden, sollte dies als negative Auswirkung anerkannt werden und wird in die Leistung des Unternehmens in Bezug auf dieses Ziel einfließen. 
-
-
 [^1#be03-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
 [^2#be03-2]: Als Orientierungshilfe, [ISEAL Alliance](http://www.isealalliance.org/our-work/defining-credibility/codes-of-good-practice/standard-setting-code) hat einen Standardsetzungskodex erstellt, den jeder gute Beschaffungsstandard einhalten sollte. Beispiele für ISEAL-Mitglieder sind [Marine Stewardship Council](https://www.msc.org/) (zertifizierte Meeresfrüchte), [Der ethische BioTrade Standard](http://ethicalbiotrade.org/), die [Forest Stewardship Council](http://www.fsc-uk.org/) und die [Rainforest Alliance](http://www.rainforest-alliance.org/certification-verification).
 
-[^3#be03-3]: Der [Fünf Freiheiten](#be03-5-freedoms) stellen eine Reihe von Grundprinzipien für den Tierschutz dar, die von [Organisationen wie der Weltorganisation für Tiergesundheit (OIE)](http://www.oie.int/), [Der British Veterinary Association (BVA)](http://www.bva.co.uk/News-campaigns-and-policy/Policy/Ethics-and-welfare/Animal-welfare/) und [Der Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/whatwedo/endcruelty/changingthelaw/whatwechanged/animalwelfareact) übernommen wurden.︎
+[^3#be03-3]: Der [Fünf Freiheiten](#be03-5-freedoms) stellen eine Reihe von Grundprinzipien für den Tierschutz dar, die von [Organisationen wie der Weltorganisation für Tiergesundheit (OIE)](http://www.oie.int/), [Der British Veterinary Association (BVA)](http://www.bva.co.uk/News-campaigns-and-policy/Policy/Ethics-and-welfare/Animal-welfare/) und [Der Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/whatwedo/endcruelty/changingthelaw/whatwechanged/animalwelfareact) übernommen wurden.
 
 [^4#be03-4]: Beispiele hierfür sind [RSPCAs Wohlfahrtsstandards](https://science.rspca.org.uk/sciencegroup/farmanimals/standards) und [Bio-Tiere-Standard der Soil Association.](http://www.soilassociation.org/Whatisorganic/Organicanimals)
 
-[^5#be03-5]: Hinweise zum Einrichten interner Kontrollen finden Sie im Abschnitt „Zukunftsfitness systematisch anstreben“ im︎ [*Implementierungsleitfadene**](#ig-systematic).
+[^5#be03-5]: Hinweise zum Einrichten interner Kontrollen finden Sie im Abschnitt „Zukunftsfitness systematisch anstreben“ im [*Implementierungsleitfadene**](#ig-systematic).
 
 [^6#be03-6]: Beispiele für einschlägige Standards sind der [The Responsible Jewellery Council](http://www.responsiblejewellery.com/), [Fairmined](http://www.fairmined.org/), die [Responsible Minerals Initiative](http://www.responsiblemineralsinitiative.org/), und der [IRMA Standard for Responsible Mining](http://www.responsiblemining.net/irma-standard/).
 
 [^7#be03-7]: Unternehmen werden ermutigt, sich bei der Auswahl der Metrik an Branchennormen zu halten, um den Benutzern möglichst aussagekräftige und vergleichbare Informationen bereitzustellen.
 
-[^8#be03-8]: Beachten Sie, dass Wasser vom Ziel separat abgedeckt wird︎ [*Die Wassernutzung erfolgt umweltverträglich und sozial gerechte**](#be02)und wird daher in dieser Berechnung nicht berücksichtit.
+[^8#be03-8]: Beachten Sie, dass Wasser vom Ziel separat abgedeckt wird [*Die Wassernutzung erfolgt umweltverträglich und sozial gerechte**](#be02)und wird daher in dieser Berechnung nicht berücksichtit.
 
 [^9#be03-9]: Siehe die [**Methodischer Leitfaden**](#mg-mutually-accountable) für Definitionen von ausgelagerten Kernfunktionen und Produkteingaben.

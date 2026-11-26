@@ -242,26 +242,6 @@ $$F=\frac{\sum_{p=1}^Pf_p*R_p}{\sum_{p=1}^PR_p}=\frac{100\%*(1,030,000+75,000)+0
 
 Geschätzte gesamte Treibhausgasemissionen der verkauften Produkte während der Nutzungsphase: 75.000 tCO<sub>2</sub>e.
 
-#### 5.3 Nützliche Links {-#be18-useful-links}
-
-##### Das Treibhausgasprotokoll {-#be18-ghg-protocol}
-
-Das Greenhouse Gas Protocol ist ein weltweit anerkanntes Standardinstrument zur Quantifizierung von Treibhausgasemissionen. Weitere Hinweise zu Emissionsfaktoren und Treibhauspotenzialen finden Sie insbesondere im Dokument [Required Greenhouse Gases in Inventories: Accounting and Reporting Standard Amendment](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Required%20gases%20and%20GWP%20values.pdf) (Erforderliche Treibhausgase in Inventaren: Ergänzung zum Standard für Bilanzierung und Berichterstattung), und weitere Informationen zur Berechnung von Emissionen aus der Nutzung von Waren finden Sie unter [Kategorie 11: Nutzung verkaufter Produkte](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf).
-
-##### PAS 2050 {-}
-
-[PAS 2050](https://shop.bsigroup.com/Browse-By-Subject/Environmental-Management-and-Sustainability/PAS-2050/) ist eine vom British Standards Institute herausgegebene öffentlich zugängliche Spezifikation (PAS), die eine Methode zur Bewertung der Lebenszyklus-Treibhausgasemissionen von Waren und Dienstleistungen (als _Produkte_ bezeichnet) bereitstellt. Sie kann von Organisationen jeder Größe und Art an jedem Standort genutzt werden, um die Auswirkungen ihrer angebotenen Produkte auf den Klimawandel zu bewerten. Der Download ist kostenlos.
-
-##### Weitere Tools zur Messung der Treibhausgasemissionen der Produktnutzungsphase {-#be18-helpful-tools}
-
-Neben den Leitlinien des Greenhouse Gas Protocol [können](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf), die folgenden kostenlosen Instrumente und Datenbanken hilfreich sein:
-
-- [**BEES 4.0**](https://www.nist.gov/services-resources/software/bees) vom National Institute of Standards and Technology.
-- [**OpenLCA**](http://www.openlca.org/) von GreenDelta.
-<!-- Link doesn't exist - [**TEAM(TM)**](https://ecobilan.pwc.fr/en/boite-a-outils/team.html.html) vom Ecobilan und PwC.-->
-- [**Umberto**](https://www.ifu.com/en/umberto/) vom ifu Hamburg.
-- [**CCalC**](http://www.ccalc.org.uk/index.php) von der University of Manchester.
-
 #### 5.2 Häufig gestellte Fragen {-#be18-faq}
 
 ##### Welche Arten von Produkten fallen nicht unter dieses Ziel? {-#be18-faq-1}
@@ -291,6 +271,26 @@ Treibhausgase gelten als Produktwirkung und nicht als betriebliche Wirkung, wenn
 Als Beispiel dient der Verkauf von Energie aus fossilen Brennstoffen. Die mit diesem Produkt verbundenen Treibhausgasemissionen entstehen bei der Erzeugung der Energie und nicht bei deren Nutzung. Die Auswirkungen treten ein, bevor die Energie von einem Dritten gekauft wird, und können vom Unternehmen geändert werden. Daher würden die Treibhausgasemissionen unter [**BE06: Der Betrieb stoßt keine Treibhausgase aus**](#be06) erfasst und nicht unter [**BE18: Produkte verursachen keine Treibhausgasemissionen**](#be18).
 
 Weitere Informationen finden Sie unter _Unterscheidung zwischen Betriebs- und Produktauswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
+
+#### 5.3 Nützliche Links {-#be18-useful-links}
+
+##### Das Treibhausgasprotokoll {-#be18-ghg-protocol}
+
+Das Greenhouse Gas Protocol ist ein weltweit anerkanntes Standardinstrument zur Quantifizierung von Treibhausgasemissionen. Weitere Hinweise zu Emissionsfaktoren und Treibhauspotenzialen finden Sie insbesondere im Dokument [Required Greenhouse Gases in Inventories: Accounting and Reporting Standard Amendment](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Required%20gases%20and%20GWP%20values.pdf) (Erforderliche Treibhausgase in Inventaren: Ergänzung zum Standard für Bilanzierung und Berichterstattung), und weitere Informationen zur Berechnung von Emissionen aus der Nutzung von Waren finden Sie unter [Kategorie 11: Nutzung verkaufter Produkte](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf).
+
+##### PAS 2050 {-}
+
+[PAS 2050](https://shop.bsigroup.com/Browse-By-Subject/Environmental-Management-and-Sustainability/PAS-2050/) ist eine vom British Standards Institute herausgegebene öffentlich zugängliche Spezifikation (PAS), die eine Methode zur Bewertung der Lebenszyklus-Treibhausgasemissionen von Waren und Dienstleistungen (als _Produkte_ bezeichnet) bereitstellt. Sie kann von Organisationen jeder Größe und Art an jedem Standort genutzt werden, um die Auswirkungen ihrer angebotenen Produkte auf den Klimawandel zu bewerten. Der Download ist kostenlos.
+
+##### Weitere Tools zur Messung der Treibhausgasemissionen der Produktnutzungsphase {-#be18-helpful-tools}
+
+Neben den Leitlinien des Greenhouse Gas Protocol [können](http://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Chapter11.pdf), die folgenden kostenlosen Instrumente und Datenbanken hilfreich sein:
+
+- [**BEES 4.0**](https://www.nist.gov/services-resources/software/bees) vom National Institute of Standards and Technology.
+- [**OpenLCA**](http://www.openlca.org/) von GreenDelta.
+<!-- Link doesn't exist - [**TEAM(TM)**](https://ecobilan.pwc.fr/en/boite-a-outils/team.html.html) vom Ecobilan und PwC.-->
+- [**Umberto**](https://www.ifu.com/en/umberto/) vom ifu Hamburg.
+- [**CCalC**](http://www.ccalc.org.uk/index.php) von der University of Manchester.
 
 [^1#be18-1]: In dieser häufig gestellten [Frage finden Sie Informationen zu Gütern](#be18-faq-1) die nicht in den Anwendungsbereich dieses Ziels fallen. Manche Unternehmen sind sich möglicherweise unsicher, ob sie eine bestimmte Quelle von Treibhausgasemissionen hier oder über das Ziel [**BE06: Der Betrieb stoßt keine Treibhausgase aus**](#be06) erfassen sollen (z. B. eine Reederei, die gelegentlich Schiffe an andere Unternehmen vermietet). Bei solchen Unsicherheiten lesen Sie bitte den Abschnitt _Unterscheidung zwischen betrieblichen und produktbezogenen Auswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
 

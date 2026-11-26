@@ -4,7 +4,7 @@ output: github_document
 
 ## BE08: Beeinträchtigung durch betriebliche Aktivitäten {-#be08}
 
-<div class="subtitle">Die Betriebsaktivitäen beeinträchtigen weder Ökosysteme noch Gemeinden
+<div class="subtitle">Die Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden
 </div>
 
 ### 1. Ambition {-#be08-ambition}
@@ -54,11 +54,11 @@ Unternehmen können zu mehreren SDGs beitragen, indem sie sicherstellen, dass ih
 
 Der Zweck dieses Abschnitts besteht darin, den Umfang dieses Ziels zu verdeutlichen. Es hilft Ihnen zu verstehen, welche Themen von diesem Ziel abgedeckt werden und wo stattdessen andere Ziele gelten.
 
-- [**Natürliche Ressourcen werden so bewirtschaftet, dass das Wohlergehen von Ökosystemen, Menschen und Tieren gewahrt bleibt:**](#be03) Das Ziel _Natürliche Ressourcen_ richtet sich an Unternehmen, die Rohstoffe direkt aus natürlichen Ressourcen gewinnen oder diese anderweitig direkt bewirtschaften. Dieses Ziel _Die Betriebsaktivitäen beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für alle Unternehmensformen und umfasst die Art und Weise, wie Unternehmen die physische Präsenz ihrer eigenen Betriebe verwalten sowie wie sie mit nahegelegenen Ökosystemen und Gemeinschaften interagieren und diese beeinflussen.
-- [**Der Einkauf sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Ziel _Die Betriebsaktivitäen beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für die eigene operative Präsenz und die Vermögenswerte des Unternehmens. Schäden, die durch die Aktivitäten von Lieferanten verursacht werden, sind ein Faktor bei der Bestimmung der Zukunftsfähigkeit der Lieferkette des Unternehmens und werden durch das Beschaffungsziel abgedeckt.
-- [**Die Gesundheit der Gemeinschaft wird geschützt:**](#be09) Das Ziel _Die Betriebsaktivitäen beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für die physische Präsenz von Unternehmensanlagen und -betrieben und beschreibt vorbeugende Maßnahmen, die Unternehmen ergreifen müssen, um die natürliche Umgebung, den kulturellen Wert und die Integrität der Gemeinschaft in den Gebieten, in denen sie tätig sind, zu bewahren. Das Ziel der Gesundheit der Gemeinschaft umreißt Maßnahmen, die ein Unternehmen ergreifen muss, um sicherzustellen, dass Menschen, die in von den Unternehmensaktivitäten betroffenen Gemeinden leben (und deren Vertreter:innen), ohne Weiteres Bedenken äußern können, falls die präventiven Kontrollen des Unternehmens nicht ausreichen, um das Entstehen von Problemen zu verhindern.
+- [**Natürliche Ressourcen werden so bewirtschaftet, dass das Wohlergehen von Ökosystemen, Menschen und Tieren gewahrt bleibt:**](#be03) Das Ziel _Natürliche Ressourcen_ richtet sich an Unternehmen, die Rohstoffe direkt aus natürlichen Ressourcen gewinnen oder diese anderweitig direkt bewirtschaften. Dieses Ziel _Die Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für alle Unternehmensformen und umfasst die Art und Weise, wie Unternehmen die physische Präsenz ihrer eigenen Betriebe verwalten sowie wie sie mit nahegelegenen Ökosystemen und Gemeinschaften interagieren und diese beeinflussen.
+- [**Der Einkauf sichert das Streben nach Zukunftsfähigkeit:**](#be04) Das Ziel _Die Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für die eigene operative Präsenz und die Vermögenswerte des Unternehmens. Schäden, die durch die Aktivitäten von Lieferanten verursacht werden, sind ein Faktor bei der Bestimmung der Zukunftsfähigkeit der Lieferkette des Unternehmens und werden durch das Beschaffungsziel abgedeckt.
+- [**Die Gesundheit der Gemeinschaft wird geschützt:**](#be09) Das Ziel _Die Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden_ gilt für die physische Präsenz von Unternehmensanlagen und -betrieben und beschreibt vorbeugende Maßnahmen, die Unternehmen ergreifen müssen, um die natürliche Umgebung, den kulturellen Wert und die Integrität der Gemeinschaft in den Gebieten, in denen sie tätig sind, zu bewahren. Das Ziel der Gesundheit der Gemeinschaft umreißt Maßnahmen, die ein Unternehmen ergreifen muss, um sicherzustellen, dass Menschen, die in von den Unternehmensaktivitäten betroffenen Gemeinden leben (und deren Vertreter:innen), ohne Weiteres Bedenken äußern können, falls die präventiven Kontrollen des Unternehmens nicht ausreichen, um das Entstehen von Problemen zu verhindern.
 - [**Betriebliche Emissionen schaden weder Mensch noch Umwelt**](#be05), [**der Betrieb stößt keine Treibhausgase aus**](#be06) und [**betriebliche Abfälle werden eliminiert:**](#be07) Die übrigen Ziele für den Betrieb beziehen sich auf die Nebenprodukte betrieblicher Tätigkeiten (Abfälle und Emissionen). Das Ziel _Der Betrieb beeinträchtigt nicht_ konzentriert sich auf andere Formen der Störung, wie beispielsweise Veränderungen der Landnutzung und die Einführung invasiver Arten.
-- [**Die Wassernutzung ist umweltverträglich und sozial gerecht:**](#be02) Das Ziel zur Wassernutzung enthält Leitlinien dazu, welche Maßnahmen ergriffen werden müssen, bevor Abwasser sicher in die Natur eingeleitet werden kann, um Ökosysteme oder Gemeinden nicht zu beeinträchtigen. Es ist auch möglich, dass die physische Präsenz eines Unternehmens Wasserquellen beeinträchtigt, ohne dass Wasser entnommen oder eingeleitet wird. Solche Situationen werden durch das Ziel _Die Betriebsaktivitäen beeinträchtigen weder Ökosysteme noch Gemeinden_ abgedeckt. Ein konkretes Beispiel ist die Nutzung von Wasser als Kühlmedium; siehe den [Hinweis zur Wärmeabgabe](#be08-faq) im untenstehenden Dokument.
+- [**Die Wassernutzung ist umweltverträglich und sozial gerecht:**](#be02) Das Ziel zur Wassernutzung enthält Leitlinien dazu, welche Maßnahmen ergriffen werden müssen, bevor Abwasser sicher in die Natur eingeleitet werden kann, um Ökosysteme oder Gemeinden nicht zu beeinträchtigen. Es ist auch möglich, dass die physische Präsenz eines Unternehmens Wasserquellen beeinträchtigt, ohne dass Wasser entnommen oder eingeleitet wird. Solche Situationen werden durch das Ziel _Die Betriebsaktivitäten beeinträchtigen weder Ökosysteme noch Gemeinden_ abgedeckt. Ein konkretes Beispiel ist die Nutzung von Wasser als Kühlmedium; siehe den [Hinweis zur Wärmeabgabe](#be08-faq) im untenstehenden Dokument.
 
 ### 2. Aktion {-#be08-action}
 
@@ -277,6 +277,18 @@ $$F=\frac{A_F}{A_T}=\frac{11,500}{11,500}=100\%$$
 
 Gesamtfläche im Eigentum oder unter der Kontrolle des Unternehmens: 11.500m<sup>2</sup>.
 
+#### 5.2 Häufig gestellte Fragen {-#be08-faq}
+
+##### Ist es nicht immer möglich, dass die Präsenz eines Unternehmens störend wirkt? {-}
+
+Ein Anspruch dieses Ziels besteht darin, dass Unternehmen _eine weitere Expansion in neue Gebiete vermeiden, wenn eine Verschlechterung möglich ist_. Das Wort _möglich_ wird bewusst verwendet, um zu verdeutlichen, dass Geschäftspraktiken angepasst werden sollten, wenn erhebliche Auswirkungen einigermaßen wahrscheinlich sind, auch wenn sie nicht sicher sind. Aktivitäten, die in Gebieten mit hohem Schutzwert irreparable Schäden verursachen könnten, müssen stets vermieden werden.
+
+##### Kann die Nutzung von Wasser als Kühlmechanismus Ökosysteme stören? {-}
+
+Das Ziel [**Die Wassernutzung ist umweltverträglich und sozial gerecht**](#be02-guidance-on-safe-discharge) enthält Leitlinien zur Temperatur von Wasserableitungen, wie sie in den [Qualitätskriterien für Wasser](https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF der US-Umweltschutzbehörde (EPA) festgelegt sind. @Uni86 Diese Leitlinien umfassen spezifische Forschungsergebnisse zu den Auswirkungen von Temperaturänderungen auf einzelne aquatische Arten, absolute Grenzwerte für den Bereich akzeptabler Einleitungstemperaturen sowie situationsspezifische Leitlinien zu den Auswirkungen von Einleitungen sowohl auf die momentane als auch auf die wöchentliche Durchschnittstemperatur des aufnehmenden Gewässers. Die Grundprämisse lautet, dass aquatische Ökosysteme empfindlich auf Temperaturänderungen reagieren und Unternehmen daher sicherstellen sollten, dass Wasser mit derselben Temperatur (oder einer Temperatur nahe dieser) eingeleitet wird wie die des aufnehmenden Gewässers, wie in den Leitlinien definiert.
+
+Da Wasser in industriellen Prozessen häufig als Kühlmedium eingesetzt wird, sollten Unternehmen die potenziellen Auswirkungen auf Ökosysteme berücksichtigen, wenn sie Wärme (sei es absichtlich oder zufällig) direkt in Gewässer einleiten. Ein Unternehmen, das Wasser zur Verwendung als Kühlmittel entnimmt und es später wieder in seine ursprüngliche Quelle zurückleitet, erzielt einen ähnlichen Effekt wie wenn es Betriebsanlagen direkt in ein benachbartes Gewässer stellen würde, um sie zu kühlen, ohne dieses Wasser jemals zu entnehmen oder abzuleiten. In dieser Hinsicht überschneidet sich das Ziel _Betriebliche Aktivitäten beeinträchtigen nicht_ leicht mit dem Ziel _Wassernutzung_, doch sollten in beiden Fällen die gleichen Schwellenwerte hinsichtlich der Beeinträchtigung von Ökosystemen gelten.
+
 #### 5.3 Nützliche Links {-#be08-useful-links}
 
 ##### Weitere Ressourcen zur Ermittlung bedeutender Standorte {-#be08-additional-resources}
@@ -330,19 +342,6 @@ Dazu gehört:
 - Es gibt einheimische Jäger:innen und Sammler:innen.
 - Es gibt ansässige oder nomadische Hirten.
 - Ackerbau und Viehzucht werden in kleinem Umfang oder zur Selbstversorgung betrieben.
-
-#### 5.2 Häufig gestellte Fragen {-#be08-faq}
-
-##### Ist es nicht immer möglich, dass die Präsenz eines Unternehmens störend wirkt? {-}
-
-Ein Anspruch dieses Ziels besteht darin, dass Unternehmen _eine weitere Expansion in neue Gebiete vermeiden, wenn eine Verschlechterung möglich ist_. Das Wort _möglich_ wird bewusst verwendet, um zu verdeutlichen, dass Geschäftspraktiken angepasst werden sollten, wenn erhebliche Auswirkungen einigermaßen wahrscheinlich sind, auch wenn sie nicht sicher sind. Aktivitäten, die in Gebieten mit hohem Schutzwert irreparable Schäden verursachen könnten, müssen stets vermieden werden.
-
-##### Kann die Nutzung von Wasser als Kühlmechanismus Ökosysteme stören? {-}
-
-Das Ziel [**Die Wassernutzung ist umweltverträglich und sozial gerecht**](#be02-guidance-on-safe-discharge) enthält Leitlinien zur Temperatur von Wasserableitungen, wie sie in den [Qualitätskriterien für Wasser](https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF der US-Umweltschutzbehörde (EPA) festgelegt sind. @Uni86 Diese Leitlinien umfassen spezifische Forschungsergebnisse zu den Auswirkungen von Temperaturänderungen auf einzelne aquatische Arten, absolute Grenzwerte für den Bereich akzeptabler Einleitungstemperaturen sowie situationsspezifische Leitlinien zu den Auswirkungen von Einleitungen sowohl auf die momentane als auch auf die wöchentliche Durchschnittstemperatur des aufnehmenden Gewässers. Die Grundprämisse lautet, dass aquatische Ökosysteme empfindlich auf Temperaturänderungen reagieren und Unternehmen daher sicherstellen sollten, dass Wasser mit derselben Temperatur (oder einer Temperatur nahe dieser) eingeleitet wird wie die des aufnehmenden Gewässers, wie in den Leitlinien definiert.
-
-Da Wasser in industriellen Prozessen häufig als Kühlmedium eingesetzt wird, sollten Unternehmen die potenziellen Auswirkungen auf Ökosysteme berücksichtigen, wenn sie Wärme (sei es absichtlich oder zufällig) direkt in Gewässer einleiten. Ein Unternehmen, das Wasser zur Verwendung als Kühlmittel entnimmt und es später wieder in seine ursprüngliche Quelle zurückleitet, erzielt einen ähnlichen Effekt wie wenn es Betriebsanlagen direkt in ein benachbartes Gewässer stellen würde, um sie zu kühlen, ohne dieses Wasser jemals zu entnehmen oder abzuleiten. In dieser Hinsicht überschneidet sich das Ziel _Betriebliche Aktivitäten beeinträchtigen nicht_ leicht mit dem Ziel _Wassernutzung_, doch sollten in beiden Fällen die gleichen Schwellenwerte hinsichtlich der Beeinträchtigung von Ökosystemen gelten.
-
 
 [^1#be08-1]: Weitere Informationen dazu, was unter einer möglichen Beeinträchtigung zu verstehen ist, finden Sie in [_dieser häufig gestellten Frage_](#be08-faq).
 

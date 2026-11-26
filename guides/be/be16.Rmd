@@ -243,7 +243,7 @@ Dies ist besonders wichtig, wenn ein Unternehmen öffentlich über seine Fortsch
 
 #### 4.2 Empfehlungen für dieses Ziel {-#be16-assurance-this-goal}
 
-Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird. 
+Die folgenden Punkte heben Bereiche hervor, die im Hinblick auf dieses spezifische Ziel besondere Aufmerksamkeit erfordern. Da jedes Unternehmen und jeder Berichtszeitraum einzigartig sind, variieren Prüfungsaufträge immer: In jeder Situation können die Prüfer:innen versuchen, verschiedene Kontrollmechanismen und dokumentierte Nachweise zu bewerten. Die Nutzer:innen sollten diese Empfehlungen daher als eine illustrative Liste dessen betrachten, was angefordert werden kann, und nicht als eine erschöpfende Liste dessen, was erforderlich sein wird.
 
 - Dokumentieren Sie die Methoden, mit denen bestimmte Nutzergruppen der Produkte des Unternehmens identifiziert wurden, die unterschiedliche Überlegungen erfordern. Eine Beschreibung der Identifizierungsmethode kann den Prüfern dabei helfen, zu beurteilen, ob bei dem Ansatz des Unternehmens das Risiko besteht, dass nicht alle underschiedlichen Nutzergruppen erfasst.
 - Beschreiben Sie die Methode, mit der sichergestellt wird, dass eingereichte Anliegen vom Unternehmen innerhalb eines Zeitrahmens untersucht und beantwortet werden, der der Art des Problems angemessen ist. Dies kann dazu beitragen, den Prüfern zu zeigen, dass alle Anliegen zeitnah beantwortet werden.
@@ -268,7 +268,17 @@ $$F=\frac{0(R_{p0\%})+0.3(R_{p30\%})...+1(R_{p100\%})}{R_T}=\frac{0.8(350,000)+1
 
 Gesamtumsatz aus Waren und Dienstleistungen = 730.000 US-Dollar
 
-#### 5.3 Nützliche Links {-#be09-useful-links}
+#### 5.2 Häufig gestellte Fragen {-#be16-faq}
+
+##### Ist die Umsatzgewichtung immer angemessen? {-}
+
+Einige Organisationen – etwa junge Unternehmen, einige Wohltätigkeitsorganisationen, Unternehmensbereiche, die als Kostenstellen fungieren, oder Unternehmen, die an der Vorproduktionsentwicklung arbeiten – kommen möglicherweise zu dem Schluss, dass die Verwendung des Umsatzes als Gewichtungsansatz zur Bewertung des Fortschritts ein irreführendes Bild zeichnen könnte.
+
+Solche Fälle dürften selten sein, da auch Unternehmen, die Waren oder Dienstleistungen nicht direkt verkaufen, dennoch für ihre Kosten aufkommen müssen und daher in irgendeiner Form Geldkapital oder Sachleistungen und Arbeitsleistungen erhalten. Diese Eingaben richten sich an betriebliche Arbeitsabläufe, die wiederum zur Erfüllung von Kundenbedürfnissen führen. Daher ist es in vielen Fällen möglich, indirekte Finanzierung (als Stellvertreter für Einnahmen) mit entsprechenden nachgelagerten Nutzergruppen zu verbinden.
+
+Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle der Einnahmen zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
+
+#### 5.3 Nützliche Links {-#be16-useful-links}
 
 ##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-#be16-un-pbhr}
 
@@ -281,17 +291,6 @@ CSR Europe ist ein führendes europäisches Unternehmensnetzwerk für soziale Ve
 ##### The Office of the Compliance Advisor / Ombudsman {-#be16-cao}
 
 CAO ist der unabhängige Beschwerdemechanismus für die Internationale Finanz-Corporation (IFC) und die Multilaterale Investitionsgarantie-Agentur (MIGA). Es hat einen [Leitfaden zur Konzeption und Umsetzung von Beschwerdemechanismen für Entwicklungsprojekte](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf) veröffentlicht.
-
-#### 5.2 Häufig gestellte Fragen {-#be16-faq}
-
-##### Ist die Umsatzgewichtung immer angemessen? {-}
-
-Einige Organisationen – etwa junge Unternehmen, einige Wohltätigkeitsorganisationen, Unternehmensbereiche, die als Kostenstellen fungieren, oder Unternehmen, die an der Vorproduktionsentwicklung arbeiten – kommen möglicherweise zu dem Schluss, dass die Verwendung des Umsatzes als Gewichtungsansatz zur Bewertung des Fortschritts ein irreführendes Bild zeichnen könnte.
-
-Solche Fälle dürften selten sein, da auch Unternehmen, die Waren oder Dienstleistungen nicht direkt verkaufen, dennoch für ihre Kosten aufkommen müssen und daher in irgendeiner Form Geldkapital oder Sachleistungen und Arbeitsleistungen erhalten. Diese Eingaben richten sich an betriebliche Arbeitsabläufe, die wiederum zur Erfüllung von Kundenbedürfnissen führen. Daher ist es in vielen Fällen möglich, indirekte Finanzierung (als Stellvertreter für Einnahmen) mit entsprechenden nachgelagerten Nutzergruppen zu verbinden.
-
-Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle der Einnahmen zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
-
 
 [^1#be16-1]: Der Begriff „Kunden“ umfasst hier Direktkundinnen und Direktkunden, bezieht sich aber auch auf alle anderen Produktnutzer, einschließlich Endnutzer:innen und Zwischenhändler in der Vertriebskette.
 

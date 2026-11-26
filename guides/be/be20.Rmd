@@ -197,7 +197,7 @@ Wo:
 | $$E_T$$ | ist die Gesamtzahl der Mitarbeiter:innen des Unternehmens im Berichtszeitraum. |
 </div>
 
-Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#BE20-example).
+Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be20-example).
 
 #### 3.2 Kontextindikatoren {-#be20-context}
 
@@ -207,7 +207,7 @@ Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Info
 
 Die Gesamtzahl der Mitarbeiter entspricht dem Wert von _E<sub>T</sub>_ in der Gleichung oben, sodass für die Berechnung keine zusätzlichen Daten oder Aufwand erforderlich sind.
 
-Ein Beispiel dafür, wie Kontextindikatoren ausgewiesen werden können, finden Sie [hier](#BE20-example).
+Ein Beispiel dafür, wie Kontextindikatoren ausgewiesen werden können, finden Sie [hier](#be20-example).
 
 ### 4. Zuverlässigkeitserklärung {-#be20-assurance}
 
@@ -231,7 +231,7 @@ Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrol
 
 ### 5. Zusätzliche Informationen {-#be20-additional}
 
-#### 5.1 Beispiel {-#BE20-example}
+#### 5.1 Beispiel {-#be20-example}
 
 ACME Inc. verkauft Limonadenprodukte. Der interne Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Unternehmen beschäftigt insgesamt 250 Mitarbeiter:innen: 50 im Büro und 200 in der Abfüllanlage. Das Unternehmen verfügt über einen Standard-Verhaltenskodex, hat jedoch weder klare Verpflichtungen festgelegt noch Brennpunkt-Bewertungen durchgeführt. Es beginnt daher mit einer Fitnesswerte von 0 %.
 
@@ -245,7 +245,7 @@ $$F=\frac{E_G}{E_T}=\frac{50}{250}=20\%$$
 
 Gesamtzahl der Mitarbeiter:innen: 250.
 
-#### 5.2 Nützliche Links {-#be20-links}
+#### 5.2 Nützliche Links {-#be20-useful-links}
 
 ##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-}
 
@@ -258,7 +258,6 @@ Transparency International bietet in dem Bericht [Adequate Procedures – Guidan
 ##### Das Worldwide Governance Indicators Project {-}
 
 [Das Worldwide Governance Indicators Project](http://info.worldbank.org/governance/wgi/index.aspx#home) veröffentlicht Governance-Indikatoren für 215 Volkswirtschaften in sechs Bereichen von Governance: Mitsprache und Rechenschaftspflicht, politische Stabilität und Gewaltfreiheit, Wirksamkeit der Governance, regulatorische Qualität, Rechtsstaatlichkeit und Korruptionsbekämpfung.
-
 
 [^1#be20-1]: Weitere Informationen zur Gestaltung effektiver interner Kontrollen finden Sie im [**Implementierungsleitfaden**](#ig-internal-controls).
 

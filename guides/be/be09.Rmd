@@ -277,7 +277,7 @@ Anzahl gefährdeter Gemeinden: 1
 
 Zur Identifizierung potenziell betroffener Gemeinden verwendete Methodik: Das Unternehmen beschloss, für jeden Standort eine einzige (benachbarte) Gemeinde zu zählen, nachdem sichergestellt wurde, dass die einzige Aktivität außerhalb des Standorts (Warentransport) die Menschen an anderen Orten nicht stört.
 
-#### 5.2 Nützliche Links {-#be09-links}
+#### 5.2 Nützliche Links {-#be09-useful-links}
 
 ##### Die UN-Leitprinzipien für Wirtschaft und Menschenrechte {-#be09-Un-pbhr}
 
@@ -290,7 +290,6 @@ CSR Europe ist ein führendes europäisches Unternehmensnetzwerk für soziale Ve
 ##### Das Büro des Compliance-Beraters/Ombudsmanns (CAO) {-#be09-Miga}
 
 Das CAO ist die unabhängige Beschwerdestelle für die Internationale Finanz-Corporation (IFC) und die Multilaterale Investitionsgarantie-Agentur (MIGA). Es hat einen [ Leitfaden zur Konzeption und Umsetzung von Beschwerdemechanismen für Entwicklungsprojekte](http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf) veröffentlicht.
-
 
 [^1#be09-1]: Wir verwenden die Definition der Global Reporting Initiative für eine (lokale) Gemeinschaft: Personen oder Personengruppen, die in Gebieten leben und/oder arbeiten, die durch die Geschäftstätigkeit einer Organisation wirtschaftlich, sozial oder ökologisch (positiv oder negativ) beeinflusst werden.@Gri16 Alle wichtigen Definitionen finden Sie unter [**Schlüsselbegriffe und Definitionen**](#def).
 

@@ -183,6 +183,7 @@ Für jeden Produkteingabe sollte das Unternehmen Folgendes anstreben:
 - die für die Herstellung des Produkteingaben erforderlichen Rohstoffe zu identifizieren;
 - die wichtigsten Lebenszyklusphasen des Produktinputs und die damit verbundenen Aktivitäten zu bestimmen (d. h. wo und wie die Rohstoffe wahrscheinlich gewonnen, verarbeitet, kombiniert, transportiert usw. werden); und
 - Überlegen Sie, welche negativen Auswirkungen aufgrund dieser Aktivitäten im Laufe des Produktlebenszyklus zu erwarten sind.
+
 <div class="callout-note">
 **Ressourcen für Hotspot-Bewertungen**
 
@@ -221,7 +222,7 @@ Unternehmen müssen daran arbeiten, den Kauf von Waren oder Dienstleistungen, di
 
 Unternehmen dürfen sich nicht auf einen Kauf verlassen, wenn günstigere und funktional gleichwertige Alternativen verfügbar sind oder wenn Alternativen verfügbar sind, die einen Schritt zur Beseitigung künftiger Auswirkungen darstellen. Dazu gehören:
 
-- Der Kauf von neuen oder nicht zertifizierten Rohstoffen, wenn recycelte oder zertifizierte Optionen verfügbar sind (z. B. recyceltes oder FSC-zertifiziertes Holz oder Papier, RSPO-zertifiziertes Palmöl). Weitere Informationen finden Sie im Hinweis zu Zertifizierungen als stellvertretende [Indikatoren (Proxies)](#be04-Certifications-as-proxies).
+- Der Kauf von neuen oder nicht zertifizierten Rohstoffen, wenn recycelte oder zertifizierte Optionen verfügbar sind (z. B. recyceltes oder FSC-zertifiziertes Holz oder Papier, RSPO-zertifiziertes Palmöl). Weitere Informationen finden Sie im Hinweis zu Zertifizierungen als stellvertretende [Indikatoren (Proxies)](#be04-certifications-as-proxies).
 - Große Aufträge erteilen, wichtige Vermögenswerte beschaffen oder langfristige Dienstleistungsverträge abschließen, ohne die sozialen und ökologischen Folgen der Wahl eines bestimmten Lieferanten zu berücksichtigen.
 
 ####### Verpflichtung zur Reduzierung... {-}
@@ -442,7 +443,7 @@ Es wurden zwei Hotspots mit hoher Intensität identifiziert:
 
 #### 5.2 Häufig gestellte Fragen {-#be04-faq}
 
-##### Können Zertifizierungen als stellvertretende Indikatoren verwendet werden? {-#be04-certifications}
+##### Können Zertifizierungen als stellvertretende Indikatoren verwendet werden? {-#be04-certifications-as-proxies}
 
 Unternehmen werden dazu angehalten, nach Möglichkeit bereits geleistete Arbeit für die Bewertung ihrer Zukunftsfähigkeit zu nutzen. Im Falle von Lieferanten können bestehende Zertifizierungsstandards den Analyseaufwand erheblich reduzieren, wobei jedoch einige Einschränkungen zu beachten sind.
 
@@ -474,7 +475,7 @@ In Zusammenarbeit mit [Business for Social Responsibility](https://www.bsr.org/)
 
 [^1#be04-1]: Weitere Informationen zur gegenseitigen Rechenschaftspflicht für beschaffte Waren und Dienstleistungen finden Sie im [**Methodischer Leitfaden**](#mg-mutually-accountable).
 
-[^2#be04-2]: Eine Produkteingabe ist jeder Stoff, der notwendigerweise bei der Herstellung von Waren und der Erbringung von Dienstleistungen verbraucht wird. Dazu gehören: Zutaten oder Komponenten, die zur Herstellung eines physischen Gutes erforderlich sind und entweder darin eingebettet werden oder bei der Herstellung verbraucht werden (z. B. ein Katalysator); und Verbrauchsstoffe, die zur Erbringung einer Dienstleistung erforderlich sind (z. B. Reinigungsmittel und Farben, die von einem gewerblichen Dekorateur verwendet werden).↩︎
+[^2#be04-2]: Eine Produkteingabe ist jeder Stoff, der notwendigerweise bei der Herstellung von Waren und der Erbringung von Dienstleistungen verbraucht wird. Dazu gehören: Zutaten oder Komponenten, die zur Herstellung eines physischen Gutes erforderlich sind und entweder darin eingebettet werden oder bei der Herstellung verbraucht werden (z. B. ein Katalysator); und Verbrauchsstoffe, die zur Erbringung einer Dienstleistung erforderlich sind (z. B. Reinigungsmittel und Farben, die von einem gewerblichen Dekorateur verwendet werden).↩
 
 [^3#be04-3]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 

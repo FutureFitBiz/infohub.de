@@ -68,7 +68,7 @@ Mithilfe dieser Fragen können Sie ermitteln, welche Informationen Sie sammeln m
 
 ###### Welche wichtigen Produktmerkmale beeinflussen voraussichtlich die Entscheidungen oder Handlungen der Nutzer:innen? {-}
 
-- Wie interagieren die direkten Kunden des Unternehmens und (falls abweichend) die Endverbraucher:innen mit seinen Produkten? Was sind die wichtigsten Funktionen der einzelnen Produkte? Welche Verpflichtungen oder Konsequenzen sind mit dem Kauf des Produkts verbunden (z. B. Vertragsdauer, zukünftige Kaufverpflichtungen, Informationsrechte)?  
+- Wie interagieren die direkten Kunden des Unternehmens und (falls abweichend) die Endverbraucher:innen mit seinen Produkten? Was sind die wichtigsten Funktionen der einzelnen Produkte? Welche Verpflichtungen oder Konsequenzen sind mit dem Kauf des Produkts verbunden (z. B. Vertragsdauer, zukünftige Kaufverpflichtungen, Informationsrechte)?
 - Woraus besteht jedes Produkt? Enthält es potenziell schädliche Stoffe?[^2#be15-2] Wenn ja, welche Vorsichtsmaßnahmen müssen Nutzer:innen im Umgang mit dem Produkt treffen?
 - Wie hoch sind die Ressourcenanforderungen des Produkts? Wissen Kundeinnen und Kunden vor dem Kauf, welche Arten und Mengen an Energie, Kraftstoff, Wasser oder anderen Inputs sie benötigen?
 - Welche potenziellen Auswirkungen hat jedes Produkt auf seine Nutzer:innen und deren Umfeld? Könnte die Nutzung oder (im Falle von physischen Gütern) die Entsorgung der Produkte des Unternehmens Gesundheitsprobleme verursachen oder verschlimmern?
@@ -211,7 +211,7 @@ Wo:
 | $$F$$ | Der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
 | $$R_{px\%}$$ | Dies ist die Summe der Umsätze aus Produkten mit einem Fitness-Wert von x %, basierend darauf, welche der fünf Kategorien der Fitness-Kriterien erfüllt sind. |
 | $$R_T$$ | Dies ist der Gesamtumsatz, der mit allen Produkten erzielt wird. |
-</div class="table-20">
+</div>
 
 Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be15-example).
 
@@ -285,7 +285,6 @@ Einige Organisationen – wie junge Unternehmen, bestimmte gemeinnützige Organi
 Solche Fälle dürften selten sein, da selbst Unternehmen, die keine Waren oder Dienstleistungen direkt verkaufen, dennoch ihre Kosten decken müssen und daher in irgendeiner Form Geldkapital oder Sachleistungen und Arbeitskräfte erhalten. Diese Inputs fließen in operative Arbeitsabläufe, die wiederum zur Erfüllung von Kundenbedürfnissen führen; daher ist es in vielen Fällen möglich, indirekte Finanzmittel (stellvertretend für den Umsatz) mit den entsprechenden nachgelagerten Nutzergruppen in Verbindung zu bringen.
 
 Ist dies nicht möglich oder wird festgestellt, dass diese Methode die Interessengruppen irreführen könnte, sollten Unternehmen erwägen, anstelle von Einnahmen die Kosten zu vewenden, um die Vollständigkeit ihrer Bewertung zu ermitteln und als Methode zur Gewichtung ihrer Fortschrittswerte zu verwenden.
-
 
 [^1#be15-1]: Der Begriff „Nutzer:in“ wurde bewusst gewählt, um die Personen oder Unternehmen zu bezeichnen, die in erster Linie mit den Produkten des Unternehmens interagieren, da es sich dabei möglicherweise nicht um dieselbe Person wie die unmittelbare Kundin oder den unmittelbaren Kunden handelt.
 

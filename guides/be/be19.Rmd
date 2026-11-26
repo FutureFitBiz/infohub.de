@@ -350,12 +350,6 @@ Fortschrittswert = 72 %
 
 Gesamtkosten der ergänzenden Waren: 87.500 $
 
-#### 5.3 Nützliche Links {-#be19-useful-links}
-
-##### Die Ellen MacArthur Foundation {-}
-
-[Die Ellen MacArthur Foundation](http://www.ellenmacarthurfoundation.org/) arbeitet mit Unternehmen, Regierungen und Wissenschaftseinrichtungen zusammen, um einen Rahmen für eine Kreislaufwirtschaft zu schaffen – eine Wirtschaft, die von Grund auf auf Wiederherstellung und Regeneration ausgerichtet ist. Zu den jüngsten Projekten gehört das [The Circularity Indicators Project](https://ellenmacarthurfoundation.org/material-circularity-indicator), das Unternehmen eine Methodik und Instrumente zur Bewertung der Kreislaufwirtschaftlichkeit eines Produkts bereitstellt.
-
 #### 5.2 Häufig gestellte Fragen {-#be19-faq}
 
 ##### Ist die Umsatzgewichtung immer angemessen? {-}
@@ -366,6 +360,11 @@ Solche Fälle dürften selten sein, da selbst Unternehmen, die keine Waren oder 
 
 Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle des Umsatzes zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
 
+#### 5.3 Nützliche Links {-#be19-useful-links}
+
+##### Die Ellen MacArthur Foundation {-}
+
+[Die Ellen MacArthur Foundation](http://www.ellenmacarthurfoundation.org/) arbeitet mit Unternehmen, Regierungen und Wissenschaftseinrichtungen zusammen, um einen Rahmen für eine Kreislaufwirtschaft zu schaffen – eine Wirtschaft, die von Grund auf auf Wiederherstellung und Regeneration ausgerichtet ist. Zu den jüngsten Projekten gehört das [The Circularity Indicators Project](https://ellenmacarthurfoundation.org/material-circularity-indicator), das Unternehmen eine Methodik und Instrumente zur Bewertung der Kreislaufwirtschaftlichkeit eines Produkts bereitstellt.
 
 [^1#be19-1]: Kein Unternehmen kann das Verhalten seiner Kunden vollständig kontrollieren. Daher liegt es hier in der Verantwortung des Unternehmens, die Wahrscheinlichkeit zu maximieren, dass seine Produkte nicht im Abfall landen. Die Zusammensetzung langlebiger Produkte wie eines Autos oder eines Mobiltelefons ist nach der Verwendung dieselbe wie im Neuzustand. Doch bei vielen Verbrauchsgütern wie Lebensmitteln oder Shampoos kann es sein, dass nur noch die Verpackung übrig bleibt.
 
@@ -375,7 +374,7 @@ Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Bete
 
 [^4#be19-4]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.
 
-[^5#be19-5]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.↩︎ Wenn der Abbau eine spezielle Umgebung erfordert, gilt ein biologisch abbaubarer Bestandteil nur dann als fit, wenn verfügbare Verwertungsdienste diese Umgebung bereitstellen können (z. B. benötigen oxo-biologisch abbaubare Kunststoffe Sauerstoff, um sich zu zersetzen, und bauen sich daher in der anaeroben Umgebung einer Deponie nicht ab). Weitere Einzelheiten finden Sie im Abschnitt [Definitionen](#def).
+[^5#be19-5]: Beachten Sie, dass die Verbrennung eines Bestandteils zur Energiegewinnung nicht ausreicht.↩ Wenn der Abbau eine spezielle Umgebung erfordert, gilt ein biologisch abbaubarer Bestandteil nur dann als fit, wenn verfügbare Verwertungsdienste diese Umgebung bereitstellen können (z. B. benötigen oxo-biologisch abbaubare Kunststoffe Sauerstoff, um sich zu zersetzen, und bauen sich daher in der anaeroben Umgebung einer Deponie nicht ab). Weitere Einzelheiten finden Sie im Abschnitt [Definitionen](#def).
 
 [^6#be19-6]: Beachten Sie, dass ein Unternehmen zur Beurteilung der Verfügbarkeit von Recyclingdiensten auf Märkten verfügbare nationale oder regionale Statistiken als Orientierungshilfe verwenden kann.
 

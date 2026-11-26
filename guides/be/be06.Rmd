@@ -133,7 +133,7 @@ Für jede betriebliche Tätigkeit, die Treibhausgasemissionen verursacht, sollte
 - Die für die Bestandsaufnahme gewählte Abgrenzung.
 - Der Name des Standards, Protokolls oder der Methodik, die zur Erfassung von Aktivitätsdaten und zur Berechnung der Scope-1- und Scope-2-Emissionen verwendet wird.
 - Die Quelle für die Werte des globalen Erwärmungspotenzials (GWP), die zur Umrechnung der Zahlen in ein einheitliches Format verwendet werden [siehe Leitlinien zu globalen Erwärmungspotenzialen unten](#be06-gwp-guidance) below).
-- Alle verwendeten Emissionsfaktoren und deren Herkunft.
+- Alle verwendeten Emissionsfaktoren[^4#be06-4] und deren Herkunft.
 - Alle Unsicherheiten, die sich aus dem Erhebungsprozess ergeben.
 - Status der Verifizierung und/oder Zusicherung.
 
@@ -280,24 +280,7 @@ $$F=\frac{E_R-E_C}{E_R}=\frac{1,000-800}{1,000}=20\%$$
 
 Gesamtmenge der Treibhausgasemissionen im Berichtszeitraum: 800 tCO<sub>2</sub>e.
 
-#### 5.2 Nützliche Links {-#be06-useful-links}
-
-##### Das Treibhausgasprotokoll  {-}
-
-
-Der [Treibhausgasprotokoll](http://www.ghgprotocol.org/) (Greenhouse Gas Protocol) ist ein weithin anerkanntes Buchhaltungsinstrument zur Quantifizierung von Treibhausgasemissionen.
-
-Weitere Hinweise zur Festlegung eines Basisjahres für Emissionen finden Sie im [Greenhouse Gas Protocol, Scope 2 Guidance, Kapitel 9](http://www.ghgprotocol.org/scope_2_guidance), „Setting Reduction Targets and Tracking Emissions Over Time". @Gre15
-
-##### Leitfaden zur Berichterstattung für das CDP {-}
-
-Der Leitfaden zur Berichterstattung [Reporting Guidance](https://www.cdp.net/en/guidance/guidance-for-companies) für das CDP (früher bekannt als Carbon Disclosure Project) ist umfassend und kann kostenlos von der CDP-Website heruntergeladen werden. Dieser Leitfaden enthält Informationen, die von der Auswahl eines Basisjahres bis hin zu einer umfassenden Liste der Treibhauspotenziale reichen.
-
-##### Leitfaden zur CO₂-Kompensation {-#be06-carbon-offset}
-
-Der Leitfaden zur CO₂-Kompensation [Carbon Offset Guide](https://www.offsetguide.org) ist eine Initiative des Stockholm Environment Institute und des Greenhouse Gas Management Institute und wurde ins Leben gerufen, um Kompensationsprogramme und -strategien zu fördern, die den potenziellen Nutzen maximieren und gleichzeitig mögliche Risiken minimieren. Er enthält Beschreibungen verschiedener Arten von CO₂-Kompensationen und erläutert deren relative Wirksamkeit.
-
-#### 5.3 Häufig gestellte Fragen {-#be06-faq}
+#### 5.2 Häufig gestellte Fragen {-#be06-faq}
 
 ##### In welcher Beziehung steht dieses Ziel zu den Geltungsbereichen des Treibhausgasprotokolls?  {-}
 
@@ -314,6 +297,21 @@ Darüber hinaus werden Scope-3-Emissionen durch weitere Break-Even-Ziele wie fol
 
 Treibhausgasemissionen, die aus natürlichen Prozessen – wie der Verdauung von Tieren – resultieren, sind nicht grundsätzlich ungeeignet. Allerdings sind die Treibhausgasemissionen im Zusammenhang mit der großflächigen Tierhaltung in der Fleisch- und Milchindustrie enorm. Wir empfehlen daher, dass Unternehmen, die Vieh halten, diesen Bestand als eine weitere Form von „Betriebsausstattung“ betrachten, die Treibhausgase emittiert.
 
+#### 5.3 Nützliche Links {-#be06-useful-links}
+
+##### Das Treibhausgasprotokoll  {-}
+
+Der [Treibhausgasprotokoll](http://www.ghgprotocol.org/) (Greenhouse Gas Protocol) ist ein weithin anerkanntes Buchhaltungsinstrument zur Quantifizierung von Treibhausgasemissionen.
+
+Weitere Hinweise zur Festlegung eines Basisjahres für Emissionen finden Sie im [Greenhouse Gas Protocol, Scope 2 Guidance, Kapitel 9](http://www.ghgprotocol.org/scope_2_guidance), „Setting Reduction Targets and Tracking Emissions Over Time". @Gre15
+
+##### Leitfaden zur Berichterstattung für das CDP {-}
+
+Der Leitfaden zur Berichterstattung [Reporting Guidance](https://www.cdp.net/en/guidance/guidance-for-companies) für das CDP (früher bekannt als Carbon Disclosure Project) ist umfassend und kann kostenlos von der CDP-Website heruntergeladen werden. Dieser Leitfaden enthält Informationen, die von der Auswahl eines Basisjahres bis hin zu einer umfassenden Liste der Treibhauspotenziale reichen.
+
+##### Leitfaden zur CO₂-Kompensation {-#be06-carbon-offset}
+
+Der Leitfaden zur CO₂-Kompensation [Carbon Offset Guide](https://www.offsetguide.org) ist eine Initiative des Stockholm Environment Institute und des Greenhouse Gas Management Institute und wurde ins Leben gerufen, um Kompensationsprogramme und -strategien zu fördern, die den potenziellen Nutzen maximieren und gleichzeitig mögliche Risiken minimieren. Er enthält Beschreibungen verschiedener Arten von CO₂-Kompensationen und erläutert deren relative Wirksamkeit.
 
 [^1#be06-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 

@@ -7,9 +7,9 @@ output: github_document
 <div class="subtitle">Praktische Anleitung, wie Fortschritte auf dem Weg zur future-fitness (Zukunftsfähigkeit) erzielt und gemessen werden können.
 </div>
 
-Diese Anleitungen wurden speziell entwickelt, um Ihnen zu helfen die [Break-Even Ziele](#mg-be) in Ihren Geschäftsbetrieb einzubetten. Die Absicht ist nicht, das Rad neu zu erfinden: Wo immer möglich, wurden die besten Expert-Resourcen zusammengestellt und entsprechend in der [Biobliografie](#bibliography) der Benchmark referenziert. 
+Diese Anleitungen wurden speziell entwickelt, um Ihnen zu helfen die [Break-Even Ziele](#mg-be) in Ihren Geschäftsbetrieb einzubetten. Die Absicht ist nicht, das Rad neu zu erfinden: Wo immer möglich, wurden die besten Expert-Resourcen zusammengestellt und entsprechend in der [Biobliografie](#bibliography) der Benchmark referenziert.
 
-Sie können sich jede Praktische Anleitung als Einstiegspunkt vorstellen, der Ihnen ausreichend Details gibt, um loszulegen, und sie bei Bedarf auf zusätzliche Information hinweist. Praktische Anleitungen, bestehen aus fünf Abschnitten, die im Folgenden beschrieben werden. 
+Sie können sich jede Praktische Anleitung als Einstiegspunkt vorstellen, der Ihnen ausreichend Details gibt, um loszulegen, und sie bei Bedarf auf zusätzliche Information hinweist. Praktische Anleitungen, bestehen aus fünf Abschnitten, die im Folgenden beschrieben werden.
 
 ##### 1. Ambition {-}
 
@@ -29,7 +29,7 @@ _Zukunftsfähigkeit anstreben_ geht detailliert auf die Schritte ein, die das Un
 
 ##### 3. Assessment {-}
 
-Der Abschnitt _Assessment_ konzentriert sich darauf, wie der Fortschritt in Richtung des Ziels gemessen werden kann. Die Indikatoren sollen eine umfassende Möglichkeit zur Beobachtung des Fortschritts auf Organisationsebene bieten, jedoch mit ausreichender Granularität, damit Sie beurteilen können, wie sich alltägliche Entscheidungen auf diesen Fortschritt auswirken. 
+Der Abschnitt _Assessment_ konzentriert sich darauf, wie der Fortschritt in Richtung des Ziels gemessen werden kann. Die Indikatoren sollen eine umfassende Möglichkeit zur Beobachtung des Fortschritts auf Organisationsebene bieten, jedoch mit ausreichender Granularität, damit Sie beurteilen können, wie sich alltägliche Entscheidungen auf diesen Fortschritt auswirken.
 
 Es gibt zwei Arten von Indikatoren: Fortschrittsindikatoren und Kontextindikatoren.
 

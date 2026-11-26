@@ -140,15 +140,15 @@ Ein Unternehmen sollte stets bestrebt sein, seine Zukunftsfähigkeit über alle 
 
 Dieses Ziel verfügt über einen Fortschrittsindikator. Zur Berechnung sind folgende Schritte erforderlich:
 
-- Messen Sie das Gewicht aller im Berichtszeitraum erzeugten Abfälle.
-- Berechnen Sie den Fortschritt bei der Abfallreduzierung im Vergleich zu einem Referenzjahr (siehe unten).
+- Messen Sie das Gewicht aller im Berichtszeitraum erzeugten Abfälle, die nicht wiederverwendet, recycelt, kompostiert oder anderweitig verwertet werden (**Restabfall**).[^3#be07-3]
+- Berechnen Sie den Fortschritt bei der Reduzierung von Restabfall im Vergleich zu einem Referenzjahr (siehe unten).
 
 Der Fortschritt wird wie folgt bewertet:
 
-- Das Unternehmen wählt ein Referenzjahr, für das vollständige Daten zum Abfallaufkommen vorliegen. Dem Referenzjahr wird ein Fortschrittswert von 0 % zugewiesen.[^3#be07-3]
+- Das Unternehmen wählt ein Referenzjahr, für das vollständige Daten zum Abfallaufkommen vorliegen. Dem Referenzjahr wird ein Fortschrittswert von 0 % zugewiesen.[^4#be07-4]
   - Liegen keine historischen Daten vor, wird das erste gemessene Jahr als Referenzjahr verwendet. Bis eine Abfallbewertung durchgeführt wurde, sollte das Unternehmen seinen Fortschritt bei diesem Ziel mit **0 %** angeben.
-- Der Fortschritt des Unternehmens in einem bestimmten Jahr entspricht der prozentualen Differenz zwischen dem Abfallaufkommen im aktuellen Berichtszeitraum und dem Abfallaufkommen im Referenzjahr.
-- Das bedeutet: Wenn das vom Unternehmen im aktuellen Jahr erzeugte Abfallaufkommen größer oder gleich dem des Referenzjahres ist, bleibt sein „Future-Fit“-Fortschritt bei 0 %.
+- Der Fortschritt des Unternehmens in einem bestimmten Jahr entspricht der prozentualen Differenz zwischen dem Restabfall im aktuellen Berichtszeitraum und dem Restabfall im Referenzjahr.
+- Das bedeutet: Wenn die vom Unternehmen im aktuellen Jahr erzeugte Restabfallmenge größer oder gleich der des Referenzjahres ist, bleibt sein „Future-Fit“-Fortschritt bei 0 %.
 
 Dies kann mathematisch ausgedrückt werden als:
 
@@ -167,8 +167,8 @@ Wo:
 | | |
 |-|-|
 | $$F$$ | Ist der Fortschritt in Richtung Zukunftsfähigkeit, ausgedrückt in Prozent. |
-| $$W_R$$ | ist der im Referenzjahr angefallende Abfallmenge. |
-| $$W_C$$ | ist der im laufenden Jahr angefallende Abfallmenge. |
+| $$W_R$$ | ist die im Referenzjahr angefallene Restabfallmenge. |
+| $$W_C$$ | ist die im laufenden Jahr angefallene Restabfallmenge. |
 </div>
 
 Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, finden Sie [hier](#be07-example).
@@ -177,9 +177,9 @@ Ein Beispiel dafür, wie dieser Fortschrittsindikator berechnet werden kann, fin
 
 Die Kontextindikatoren dienen dazu, den Interessengruppen die zusätzlichen Informationen zu liefern, die erforderlich sind, um das gesamte Ausmaß der Fortschritte eines Unternehmens zu interpretieren.
 
-####### Gesamter Betriebsabfall {-}
+####### Gesamter betrieblicher Restabfall {-}
 
-Die absolute Menge des anfallenden Abfalls entspricht dem Wert von _W<sub>C</sub>_ in der obigen Gleichung, sodass für deren Berechnung keine zusätzlichen Daten oder Aufwände erforderlich sind.
+Die absolute Menge des anfallenden Restabfalls entspricht dem Wert von _W<sub>C</sub>_ in der obigen Gleichung, sodass für deren Berechnung keine zusätzlichen Daten oder Aufwände erforderlich sind.
 
 Ein Beispiel dafür, wie Kontextindikatoren erfasst werden können, finden Sie [hier](#be07-example).
 
@@ -205,7 +205,7 @@ Eine allgemeinere Erläuterung zur Gestaltung und Dokumentation interner Kontrol
 
 #### 5.1 Beispiel {-#be07-example}
 
-ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Unternehmen begann 2010 mit der Messung des gesamten Abfallaufkommens an beiden Standorten und produzierte zu diesem Zeitpunkt jährlich insgesamt 50.000 Tonnen Abfall – 5.000 Tonnen in den Büroräumen und 45.000 Tonnen in der Abfüllanlage. Seitdem hat das Unternehmen mehrere Maßnahmen unternommen, um diese Zahl zu reduzieren. Das Unternehmen hat seinen Abfüllprozess optimiert und 10.000 Tonnen Abfall eingespart. Außerdem hat es an beiden Standorten ein Recyclingprogramm eingeführt, das das Recycling unter den Mitarbeitenden fördert. Dadurch wurden weitere 5.000 Tonnen eingespart, die zu gleichen Teilen auf die beiden Standorte verteilt werden, so dass sich die Gesamtabfallmenge in diesem Jahr auf 35.000 beläuft Tonnen.
+ACME Inc. verkauft Limonadenprodukte. Der Betrieb besteht aus zwei Standorten: einer Abfüllanlage und Büroräumen. Das Unternehmen begann 2010 mit der Messung des gesamten Abfallaufkommens an beiden Standorten und produzierte zu diesem Zeitpunkt jährlich insgesamt 50.000 Tonnen Restabfall – 5.000 Tonnen in den Büroräumen und 45.000 Tonnen in der Abfüllanlage. Seitdem hat das Unternehmen mehrere Maßnahmen unternommen, um diese Zahl zu reduzieren. Das Unternehmen hat seinen Abfüllprozess optimiert und 10.000 Tonnen Abfall eingespart. Außerdem hat es an beiden Standorten ein Recyclingprogramm eingeführt, das das Recycling unter den Mitarbeitenden fördert. Dadurch wurden weitere 5.000 Tonnen eingespart, die zu gleichen Teilen auf die beiden Standorte verteilt werden, so dass sich die Restabfallmenge in diesem Jahr auf 35.000 Tonnen beläuft.
 
 Das Unternehmen kann seinen Fortschritt nun wie folgt berechnen:
 
@@ -213,7 +213,17 @@ $$F=\frac{W_R-W_C}{W_R}=\frac{50,000-35,000}{50,000}=30\%$$
 
 ####### Kontextindikator {-}
 
-Gesamter Betriebsabfall: 35.000 Tonnen
+Gesamter betrieblicher Restabfall: 35.000 Tonnen
+
+#### 5.2 Häufig gestellte Fragen {-#be07-faq}
+
+##### Warum wird nicht die gesamte Energie aus Abfall als erneuerbar angesehen? {-}
+
+Restabfall enthält oft eine Mischung aus biogenen Materialien wie Lebensmittelabfällen und Altholz, aber auch Materialien aus fossilen Quellen wie Kunststoffen. Die aus solchem Restabfall gewonnene Energie gilt nur teilweise als erneuerbar.
+
+##### Was ist der Unterschied zwischen Abfall und Emissionen? {-#be07-waste-vs-emissions}
+
+[**BE07: Betriebsabfälle werden eliminiert**](#be07) konzentriert sich auf feste, flüssige und gasförmige Stoffe (auch als Nebenprodukte bezeichnet), die vom Unternehmen aufgefangen und zur Behandlung, zum Recycling, zur Wiederverwendung oder zur Entsorgung an Dritte weitergeleitet werden können. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) feste, flüssige und gasförmige Stoffe, die in die Umwelt gelangen. Der Unterschied zwischen Abfällen und Emissionen ist subtil, doch das Ziel ist dasselbe: die Beseitigung von Stoffen, die in die Umwelt gelangen oder sich dort anreichern. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsistent zu bewerten.
 
 #### 5.3 Nützliche Links {-#be07-useful-links}
 
@@ -225,18 +235,10 @@ Gesamter Betriebsabfall: 35.000 Tonnen
 
 Der [Waste Atlas](http://www.atlas.d-waste.com/) ist eine frei zugängliche, auf Crowdsourcing basierende Karte, die Daten zur kommunalen Abfallwirtschaft weltweit visualisiert.
 
-#### 5.2 Häufig gestellte Fragen {-#be07-faq}
-
-##### Warum wird nicht die gesamte Energie aus Abfall als erneuerbar angesehen? {-}
-
-Restmüll enthält oft eine Mischung aus biogenen Materialien wie Lebensmittelabfällen und Altholz, aber auch Materialien aus fossilen Quellen wie Kunststoffen. Die aus solchen Abfällen gewonnene Energie gilt nur teilweise als erneuerbar.
-
-##### Was ist der Unterschied zwischen Abfall und Emissionen? {-#be07-waste-vs-emissions}
-
-[**BE07: Betriebsabfälle werden eliminiert**](#be07) konzentriert sich auf feste, flüssige und gasförmige Stoffe (auch als Nebenprodukte bezeichnet), die vom Unternehmen aufgefangen und zur Behandlung, zum Recycling, zur Wiederverwendung oder zur Entsorgung an Dritte weitergeleitet werden können. Im Gegensatz dazu umfasst [**BE05: Betriebsemissionen schaden weder Mensch noch Umwelt**](#be05) feste, flüssige und gasförmige Stoffe, die in die Umwelt gelangen. Der Unterschied zwischen Abfällen und Emissionen ist subtil, doch das Ziel ist dasselbe: die Beseitigung von Stoffen, die in die Umwelt gelangen oder sich dort anreichern. Letztendlich ist es für Unternehmen am wichtigsten, Daten zu erfassen und den Fortschritt Jahr für Jahr konsistent zu bewerten.
-
 [^1#be07-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 
 [^2#be07-2]: Manche Unternehmen sind sich möglicherweise unsicher, ob sie bestimmte Abfallarten hier oder unter dem Ziel [**BE19: Produkte können wiederverwendet werden**](#be19) erfassen sollen (z. B. ein Konferenzveranstalter, der Einweg-Namensschilder an die Teilnehmer verteilt). Bei solchen Unsicherheiten siehe _Unterscheidung zwischen betrieblichen und produktbezogenen Auswirkungen_ im [**Implementierungsleitfaden**](#ig-differentiating-impacts).
 
-[^3#be07-3]: Dieser Schritt belohnt Unternehmen, die seit langem Abfalldaten erheben. Sobald ein Referenzjahr festgelegt wurde, sollte es nicht mehr geändert werden. Weitere Einzelheiten zur Festlegung von Referenzwerten finden Sie im [**Implementierungsleitfaden**](#ig-set-reference-point).
+[^3#be07-3]: Der Begriff _Restabfall_ wurde im November 2026 eingeführt, um klarzustellen, dass wiederverwerteter Abfall zum Fitness-Fortschritt beiträgt.
+
+[^4#be07-4]: Dieser Schritt belohnt Unternehmen, die seit langem Abfalldaten erheben. Sobald ein Referenzjahr festgelegt wurde, sollte es nicht mehr geändert werden. Weitere Einzelheiten zur Festlegung von Referenzwerten finden Sie im [**Implementierungsleitfaden**](#ig-set-reference-point).

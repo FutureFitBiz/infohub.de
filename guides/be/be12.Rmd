@@ -244,7 +244,7 @@ $$=\frac{45*100\%+5*80\%+20*100\%+180*40\%}{250}=56\%$$
 
 Gesamtzahl der Mitarbeitenden: 250
 
-#### 5.2 Nützliche Links {-#be12-links}
+#### 5.2 Nützliche Links {-#be12-useful-links}
 
 ##### Ethical Trade Initiative (ETI) {-}
 
@@ -257,7 +257,6 @@ Die ILO hat [mehrere Übereinkommen](http://www.ilo.org/global/topics/decent-wor
 ##### Das Global Social Compliance Programme (GSCP) {-}
 
 Das GSCP ist ein unternehmensorientiertes Programm zur kontinuierlichen Verbesserung der Arbeits- und Umweltbedingungen in globalen Lieferketten. GSCP's [Referenzcode](https://www.theconsumergoodsforum.com/wp-content/uploads/2018/01/GSCP_Reference_Tools_RC_interactive.pdf) bietet eine gemeinsame Basis mit hohen Arbeitsstandards, die branchen- und länderübergreifend gelten und auf deren Basis Unternehmen ihre eigenen Verhaltenskodizes für Lieferanten entwickeln können.
-
 
 [^1#be12-1]: Dies ist eine der acht Eigenschaften einer zukunftsfähigen Gesellschaft – weitere Einzelheiten finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 

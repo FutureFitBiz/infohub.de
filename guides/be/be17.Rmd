@@ -326,39 +326,6 @@ Gesamtumsatz aus verkauften oder geleasten Waren und Dienstleistungen: 1.030.000
 
 Gesamtkosten für an Kunden gelieferte ergänzende Waren: 83.500 $
 
-#### 5.3 Nützliche Links {-#be17-useful-links}
-
-##### Clean Production Action {-#be17-clean-production}
-
-[Die Mission von Clean Production Action](http://www.cleanproduction.org/) besteht darin, umweltfreundliche Chemikalien und nachhaltige Materialien zu entwickeln und bereitzustellen. Die Organisation ist Initiator oder Mitinitiator einer Reihe von Programmen und Initiativen, die darauf abzielen, sichere, umweltfreundliche und nachhaltige Materialien in der Produktion zu fördern. Dazu gehören:
-
-- [Green Screen® for Safer Chemicals](https://www.greenscreenchemicals.org/)  ist eine offene, transparente und öffentlich zugängliche Methode zur Bewertung chemischer Gefahren, die dazu beitragen soll, unsere Gesellschaft schnell und effektiv hin zur Verwendung umweltfreundlicherer und von Natur aus sichererer Chemikalien zu führen.
-- [The Chemical Footprint Project](https://www.chemicalfootprint.org/about/overview), das die Fortschritte von Unternehmen bei der Verwendung sicherer Chemikalien in Produkten, in der Fertigung und in Lieferketten verfolgt, verbreitet und vergleicht.
-- [BizNGO](http://www.bizngo.org/), eine gemeinsame Initiative von Unternehmen und Umweltverbänden, die sich für sicherere Chemikalien und nachhaltige Materialien in Produkten und in der Produktion einsetzt. Ihr [Guide to Safer Chemicals](http://www.bizngo.org/static/ee_images/uploads/resources/BizNGO-Guide-Principle-1a-v1_0.pdf) enthält detaillierte Angaben zum erforderlichen Detaillierungsgrad bei der Analyse der Produktzusammensetzung sowie Informationen zu besonders besorgniserregenden Rückständen. @Biz12
-
-##### Cradle to Cradle Institute {-#be17-cradle-to-cradle}
-
-Das Cradle to Cradle Institute verwaltet den öffentlich zugänglichen [Produktstandard](http://www.c2ccertified.org/resources/detail/cradle_to_cradle_certified_product_standard) „Cradle to Cradle Certified™“, der Designern und Herstellern Kriterien und Anforderungen an die kontinuierliche Verbesserung der Zusammensetzung und der Herstellungsweise von Produkten vorgibt. @Cra12
-
-##### Das Internationale Chemiesekretariat {-}
-
-[Das Internationale Chemiesekretariat](http://chemsec.org/) (ChemSec) ist eine gemeinnützige Organisation mit Sitz in Schweden, die von vier Umweltorganisationen gegründet wurde: der Schwedischen Gesellschaft für Naturschutz, dem WWF Schweden, Natur und Jugend und Friends of the Earth Schweden. ChemSec unterhält die folgenden nützlichen Ressourcen:
-
-- Die [SIN-Liste](http://sinlist.chemsec.org/) (Substitute It Now! Jetzt ersetzen!), eine ständig aktualisierte Liste schädlicher Stoffe, die aus allen Produkten, unabhängig von der Branche, schrittweise entfernt werden sollten. @Int121
-- [SINimilarity](http://sinimilarity.chemsec.org/), ein kostenloses Online-Tool, das Stoffe identifiziert, die strukturell den Stoffen der SIN-Liste ähneln. @Intwn1
-
-##### The Natural Step {-}
-
-The Natural Step ist eine internationale gemeinnützige Organisation, die Pionierarbeit bei der Entwicklung und Anwendung des [Framework for Strategic Sustainable Development](http://www.alliance-ssd.org/framework-for-strategic-sustainable-development-fssd/) (auf dem der Future-Fit Business Benchmark basiert) geleistet hat. Seit mehr als zwei Jahrzehnten arbeitet The Natural Step mit einer Vielzahl von Unternehmen, Branchenverbänden und anderen Akteuren zusammen, um zu ergründen, wie Stoffe der Gesellschaft und der Umwelt schaden können, indem sie Praktiken des Lebenszyklusmanagements anhand von Systembedingungen für eine nachhaltige Zukunft bewertet. Auf der Website der Organisation stehen verschiedene Tools, Leitfäden und Fallstudien zur Verfügung. @Tns16
-
-##### REACH {-}
-
-[REACH](https://echa.europa.eu/regulations/reach/understanding-reach) ist eine EU-Chemikalienverordnung zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe, die Kriterien für die Einstufung von Produkten festlegt. Ihr Hauptzweck besteht darin, ein hohes Schutzniveau für die menschliche Gesundheit und die Umwelt vor der Verwendung chemischer Stoffe zu gewährleisten. @Ukhwn
-
-##### Das Programm „Zero Discharge of Hazardous Chemicals“ {-}
-
-Das [ZDHC](http://www.roadmaptozero.com/) Programm, das von einer Gruppe führender Bekleidungs- und Schuhhersteller geleitet wird, hat eine Liste mit verbotenen oder problematischen Stoffen erstellt, die für die Schuh- und Bekleidungsindustrie relevant sind. @Tzd17 Diese Liste sollte als verlässliche Orientierungshilfe für jedes Unternehmen dieser Branche dienen, auch wenn dieses Unternehmen nicht aktiv am ZDHC-Programm beteiligt ist.
-
 #### 5.2 Häufig gestellte Fragen {-#be17-faq}
 
 ##### Was ist ein besorgniserregender Stoff? {-#be17-faq-1}
@@ -432,6 +399,38 @@ Solche Fälle dürften selten sein, da auch Unternehmen, die Waren oder Dienstle
 
 Wenn dies nicht möglich ist oder festgestellt wird, dass diese Technik die Beteiligten irreführen könnte, sollten Unternehmen in Betracht ziehen, die Kosten anstelle der Einnahmen zu verwenden, um die Vollständigkeit ihrer Bewertung zu bestimmen und ihre Fortschrittsbewertungen zu gewichten.
 
+#### 5.3 Nützliche Links {-#be17-useful-links}
+
+##### Clean Production Action {-#be17-clean-production}
+
+[Die Mission von Clean Production Action](http://www.cleanproduction.org/) besteht darin, umweltfreundliche Chemikalien und nachhaltige Materialien zu entwickeln und bereitzustellen. Die Organisation ist Initiator oder Mitinitiator einer Reihe von Programmen und Initiativen, die darauf abzielen, sichere, umweltfreundliche und nachhaltige Materialien in der Produktion zu fördern. Dazu gehören:
+
+- [Green Screen® for Safer Chemicals](https://www.greenscreenchemicals.org/)  ist eine offene, transparente und öffentlich zugängliche Methode zur Bewertung chemischer Gefahren, die dazu beitragen soll, unsere Gesellschaft schnell und effektiv hin zur Verwendung umweltfreundlicherer und von Natur aus sichererer Chemikalien zu führen.
+- [The Chemical Footprint Project](https://www.chemicalfootprint.org/about/overview), das die Fortschritte von Unternehmen bei der Verwendung sicherer Chemikalien in Produkten, in der Fertigung und in Lieferketten verfolgt, verbreitet und vergleicht.
+- [BizNGO](http://www.bizngo.org/), eine gemeinsame Initiative von Unternehmen und Umweltverbänden, die sich für sicherere Chemikalien und nachhaltige Materialien in Produkten und in der Produktion einsetzt. Ihr [Guide to Safer Chemicals](http://www.bizngo.org/static/ee_images/uploads/resources/BizNGO-Guide-Principle-1a-v1_0.pdf) enthält detaillierte Angaben zum erforderlichen Detaillierungsgrad bei der Analyse der Produktzusammensetzung sowie Informationen zu besonders besorgniserregenden Rückständen. @Biz12
+
+##### Cradle to Cradle Institute {-#be17-cradle-to-cradle}
+
+Das Cradle to Cradle Institute verwaltet den öffentlich zugänglichen [Produktstandard](http://www.c2ccertified.org/resources/detail/cradle_to_cradle_certified_product_standard) „Cradle to Cradle Certified™“, der Designern und Herstellern Kriterien und Anforderungen an die kontinuierliche Verbesserung der Zusammensetzung und der Herstellungsweise von Produkten vorgibt. @Cra12
+
+##### Das Internationale Chemiesekretariat {-}
+
+[Das Internationale Chemiesekretariat](http://chemsec.org/) (ChemSec) ist eine gemeinnützige Organisation mit Sitz in Schweden, die von vier Umweltorganisationen gegründet wurde: der Schwedischen Gesellschaft für Naturschutz, dem WWF Schweden, Natur und Jugend und Friends of the Earth Schweden. ChemSec unterhält die folgenden nützlichen Ressourcen:
+
+- Die [SIN-Liste](http://sinlist.chemsec.org/) (Substitute It Now! Jetzt ersetzen!), eine ständig aktualisierte Liste schädlicher Stoffe, die aus allen Produkten, unabhängig von der Branche, schrittweise entfernt werden sollten. @Int121
+- [SINimilarity](http://sinimilarity.chemsec.org/), ein kostenloses Online-Tool, das Stoffe identifiziert, die strukturell den Stoffen der SIN-Liste ähneln. @Intwn1
+
+##### The Natural Step {-}
+
+The Natural Step ist eine internationale gemeinnützige Organisation, die Pionierarbeit bei der Entwicklung und Anwendung des [Framework for Strategic Sustainable Development](http://www.alliance-ssd.org/framework-for-strategic-sustainable-development-fssd/) (auf dem der Future-Fit Business Benchmark basiert) geleistet hat. Seit mehr als zwei Jahrzehnten arbeitet The Natural Step mit einer Vielzahl von Unternehmen, Branchenverbänden und anderen Akteuren zusammen, um zu ergründen, wie Stoffe der Gesellschaft und der Umwelt schaden können, indem sie Praktiken des Lebenszyklusmanagements anhand von Systembedingungen für eine nachhaltige Zukunft bewertet. Auf der Website der Organisation stehen verschiedene Tools, Leitfäden und Fallstudien zur Verfügung. @Tns16
+
+##### REACH {-}
+
+[REACH](https://echa.europa.eu/regulations/reach/understanding-reach) ist eine EU-Chemikalienverordnung zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe, die Kriterien für die Einstufung von Produkten festlegt. Ihr Hauptzweck besteht darin, ein hohes Schutzniveau für die menschliche Gesundheit und die Umwelt vor der Verwendung chemischer Stoffe zu gewährleisten. @Ukhwn
+
+##### Das Programm „Zero Discharge of Hazardous Chemicals“ {-}
+
+Das [ZDHC](http://www.roadmaptozero.com/) Programm, das von einer Gruppe führender Bekleidungs- und Schuhhersteller geleitet wird, hat eine Liste mit verbotenen oder problematischen Stoffen erstellt, die für die Schuh- und Bekleidungsindustrie relevant sind. @Tzd17 Diese Liste sollte als verlässliche Orientierungshilfe für jedes Unternehmen dieser Branche dienen, auch wenn dieses Unternehmen nicht aktiv am ZDHC-Programm beteiligt ist.
 
 [^1#be17-1]: Informationen zu den acht Eigenschaften einer zukunftsfähigen Gesellschaft, zu deren Umsetzung die Produkte eines Unternehmens beitragen können, finden Sie im [**Methodischer Leitfaden**](#mg-figure-4-2).
 

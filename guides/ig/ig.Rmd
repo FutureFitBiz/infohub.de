@@ -17,8 +17,6 @@ Dieser Leitfaden bietet Informationen darüber, wie man mit der Verfolgung der Z
 
 [4. Überlegungen zur Bewertung und Berichterstattung](#ig-assessment)
 
-
-
 ## 1. Einführung {-#ig-introduction}
 
 Dieser Leitfaden ergänzt alle Praktischen Anleitungen für [Break-Even-Ziele](#be) durch die Bereitstellung spezifischer Anleitungen in drei Bereichen:
@@ -297,7 +295,7 @@ Eine nützliche Möglichkeit zur Darstellung von Geschäftsprozessen besteht dar
 
 Sobald die einzelnen Teile des Prozesses identifiziert wurden, sollten sie in sequentieller Reihenfolge organisiert werden, wobei Pfeile den Fortschritt von einem Schritt zum nächsten anzeigen. Wenn ein Schritt abhängig vom Ergebnis einer Entscheidung oder Prüfung zu zwei oder mehr unterschiedlichen Ergebnissen führen kann, sollte jeder mögliche Weg zusammen mit den Gründen dafür aufgezeigt werden, warum der Prozess diesem bestimmten Weg folgen würde.
 
-Um für zusätzliche Klarheit zu sorgen, kann das Flussdiagramm so gezeichnet werden, dass die jeder teilnehmenden Abteilung oder Einzelperson zugewiesenen Schritte klar gruppiert sind. Dies kann erreicht werden, indem Spalten oder Zeilen für jeden einzelnen Teilnehmer abgetrennt werden und so „Wege“ erstellt werden, die ihre Beteiligung zeigen. Benutzer können diese Flussdiagramme außerdem durch eine schriftliche Erzählung ergänzen, um zu erklären, was auf dem Weg passiert (siehe [Abbildung 1](#ig-figure-1) als Beispiel).:↑innen
+Um für zusätzliche Klarheit zu sorgen, kann das Flussdiagramm so gezeichnet werden, dass die jeder teilnehmenden Abteilung oder Einzelperson zugewiesenen Schritte klar gruppiert sind. Dies kann erreicht werden, indem Spalten oder Zeilen für jeden einzelnen Teilnehmer abgetrennt werden und so „Wege“ erstellt werden, die ihre Beteiligung zeigen. Benutzer können diese Flussdiagramme außerdem durch eine schriftliche Erzählung ergänzen, um zu erklären, was auf dem Weg passiert (siehe [Abbildung 1](#ig-figure-1) als Beispiel). Es gibt kostenlose Leitfäden, die online zu finden sind[^6#ig-6], sowie spezialisierte Flussdiagramm-Programme, die käuflich erworben werden können.
 
 <div class="ff-figure" id="ig-figure-1">
 Abbildung 1: Beispiel-Flussdiagramm, das den Prozess zur Bestimmung des Energieverbrauchs von Gebäuden zeigt.
@@ -364,7 +362,7 @@ Im Idealfall würden alle Unternehmen bei der Beschreibung ihrer Fortschritte au
 - Unternehmen, die gerade erst damit beginnen, ihre Leistung mithilfe des Benchmarks zu bewerten, und denen es noch nicht gelungen ist, Informationen aus allen Unternehmensbereichen zu sammeln.
 - Unternehmen, die große strukturelle Veränderungen durchmachen, wie zum Beispiel eine Fusion, Übernahme oder Veräußerung von Betriebsteilen.[^8#ig-8]
 
-In solchen Fällen werden Unternehmen weiterhin dazu ermutigt, ihre Future-Fit-Leistung zu melden, vorausgesetzt, dass: (a) sie den Umfang ihrer nicht einbezogenen Aktivitäten offenlegen und begründen; (b) sie den Nutzern der Daten die wahrscheinlichen Auswirkungen solcher Auslassungen auf die Zukunftsfähigkeit des Unternehmens klar machen; und (c) sie erläutern, wie diese Auslassungen in künftigen Berichtszyklen behoben werden.
+In solchen Fällen werden Unternehmen weiterhin dazu ermutigt, ihre Future-Fit-Leistung zu melden, vorausgesetzt, dass: (a) sie den Umfang ihrer nicht einbezogenen Aktivitäten offenlegen und begründen; (b) sie den Nutzern der Daten die wahrscheinlichen Auswirkungen solcher Auslassungen auf die Zukunftsfähigkeit des Unternehmens klar machen[^9#ig-9]; und (c) sie erläutern, wie diese Auslassungen in künftigen Berichtszyklen behoben werden.
 
 ### 4.3 Zuverlässigkeitserklärung {-#ig-assurance}
 
@@ -484,7 +482,6 @@ Einige Beispiele für andere Standards, die möglicherweise auf Unternehmen anwe
 Diese Beispiele sollen Aufschluss darüber geben, wie ein Unternehmen sicherstellen kann, dass es für einige der in der Benchmark enthaltenen wiederkehrenden Kriterientypen prüfungsbereit ist. Es ist jedoch wichtig zu bedenken, dass jedes Unternehmen wahrscheinlich einzigartige Elemente aufweist, deren Bewältigung eine innovative Planung erfordert.
 
 Außerdem gibt es im Benchmark viele Kriterien, die nicht genau in die oben genannten fünf Kategorien passen. In solchen Fällen sollten Unternehmen überlegen, welche Prüfungsaussagen für einen Berichtsbenutzer wahrscheinlich am relevantesten sind, und sicherstellen, dass entsprechende Kontrollen vorhanden sind, um das Auftreten der potenziellen Probleme zu verhindern, und diese Kontrollen entsprechend klar beschreiben und dokumentieren. Dadurch wird sichergestellt, dass Prüfungsdienstleister in der Lage sind, die Kontrollumgebung im Unternehmen schnell und genau zu verstehen, und dazu beitragen, dass Prüfungsaufträge so effizient und hilfreich wie möglich sind.
-
 
 [^1#ig-1]: Diese Überlegungen sind eine Adaption der Canadian Revenue Agency @Can17 und des Borello-Test @Cal11 Wird vom Staat Kalifornien verwendet, um zu bestimmen, ob ein:e Arbeitnehmer:in aus rechtlichen oder steuerlichen Gründen ein:e Angestellte:r oder ein:e unabhängige:r Auftragnehmer:in ist.
 
